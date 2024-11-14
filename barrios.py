@@ -9,13 +9,13 @@ pubmed = PubMed(tool="MyTool", email="my@email.address")
 # Create a GraphQL query in plain text
 #query = "meta-analysis[Title]"
 
-query = "Barrios FA[Author]"
+#query = "Barrios FA[Author]"
 #query = "Alcauter S[Author]"
 #query = "Garza-Villarreal EA[Author]"
 #query = "Gonzalez-Santos L[Author]"
 #query = "Ortiz-Retana J[Author]"
 #query = "Concha L[Author]"
-#query = "Merchant H[Author]"
+query = "Merchant H[Author]"
 
 
 
