@@ -9,8 +9,14 @@
 #palabra="machine-learning" 
 #file1="machine_learning"
 
-palabra="dynamic-simulation" 
-file1="dynamic_simulation"
+#palabra="dynamic-simulation" 
+#file1="dynamic_simulation"
+
+#palabra="task-based-fMRI" 
+#file1="task_based_fMRI"
+
+palabra="resting-state-fMRI" 
+file1="resting_state_fMRI"
 
 python buscar.py "${palabra}" "${file1}" 
 
