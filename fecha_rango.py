@@ -5,6 +5,7 @@ print(sys.argv)
 
 mes = sys.argv[1]
 dia = sys.argv[2]
+yy = sys.argv[3]
 
 pubmed = PubMed(tool="MyTool", email="my@email.address")
 
@@ -14,7 +15,7 @@ pubmed = PubMed(tool="MyTool", email="my@email.address")
 #dia = "01"
 
 #query = '("2024/12/04"[Date - Publication] : "2024/12/04"[Date - Publication])'
-query = '("2024/' + mes + '/' + dia + '"[Date - Publication] : "2024/' + mes + '/' + dia + '"[Date - Publication])'
+query = '("20'+ yy + '/' + mes + '/' + dia + '"[Date - Publication] : "20' + yy + '/' + mes + '/' + dia + '"[Date - Publication])'
 
 # Execute the query against the API
 results = pubmed.query(query, max_results=5000)
