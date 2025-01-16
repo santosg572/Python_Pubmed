@@ -13,7 +13,7 @@ palabra = sys.argv[1]
 file = sys.argv[2]
 
 #query = palabra+"[Title/Abstract]"
-query = '('+ palabra + '[Title]) AND (("2010/01/01"[Date - Publication] : "3000"[Date - Publication]))'
+query = '('+ palabra + '[Title]) AND (("2005/01/01"[Date - Publication] : "3000"[Date - Publication]))'
 print(query)
 
 results = pubmed.query(query, max_results=500)

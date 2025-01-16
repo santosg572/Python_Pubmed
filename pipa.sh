@@ -15,12 +15,16 @@
 #palabra="task-based-fMRI" 
 #file1="task_based_fMRI"
 
-palabra="resting-state-fMRI" 
-file1="resting_state_fMRI"
+#palabra="resting-state-fMRI" 
+#file1="resting_state_fMRI"
+
+palabra="intelligence"
+file1="intelligence"
+
 
 python buscar.py "${palabra}" "${file1}" 
 
-python resumen.py "${file1}"
+#python resumen.py "${file1}"
 
 
 
