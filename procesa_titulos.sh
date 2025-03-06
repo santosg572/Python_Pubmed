@@ -2,7 +2,10 @@
 
 #ls -1 /vagrant/Pubmed_Resultados_ene1625/intelligence_20*.txt
 
-dir=("/vagrant/Pubmed_Resultados_ene1625/intelligence_2007"
+dir=(
+"/vagrant/Pubmed_Resultados_ene1625/intelligence_2005"
+"/vagrant/Pubmed_Resultados_ene1625/intelligence_2006"
+"/vagrant/Pubmed_Resultados_ene1625/intelligence_2007"
 "/vagrant/Pubmed_Resultados_ene1625/intelligence_2008" 
 "/vagrant/Pubmed_Resultados_ene1625/intelligence_2009" 
 "/vagrant/Pubmed_Resultados_ene1625/intelligence_2010" 

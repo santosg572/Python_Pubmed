@@ -1,0 +1,148 @@
+{
+    "abstract": "Cortical surface mapping has been widely used to compensate for individual variability of cortical shape and topology in anatomical and functional studies. While many surface mapping methods were proposed based on landmarks, curves, spherical or native cortical coordinates, few studies have extensively and quantitatively evaluated surface mapping methods across different methodologies. In this study we compared five cortical surface mapping algorithms, including large deformation diffeomorphic metric mapping (LDDMM) for curves (LDDMM-curve), for surfaces (LDDMM-surface), multi-manifold LDDMM (MM-LDDMM), FreeSurfer, and CARET, using 40 MRI scans and 10 simulated datasets. We computed curve variation errors and surface alignment consistency for assessing the mapping accuracy of local cortical features (e.g., gyral/sulcal curves and sulcal regions) and the curvature correlation for measuring the mapping accuracy in terms of overall cortical shape. In addition, the simulated datasets facilitated the investigation of mapping error distribution over the cortical surface when the MM-LDDMM, FreeSurfer, and CARET mapping algorithms were applied. Our results revealed that the LDDMM-curve, MM-LDDMM, and CARET approaches best aligned the local curve features with their own curves. The MM-LDDMM approach was also found to be the best in aligning the local regions and cortical folding patterns (e.g., curvature) as compared to the other mapping approaches. The simulation experiment showed that the MM-LDDMM mapping yielded less local and global deformation errors than the CARET and FreeSurfer mappings.",
+    "authors": [
+        {
+            "affiliation": "NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore, Singapore, Singapore.",
+            "firstname": "Jidan",
+            "initials": "J",
+            "lastname": "Zhong"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Desiree Yee Ling",
+            "initials": "DY",
+            "lastname": "Phua"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Anqi",
+            "initials": "A",
+            "lastname": "Qiu"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright 2010 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neuroimage.2010.03.085",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2010-04-13",
+    "pubmed_id": "20381626",
+    "results": null,
+    "title": "Quantitative evaluation of LDDMM, FreeSurfer, and CARET for cortical surface mapping.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827db9b20>"
+}{
+    "abstract": "Hippocampal volume is reduced in Alzheimer Disease (AD) and has been proposed as a possible surrogate biomarker to aid early diagnosis. Whilst automated methods to segment the hippocampus from magnetic resonance images are available, manual segmentation, in spite of being time-consuming and unsuitable for large samples, is still the standard. In order to study the validity of FreeSurfer's automated method, we compared hippocampal automated measures with manual tracing in a sample composed of healthy elderly (N=41), Mild Cognitive Impairment (MCI) (N=23), and AD (N=25) subjects. Percent volume overlap, percent volume difference, correlations, and Bland-Altman plots were studied. Automated measures were slightly larger than hand tracing ones (mean difference 10%). Percent volume overlap showed good results, but was far from perfect (78%). Manual and automated volume correlations were approximately 0.84 and the Bland-Altman analysis showed acceptable interchangeability of methods. Within-group analysis demonstrated that patient samples obtained smaller values in validity indexes than controls. Globally, FreeSurfer's automated hippocampal volumetry showed adequate validity when compared to manual tracing, with a tendency to overestimation. Nevertheless, the greater difference between automated and manual segmentation in atrophic brains suggests that studies in AD based on this software could be more likely to produce false negatives.",
+    "authors": [
+        {
+            "affiliation": "Neuropsychopharmacology Program, Institut Municipal d'Investigaci\u00f3 M\u00e8dica, Barcelona, Spain; Universitat Aut\u00f2noma de Barcelona, Barcelona, Spain.",
+            "firstname": "Gonzalo",
+            "initials": "G",
+            "lastname": "S\u00e1nchez-Benavides"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Beatriz",
+            "initials": "B",
+            "lastname": "G\u00f3mez-Ans\u00f3n"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Aitor",
+            "initials": "A",
+            "lastname": "Sainz"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Yolanda",
+            "initials": "Y",
+            "lastname": "Vives"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Manuel",
+            "initials": "M",
+            "lastname": "Delfino"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jordi",
+            "initials": "J",
+            "lastname": "Pe\u00f1a-Casanova"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright 2009 Elsevier Ireland Ltd. All rights reserved.",
+    "doi": "10.1016/j.pscychresns.2009.10.011",
+    "journal": "Psychiatry research",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2010-02-16",
+    "pubmed_id": "20153146",
+    "results": null,
+    "title": "Manual validation of FreeSurfer's automated hippocampal segmentation in normal aging, mild cognitive impairment, and Alzheimer Disease subjects.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827d9f470>"
+}{
+    "abstract": "Alzheimer's disease (AD) and semantic dementia (SD) are characterized by different patterns of global and temporal lobe atrophy which can be studied using magnetic resonance imaging (MRI). Manual delineation of regions of interest is time-consuming. FreeSurfer is a freely available automated technique which has a facility to label cortical and subcortical brain regions automatically. As with all automated techniques comparison with existing methods is important. Eight temporal lobe structures in each hemisphere were delineated using FreeSurfer and compared with manual segmentations in 10 control, 10 AD, and 10 SD subjects. The reproducibility errors for the manual segmentations ranged from 3% to 6%. Differences in protocols between the two methods led to differences in absolute volumes with the greatest differences between methods found bilaterally in the hippocampus, entorhinal cortex and fusiform gyrus (p<0.005). However, good correlations between the methods were found for most regions, with the highest correlations shown for the ventricles, whole brain and left medial-inferior temporal gyrus (r>0.9), followed by the bilateral amygdala and hippocampus, left superior temporal gyrus, right medial-inferior temporal gyrus and left temporal lobe (r>0.8). Overlap ratios differed between methods bilaterally in the amygdala, superior temporal gyrus, temporal lobe, left fusiform gyrus and right parahippocampal gyrus (p<0.01). Despite differences in protocol and volumes, both methods showed similar atrophy patterns in the patient groups compared with controls, and similar right-left differences, suggesting that both methods accurately distinguish between the three groups.",
+    "authors": [
+        {
+            "affiliation": "Dementia Research Centre, Institute of Neurology, University College London, Queen Square, London WC1N 3BG, UK. lehmann@drc.ion.ucl.ac.uk",
+            "firstname": "Manja",
+            "initials": "M",
+            "lastname": "Lehmann"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Abdel",
+            "initials": "A",
+            "lastname": "Douiri"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Lois G",
+            "initials": "LG",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Marc",
+            "initials": "M",
+            "lastname": "Modat"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Dennis",
+            "initials": "D",
+            "lastname": "Chan"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Sebastien",
+            "initials": "S",
+            "lastname": "Ourselin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Josephine",
+            "initials": "J",
+            "lastname": "Barnes"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Nick C",
+            "initials": "NC",
+            "lastname": "Fox"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright (c) 2009 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neuroimage.2009.10.056",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-10-31",
+    "pubmed_id": "19874902",
+    "results": null,
+    "title": "Atrophy patterns in Alzheimer's disease and semantic dementia: a comparison of FreeSurfer and manual volumetric measurements.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827d9c4a0>"
+}

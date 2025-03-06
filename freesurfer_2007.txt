@@ -1,0 +1,79 @@
+{
+    "abstract": "Fully-automated brain segmentation methods have not been widely adopted for clinical use because of issues related to reliability, accuracy, and limitations of delineation protocol. By combining the probabilistic-based FreeSurfer (FS) method with the Large Deformation Diffeomorphic Metric Mapping (LDDMM)-based label-propagation method, we are able to increase reliability and accuracy, and allow for flexibility in template choice. Our method uses the automated FreeSurfer subcortical labeling to provide a coarse-to-fine introduction of information in the LDDMM template-based segmentation resulting in a fully-automated subcortical brain segmentation method (FS+LDDMM). One major advantage of the FS+LDDMM-based approach is that the automatically generated segmentations generated are inherently smooth, thus subsequent steps in shape analysis can directly follow without manual post-processing or loss of detail. We have evaluated our new FS+LDDMM method on several databases containing a total of 50 subjects with different pathologies, scan sequences and manual delineation protocols for labeling the basal ganglia, thalamus, and hippocampus. In healthy controls we report Dice overlap measures of 0.81, 0.83, 0.74, 0.86 and 0.75 for the right caudate nucleus, putamen, pallidum, thalamus and hippocampus respectively. We also find statistically significant improvement of accuracy in FS+LDDMM over FreeSurfer for the caudate nucleus and putamen of Huntington's disease and Tourette's syndrome subjects, and the right hippocampus of Schizophrenia subjects.",
+    "authors": [
+        {
+            "affiliation": "School of Engineering Science, Simon Fraser University, 8888 University Drive, Burnaby BC, Canada V5A 1S6. akhanf@sfu.ca <akhanf@sfu.ca>",
+            "firstname": "Ali R",
+            "initials": "AR",
+            "lastname": "Khan"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Lei",
+            "initials": "L",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mirza Faisal",
+            "initials": "MF",
+            "lastname": "Beg"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.neuroimage.2008.03.024",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-05-06",
+    "pubmed_id": "18455931\n15132506\n15249612\n11465462\n17178234\n15121656\n15501101\n11113216\n11832223\n15501102\n9015081\n12874777\n17428687\n16860573\n10887264\n16685851\n12880797\n10638851\n17161938\n10784285\n15501103\n15050568\n11798276\n12377139\n15670674\n17427733\n17289354\n14568443\n17427738\n15450223\n16061401",
+    "results": null,
+    "title": "FreeSurfer-initiated fully-automated subcortical brain segmentation in MRI using Large Deformation Diffeomorphic Metric Mapping.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827d79ad0>"
+}{
+    "abstract": "To validate the usefulness of the packages available for automated hippocampal volumetry, we measured hippocampal volumes using one manual and two recently developed automated volumetric methods.\nThe study included T1-weighted magnetic resonance imaging (MRI) of 21 patients with chronic major depressive disorder (MDD) and 20 normal controls. Using coronal turbo field echo (TFE) MRI with a slice thickness of 1.3 mm, the hippocampal volumes were measured using three methods: manual volumetry, surface-based parcellation using FreeSurfer, and individual atlas-based volumetry using IBASPM. In addition, the intracranial cavity volume (ICV) was measured manually.\nThe absolute left hippocampal volume of the patients with MDD measured using all three methods was significantly smaller than the left hippocampal volume of the normal controls (manual P = 0.029, FreeSurfer P = 0.035, IBASPM P = 0.018). After controlling for the ICV, except for the right hippocampal volume measured using FreeSurfer, both measured hippocampal volumes of the patients with MDD were significantly smaller than the measured hippocampal volumes of the normal controls (right manual P = 0.019, IBASPM P = 0.012; left manual P = 0.003, FreeSurfer P = 0.010, IBASPM P = 0.002),. In the intrarater reliability test, the intraclass correlation coefficients (ICCs) were all excellent (manual right 0.947, left 0.934; FreeSurfer right 1.000, left 1.000; IBASPM right 1.000, left 1.000). In the test of agreement between the volumetric methods, the ICCs were right 0.846 and left 0.848 (manual and FreeSurfer), and right 0.654 and left 0.717 (manual and IBASPM).\nThe automated hippocampal volumetric methods showed good agreement with manual hippocampal volumetry, but the volume measured using FreeSurfer was 35% larger and the agreement was questionable with IBASPM. Although the automated methods could detect hippocampal atrophy in the patients with MDD, the results indicate that manual hippocampal volumetry is still the gold standard, while the automated volumetric methods need to be improved.",
+    "authors": [
+        {
+            "affiliation": "Neuroscience Research Institute, Kangwon National University College of Medicine, Kangwon, Korea.",
+            "firstname": "Woo Suk",
+            "initials": "WS",
+            "lastname": "Tae"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Sam Soo",
+            "initials": "SS",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kang Uk",
+            "initials": "KU",
+            "lastname": "Lee"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Eui-Cheol",
+            "initials": "EC",
+            "lastname": "Nam"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Keun Woo",
+            "initials": "KW",
+            "lastname": "Kim"
+        }
+    ],
+    "conclusions": "The automated hippocampal volumetric methods showed good agreement with manual hippocampal volumetry, but the volume measured using FreeSurfer was 35% larger and the agreement was questionable with IBASPM. Although the automated methods could detect hippocampal atrophy in the patients with MDD, the results indicate that manual hippocampal volumetry is still the gold standard, while the automated volumetric methods need to be improved.",
+    "copyrights": null,
+    "doi": "10.1007/s00234-008-0383-9",
+    "journal": "Neuroradiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-04-17",
+    "pubmed_id": "18414838\n15738499\n8206012\n16219390\n15356639\n8750317\n9740038\n11329418\n14399272\n15340353\n15514410\n11832223\n17178234\n13688369\n2868172\n16005549\n8791921\n11108637\n12729955\n12205587\n17353470\n11771995\n8835966\n16289929\n2353093\n16951734\n15820716\n17427735\n11153720\n9343570\n12136052\n17604352\n12704770\n15990339\n10227624\n9015081\n12212787\n2183282\n9736749\n5146491\n17601367\n15514393\n12377131\n2748838",
+    "results": "The absolute left hippocampal volume of the patients with MDD measured using all three methods was significantly smaller than the left hippocampal volume of the normal controls (manual P = 0.029, FreeSurfer P = 0.035, IBASPM P = 0.018). After controlling for the ICV, except for the right hippocampal volume measured using FreeSurfer, both measured hippocampal volumes of the patients with MDD were significantly smaller than the measured hippocampal volumes of the normal controls (right manual P = 0.019, IBASPM P = 0.012; left manual P = 0.003, FreeSurfer P = 0.010, IBASPM P = 0.002),. In the intrarater reliability test, the intraclass correlation coefficients (ICCs) were all excellent (manual right 0.947, left 0.934; FreeSurfer right 1.000, left 1.000; IBASPM right 1.000, left 1.000). In the test of agreement between the volumetric methods, the ICCs were right 0.846 and left 0.848 (manual and FreeSurfer), and right 0.654 and left 0.717 (manual and IBASPM).",
+    "title": "Validation of hippocampal volumes measured using a manual method and two automated methods (FreeSurfer and IBASPM) in chronic major depressive disorder.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827d9c220>"
+}

@@ -1,0 +1,154 @@
+{
+    "abstract": "FreeSurfer is a popular software package to measure cortical thickness and volume of neuroanatomical structures. However, little if any is known about measurement reliability across various data processing conditions. Using a set of 30 anatomical T1-weighted 3T MRI scans, we investigated the effects of data processing variables such as FreeSurfer version (v4.3.1, v4.5.0, and v5.0.0), workstation (Macintosh and Hewlett-Packard), and Macintosh operating system version (OSX 10.5 and OSX 10.6). Significant differences were revealed between FreeSurfer version v5.0.0 and the two earlier versions. These differences were on average 8.8 \u00b1 6.6% (range 1.3-64.0%) (volume) and 2.8 \u00b1 1.3% (1.1-7.7%) (cortical thickness). About a factor two smaller differences were detected between Macintosh and Hewlett-Packard workstations and between OSX 10.5 and OSX 10.6. The observed differences are similar in magnitude as effect sizes reported in accuracy evaluations and neurodegenerative studies.The main conclusion is that in the context of an ongoing study, users are discouraged to update to a new major release of either FreeSurfer or operating system or to switch to a different type of workstation without repeating the analysis; results thus give a quantitative support to successive recommendations stated by FreeSurfer developers over the years. Moreover, in view of the large and significant cross-version differences, it is concluded that formal assessment of the accuracy of FreeSurfer is desirable.",
+    "authors": [
+        {
+            "affiliation": "Department of Psychiatry and Neuropsychology, School for Mental Health and Neuroscience, Maastricht University Medical Center, Maastricht, Alzheimer Center Limburg, The Netherlands. ed.gronenschild@maastrichtuniversity.nl",
+            "firstname": "Ed H B M",
+            "initials": "EH",
+            "lastname": "Gronenschild"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Petra",
+            "initials": "P",
+            "lastname": "Habets"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Heidi I L",
+            "initials": "HI",
+            "lastname": "Jacobs"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ron",
+            "initials": "R",
+            "lastname": "Mengelers"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Nico",
+            "initials": "N",
+            "lastname": "Rozendaal"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jim",
+            "initials": "J",
+            "lastname": "van Os"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Machteld",
+            "initials": "M",
+            "lastname": "Marcelis"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1371/journal.pone.0038234\n10.1016/j.neuroimage.2012.01.021",
+    "journal": "PloS one",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2012-06-08",
+    "pubmed_id": "22675527\n22248573\n16530430\n18414838\n19162198\n19874902\n11889230\n12963669\n15054051\n16651008\n17942325\n19233293\n18829629\n19027860\n20162602\n2043814\n20951979\n9931268\n9931269\n9617910\n15219578\n11832223\n15501102\n11293693\n17427739\n23972151\n10619420\n14654453\n10984517\n17428687\n18839484\n20957494\n18632739\n18337273",
+    "results": null,
+    "title": "The effects of FreeSurfer version, workstation type, and Macintosh operating system version on anatomical volume and cortical thickness measurements.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827db9530>"
+}{
+    "abstract": "Freely available automated MR image analysis techniques are being increasingly used to investigate neuroanatomical abnormalities in patients with neurological disorders. It is important to assess the specificity and validity of automated measurements of structure volumes with respect to reliable manual methods that rely on human anatomical expertise. The thalamus is widely investigated in many neurological and neuropsychiatric disorders using MRI, but thalamic volumes are notoriously difficult to quantify given the poor between-tissue contrast at the thalamic gray-white matter interface. In the present study we investigated the reliability of automatically determined thalamic volume measurements obtained using FreeSurfer software with respect to a manual stereological technique on 3D T1-weighted MR images obtained from a 3 T MR system. Further to demonstrating impressive consistency between stereological and FreeSurfer volume estimates of the thalamus in healthy subjects and neurological patients, we demonstrate that the extent of agreeability between stereology and FreeSurfer is equal to the agreeability between two human anatomists estimating thalamic volume using stereological methods. Using patients with juvenile myoclonic epilepsy as a model for thalamic atrophy, we also show that both automated and manual methods provide very similar ratios of thalamic volume loss in patients. This work promotes the use of FreeSurfer for reliable estimation of global volume in healthy and diseased thalami.",
+    "authors": [
+        {
+            "affiliation": "Department of Neurology, University of M\u00fcnster, M\u00fcnster, Germany.",
+            "firstname": "Simon S",
+            "initials": "SS",
+            "lastname": "Keller"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jan S",
+            "initials": "JS",
+            "lastname": "Gerdes"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Siawoosh",
+            "initials": "S",
+            "lastname": "Mohammadi"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Christoph",
+            "initials": "C",
+            "lastname": "Kellinghaus"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Harald",
+            "initials": "H",
+            "lastname": "Kugel"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Katja",
+            "initials": "K",
+            "lastname": "Deppe"
+        },
+        {
+            "affiliation": null,
+            "firstname": "E Bernd",
+            "initials": "EB",
+            "lastname": "Ringelstein"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Stefan",
+            "initials": "S",
+            "lastname": "Evers"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Wolfram",
+            "initials": "W",
+            "lastname": "Schwindt"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Michael",
+            "initials": "M",
+            "lastname": "Deppe"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1007/s12021-012-9147-0\n10.1016/j.brainres.2009.11.017\n10.1016/j.schres.2010.07.007\n10.1109/TBME.2004.826654\n10.1016/j.aanat.2008.12.003\n10.1016/j.neuron.2005.01.035\n10.1038/nn1075\n10.1111/j.1528-1167.2010.02522.x\n10.1002/hbm.20023\n10.1371/journal.pone.0005265\n10.1016/j.neuroimage.2009.02.013\n10.1016/j.neuroimage.2010.04.193\n10.1111/j.1460-9568.2006.05281.x\n10.1006/nimg.2001.0744\n10.1093/brain/awn278\n10.1212/01.wnl.0000336969.98241.17\n10.1016/j.neuroimage.2010.03.033\n10.1212/WNL.26.1.64\n10.1016/j.neuroimage.2006.05.057\n10.1002/jmri.22416\n10.1259/bjr/18575224\n10.1016/S0896-6273(02)00569-X\n10.1016/S1053-8119(02)00021-6\n10.1016/j.jneumeth.2009.01.026\n10.1016/j.eplepsyres.2008.04.002\n10.1111/j.1365-2818.1987.tb02837.x\n10.1046/j.1365-2818.1999.00457.x\n10.1016/j.neuroimage.2010.08.015\n10.1007/s00381-002-0604-1\n10.1016/j.neuroimage.2009.08.004\n10.1016/S1385-299X(02)00202-7\n10.1111/j.1528-1157.1989.tb05316.x\n10.1016/j.neuroimage.2005.01.005\n10.1093/cercor/bhh105\n10.1016/j.neuroimage.2009.02.010\n10.1093/cercor/bhh185\n10.1016/j.yebeh.2009.03.005\n10.1006/nimg.2001.1072\n10.1162/jocn.2010.21563\n10.1523/JNEUROSCI.2892-09.2009\n10.1136/jnnp.73.6.648\n10.1016/0925-4927(95)02446-5\n10.1016/j.neuroimage.2007.06.025\n10.1002/mds.870090502\n10.1111/j.1469-7580.2008.00855.x\n10.1016/S0730-725X(00)00220-4\n10.1007/BF01191700\n10.1186/1471-2377-8-8\n10.1196/annals.1300.005\n10.1016/j.neuroimage.2008.12.033\n10.1016/j.neuroimage.2008.07.003\n10.1016/j.yebeh.2011.05.018\n10.1212/01.WNL.0000058764.34968.C2\n10.1111/j.1528-1167.2009.02243.x\n10.1093/cercor/10.4.433\n10.1111/j.1528-1167.2008.01952.x\n10.1016/j.yebeh.2007.08.007\n10.1016/j.neuroimage.2009.04.027\n10.1016/j.mri.2005.10.033\n10.1212/01.WNL.0000148643.36513.2A\n10.1016/0925-4927(96)02831-4\n10.1007/s11682-010-9088-x\n10.1037/0033-2909.86.2.420\n10.1006/nimg.2002.1040\n10.1001/archneur.1983.04050030077017\n10.1007/s00234-008-0383-9\n10.1016/j.neuroimage.2011.01.083\n10.1093/brain/88.3.539",
+    "journal": "Neuroinformatics",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2012-04-07",
+    "pubmed_id": "22481382\n19914221\n20682456\n15132506\n9040920\n19269145\n15756758\n12808459\n20196795\n15108302\n19370155\n19236922\n20441794\n17241292\n11304081\n19022861\n19064879\n20338250\n128708\n16875847\n21448945\n9801706\n19690078\n11832223\n12595203\n19428514\n18490143\n3430576\n10348656\n20708694\n12192499\n19679190\n12565683\n2502382\n15862205\n15238447\n19233293\n15459079\n21635242\n19286475\n17727624\n11969314\n19663172\n20807056\n19923293\n12438464\n7568569\n17689105\n7990845\n18304205\n11568398\n11167039\n1607876\n18412976\n14684436\n19162198\n20162602\n18675918\n21700499\n12707432\n19682030\n21352927\n10769253\n19183226\n17996640\n19375511\n11089458\n16563955\n15642905\n8912959\n20454594\n18839484\n12482100\n6830463\n18414838\n21310246\n5318823\n2065255",
+    "results": null,
+    "title": "Volume estimation of the thalamus using freesurfer and stereology: consistency between methods.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827d9f290>"
+}{
+    "abstract": "FreeSurfer is a suite of tools for the analysis of neuroimaging data that provides an array of algorithms to quantify the functional, connectional and structural properties of the human brain. It has evolved from a package primarily aimed at generating surface representations of the cerebral cortex into one that automatically creates models of most macroscopically visible structures in the human brain given any reasonable T1-weighted input image. It is freely available, runs on a wide variety of hardware and software platforms, and is open source.",
+    "authors": [
+        {
+            "affiliation": "Athinoula A Martinos Center, Dept. of Radiology, MGH, Harvard Medical School, MA fischl@nmr.mgh.harvard.edu, USA. fischl@nmr.mgh.harvard.edu",
+            "firstname": "Bruce",
+            "initials": "B",
+            "lastname": "Fischl"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2012 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neuroimage.2012.01.021",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2012-01-18",
+    "pubmed_id": "22248573\n8753882\n9931268\n10798392\n18215811\n8576488\n16530430\n20570399\n20886094\n20547229\n17942325\n18632739\n9278543\n11539144\n9087826\n10984517\n9931269\n10619420\n11293693\n11832223\n15501102\n14654453\n18079129\n19376238\n15686603\n16176876\n22499653\n15716156\n19573611\n10195149\n9882088\n17427735\n16651008\n18055222\n18287970\n19786105\n12963669\n11870926\n10944416\n17590354\n16123146\n10493756\n16024728\n19453835\n19299253\n19936261\n19273000\n19273000\n16272877\n21376812\n20637289\n11889230\n16157910\n16755582\n19850138\n20562040\n21825241\n12805100\n15054051\n15917106\n16394146\n19027860\n11172078\n15219578\n17354712\n17427739\n7754376\n11700742\n21351832\n9533585\n7722658\n9278542\n9883733\n19405131\n15477537\n16005549\n16540346\n10202535\n10624953\n19038349\n22016733\n18270119\n20426037\n19709963\n20529736\n17427744\n20153833",
+    "results": null,
+    "title": "FreeSurfer.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827dac2c0>"
+}

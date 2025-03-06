@@ -21,12 +21,14 @@ print(len(datos))
 
 traductor = GoogleTranslator(source='en', target='es')
 
+k=1
 for pal in datos:
   ln = len(pal)
   xx = pal[13:ln-2]
   resultado = traductor.translate(xx)
-  filo.write(pal+'\n')
+  filo.write(str(k)+ '  ' + pal+'\n')
   filo.write(resultado+'\n\n')
+  k = k+1
 
 filo.close()
 

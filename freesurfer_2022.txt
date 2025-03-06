@@ -1,0 +1,1541 @@
+{
+    "abstract": "[This corrects the article DOI: 10.3389/fneur.2023.1221892.].",
+    "authors": [
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Pae Sun",
+            "initials": "PS",
+            "lastname": "Suh"
+        },
+        {
+            "affiliation": "R&D Center, VUNO, Seoul, Republic of Korea.",
+            "firstname": "Wooseok",
+            "initials": "W",
+            "lastname": "Jung"
+        },
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Chong Hyun",
+            "initials": "CH",
+            "lastname": "Suh"
+        },
+        {
+            "affiliation": "R&D Center, VUNO, Seoul, Republic of Korea.",
+            "firstname": "Jinyoung",
+            "initials": "J",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": "R&D Center, VUNO, Seoul, Republic of Korea.",
+            "firstname": "Jio",
+            "initials": "J",
+            "lastname": "Oh"
+        },
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Hwon",
+            "initials": "H",
+            "lastname": "Heo"
+        },
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Woo Hyun",
+            "initials": "WH",
+            "lastname": "Shim"
+        },
+        {
+            "affiliation": "Department of Neurology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Jae-Sung",
+            "initials": "JS",
+            "lastname": "Lim"
+        },
+        {
+            "affiliation": "Department of Neurology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Jae-Hong",
+            "initials": "JH",
+            "lastname": "Lee"
+        },
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Ho Sung",
+            "initials": "HS",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Sang Joon",
+            "initials": "SJ",
+            "lastname": "Kim"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2023 Suh, Jung, Suh, Kim, Oh, Heo, Shim, Lim, Lee, Kim and Kim.",
+    "doi": "10.3389/fneur.2023.1334962",
+    "journal": "Frontiers in neurology",
+    "keywords": [
+        "artificial intelligence",
+        "brain",
+        "deep learning",
+        "intracranial volume segmentation",
+        "neurodegenerative disease"
+    ],
+    "methods": null,
+    "publication_date": "2023-12-14",
+    "pubmed_id": "38093753",
+    "results": null,
+    "title": "Corrigendum: Development and validation of a deep learning-based automatic segmentation model for assessing intracranial volume: comparison with NeuroQuant, FreeSurfer, and SynthSeg.",
+    "xml": "<Element 'PubmedArticle' at 0x7d78277c9da0>"
+}{
+    "abstract": "To develop and validate a deep learning-based automatic segmentation model for assessing intracranial volume (ICV) and to compare the accuracy determined by NeuroQuant (NQ), FreeSurfer (FS), and SynthSeg.\nThis retrospective study included 60 subjects [30 Alzheimer's disease (AD), 21 mild cognitive impairment (MCI), 9 cognitively normal (CN)] from a single tertiary hospital for the training and validation group (50:10). The test group included 40 subjects (20\u2009AD, 10 MCI, 10 CN) from the ADNI dataset. We propose a robust ICV segmentation model based on the foundational 2D UNet architecture trained with four types of input images (both single and multimodality using scaled or unscaled T1-weighted and T2-FLAIR MR images). To compare with our model, NQ, FS, and SynthSeg were also utilized in the test group. We evaluated the model performance by measuring the Dice similarity coefficient (DSC) and average volume difference.\nThe single-modality model trained with scaled T1-weighted images showed excellent performance with a DSC of 0.989\u2009\u00b1\u20090.002 and an average volume difference of 0.46%\u2009\u00b1\u20090.38%. Our multimodality model trained with both unscaled T1-weighted and T2-FLAIR images showed similar performance with a DSC of 0.988\u2009\u00b1\u20090.002 and an average volume difference of 0.47%\u2009\u00b1\u20090.35%. The overall average volume difference with our model showed relatively higher accuracy than NQ (2.15%\u2009\u00b1\u20091.72%), FS (3.69%\u2009\u00b1\u20092.93%), and SynthSeg (1.88%\u2009\u00b1\u20091.18%). Furthermore, our model outperformed the three others in each subgroup of patients with AD, MCI, and CN subjects.\nOur deep learning-based automatic ICV segmentation model showed excellent performance for the automatic evaluation of ICV.",
+    "authors": [
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Pae Sun",
+            "initials": "PS",
+            "lastname": "Suh"
+        },
+        {
+            "affiliation": "R&D Center, VUNO, Seoul, Republic of Korea.",
+            "firstname": "Wooseok",
+            "initials": "W",
+            "lastname": "Jung"
+        },
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Chong Hyun",
+            "initials": "CH",
+            "lastname": "Suh"
+        },
+        {
+            "affiliation": "R&D Center, VUNO, Seoul, Republic of Korea.",
+            "firstname": "Jinyoung",
+            "initials": "J",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": "R&D Center, VUNO, Seoul, Republic of Korea.",
+            "firstname": "Jio",
+            "initials": "J",
+            "lastname": "Oh"
+        },
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Hwon",
+            "initials": "H",
+            "lastname": "Heo"
+        },
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Woo Hyun",
+            "initials": "WH",
+            "lastname": "Shim"
+        },
+        {
+            "affiliation": "Department of Neurology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Jae-Sung",
+            "initials": "JS",
+            "lastname": "Lim"
+        },
+        {
+            "affiliation": "Department of Neurology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Jae-Hong",
+            "initials": "JH",
+            "lastname": "Lee"
+        },
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Ho Sung",
+            "initials": "HS",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": "Department of Radiology and Research Institute of Radiology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.",
+            "firstname": "Sang Joon",
+            "initials": "SJ",
+            "lastname": "Kim"
+        }
+    ],
+    "conclusions": "Our deep learning-based automatic ICV segmentation model showed excellent performance for the automatic evaluation of ICV.",
+    "copyrights": "Copyright \u00a9 2023 Suh, Jung, Suh, Kim, Oh, Heo, Shim, Lim, Lee, Kim and Kim.",
+    "doi": "10.3389/fneur.2023.1221892\n10.3389/fneur.2018.00750\n10.3174/ajnr.A1402\n10.3174/ajnr.A6848\n10.3174/ajnr.A4299\n10.1006/nimg.2000.0730\n10.1002/hbm.10062\n10.1016/j.neuroimage.2011.09.012\n10.1109/tmi.2011.2138152\n10.1016/j.neuroimage.2016.01.024\n10.1002/jmri.27776\n10.1016/j.media.2023.102789\n10.3348/jksr.2022.0048\n10.1016/j.neuroimage.2012.01.021\n10.1016/j.neuroimage.2004.06.018\n10.3348/kjr.2022.0067\n10.1111/jon.12229\n10.3349/ymj.2021.62.3.255\n10.1038/s41598-018-22277-x\n10.3348/kjr.2020.0518\n10.1038/s41598-020-79243-9\n10.1016/j.pscychresns.2018.05.007\n10.1007/s12021-021-09510-1\n10.3988/jcn.2021.17.2.307\n10.1016/j.jalz.2011.03.005\n10.1016/j.jalz.2011.03.008\n10.3390/info11020125\n10.1111/jon.12431\n10.1177/0284185117743778\n10.1016/s1076-6332(03)00671-8\n10.1109/tmi.2018.2878669",
+    "journal": "Frontiers in neurology",
+    "keywords": [
+        "artificial intelligence",
+        "brain",
+        "deep learning",
+        "intracranial volume segmentation",
+        "neurodegenerative disease"
+    ],
+    "methods": null,
+    "publication_date": "2023-09-18",
+    "pubmed_id": "37719763\n30245666\n19112065\n33154073\n25857759\n11304082\n12391568\n21945694\n21880566\n26808333\n34137113\n36857946\n36238504\n22248573\n15488422\n36175000\n25727700\n33635016\n29515131\n33236539\n33335244\n29880256\n33527307\n33835753\n21514250\n21514249\n28194831\n29172642\n14974593\n30387726",
+    "results": "The single-modality model trained with scaled T1-weighted images showed excellent performance with a DSC of 0.989\u2009\u00b1\u20090.002 and an average volume difference of 0.46%\u2009\u00b1\u20090.38%. Our multimodality model trained with both unscaled T1-weighted and T2-FLAIR images showed similar performance with a DSC of 0.988\u2009\u00b1\u20090.002 and an average volume difference of 0.47%\u2009\u00b1\u20090.35%. The overall average volume difference with our model showed relatively higher accuracy than NQ (2.15%\u2009\u00b1\u20091.72%), FS (3.69%\u2009\u00b1\u20092.93%), and SynthSeg (1.88%\u2009\u00b1\u20091.18%). Furthermore, our model outperformed the three others in each subgroup of patients with AD, MCI, and CN subjects.",
+    "title": "Development and validation of a deep learning-based automatic segmentation model for assessing intracranial volume: comparison with NeuroQuant, FreeSurfer, and SynthSeg.",
+    "xml": "<Element 'PubmedArticle' at 0x7d782777eb60>"
+}{
+    "abstract": "We have studied the effects of manual quality control of brain Magnetic Resonance Imaging (MRI) images processed with Freesurfer. T1 images of first episode psychosis patients (N\u00a0=\u00a060) and healthy controls (N\u00a0=\u00a041) were inspected for gray matter boundary errors. The errors were fixed, and the effects of error correction on brain volume, thickness, and surface area were measured. It is commonplace to apply quality control to Freesurfer MRI recordings to ensure that the edges of gray and white matter are detected properly, as incorrect edge detection leads to changes in variables such as volume, cortical thickness, and cortical surface area. We find that while Freesurfer v7.1.1. does regularly make mistakes in identifying the edges of cortical gray matter, correcting these errors yields limited changes in the commonly measured variables listed above. We further find that the software makes fewer gray matter boundary errors when processing female brains. The results suggest that manually correcting gray matter boundary errors may not be worthwhile due to its small effect on the measurements, with potential exceptions for studies that focus on the areas that are more commonly affected by errors: the areas around the cerebellar tentorium, paracentral lobule, and the optic nerves, specifically the horizontal segment of the middle cerebral artery.",
+    "authors": [
+        {
+            "affiliation": "Department of Computer Science, Aalto School of Science, Aalto University, Finland; Mental Health Unit, Finnish Institute for Health and Welfare, Finland. Electronic address: vesa.vahermaa@thl.fi.",
+            "firstname": "Vesa",
+            "initials": "V",
+            "lastname": "Vahermaa"
+        },
+        {
+            "affiliation": "A.I. Virtanen Institute for Molecular Science, University of Eastern Finland, Kuopio, Finland; Department of Neuroscience and Biomedical Engineering, Aalto School of Science, Espoo, Finland.",
+            "firstname": "Dogu Baran",
+            "initials": "DB",
+            "lastname": "Aydogan"
+        },
+        {
+            "affiliation": "Department of Neuroscience and Biomedical Engineering, Aalto School of Science, Espoo, Finland; University of Helsinki and Helsinki University Hospital, Helsinki, Finland.",
+            "firstname": "Tuukka",
+            "initials": "T",
+            "lastname": "Raij"
+        },
+        {
+            "affiliation": "Department of Psychiatry, University of Turku, Finland.",
+            "firstname": "Reetta-Liina",
+            "initials": "RL",
+            "lastname": "Armio"
+        },
+        {
+            "affiliation": "Department of Psychiatry, University of Turku, Finland.",
+            "firstname": "Heikki",
+            "initials": "H",
+            "lastname": "Laurikainen"
+        },
+        {
+            "affiliation": "Department of Computer Science, Aalto School of Science, Aalto University, Finland.",
+            "firstname": "Jari",
+            "initials": "J",
+            "lastname": "Saram\u00e4ki"
+        },
+        {
+            "affiliation": "Mental Health Unit, Finnish Institute for Health and Welfare, Finland.",
+            "firstname": "Jaana",
+            "initials": "J",
+            "lastname": "Suvisaari"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2023. Published by Elsevier Inc.",
+    "doi": "10.1016/j.neuroimage.2023.120306",
+    "journal": "NeuroImage",
+    "keywords": [
+        "Freesurfer",
+        "MRI",
+        "Neuroimaging",
+        "Psychosis",
+        "Quality control"
+    ],
+    "methods": null,
+    "publication_date": "2023-08-05",
+    "pubmed_id": "37541458",
+    "results": null,
+    "title": "FreeSurfer 7 quality control: Key problem areas and importance of manual corrections.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827ae05e0>"
+}{
+    "abstract": "To develop and validate deep learning-based automatic brain segmentation for East Asians with comparison to data for healthy controls from Freesurfer based on a ground truth.\nA total of 30 healthy participants were enrolled and underwent T1-weighted magnetic resonance imaging (MRI) using a 3-tesla MRI system. Our Neuro I software was developed based on a three-dimensional convolutional neural networks (CNNs)-based, deep-learning algorithm, which was trained using data for 776 healthy Koreans with normal cognition. Dice coefficient (D) was calculated for each brain segment and compared with control data by paired \nThe D values obtained from Freesurfer (ver6.0) were significantly lower than those from Neuro I. The histogram of the Freesurfer results showed remarkable differences in the distribution of D values from Neuro I. Overall, D values obtained by Freesurfer and Neuro I showed positive correlations, but the slopes and intercepts were significantly different. It was showed the largest effect sizes ranged 1.07-3.22, and ICC also showed significantly poor to moderate correlations between the two methods (0.498 \u2264 ICC \u2264 0.688). For Neuro I, D values resulted in reduced residuals when fitting data to a line of best fit, and indicated consistent values corresponding to each age, even in young and older adults.\nFreesurfer and Neuro I were not equivalent when compared to a ground truth, where Neuro I exhibited higher performance. We suggest that Neuro I is a useful alternative for the assessment of the brain volume.",
+    "authors": [
+        {
+            "affiliation": "Research Institute of Medical Sciences, Chonnam National University, Gwangju, Republic of Korea.",
+            "firstname": "Chung-Man",
+            "initials": "CM",
+            "lastname": "Moon"
+        },
+        {
+            "affiliation": "Department of Radiology, Chonnam National University Hospital, Gwangju, Republic of Korea.",
+            "firstname": "Yun Young",
+            "initials": "YY",
+            "lastname": "Lee"
+        },
+        {
+            "affiliation": "Neurozen Inc., Seoul, Republic of Korea.",
+            "firstname": "Ki-Eun",
+            "initials": "KE",
+            "lastname": "Hyeong"
+        },
+        {
+            "affiliation": "Department of Radiology, Chonnam National University Hospital, Gwangju, Republic of Korea.\nDepartment of Radiology, Chonnam National University Medical School, Gwangju, Republic of Korea.",
+            "firstname": "Woong",
+            "initials": "W",
+            "lastname": "Yoon"
+        },
+        {
+            "affiliation": "Department of Radiology, Chonnam National University Hospital, Gwangju, Republic of Korea.\nDepartment of Radiology, Chonnam National University Medical School, Gwangju, Republic of Korea.",
+            "firstname": "Byung Hyun",
+            "initials": "BH",
+            "lastname": "Baek"
+        },
+        {
+            "affiliation": "Department of Radiology, Chonnam National University Medical School, Gwangju, Republic of Korea.\nDepartment of Radiology, Chonnam National University Hwasun Hospital, Hwasun, Republic of Korea.",
+            "firstname": "Suk-Hee",
+            "initials": "SH",
+            "lastname": "Heo"
+        },
+        {
+            "affiliation": "Department of Radiology, Chonnam National University Hospital, Gwangju, Republic of Korea.\nDepartment of Radiology, Chonnam National University Medical School, Gwangju, Republic of Korea.",
+            "firstname": "Sang-Soo",
+            "initials": "SS",
+            "lastname": "Shin"
+        },
+        {
+            "affiliation": "Department of Radiology, Chonnam National University Medical School, Gwangju, Republic of Korea.\nDepartment of Radiology, Chonnam National University Hwasun Hospital, Hwasun, Republic of Korea.",
+            "firstname": "Seul Kee",
+            "initials": "SK",
+            "lastname": "Kim"
+        }
+    ],
+    "conclusions": "Freesurfer and Neuro I were not equivalent when compared to a ground truth, where Neuro I exhibited higher performance. We suggest that Neuro I is a useful alternative for the assessment of the brain volume.",
+    "copyrights": "Copyright \u00a9 2023 Moon, Lee, Hyeong, Yoon, Baek, Heo, Shin and Kim.",
+    "doi": "10.3389/fnins.2023.1157738\n10.1038/s41598-020-79243-9\n10.1371/journal.pone.0005265\n10.1006/nimg.1998.0395\n10.1016/j.neuroimage.2010.03.033\n10.1016/j.neuroimage.2012.01.021\n10.1016/0959-4388(91)90067-h\n10.1016/j.jneumeth.2015.05.024\n10.2214/AJR.21.27043\n10.1038/s41592-020-01008-z\n10.48550/arXiv.1911.05567\n10.3390/diagnostics11010013\n10.1016/j.neuroimage.2019.01.014\n10.3389/fnins.2012.00171\n10.3348/kjr.2020.0518\n10.1016/j.neuroimage.2008.12.033\n10.1111/jon.12229\n10.1176/appi.ajp.161.9.1603\n10.1007/s00234-021-02746-3\n10.1038/s41598-017-02584-5\n10.1111/jon.12431\n10.1016/j.neuroimage.2016.01.038\n10.1016/j.neuroimage.2020.117248\n10.3174/ajnr.A6848\n10.1016/j.media.2020.101639\n10.1016/j.neuroimage.2014.05.044\n10.1111/jon.12483\n10.1002/hbm.22473\n10.1093/cercor/bhy300\n10.1515/revneuro-2015-0019",
+    "journal": "Frontiers in neuroscience",
+    "keywords": [
+        "brain volumetry",
+        "deep learning",
+        "ground truth",
+        "magnetic resonance imaging",
+        "segmentation"
+    ],
+    "methods": null,
+    "publication_date": "2023-05-30",
+    "pubmed_id": "37250408\n33335244\n19370155\n9931268\n20338250\n22248573\n1821689\n26057114\n34985311\n33288961\n0\n33374745\n30633965\n23227001\n33236539\n19162198\n25727700\n15337650\n34476511\n28546533\n28194831\n26824403\n32860881\n33154073\n32007702\n24879923\n29134725\n24532539\n24166579\n30535294\n26444348",
+    "results": "The D values obtained from Freesurfer (ver6.0) were significantly lower than those from Neuro I. The histogram of the Freesurfer results showed remarkable differences in the distribution of D values from Neuro I. Overall, D values obtained by Freesurfer and Neuro I showed positive correlations, but the slopes and intercepts were significantly different. It was showed the largest effect sizes ranged 1.07-3.22, and ICC also showed significantly poor to moderate correlations between the two methods (0.498 \u2264 ICC \u2264 0.688). For Neuro I, D values resulted in reduced residuals when fitting data to a line of best fit, and indicated consistent values corresponding to each age, even in young and older adults.",
+    "title": "Development and validation of deep learning-based automatic brain segmentation for East Asians: A comparison with Freesurfer.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827ae36a0>"
+}{
+    "abstract": "On-going, large-scale neuroimaging initiatives can aid in uncovering neurobiological causes and correlates of poor mental health, disease pathology, and many other important conditions. As projects grow in scale with hundreds, even thousands, of individual participants and scans collected, quantification of brain structures by automated algorithms is becoming the only truly tractable approach. Here, we assessed the spatial and numerical reliability for newly deployed automated segmentation of hippocampal subfields and amygdala nuclei in FreeSurfer 7. In a sample of participants with repeated structural imaging scans (N\u2009=\u2009928), we found numerical reliability (as assessed by intraclass correlations, ICCs) was reasonable. Approximately 95% of hippocampal subfields had \"excellent\" numerical reliability (ICCs\u2009\u2265\u20090.90), while only 67% of amygdala subnuclei met this same threshold. In terms of spatial reliability, 58% of hippocampal subfields and 44% of amygdala subnuclei had Dice coefficients\u2009\u2265\u20090.70. Notably, multiple regions had poor numerical and/or spatial reliability. We also examined correlations between spatial reliability and person-level factors (e.g., participant age; T1 image quality). Both sex and image scan quality were related to variations in spatial reliability metrics. Examined collectively, our work suggests caution should be exercised for a few hippocampal subfields and amygdala nuclei with more variable reliability.",
+    "authors": [
+        {
+            "affiliation": "University of Pittsburgh, Pittsburgh, PA, USA.",
+            "firstname": "Isabella",
+            "initials": "I",
+            "lastname": "Kahhale"
+        },
+        {
+            "affiliation": "University of Pittsburgh, Pittsburgh, PA, USA.",
+            "firstname": "Nicholas J",
+            "initials": "NJ",
+            "lastname": "Buser"
+        },
+        {
+            "affiliation": "University of Nottingham, Nottingham, UK.",
+            "firstname": "Christopher R",
+            "initials": "CR",
+            "lastname": "Madan"
+        },
+        {
+            "affiliation": "University of Pittsburgh, Pittsburgh, PA, USA. jamie.hanson@pitt.edu.",
+            "firstname": "Jamie L",
+            "initials": "JL",
+            "lastname": "Hanson"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2023. The Author(s).",
+    "doi": "10.1186/s40708-023-00189-5\n10.1007/s002340050644\n10.1111/j.1749-6632.2010.05445.x\n10.1016/j.neuroimage.2017.03.016\n10.1038/s41597-019-0073-y\n10.1016/j.tics.2012.10.010\n10.1038/nn.4062\n10.1016/j.neuroimage.2020.116563\n10.1371/journal.pone.0117453\n10.1176/appi.ajp.161.4.598\n10.1037/1040-3590.6.4.284\n10.1016/S0925-4927(99)00007-4\n10.1006/cbmr.1996.0014\n10.1006/nimg.1998.0395\n10.5281/zenodo.824514\n10.1002/hipo.22517\n10.1037/a0030259\n10.1038/mp.2013.78\n10.1016/j.neuroimage.2011.12.073\n10.1016/j.neuroimage.2012.01.021\n10.1016/S0896-6273(02)00569-X\n10.1016/j.neuroimage.2004.07.016\n10.1006/nimg.1998.0396\n10.1002/(SICI)1097-0193(1999)8:4<272::AID-HBM10>3.0.CO;2-4\n10.1186/s40708-021-00128-2\n10.1001/jama.1992.03490110111047\n10.1126/science.aaf1836\n10.1002/hbm.26147\n10.1038/mp.2008.57\n10.1016/j.biopsych.2014.04.020\n10.3389/fnins.2012.00166\n10.1007/s00429-018-1802-2\n10.1016/j.neuroimage.2016.02.056\n10.1016/j.neuroimage.2015.04.042\n10.1016/j.neuroimage.2016.07.020\n10.1002/jmri.21049\n10.1212/01.wnl.0000180958.22678.91\n10.1016/j.neuroimage.2009.02.010\n10.1016/j.neuroimage.2013.05.007\n10.1016/j.jcm.2016.02.012\n10.1002/alz.046652\n10.1016/j.neuroimage.2014.12.035\n10.1016/j.biopsych.2017.09.006\n10.1073/pnas.0337481100\n10.1007/s12021-021-09519-6\n10.1007/s40708-016-0060-4\n10.1097/WNR.0b013e3282f8b18c\n10.1016/j.neuroimage.2016.12.021\n10.1037/1082-989X.1.1.30\n10.1006/nimg.2001.0802\n10.1016/j.bpsc.2019.11.016\n10.1016/j.neuroimage.2008.12.033\n10.1002/hbm.20973\n10.1016/j.nicl.2017.12.036\n10.1001/archpsyc.63.12.1417\n10.1016/j.neuron.2013.11.017\n10.1016/j.nicl.2019.101904\n10.1016/j.dadm.2019.04.001\n10.1177/1077559519839491\n10.1016/j.neulet.2014.04.013\n10.1371/journal.pbio.2005758\n10.1016/j.conb.2004.03.015\n10.1371/journal.pone.0158187\n10.1016/j.neuroimage.2020.116932\n10.1016/j.neuroimage.2010.07.020\n10.1016/j.neuroimage.2012.02.084\n10.1016/j.neuroimage.2003.12.048\n10.1016/j.cell.2017.07.013\n10.1016/j.neuroimage.2017.04.046\n10.1038/mp.2015.69\n10.1016/j.neuroimage.2004.03.032\n10.1038/s41597-021-00870-6\n10.1016/j.eurpsy.2007.05.006\n10.1016/S0166-2236(98)01265-X\n10.1016/j.eurpsy.2004.05.003\n10.1016/j.neuroimage.2015.12.039\n10.1016/S0730-725X(02)00563-5\n10.1002/hbm.25234\n10.1002/hipo.22671\n10.1016/j.neuroimage.2008.10.037\n10.1002/hbm.23948\n10.1016/j.jns.2012.02.010\n10.1007/s00213-007-0906-9\n10.1016/j.neuroimage.2015.01.004\n10.21037/qims.2019.05.21\n10.1109/42.363096\n10.1016/S1076-6332(03)00671-8",
+    "journal": "Brain informatics",
+    "keywords": [
+        "Amygdala",
+        "Automated segmentation",
+        "FreeSurfer",
+        "FreeSurfer 7.1",
+        "Hippocampus"
+    ],
+    "methods": null,
+    "publication_date": "2023-04-08",
+    "pubmed_id": "37029203\n9808311\n20392275\n28288907\n31123325\n23218941\n26167906\n31972281\n25658357\n15056502\n10482383\n8812068\n9931268\n26286891\n23646831\n23774715\n22245260\n22248573\n11832223\n15501102\n9931269\n10619420\n33860392\n11083167\n27609885\n36437735\n18504424\n24993057\n23226114\n30511334\n26926791\n25936807\n27426838\n18302232\n16247049\n19233293\n23668971\n27330520\n25534113\n29217296\n12552118\n33974213\n28054317\n18388735\n27956206\n11467900\n32029420\n19162198\n20162602\n29527502\n17146016\n24462102\n31254939\n31245529\n31030539\n24746928\n29698391\n15082325\n27552103\n32416226\n20637289\n22430496\n15110010\n28823555\n28479476\n26122586\n15219578\n33741990\n17765485\n9720596\n15504652\n1513464\n26747746\n12467863\n33058385\n27862600\n19038349\n29341323\n22385679\n17705060\n25596463\n31367556\n18218550\n14974593",
+    "results": null,
+    "title": "Quantifying numerical and spatial reliability of hippocampal and amygdala subdivisions in FreeSurfer.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827a3d710>"
+}{
+    "abstract": "Automatic neuroimaging processing tools provide convenient and systematic methods for extracting features from brain magnetic resonance imaging scans. One tool, FreeSurfer, provides an easy-to-use pipeline to extract cortical and subcortical morphometric measures. There have been over 25 stable releases of FreeSurfer, with different versions used across published works. The reliability and compatibility of regional morphometric metrics derived from the most recent version releases have yet to be empirically assessed. Here, we used test-retest data from three public data sets to determine within-version reliability and between-version compatibility across 42 regional outputs from FreeSurfer versions 7.1, 6.0, and 5.3. Cortical thickness from v7.1 was less compatible with that of older versions, particularly along the cingulate gyrus, where the lowest version compatibility was observed (intraclass correlation coefficient 0.37-0.61). Surface area of the temporal pole, frontal pole, and medial orbitofrontal cortex, also showed low to moderate version compatibility. We confirm low compatibility between v6.0 and v5.3 of pallidum and putamen volumes, while those from v7.1 were compatible with v6.0. Replication in an independent sample showed largely similar results for measures of surface area and subcortical volumes, but had lower overall regional thickness reliability and compatibility. Batch effect correction may adjust for some inter-version effects when most sites are run with one version, but results vary when more sites are run with different versions. Age associations in a quality controlled independent sample (N\u00a0=\u2009106) revealed version differences in results of downstream statistical analysis. We provide a reference to highlight the regional metrics that may yield recent version-related inconsistencies in published findings. An interactive viewer is provided at http://data.brainescience.org/Freesurfer_Reliability/.",
+    "authors": [
+        {
+            "affiliation": "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Marina del Rey, California, USA.",
+            "firstname": "Elizabeth",
+            "initials": "E",
+            "lastname": "Haddad"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Marina del Rey, California, USA.\nDepartment of Neurosciences, University of Turin, Turin, Italy.",
+            "firstname": "Fabrizio",
+            "initials": "F",
+            "lastname": "Pizzagalli"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Marina del Rey, California, USA.",
+            "firstname": "Alyssa H",
+            "initials": "AH",
+            "lastname": "Zhu"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Marina del Rey, California, USA.",
+            "firstname": "Ravi R",
+            "initials": "RR",
+            "lastname": "Bhatt"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Marina del Rey, California, USA.",
+            "firstname": "Tasfiya",
+            "initials": "T",
+            "lastname": "Islam"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Marina del Rey, California, USA.",
+            "firstname": "Iyad",
+            "initials": "I",
+            "lastname": "Ba Gari"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Marina del Rey, California, USA.",
+            "firstname": "Daniel",
+            "initials": "D",
+            "lastname": "Dixon"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Marina del Rey, California, USA.",
+            "firstname": "Sophia I",
+            "initials": "SI",
+            "lastname": "Thomopoulos"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Marina del Rey, California, USA.",
+            "firstname": "Paul M",
+            "initials": "PM",
+            "lastname": "Thompson"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Marina del Rey, California, USA.",
+            "firstname": "Neda",
+            "initials": "N",
+            "lastname": "Jahanshad"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2022 The Authors. Human Brain Mapping published by Wiley Periodicals LLC.",
+    "doi": "10.1002/hbm.26147\n10.1038/s41586-022-04554-y\n10.3897/rio.3.e13726\n10.1126/science.aay6690\n10.3390/ijms21062148\n10.1038/s41562-019-0655-x",
+    "journal": "Human brain mapping",
+    "keywords": [
+        "MRI",
+        "neuroimaging",
+        "reliability",
+        "surface area",
+        "thickness",
+        "version compatibility"
+    ],
+    "methods": null,
+    "publication_date": "2022-11-29",
+    "pubmed_id": "36437735\n30824865\n23934630\n35388223\n30511116\n25684445\n32483374\n31050106\n1759558\n23656706\n23571845\n22796459\n28737295\n19376185\n33783933\n32995945\n16530430\n25451389\n33570244\n30935858\n34988592\n22248573\n29150145\n29155184\n33595143\n32580662\n25632151\n27437579\n25964757\n27389358\n25914639\n32193296\n22675527\n16651008\n29665578\n23158231\n31731922\n33796274\n33288916\n19233293\n32245086\n30792636\n27330520\n21094686\n32433631\n32457287\n28259781\n17714011\n29740715\n29191870\n34999202\n27643430\n27829086\n28548250\n28230846\n25727700\n32000869\n28546533\n26048618\n31733374\n27165761\n15054051\n31636452\n28981612\n25687698\n22738433\n27629716\n28279988\n32198361\n31731908\n24879923\n23684880\n26477650\n31731917\n26194320\n27931796\n20006715\n32055603\n33067842\n25977800\n31253883",
+    "results": null,
+    "title": "Multisite test-retest reliability and compatibility of brain metrics derived from FreeSurfer versions 7.1, 6.0, and 5.3.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827bdb560>"
+}{
+    "abstract": "In this study, we intend to determine the correlation between the thickness of the cerebral cortex and the severity of the cognitive disorder in Alzheimer disease (AD).\nA total of 20 (14 women and 6 men) patients diagnosed with AD with a Mean age of 72.95 years, and 10 (7 women and 3 men) cognitively normal (CN) subjects with a Mean age of 70.50 years were included in the study. Of the AD patient and CN subjects, 70% were female, and 30% were male. All individuals underwent 1.5 T Magnetic resonance imaging (MRI). The MRI scanning protocol included 3D MPRAGE (3D-T1W) sequence. All images were analyzed using Freesurfer v5.3, and then the brain cortical thickness in 7 cortical areas (inferior temporal, middle temporal, superior temporal, parahippocampal, pars triangularis, rostral middle frontal, and superior frontal) was calculated.\nThe analysis of covariance (ANCOVA) was conducted to compare the mean thickness of each region between the patient and the control group. There was a significant difference in the mean cortical thickness in all regions. In all cases, the mean cortical thickness in CN subjects was greater than in AD patients. However, the mean thickness of pars triangularis left hand in CN subjects was not significantly greater than that in AD patients. The receiver operating characteristic system (ROC) was designed to evaluate the predictive power of the patients and the healthy people. We have selected a thousand cut-off points from 1.5 to 3.5 mm for cortical thickness. When the cut-off points were within 2.276878-2.299680 mm in the left hemisphere, Youden's index was maximum. The sensitivity and specificity, in this case, were 80%. Also, when the cut-off points were within the range of 2.263278-2.282278 mm in the right hemisphere, the sensitivity and specificity were 90% and 80%, respectively.\nThis study demonstrates the importance of quantifying the cortical thickness changes in the early diagnosis of AD. In addition, examining the pattern of changes and quantifying the reduction in the thickness of the cortex is a crucial tool for displaying the local and global atrophy of the brain. Also, this pattern can be used as an alternative marker for the diagnosis of dementia. Finally, to the best of our knowledge, our study is the first to report finding on the cortical thickness that would help the clinician have a better differential diagnosis. Also, this study has checked the possibility of early diagnosis of the disease.\nThe correlation between the thickness of cerebral cortex and the severity of cognitive disorder in Alzheimer's disease was determined.The cortical thickness change is an important factor in early diagnosis of Alzheimers disease.The pattern of reduction in the thickness changes is a crucial tool for displaying the local and global atrophy of the brain.\nThe neurodegenerative disorder Alzheimer's disease (AD) is a fast-growing epidemic in aging populations worldwide. In 2050, one new case of AD is estimated to increase up to every 33 seconds. So the diagnosis of AD in the early stage considerably decreases the progress of dementia and helps identify a correct treatment approach. The cortical thickness measured by structural neuroimaging has received a significant surrogate biomarker that could provide powerful tools for the early diagnosis of AD. Since the sensitivity and specificity of MRI are higher, it offers essential advantages for identifying brain atrophy patterns. The manual cortical thickness measurement methods are time-consuming and require experienced anatomists compared with automated methods. In this regard, Freesurfer software, which is a freely available program and provides information for quantifying the functional and structural features of the brain, is used. The current study demonstrates examining the pattern of changes and quantifying the reduction in the thickness of the cortex. This can also be used as an alternative marker for the early diagnosis of dementia using cortical thickness measurment that would help the physicians.",
+    "authors": [
+        {
+            "affiliation": "Department of Radiology, School of Allied Medical Science, Shahid Beheshti University of Medical Sciences, Tehran, Iran.",
+            "firstname": "Nasim",
+            "initials": "N",
+            "lastname": "Sattari"
+        },
+        {
+            "affiliation": "Department of Radiology, School of Allied Medical Science, Shahid Beheshti University of Medical Sciences, Tehran, Iran.",
+            "firstname": "Fariborz",
+            "initials": "F",
+            "lastname": "Faeghi"
+        },
+        {
+            "affiliation": "Department of Radiology, School of Medicine, AJA University of Medical Sciences, Tehran, Iran.",
+            "firstname": "Babak",
+            "initials": "B",
+            "lastname": "Shekarchi"
+        },
+        {
+            "affiliation": "Department of Basic Sciences, School of Allied Medical Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.",
+            "firstname": "Mohammad Hossein",
+            "initials": "MH",
+            "lastname": "Heidari"
+        }
+    ],
+    "conclusions": "This study demonstrates the importance of quantifying the cortical thickness changes in the early diagnosis of AD. In addition, examining the pattern of changes and quantifying the reduction in the thickness of the cortex is a crucial tool for displaying the local and global atrophy of the brain. Also, this pattern can be used as an alternative marker for the diagnosis of dementia. Finally, to the best of our knowledge, our study is the first to report finding on the cortical thickness that would help the clinician have a better differential diagnosis. Also, this study has checked the possibility of early diagnosis of the disease.",
+    "copyrights": "Copyright\u00a9 2022 Iranian Neuroscience Society.",
+    "doi": "10.32598/bcn.2021.1779.1\n10.1016/j.jalz.2017.02.001\n10.1016/j.neuroimage.2012.01.021\n10.1073/pnas.200033797\n10.1038/461895a\n10.3389/fnins.2015.00379\n10.1016/j.neurobiolaging.2014.03.042\n10.1016/j.jalz.2005.06.003\n10.1016/j.arr.2016.01.002\n10.1093/brain/awp105",
+    "journal": "Basic and clinical neuroscience",
+    "keywords": [
+        "Alzheimer disease",
+        "Cortical thickness",
+        "Freesurfer software",
+        "Magnetic resonance imaging (MRI)"
+    ],
+    "methods": null,
+    "publication_date": "2022-11-26",
+    "pubmed_id": "36425945\n0\n22248573\n10984517\n19829367\n26539075\n25444604\n17476317\n26827786\n19439419\n22722624\n15054051",
+    "results": "The analysis of covariance (ANCOVA) was conducted to compare the mean thickness of each region between the patient and the control group. There was a significant difference in the mean cortical thickness in all regions. In all cases, the mean cortical thickness in CN subjects was greater than in AD patients. However, the mean thickness of pars triangularis left hand in CN subjects was not significantly greater than that in AD patients. The receiver operating characteristic system (ROC) was designed to evaluate the predictive power of the patients and the healthy people. We have selected a thousand cut-off points from 1.5 to 3.5 mm for cortical thickness. When the cut-off points were within 2.276878-2.299680 mm in the left hemisphere, Youden's index was maximum. The sensitivity and specificity, in this case, were 80%. Also, when the cut-off points were within the range of 2.263278-2.282278 mm in the right hemisphere, the sensitivity and specificity were 90% and 80%, respectively.",
+    "title": "Assessing the Changes of Cortical Thickness in Alzheimer Disease With MRI Using Freesurfer Software.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827c413a0>"
+}{
+    "abstract": "Advances in Magnetic Resonance Imaging hardware and methodologies allow for promoting the cortical morphometry with submillimeter spatial resolution. In this paper, we generated 3D self-enhanced high-resolution (HR) MRI imaging, by adapting 1 deep learning architecture, and 3 standard pipelines, FreeSurfer, MaCRUISE, and BrainSuite, have been collectively employed to evaluate the cortical thickness. We systematically investigated the differences in cortical thickness estimation for MRI sequences at multiresolution homologously originated from the native image. It has been revealed that there systematically exhibited the preferences in determining both inner and outer cortical surfaces at higher resolution, yielding most deeper cortical surface placements toward GM/WM or GM/CSF boundaries, which directs a consistent reduction tendency of mean cortical thickness estimation; on the contrary, the lower resolution data will most probably provide a more coarse and rough evaluation in cortical surface reconstruction, resulting in a relatively thicker estimation. Although the differences of cortical thickness estimation at the diverse spatial resolution varied with one another, almost all led to roughly one-sixth to one-fifth significant reduction across the entire brain at the HR, independent to the pipelines we applied, which emphasizes on generally coherent improved accuracy in a data-independent manner and endeavors to cost-efficiency with quantitative opportunities.",
+    "authors": [
+        {
+            "affiliation": "School of Electronic Engineering, Ocean University of China, 238 Songling Road,\u00a0Qingdao, China.\nHarvard Medical School, 25 Shattuck Street, Boston, MA, United States.\nBoston Children's Hospital, 300 Longwood Avenue, Boston, MA, United States.",
+            "firstname": "Rui",
+            "initials": "R",
+            "lastname": "Nian"
+        },
+        {
+            "affiliation": "Citigroup Services and Technology Limited, 1000 Chenhi Road, Shanghai, China.",
+            "firstname": "Mingshan",
+            "initials": "M",
+            "lastname": "Gao"
+        },
+        {
+            "affiliation": "Baidu, Inc., Haidian District, Beijing, China.",
+            "firstname": "Shichang",
+            "initials": "S",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": "School of Electronic Engineering, Ocean University of China, 238 Songling Road,\u00a0Qingdao, China.",
+            "firstname": "Junjie",
+            "initials": "J",
+            "lastname": "Yu"
+        },
+        {
+            "affiliation": "Harvard Medical School, 25 Shattuck Street, Boston, MA, United States.\nBoston Children's Hospital, 300 Longwood Avenue, Boston, MA, United States.",
+            "firstname": "Ali",
+            "initials": "A",
+            "lastname": "Gholipour"
+        },
+        {
+            "affiliation": "School of Electronic Engineering, Ocean University of China, 238 Songling Road,\u00a0Qingdao, China.",
+            "firstname": "Shuang",
+            "initials": "S",
+            "lastname": "Kong"
+        },
+        {
+            "affiliation": "School of Electronic Engineering, Ocean University of China, 238 Songling Road,\u00a0Qingdao, China.",
+            "firstname": "Ruirui",
+            "initials": "R",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "Harvard Medical School, 25 Shattuck Street, Boston, MA, United States.\nBoston Children's Hospital, 300 Longwood Avenue, Boston, MA, United States.",
+            "firstname": "Yao",
+            "initials": "Y",
+            "lastname": "Sui"
+        },
+        {
+            "affiliation": "Harvard Medical School, 25 Shattuck Street, Boston, MA, United States.\nBoston Children's Hospital, 300 Longwood Avenue, Boston, MA, United States.",
+            "firstname": "Clemente",
+            "initials": "C",
+            "lastname": "Velasco-Annis"
+        },
+        {
+            "affiliation": "Harvard Medical School, 25 Shattuck Street, Boston, MA, United States.\nBoston Children's Hospital, 300 Longwood Avenue, Boston, MA, United States.",
+            "firstname": "Xavier",
+            "initials": "X",
+            "lastname": "Tomas-Fernandez"
+        },
+        {
+            "affiliation": "School of Electronic Engineering, Ocean University of China, 238 Songling Road,\u00a0Qingdao, China.",
+            "firstname": "Qiuying",
+            "initials": "Q",
+            "lastname": "Li"
+        },
+        {
+            "affiliation": "School of Electronic Engineering, Ocean University of China, 238 Songling Road,\u00a0Qingdao, China.",
+            "firstname": "Hangyu",
+            "initials": "H",
+            "lastname": "Lv"
+        },
+        {
+            "affiliation": "School of Electronic Engineering, Ocean University of China, 238 Songling Road,\u00a0Qingdao, China.",
+            "firstname": "Yuqi",
+            "initials": "Y",
+            "lastname": "Qian"
+        },
+        {
+            "affiliation": "Harvard Medical School, 25 Shattuck Street, Boston, MA, United States.\nBoston Children's Hospital, 300 Longwood Avenue, Boston, MA, United States.",
+            "firstname": "Simon K",
+            "initials": "SK",
+            "lastname": "Warfield"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 The Author(s) 2022. Published by Oxford University Press. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.",
+    "doi": "10.1093/cercor/bhac401",
+    "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+    "keywords": [
+        "BrainSuite",
+        "FreeSurfer",
+        "MaCRUISE",
+        "cortical thickness estimation",
+        "super-resolution reconstruction"
+    ],
+    "methods": null,
+    "publication_date": "2022-10-27",
+    "pubmed_id": "36288912",
+    "results": null,
+    "title": "Toward evaluation of multiresolution cortical thickness estimation with FreeSurfer, MaCRUISE, and BrainSuite.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827c84270>"
+}{
+    "abstract": "Several approaches have emerged to measure the cortical thickness (CT), which can be broadly divided into surface-based and voxel-based algorithms. We aimed to compare parcel-based CT estimation of the widely used FreeSurfer (FS) software and CAT12 software, which is a widely used voxel-based approach, and evaluate the test-retest (TRT) reliability of both methods. MRI images of 417 healthy individuals were analyzed. TRT reliability was performed on 60 participants. The mean CT of the parcels of the Desikan-Killiany atlas were calculated both in FS and CAT12. Linear mixed model was performed to compare the two methods and the TRT reliability, and paired-sample t-test for post-hoc analyses. Linear regression analyses were utilized to examine the regressions between the two methods and between different sessions with each method. CT values calculated using the two methods were significantly correlated (R",
+    "authors": [
+        {
+            "affiliation": "Graduate School of Health Sciences, Istanbul University, S\u00fcleymaniye Mah. Bozdo\u011fan Kemeri Cd, Vezneciler Hamam\u0131 Sk No:8, 34126, Istanbul, Turkey. psk.ulasay@gmail.com.\nDepartment of Neuroscience, Aziz Sancar Institute of Experimental Medicine, Istanbul University, Topkap\u0131 Mah. Turgut \u00d6zal Millet Cd No:118, 34093, Istanbul, Turkey. psk.ulasay@gmail.com.\nNeuroimaging Unit, Hulusi Behcet Life Sciences Research Laboratory, Neuroimaging Unit, Istanbul University, Topkap\u0131 Mah. Turgut \u00d6zal Millet Cd No:118, 34093, Istanbul, Turkey. psk.ulasay@gmail.com.",
+            "firstname": "Ula\u015f",
+            "initials": "U",
+            "lastname": "Ay"
+        },
+        {
+            "affiliation": "Department of Neuroscience, Aziz Sancar Institute of Experimental Medicine, Istanbul University, Topkap\u0131 Mah. Turgut \u00d6zal Millet Cd No:118, 34093, Istanbul, Turkey.\nNeuroimaging Unit, Hulusi Behcet Life Sciences Research Laboratory, Neuroimaging Unit, Istanbul University, Topkap\u0131 Mah. Turgut \u00d6zal Millet Cd No:118, 34093, Istanbul, Turkey.",
+            "firstname": "Gozde",
+            "initials": "G",
+            "lastname": "Kizilates-Evin"
+        },
+        {
+            "affiliation": "Department of Neuroscience, Aziz Sancar Institute of Experimental Medicine, Istanbul University, Topkap\u0131 Mah. Turgut \u00d6zal Millet Cd No:118, 34093, Istanbul, Turkey.\nNeuroimaging Unit, Hulusi Behcet Life Sciences Research Laboratory, Neuroimaging Unit, Istanbul University, Topkap\u0131 Mah. Turgut \u00d6zal Millet Cd No:118, 34093, Istanbul, Turkey.",
+            "firstname": "Ali",
+            "initials": "A",
+            "lastname": "Bayram"
+        },
+        {
+            "affiliation": "Department of Neuroscience, Aziz Sancar Institute of Experimental Medicine, Istanbul University, Topkap\u0131 Mah. Turgut \u00d6zal Millet Cd No:118, 34093, Istanbul, Turkey.\nNeuroimaging Unit, Hulusi Behcet Life Sciences Research Laboratory, Neuroimaging Unit, Istanbul University, Topkap\u0131 Mah. Turgut \u00d6zal Millet Cd No:118, 34093, Istanbul, Turkey.",
+            "firstname": "Elif",
+            "initials": "E",
+            "lastname": "Kurt"
+        },
+        {
+            "affiliation": "Neuroimaging Unit, Hulusi Behcet Life Sciences Research Laboratory, Neuroimaging Unit, Istanbul University, Topkap\u0131 Mah. Turgut \u00d6zal Millet Cd No:118, 34093, Istanbul, Turkey.\nDepartment of Physiology, Istanbul Faculty of Medicine, Istanbul University, Topkap\u0131 Mah. Turgut \u00d6zal Millet Cd No:118, 34093, Istanbul, Turkey.",
+            "firstname": "Tamer",
+            "initials": "T",
+            "lastname": "Demiralp"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2022. The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.",
+    "doi": "10.1007/s10548-022-00919-8\n10.1016/j.neuroimage.2007.07.007\n10.1016/j.neuroimage.2005.02.018\n10.2399/ana.20.002s\n10.1177/096228029900800204\n10.1002/hbm.25473\n10.1007/s12021-014-9229-2\n10.1016/j.neuroimage.2011.05.053\n10.1016/j.neuroimage.2012.09.050\n10.1006/nimg.1998.0395\n10.1016/j.neuroimage.2006.01.021\n10.1073/pnas.200033797\n10.1006/nimg.1998.0396\n10.1016/s0896-6273(02)00569-x\n10.1093/cercor/bhn232\n10.3758/bf03193146\n10.1016/j.neuroimage.2009.06.043\n10.1016/B978-0-444-53485-9.00003-9\n10.1093/cercor/bhaa097\n10.1002/hbm.23168\n10.3389/fnana.2013.00028\n10.1371/journal.pone.0179590\n10.1212/wnl.58.5.695\n10.1093/cercor/bhh032\n10.1016/j.neuroimage.2004.03.032\n10.1111/jon.12521\n10.1007/s10548-021-00852-2",
+    "journal": "Brain topography",
+    "keywords": [
+        "Brain morphometry",
+        "CAT12",
+        "Cortical thickness",
+        "FreeSurfer"
+    ],
+    "methods": null,
+    "publication_date": "2022-10-09",
+    "pubmed_id": "36208399\n17761438\n15955494\n10501650\n24789776\n21640841\n23041529\n9931268\n16530430\n10984517\n9931269\n11832223\n19150922\n19559801\n27432659\n26945922\n24032005\n28683072\n15054051\n15219578\n29766613\n34008053",
+    "results": null,
+    "title": "Comparison of FreeSurfer and CAT12 Software in Parcel-Based Cortical Thickness Calculations.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827dacfe0>"
+}{
+    "abstract": "The limbic brain is involved in diverse cognitive, emotional, and autonomic functions. Injury of the various parts of the limbic system have been correlated with clinical deficits in MS. The purpose of this study was to comprehensively examine different regions of the subcortical limbic system to assess the extent of damage within this entire system as it may be pertinent in correlating with specific aspects of cognitive and behavioral dysfunction in MS by using a fully automated, unbiased segmentation approach.\nSixty-seven subjects were included in this study, including 52 with multiple sclerosis (MS) and 15 healthy controls. Only patients with stable MS disease, without any relapses, MRI activity, or disability progression were included. Subcortical limbic system segmentation was performed using the FreeSurfer pipeline ScLimbic, which provides volumes for fornix, mammillary bodies, hypothalamus, septal nuclei, nucleus accumbens, and basal forebrain. Hippocampus and anterior thalamic nuclei were added as additional components of the limbic circuitry, also segmented through FreeSurfer. Whole limbic region mask was generated by combining these structures and used for Voxel-based morphometry (VBM) analysis.\nThe mean [95% confidence interval] of the total limbic system volume was lower (0.22% [0.21-0.23]) in MS compared to healthy controls (0.27%, [0.25-0.29], p < .001). Pairwise comparisons of individual limbic regions between MS and controls was significant in the nucleus accumbens (0.046%, [0.043-0.050] vs. 0.059%, [0.051-0.066], p = .005), hypothalamus (0.062%, [0.059-0.065] vs. 0.074%, [0.068-0.081], p = .001), basal forebrain (0.038%, [0.036-0.040] vs. 0.047%, [0.042-0.051], p = .001), hippocampus (0.47%, [0.45-0.49] vs. 0.53%, [0.49-0.57], p = .004), and anterior thalamus (0.077%, [0.072-0.082] vs. 0.093%, [0.084-0.10], p = .001) after Bonferroni correction. Volume of several limbic regions was significantly correlated with T2 lesion burden and brain parenchymal fraction (BPF). Multiple regression model showed minimal influence of BPF on limbic brain volume and no influence of other demographic and disease state variables. VBM analysis showed cluster differences in the fornix and anterior thalamic nuclei at threshold p < 0.05 after adjusting for covariates but the results were insignificant after family-wise error corrections.\nThe results show evidence that brain volume loss is fairly extensive in the limbic brain. Given the significance of the limbic system in many disease states including MS, such volumetric analyses can be expanded to studying cognitive and emotional disturbances in larger clinical trials. FreeSurfer ScLimbic pipeline provided an efficient and reliable methodology for examining many of the subcortical structures related to the limbic brain.",
+    "authors": [
+        {
+            "affiliation": "Department of Neurology, The University of Wisconsin, Madison, WI, United States of America.",
+            "firstname": "Amanda Frisosky",
+            "initials": "AF",
+            "lastname": "Abuaf"
+        },
+        {
+            "affiliation": "Department of Psychiatry and Behavioral Neuroscience, The University of Chicago, Chicago, IL, United States of America.",
+            "firstname": "Samuel R",
+            "initials": "SR",
+            "lastname": "Bunting"
+        },
+        {
+            "affiliation": "Department of Neurology, The University of Chicago, Chicago, IL, United States of America.",
+            "firstname": "Sara",
+            "initials": "S",
+            "lastname": "Klein"
+        },
+        {
+            "affiliation": "Department of Radiology, The University of Chicago, Chicago, IL, United States of America.",
+            "firstname": "Timothy",
+            "initials": "T",
+            "lastname": "Carroll"
+        },
+        {
+            "affiliation": "Department of Neurology, The University of Chicago, Chicago, IL, United States of America.",
+            "firstname": "Jake",
+            "initials": "J",
+            "lastname": "Carpenter-Thompson"
+        },
+        {
+            "affiliation": "Department of Neurology, The University of Chicago, Chicago, IL, United States of America.",
+            "firstname": "Adil",
+            "initials": "A",
+            "lastname": "Javed"
+        },
+        {
+            "affiliation": "Department of Neurology, The University of Chicago, Chicago, IL, United States of America.",
+            "firstname": "Veronica",
+            "initials": "V",
+            "lastname": "Cipriani"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1371/journal.pone.0274778\n10.1136/jnnp.2007.134825\n10.1002/ana.10326\n10.1212/NXI.0000000000000102\n10.1016/j.jns.2014.04.026\n10.1016/j.msard.2020.102374\n10.1111/jon.12381\n10.1177/1352458516680750\n10.1016/j.msard.2019.01.030\n10.1002/hbm.21125\n10.1016/j.msard.2014.11.006\n10.1016/S0140-6736(04)15794-2\n10.1177/1352458518767051\n10.1037/a0019585\n10.1111/jon.12589\n10.1100/2011/157150\n10.1016/0013-4694(52)90073-4\n10.1016/j.neubiorev.2013.07.001\n10.1016/j.neuroimage.2021.118610\n10.1016/j.neuroimage.2018.08.012\n10.1016/j.neubiorev.2021.02.047\n10.4103/0019-5545.33264\n10.1016/j.neubiorev.2014.07.025\n10.1016/j.neubiorev.2021.02.047\n10.1212/NXI.0000000000000616\n10.1007/s00330-018-5710-x\n10.1006/nimg.2001.0845\n10.1016/j.neuroimage.2011.11.032\n10.1016/j.nicl.2019.101849\n10.1016/j.nicl.2016.11.020\n10.1016/j.mri.2009.01.006\n10.1002/(SICI)1097-0193(1996)4:1&lt;58::AID-HBM4&gt;3.0.CO;2-O\n10.1093/brain/awn030\n10.1371/journal.pone.0187915\n10.1212/WNL.0b013e3182703f46\n10.1136/jnnp.2009.188748\n10.1111/ejn.15539\n10.1016/j.nicl.2014.12.015\n10.2147/NDT.S84602\n10.1002/ana.22521\n10.1093/jnen/60.12.1208\n10.1186/s41747-020-00186-x\n10.1002/acn3.51029\n10.1006/nimg.2000.0582\n10.3389/fneur.2019.00581\n10.1212/WNL.0b013e3182872ded\n10.1016/j.smrv.2016.03.004\n10.1177/0163278711424282\n10.7224/1537-2073.2019-051\n10.1016/j.jsxm.2019.03.011\n10.1016/j.jns.2016.05.049",
+    "journal": "PloS one",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2022-09-23",
+    "pubmed_id": "36137122\n18469033\n12402265\n25884012\n24819917\n32652509\n27541485\n28273767\n30710839\n20740643\n25787051\n15043967\n29587565\n20528076\n30537408\n22194673\n12998590\n23850593\n34571161\n30121337\n33737105\n20711399\n25107491\n33737105\n32330116\n30242503\n11467921\n22119648\n31085465\n28018853\n19249168\n20408186\n18375977\n29121642\n23019265\n20392976\n34806796\n26106524\n26229470\n22162059\n11764093\n33089380\n32255566\n10860804\n31214113\n23479546\n27107751\n22008979\n33658900\n31010780\n27423576",
+    "results": "The mean [95% confidence interval] of the total limbic system volume was lower (0.22% [0.21-0.23]) in MS compared to healthy controls (0.27%, [0.25-0.29], p < .001). Pairwise comparisons of individual limbic regions between MS and controls was significant in the nucleus accumbens (0.046%, [0.043-0.050] vs. 0.059%, [0.051-0.066], p = .005), hypothalamus (0.062%, [0.059-0.065] vs. 0.074%, [0.068-0.081], p = .001), basal forebrain (0.038%, [0.036-0.040] vs. 0.047%, [0.042-0.051], p = .001), hippocampus (0.47%, [0.45-0.49] vs. 0.53%, [0.49-0.57], p = .004), and anterior thalamus (0.077%, [0.072-0.082] vs. 0.093%, [0.084-0.10], p = .001) after Bonferroni correction. Volume of several limbic regions was significantly correlated with T2 lesion burden and brain parenchymal fraction (BPF). Multiple regression model showed minimal influence of BPF on limbic brain volume and no influence of other demographic and disease state variables. VBM analysis showed cluster differences in the fornix and anterior thalamic nuclei at threshold p < 0.05 after adjusting for covariates but the results were insignificant after family-wise error corrections.",
+    "title": "Analysis of the extent of limbic system changes in multiple sclerosis using FreeSurfer and voxel-based morphometry approaches.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827dbb0b0>"
+}{
+    "abstract": "Large MRI studies often pool data gathered from widely varying imaging sequences. Pooled data creates a potential source of variation in structural analyses which may cause misinterpretation of findings. The purpose of this study is to determine if data acquired using different scan sequences, head coils and scanners offers consistent structural measurements.\nParticipants (163 right-handed males: 82 typically developing controls, 81 participants with autism spectrum disorder) were scanned on the same day using an MPRAGE sequence with a 12-channel headcoil on a Siemens 3T Trio scanner and an MP2RAGE sequence with a 64-channel headcoil on a Siemens 3T Prisma scanner. Segmentation was performed using FreeSurfer to identify regions exhibiting variation between sequences on measures of volume, surface area, and cortical thickness. Intraclass correlation coefficient (ICC) and mean percent difference (MPD) were used as test-retest reproducibility measures.\nICC for total brain segmented volume yielded a 0.99 intraclass correlation, demonstrating high overall volumetric reproducibility. Comparison of individual regions of interest resulted in greater variation. Volumetric variability, although low overall, was greatest in the entorhinal cortex (ICC = 0.71), frontal (ICC = 0.60) and temporal (ICC = 0.60) poles. Surface area variability was greatest in the insula (ICC = 0.65), temporal (ICC = 0.64) and frontal (ICC = 0.68) poles. Cortical thickness was most variable in the frontal (ICC = 0.41) and temporal (ICC = 0.35) poles.\nData collected on different scanners and head coils using MPRAGE and MP2RAGE are generally consistent for surface area and volume estimates. However, regional variability may constrain accuracy in some regions and cortical thickness measurements exhibit higher generalized variability.",
+    "authors": [
+        {
+            "affiliation": "Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, UT, USA.",
+            "firstname": "Graham N",
+            "initials": "GN",
+            "lastname": "Knussmann"
+        },
+        {
+            "affiliation": "Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, UT, USA.",
+            "firstname": "Jeffrey S",
+            "initials": "JS",
+            "lastname": "Anderson"
+        },
+        {
+            "affiliation": "Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, UT, USA.",
+            "firstname": "Molly B D",
+            "initials": "MBD",
+            "lastname": "Prigge"
+        },
+        {
+            "affiliation": "Waisman Center, University of Wisconsin-Madison, Madison, WI, USA.\nDepartment of Pediatrics, University of Wisconsin-Madison, Madison, WI, USA.\nDepartment of Medical Physics, University of Wisconsin-Madison, Madison, WI, USA.",
+            "firstname": "Douglas C",
+            "initials": "DC",
+            "lastname": "Dean"
+        },
+        {
+            "affiliation": "Department of Psychiatry, Harvard Medical School, Boston, MA, USA.",
+            "firstname": "Nicholas",
+            "initials": "N",
+            "lastname": "Lange"
+        },
+        {
+            "affiliation": "Department of Psychology and Neuroscience Center, Brigham Young University, Provo, UT, USA.\nDepartment of Neurology, University of Utah, Salt Lake City, UT, USA.\nDepartment of Psychiatry, University of Utah, Salt Lake City, UT, USA.\nDepartment of Neurology, University of California-Davis, Davis, CA, USA.",
+            "firstname": "Erin D",
+            "initials": "ED",
+            "lastname": "Bigler"
+        },
+        {
+            "affiliation": "Waisman Center, University of Wisconsin-Madison, Madison, WI, USA.\nDepartment of Medical Physics, University of Wisconsin-Madison, Madison, WI, USA.\nDepartment of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA.",
+            "firstname": "Andrew L",
+            "initials": "AL",
+            "lastname": "Alexander"
+        },
+        {
+            "affiliation": "Waisman Center, University of Wisconsin-Madison, Madison, WI, USA.\nDepartment of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA.",
+            "firstname": "Janet E",
+            "initials": "JE",
+            "lastname": "Lainhart"
+        },
+        {
+            "affiliation": "Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, UT, USA.\nDepartment of Neurology, University of Utah, Salt Lake City, UT, USA.\nDepartment of Pediatrics, University of Utah, Salt Lake City, UT, USA.",
+            "firstname": "Brandon A",
+            "initials": "BA",
+            "lastname": "Zielinski"
+        },
+        {
+            "affiliation": "Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, UT, USA.",
+            "firstname": "Jace B",
+            "initials": "JB",
+            "lastname": "King"
+        }
+    ],
+    "conclusions": "Data collected on different scanners and head coils using MPRAGE and MP2RAGE are generally consistent for surface area and volume estimates. However, regional variability may constrain accuracy in some regions and cortical thickness measurements exhibit higher generalized variability.",
+    "copyrights": null,
+    "doi": "10.1016/j.ynirp.2022.100086\n10.1007/s10334-020-00854-4\n10.1016/j.neuroimage.2010.03.012\n10.1006/nimg.1998.0395\n10.1016/j.neuroimage.2006.01.021\n10.1016/j.biopsych.2018.04.023\n10.1093/brain/awy088\n10.1073/pnas.200033797\n10.1093/cercor/bhg087\n10.1016/s0896-6273(02)00569-x\n10.1006/nimg.1998.0396\n10.1038/nrneurol.2009.215\n10.1016/j.neuroimage.2013.12.012\n10.3389/fninf.2015.00012\n10.1371/journal.pone.0038234\n10.1016/j.neuroimage.2006.02.051\n10.1002/jmri.21049\n10.1016/j.neuroimage.2005.09.046\n10.1002/mrm.25674\n10.1002/hbm.20599\n10.1038/s41398-017-0069-3\n10.1002/aur.1427\n10.1016/j.neuroimage.2009.10.002\n10.1037/1082-989X.1.1.30\n10.1002/mrm.1910150117\n10.1002/jmri.24960\n10.1016/j.neuroimage.2012.02.084\n10.1371/journal.pone.0068910\n10.21037/atm.2019.11.149\n10.1093/brain/awu083",
+    "journal": "Neuroimage. Reports",
+    "keywords": [
+        "FreeSurfer",
+        "MP2RAGE",
+        "MPRAGE",
+        "Reliability"
+    ],
+    "methods": null,
+    "publication_date": "2022-08-30",
+    "pubmed_id": "36032692\n32468150\n20226258\n9931268\n16530430\n29960671\n29741648\n10984517\n14654453\n11832223\n9931269\n20139996\n24345388\n25964757\n22675527\n16651008\n18302232\n16300968\n25885265\n18537111\n29317603\n25381736\n19819338\n2374495\n26032895\n22430496\n23861951\n32055603\n24755274",
+    "results": "ICC for total brain segmented volume yielded a 0.99 intraclass correlation, demonstrating high overall volumetric reproducibility. Comparison of individual regions of interest resulted in greater variation. Volumetric variability, although low overall, was greatest in the entorhinal cortex (ICC = 0.71), frontal (ICC = 0.60) and temporal (ICC = 0.60) poles. Surface area variability was greatest in the insula (ICC = 0.65), temporal (ICC = 0.64) and frontal (ICC = 0.68) poles. Cortical thickness was most variable in the frontal (ICC = 0.41) and temporal (ICC = 0.35) poles.",
+    "title": "Test-retest reliability of FreeSurfer-derived volume, area and cortical thickness from MPRAGE and MP2RAGE brain MRI images.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827be0860>"
+}{
+    "abstract": "Developing accurate subcortical volumetric quantification tools is crucial for neurodevelopmental studies, as they could reduce the need for challenging and time-consuming manual segmentation. In this study, the accuracy of two automated segmentation tools, FSL-FIRST (with three different boundary correction settings) and FreeSurfer, were compared against manual segmentation of the hippocampus and subcortical nuclei, including the amygdala, thalamus, putamen, globus pallidus, caudate and nucleus accumbens, using volumetric and correlation analyses in 80 5-year-olds. Both FSL-FIRST and FreeSurfer overestimated the volume on all structures except the caudate, and the accuracy varied depending on the structure. Small structures such as the amygdala and nucleus accumbens, which are visually difficult to distinguish, produced significant overestimations and weaker correlations with all automated methods. Larger and more readily distinguishable structures such as the caudate and putamen produced notably lower overestimations and stronger correlations. Overall, the segmentations performed by FSL-FIRST's default pipeline were the most accurate, whereas FreeSurfer's results were weaker across the structures. In line with prior studies, the accuracy of automated segmentation tools was imperfect with respect to manually defined structures. However, apart from amygdala and nucleus accumbens, FSL-FIRST's agreement could be considered satisfactory (Pearson correlation\u2009>\u20090.74, intraclass correlation coefficient (ICC)\u2009>\u20090.68 and Dice score coefficient (DSC)\u2009>\u20090.87) with highest values for the striatal structures (putamen, globus pallidus, caudate) (Pearson correlation\u2009>\u20090.77, ICC\u2009>\u20090.87 and DSC\u2009>\u20090.88, respectively). Overall, automated segmentation tools do not always provide satisfactory results, and careful visual inspection of the automated segmentations is strongly advised.",
+    "authors": [
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.",
+            "firstname": "Kristian",
+            "initials": "K",
+            "lastname": "Lidauer"
+        },
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.",
+            "firstname": "Elmo P",
+            "initials": "EP",
+            "lastname": "Pulli"
+        },
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.",
+            "firstname": "Anni",
+            "initials": "A",
+            "lastname": "Copeland"
+        },
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.",
+            "firstname": "Eero",
+            "initials": "E",
+            "lastname": "Silver"
+        },
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.",
+            "firstname": "Venla",
+            "initials": "V",
+            "lastname": "Kumpulainen"
+        },
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.",
+            "firstname": "Niloofar",
+            "initials": "N",
+            "lastname": "Hashempour"
+        },
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Radiology, University of Turku, Turku, Finland.",
+            "firstname": "Harri",
+            "initials": "H",
+            "lastname": "Merisaari"
+        },
+        {
+            "affiliation": "Department of Medical Physics, Turku University Hospital, Turku, Finland.",
+            "firstname": "Jani",
+            "initials": "J",
+            "lastname": "Saunavaara"
+        },
+        {
+            "affiliation": "Department of Radiology, University of Turku, Turku, Finland.\nDepartment of Radiology, Turku University Hospital, Turku, Finland.",
+            "firstname": "Riitta",
+            "initials": "R",
+            "lastname": "Parkkola"
+        },
+        {
+            "affiliation": "Department of Paediatric Neurology, Turku University Hospital and University of Turku, Turku, Finland.",
+            "firstname": "Tuire",
+            "initials": "T",
+            "lastname": "L\u00e4hdesm\u00e4ki"
+        },
+        {
+            "affiliation": "Department of Radiology, Turku University Hospital, Turku, Finland.",
+            "firstname": "Ekaterina",
+            "initials": "E",
+            "lastname": "Saukko"
+        },
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nTurku Institute for Advanced Studies, University of Turku, Turku, Finland.\nDepartment of Psychology and Speech-Language Pathology, University of Turku, Turku, Finland.",
+            "firstname": "Saara",
+            "initials": "S",
+            "lastname": "Nolvi"
+        },
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.",
+            "firstname": "Eeva-Leena",
+            "initials": "EL",
+            "lastname": "Kataja"
+        },
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.\nCentre for Population Health Research, University of Turku and Turku University Hospital, Turku, Finland.",
+            "firstname": "Linnea",
+            "initials": "L",
+            "lastname": "Karlsson"
+        },
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.\nCentre for Population Health Research, University of Turku and Turku University Hospital, Turku, Finland.",
+            "firstname": "Hasse",
+            "initials": "H",
+            "lastname": "Karlsson"
+        },
+        {
+            "affiliation": "FinnBrain Birth Cohort Study, Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.\nTurku Collegium for Science, Medicine and Technology, University of Turku, Turku, Finland.\nDepartment of Psychiatry, University of Oxford, UK (Sigrid Juselius Fellowship), Oxford, UK.",
+            "firstname": "Jetro J",
+            "initials": "JJ",
+            "lastname": "Tuulari"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2022 The Authors. European Journal of Neuroscience published by Federation of European Neuroscience Societies and John Wiley & Sons Ltd.",
+    "doi": "10.1111/ejn.15761\n10.1093/cercor/bhaa158\n10.1007/s11682-018-9835-y\n10.1037/abn0000392\n10.1016/j.pscychresns.2019.04.012\n10.1007/BF00308809\n10.1371/journal.pone.0005265\n10.3389/fnins.2021.666020\n10.3389/fnhum.2015.00021\n10.1002/jmri.22473\n10.3758/s13415-017-0544-6\n10.1016/s0896-6273(02)00569-x\n10.1016/j.neuroimage.2004.07.016\n10.1097/HRP.0000000000000185\n10.1016/j.neuroimage.2012.05.083\n10.1016/j.dcn.2015.12.005\n10.1016/j.jneumeth.2015.05.024\n10.1007/s11682-021-00502-y\n10.1007/s12021-018-9408-7\n10.3389/fnins.2019.01025\n10.1007/s00381-002-0604-1\n10.1515/revneuro-2016-0086\n10.1093/ije/dyx173\n10.1016/j.biopsych.2017.10.006\n10.1016/j.dcn.2019.100714\n10.1016/j.neuroimage.2017.02.069\n10.1002/brb3.1073\n10.1002/jnr.23709\n10.1037/1082-989X.1.1.30\n10.3791/50991\n10.1016/j.neuroimage.2008.12.033\n10.1016/j.neuroimage.2014.01.058\n10.1007/s11548-016-1433-0\n10.1002/hbm.22068\n10.1371/journal.pone.0222002\n10.1111/j.1528-1167.2009.02243.x\n10.1016/j.biopsych.2017.11.008\n10.1016/j.neuroimage.2011.02.046\n10.1038/s41598-017-02584-5\n10.1016/j.neuroimage.2014.04.054\n10.1016/j.pscychresns.2015.02.001\n10.3389/fnins.2022.874062\n10.1002/hbm.24480\n10.1016/j.neuroimage.2010.07.020\n10.1016/j.neuroimage.2012.02.084\n10.1016/j.ntt.2020.106944\n10.1016/j.neuroimage.2014.05.020\n10.1038/s41586-018-0716-8\n10.1016/j.neuroimage.2018.02.009\n10.1016/j.neuroimage.2004.03.032\n10.1037//0033-2909.86.2.420\n10.1111/bpa.12429\n10.1016/j.jclinepi.2006.03.012\n10.1016/j.pscychresns.2016.09.010\n10.1038/nature09820.Amygdala\n10.1111/jon.12483\n10.1002/da.23261\n10.1016/S1076-6332(03)00671-8",
+    "journal": "The European journal of neuroscience",
+    "keywords": [
+        "brain",
+        "brain (growth and development)",
+        "child",
+        "neuroimaging"
+    ],
+    "methods": null,
+    "publication_date": "2022-07-09",
+    "pubmed_id": "35799402\n32676648\n29442273\n30628810\n31071541\n1759558\n19370155\n34321992\n25741260\n21563239\n29063521\n11832223\n15501102\n29734226\n22713673\n26754461\n26057114\n34386927\n30552549\n31616245\n12192499\n28422707\n29025073\n29174478\n31614256\n28259781\n30047249\n26876924\n25046210\n19162198\n24521851\n27325140\n22815187\n31483847\n19682030\n29275841\n21352927\n28546533\n24784800\n25752844\n35585923\n30451332\n20637289\n22430496\n33232797\n24844741\n30429612\n26824403\n15219578\n18839484\n27529459\n17161752\n27716544\n21389985\n29134725\n35485920\n14974593",
+    "results": null,
+    "title": "Subcortical and hippocampal brain segmentation in 5-year-old children: Validation of FSL-FIRST and FreeSurfer against manual segmentation.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827a406d0>"
+}{
+    "abstract": "Pediatric neuroimaging is a quickly developing field that still faces important methodological challenges. Pediatric images usually have more motion artifact than adult images. The artifact can cause visible errors in brain segmentation, and one way to address it is to manually edit the segmented images. Variability in editing and quality control protocols may complicate comparisons between studies. In this article, we describe in detail the semiautomated segmentation and quality control protocol of structural brain images that was used in FinnBrain Birth Cohort Study and relies on the well-established FreeSurfer v6.0 and ENIGMA (Enhancing Neuro Imaging Genetics through Meta Analysis) consortium tools. The participants were typically developing 5-year-olds [",
+    "authors": [
+        {
+            "affiliation": "Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.",
+            "firstname": "Elmo P",
+            "initials": "EP",
+            "lastname": "Pulli"
+        },
+        {
+            "affiliation": "Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.",
+            "firstname": "Eero",
+            "initials": "E",
+            "lastname": "Silver"
+        },
+        {
+            "affiliation": "Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.",
+            "firstname": "Venla",
+            "initials": "V",
+            "lastname": "Kumpulainen"
+        },
+        {
+            "affiliation": "Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.",
+            "firstname": "Anni",
+            "initials": "A",
+            "lastname": "Copeland"
+        },
+        {
+            "affiliation": "Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Radiology, University of Turku, Turku, Finland.",
+            "firstname": "Harri",
+            "initials": "H",
+            "lastname": "Merisaari"
+        },
+        {
+            "affiliation": "Department of Medical Physics, Turku University Hospital, Turku, Finland.",
+            "firstname": "Jani",
+            "initials": "J",
+            "lastname": "Saunavaara"
+        },
+        {
+            "affiliation": "Department of Radiology, University of Turku, Turku, Finland.\nDepartment of Radiology, Turku University Hospital, Turku, Finland.",
+            "firstname": "Riitta",
+            "initials": "R",
+            "lastname": "Parkkola"
+        },
+        {
+            "affiliation": "Department of Pediatrics and Adolescent Medicine, Turku University Hospital, University of Turku, Turku, Finland.",
+            "firstname": "Tuire",
+            "initials": "T",
+            "lastname": "L\u00e4hdesm\u00e4ki"
+        },
+        {
+            "affiliation": "Department of Radiology, Turku University Hospital, Turku, Finland.",
+            "firstname": "Ekaterina",
+            "initials": "E",
+            "lastname": "Saukko"
+        },
+        {
+            "affiliation": "Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nTurku Institute for Advanced Studies, University of Turku, Turku, Finland.\nDepartment of Psychology, University of Turku, Turku, Finland.",
+            "firstname": "Saara",
+            "initials": "S",
+            "lastname": "Nolvi"
+        },
+        {
+            "affiliation": "Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.",
+            "firstname": "Eeva-Leena",
+            "initials": "EL",
+            "lastname": "Kataja"
+        },
+        {
+            "affiliation": "Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychology, University of Turku, Turku, Finland.",
+            "firstname": "Riikka",
+            "initials": "R",
+            "lastname": "Korja"
+        },
+        {
+            "affiliation": "Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.\nCentre for Population Health Research, Turku University Hospital, University of Turku, Turku, Finland.",
+            "firstname": "Linnea",
+            "initials": "L",
+            "lastname": "Karlsson"
+        },
+        {
+            "affiliation": "Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.\nCentre for Population Health Research, Turku University Hospital, University of Turku, Turku, Finland.",
+            "firstname": "Hasse",
+            "initials": "H",
+            "lastname": "Karlsson"
+        },
+        {
+            "affiliation": "Turku Brain and Mind Center, Department of Clinical Medicine, University of Turku, Turku, Finland.\nDepartment of Psychiatry, Turku University Hospital, University of Turku, Turku, Finland.\nTurku Collegium for Science, Medicine and Technology, University of Turku, Turku, Finland.\nDepartment of Psychiatry, University of Oxford, Oxford, United Kingdom.",
+            "firstname": "Jetro J",
+            "initials": "JJ",
+            "lastname": "Tuulari"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2022 Pulli, Silver, Kumpulainen, Copeland, Merisaari, Saunavaara, Parkkola, L\u00e4hdesm\u00e4ki, Saukko, Nolvi, Kataja, Korja, Karlsson, Karlsson and Tuulari.",
+    "doi": "10.3389/fnins.2022.874062\n10.1016/j.neuroimage.2020.117585\n10.1002/dneu.22679\n10.1002/hbm.23180\n10.1007/s00247-013-2798-7\n10.1038/s41598-020-67662-7\n10.3389/fnhum.2020.00143\n10.1016/j.neuroimage.2011.10.024\n10.1006/nimg.2002.1076\n10.1176/appi.ajp.2017.17050485\n10.1016/J.NEUROPSYCHOLOGIA.2018.10.020\n10.1016/j.yebeh.2019.106825\n10.1371/journal.pone.0037758\n10.1093/ije/dyt152\n10.1093/brain/awu229\n10.1006/nimg.1998.0395\n10.3389/fnhum.2015.00021\n10.1002/pd.4932\n10.1016/j.biopsych.2015.08.024\n10.1016/j.pscychresns.2006.12.009\n10.1073/pnas.200033797\n10.1006/nimg.1998.0396\n10.1002/(SICI)1097-019319998:4<272::AID-HBM10<3.0.CO;2-4\n10.1016/j.neuroimage.2010.07.033\n10.1093/brain/awy199\n10.1016/j.neuroimage.2010.05.075\n10.1016/j.dcn.2015.12.005\n10.1016/J.NEUROIMAGE.2016.12.036\n10.1016/j.nicl.2018.03.026\n10.1176/appi.ajp.2019.18091033\n10.1016/j.jns.2016.06.065\n10.1093/ije/dyx173\n10.1016/j.neuroimage.2019.01.014\n10.1016/j.neuroimage.2010.10.019\n10.3389/fneur.2019.01347\n10.1001/archpsyc.60.9.878\n10.1016/j.nicl.2017.06.002\n10.1101/2021.05.28.445926\n10.1093/cercor/bhu027\n10.1093/cercor/bhaa097\n10.3389/fnins.2015.00379\n10.1016/j.neuroimage.2019.04.067\n10.1186/s12916-017-0993-3\n10.1006/nimg.2000.0651\n10.1007/s11011-017-0162-6\n10.1016/j.neuroimage.2011.01.051\n10.1016/j.dcn.2017.08.009\n10.1016/j.nicl.2018.05.030\n10.1097/00002142-200202000-00005\n10.1002/hbm.24480\n10.1371/journal.pone.0076702\n10.1111/j.1469-7610.2009.02133.x\n10.1038/sj.ijo.0803741\n10.1007/s11011-014-9500-0\n10.1212/WNL.58.5.695\n10.1016/J.PSCYCHRESNS.2021.111297\n10.1093/cercor/bhh032\n10.1016/j.neuroimage.2016.01.038\n10.1016/j.neuroimage.2004.03.032\n10.1111/jon.12521\n10.1073/pnas.0707741104\n10.1371/journal.pone.0018746\n10.1109/42.668698\n10.1097/DBP.0000000000000007\n10.1371/journal.pone.0094019\n10.1038/s41398-020-0705-1\n10.1093/cercor/bhw348\n10.1093/cercor/bhv301\n10.1007/s11682-018-9951-8\n10.1016/j.neuroimage.2020.116846\n10.1002/hbm.23911\n10.1002/mrm.10606\n10.1016/J.NEUROIMAGE.2012.03.026\n10.1186/s13229-016-0076-x\n10.1177/1087054712455501\n10.1016/j.neuroimage.2008.12.046\n10.1016/j.neuroimage.2020.116946",
+    "journal": "Frontiers in neuroscience",
+    "keywords": [
+        "brain",
+        "brain growth and development",
+        "child",
+        "magnetic resonance imaging",
+        "neuroimaging"
+    ],
+    "methods": null,
+    "publication_date": "2022-05-20",
+    "pubmed_id": "35585923\n33248256\n31004467\n27004471\n24096802\n32616747\n32390814\n22023744\n11969320\n29377733\n30393004\n31816479\n22719848\n24058000\n25125610\n9931268\n25741260\n27684946\n26422004\n17395436\n10984517\n9931269\n10619420\n20656036\n30084910\n20621657\n26754461\n27989777\n29876273\n31014101\n27538609\n29025073\n30633965\n20969966\n31969859\n12963669\n28664031\n35799402\n24591525\n32377664\n26539075\n31029873\n29332605\n11034861\n29209922\n21276861\n29033222\n30003026\n11847501\n30451332\n24204657\n19674195\n17938639\n24553878\n11889230\n33962164\n15054051\n26824403\n15219578\n29766613\n18024590\n21533194\n9617910\n24509056\n24718364\n32198361\n29253247\n28365755\n30145718\n32304884\n29206318\n14523961\n22446492\n26816612\n22912507\n19167509\n32442637",
+    "results": null,
+    "title": "Feasibility of FreeSurfer Processing for T1-Weighted Brain Images of 5-Year-Olds: Semiautomated Protocol of FinnBrain Neuroimaging Lab.",
+    "xml": "<Element 'PubmedArticle' at 0x7d782774aca0>"
+}{
+    "abstract": "Our study aimed to develop an approach to improve the speed and resolution of cerebral-hemisphere and lesion modeling and evaluate the advantages and disadvantages of robot-assisted surgical planning software.\nWe applied both conventional robot planning software (method 1) and open-source auxiliary software (FreeSurfer and 3D Slicer; method 2) to model the brain and lesions in 19 patients with drug-resistant epilepsy. The patients' mean age at implantation was 21.4 years (range, 6-52 years). Each patient received an average of 12 electrodes (range, 9-16) between May and November 2021. The electrode-implantation plan was designed based on the models established using the two methods. We statistically analyzed and compared the duration of designing the models and planning the implantation using these two methods and performed the surgeries with the implantation plan designed using the auxiliary software.\nA significantly longer time was needed to reconstruct a cerebral-hemisphere model using method 1 (mean, 206 s) than using method 2 (mean, 20 s) (\nFreeSurfer and 3D Slicer-assisted SEEG implantation is an excellent approach to enhance modeling speed and resolution, shorten the electrode-implantation planning time, and boost the efficiency of clinical work. These well-known, trusted open-source programs do not have explicitly restricted licenses. These tools, therefore, seem well suited for clinical-research applications under the premise of approval by an ethics committee, informed consent of the patient, and clinical judgment of the surgeon.",
+    "authors": [
+        {
+            "affiliation": "Department of Neurosurgery, Clinical Neuroscience Center Comprehensive Epilepsy Unit, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.\nClinical Neuroscience Center, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+            "firstname": "Qiangqiang",
+            "initials": "Q",
+            "lastname": "Liu"
+        },
+        {
+            "affiliation": "Clinical Neuroscience Center, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+            "firstname": "Junjie",
+            "initials": "J",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "Clinical Neuroscience Center, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+            "firstname": "Changquan",
+            "initials": "C",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "Wuhan Zhongke Industrial Research Institute of Medical Science Co., Ltd., Wuhan, China.",
+            "firstname": "Fang",
+            "initials": "F",
+            "lastname": "Wei"
+        },
+        {
+            "affiliation": "Department of Neurosurgery, Center for Functional Neurosurgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.\nShanghai Research Center for Brain Science and Brain-Inspired Intelligence, Shanghai, China.",
+            "firstname": "Chencheng",
+            "initials": "C",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": "School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China.\nInstitute of Medical Robotics, Shanghai Jiao Tong University, Shanghai, China.",
+            "firstname": "Hongjiang",
+            "initials": "H",
+            "lastname": "Wei"
+        },
+        {
+            "affiliation": "Department of Neurosurgery, Clinical Neuroscience Center Comprehensive Epilepsy Unit, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.\nClinical Neuroscience Center, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+            "firstname": "Xiaolai",
+            "initials": "X",
+            "lastname": "Ye"
+        },
+        {
+            "affiliation": "Department of Neurosurgery, Clinical Neuroscience Center Comprehensive Epilepsy Unit, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.\nClinical Neuroscience Center, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+            "firstname": "Jiwen",
+            "initials": "J",
+            "lastname": "Xu"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2022 Liu, Wang, Wang, Wei, Zhang, Wei, Ye and Xu.",
+    "doi": "10.3389/fnbot.2022.848746\n10.3171/2018.1.PEDS17435\n10.1007/s00381-021-05107-w\n10.1006/nimg.1998.0395\n10.1109/TBME.2012.2231681\n10.1016/j.mri.2012.05.001\n10.1016/j.neuroimage.2012.01.021\n10.1016/j.cmpb.2021.106042\n10.1016/j.neucli.2017.11.005\n10.1016/j.media.2016.06.035\n10.1159/000316761\n10.21037/apm-20-2123\n10.1159/000510107\n10.1186/s12859-017-1545-8\n10.3389/fnins.2013.00260\n10.1002/hbm.10062\n10.1007/s11548-016-1452-x\n10.1002/rcs.1888\n10.1016/j.yebeh.2018.11.002\n10.1007/s13311-019-00774-9\n10.1016/j.wneu.2020.04.218",
+    "journal": "Frontiers in neurorobotics",
+    "keywords": [
+        "3D Slicer",
+        "FreeSurfer",
+        "robotics",
+        "stereoelectroencephalography (SEEG)",
+        "stereotactic neurosurgery"
+    ],
+    "methods": null,
+    "publication_date": "2022-03-18",
+    "pubmed_id": "35295674\n29676681\n33738542\n9931268\n23221797\n22770690\n22248573\n33743489\n29277357\n27498015\n20588080\n33691455\n33017833\n28231759\n24427112\n12391568\n27368184\n29316270\n30497893\n31432448\n32389862",
+    "results": "A significantly longer time was needed to reconstruct a cerebral-hemisphere model using method 1 (mean, 206 s) than using method 2 (mean, 20 s) (",
+    "title": "FreeSurfer and 3D Slicer-Assisted SEEG Implantation for Drug-Resistant Epilepsy.",
+    "xml": "<Element 'PubmedArticle' at 0x7d78277a96c0>"
+}{
+    "abstract": "Magnetic Resonance Imaging (MRI) motion artefacts frequently complicate structural and diffusion MRI analyses. While diffusion imaging is easily 'scrubbed' of motion affected volumes, the same is not true for T1w or T2w 'structural' images. Structural images are critical to most diffusion-imaging pipelines thus their corruption can lead to disproportionate data loss. To enable diffusion-image processing when structural images are missing or have been corrupted, we propose a means by which synthetic structural images can be generated from diffusion MRI. This technique combines multi-tissue constrained spherical deconvolution, which is central to many existing diffusion analyses, with the Bloch equations that allow simulation of MRI intensities for given scanner parameters and magnetic resonance (MR) tissue properties. We applied this technique to 32 scans, including those acquired on different scanners, with different protocols and with pathology present. The resulting synthetic T1w and T2w images were visually convincing and exhibited similar tissue contrast to acquired structural images. These were also of sufficient quality to drive a Freesurfer-based tractographic analysis. In this analysis, probabilistic tractography connecting the thalamus to the primary sensorimotor cortex was delineated with Freesurfer, using either real or synthetic structural images. Tractography for real and synthetic conditions was largely identical in terms of both voxels encountered (Dice 0.88-0.95) and mean fractional anisotropy (intrasubject absolute difference 0.00-0.02). We provide executables for the proposed technique in the hope that these may aid the community in analysing datasets where structural image corruption is common, such as studies of children or cognitively impaired persons.",
+    "authors": [
+        {
+            "affiliation": "The Australian e-Health Research Centre, CSIRO, Queensland, Australia.\nUniv Rennes, INSERM, LTSI-UMR1099, Rennes, France.",
+            "firstname": "Jeremy",
+            "initials": "J",
+            "lastname": "Beaumont"
+        },
+        {
+            "affiliation": "Univ Rennes, INSERM, LTSI-UMR1099, Rennes, France.",
+            "firstname": "Giulio",
+            "initials": "G",
+            "lastname": "Gambarota"
+        },
+        {
+            "affiliation": "Department of Medical Imaging, Royal Brisbane and Women's Hospital, Herston, Queensland, Australia.",
+            "firstname": "Marita",
+            "initials": "M",
+            "lastname": "Prior"
+        },
+        {
+            "affiliation": "The Australian e-Health Research Centre, CSIRO, Queensland, Australia.",
+            "firstname": "Jurgen",
+            "initials": "J",
+            "lastname": "Fripp"
+        },
+        {
+            "affiliation": "The Australian e-Health Research Centre, CSIRO, Queensland, Australia.",
+            "firstname": "Lee B",
+            "initials": "LB",
+            "lastname": "Reid"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1371/journal.pone.0247343\n10.1097/00001756-199909090-00022\n10.1016/j.neuroimage.2010.05.043\n10.1038/nrneurol.2015.97\n10.1002/hbm.23514\n10.1177/1545968317753076\n10.1016/j.neuroimage.2012.01.021\n10.1016/j.neuroimage.2015.03.050\n10.1101/2020.07.16.20155598\n10.1007/s10278-012-9561-8\n10.1002/nbm.1543\n10.1016/j.neuroimage.2012.07.022\n10.1002/mrm.1910300406\n10.1002/mrm.10093\n10.1016/j.mri.2017.07.015\n10.1016/j.ijdevneu.2017.01.010\n10.1016/j.neuroimage.2007.02.016\n10.1002/nbm.3017\n10.1136/bmjopen-2013-002853\n10.1186/S12883-015-0381-6\n10.1016/j.neuroimage.2014.07.061\n10.1109/42.816072\n10.1007/978-3-319-46630-9_15\n10.1016/j.mri.2020.02.010\n10.1371/journal.pone.0096899\n10.1103/PhysRev.80.580\n10.1002/jmri.21049\n10.1002/jmri.20356\n10.1002/(sici)1522-2586(199904)9:4&lt;531::aid-jmri4&gt;3.0.co;2-l\n10.1016/j.mri.2007.02.014\n10.1007/s10334-017-0659-3\n10.1016/j.neuroimage.2012.02.018\n10.1016/j.neuroimage.2013.04.127\n10.1186/s12887-018-0993-2\n10.1186/s12887-019-1904-x\n10.1101/2020.05.04.20091140\n10.1016/j.neuroimage.2019.116137\n10.1109/TMI.2010.2046908\n10.1016/j.neuroimage.2010.09.025\n10.1016/j.neuroimage.2020.116646\n10.1016/j.neuroimage.2012.10.075\n10.3109/17482961003774428\n10.1109/TMI.2006.880587\n10.1016/j.nicl.2017.05.005\n10.1002/hbm.22150",
+    "journal": "PloS one",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2022-02-19",
+    "pubmed_id": "35180211\n10511446\n20580932\n26077839\n28677154\n29357743\n22248573\n25827811\n34547147\n23288436\n20886566\n22819964\n8255191\n11948728\n28716683\n28130065\n17379540\n24038308\n23578686\n26286324\n25109526\n10661326\n28367541\n32088291\n24879508\n18302232\n15971174\n10232510\n17459640\n29110239\n22366334\n23668970\n30064388\n31910803\n33341723\n31473352\n20378467\n20851191\n32084566\n23128077\n20429685\n17117774\n28702354\n22847906",
+    "results": null,
+    "title": "Avoiding data loss: Synthetic MRIs generated from diffusion imaging can replace corrupted structural acquisitions for freesurfer-seeded tractography.",
+    "xml": "<Element 'PubmedArticle' at 0x7d78277b3100>"
+}{
+    "abstract": "Neuroimaging pipelines have long been known to generate mildly differing results depending on various factors, including software version. While considered generally acceptable and within the margin of reasonable error, little is known about their effect in common research scenarios such as inter-group comparisons between healthy controls and various pathological conditions. The aim of the presented study was to explore the differences in the inferences and statistical significances in a model situation comparing volumetric parameters between healthy controls and type 1 diabetes patients using various FreeSurfer versions.\nT1- and T2-weighted structural scans of healthy controls and type 1 diabetes patients were processed with FreeSurfer 5.3, FreeSurfer 5.3 HCP, FreeSurfer 6.0 and FreeSurfer 7.1, followed by inter-group statistical comparison using outputs of individual FreeSurfer versions.\nWorryingly, FreeSurfer 5.3 detected both cortical and subcortical volume differences out of the preselected regions of interest, but newer versions such as FreeSurfer 5.3 HCP and FreeSurfer 6.0 reported only subcortical differences of lower magnitude and FreeSurfer 7.1 failed to find any statistically significant inter-group differences.\nSince group averages of individual FreeSurfer versions closely matched, in keeping with previous literature, the main origin of this disparity seemed to lie in substantially higher within-group variability in the model pathological condition. Ergo, until validation in common research scenarios as case-control comparison studies is included into the development process of new software suites, confirmatory analyses utilising a similar software based on analogous, but not fully equivalent principles, might be considered as supplement to careful quality control.",
+    "authors": [
+        {
+            "affiliation": "Center for Magnetic Resonance Research (CMRR), University of Minnesota, 2021 Sixth St. SE, Minneapolis, MN, 55455, USA.\nDepartment of Neurology, Charles University, First Faculty of Medicine and General University Hospital, Prague, Czech Republic.",
+            "firstname": "Pavel",
+            "initials": "P",
+            "lastname": "Filip"
+        },
+        {
+            "affiliation": "Center for Magnetic Resonance Research (CMRR), University of Minnesota, 2021 Sixth St. SE, Minneapolis, MN, 55455, USA.\nHigh Field MR Centre, Department of Biomedical Imaging and Image-Guided Therapy, Medical University of Vienna, Vienna, Austria.",
+            "firstname": "Petr",
+            "initials": "P",
+            "lastname": "Bednarik"
+        },
+        {
+            "affiliation": "Center for Magnetic Resonance Research (CMRR), University of Minnesota, 2021 Sixth St. SE, Minneapolis, MN, 55455, USA.\nDivision of Biostatistics, School of Public Health, University of Minnesota, Minnesota, MN, USA.",
+            "firstname": "Lynn E",
+            "initials": "LE",
+            "lastname": "Eberly"
+        },
+        {
+            "affiliation": "Department of Medicine, University of Minnesota, Minneapolis, MN, USA.",
+            "firstname": "Amir",
+            "initials": "A",
+            "lastname": "Moheet"
+        },
+        {
+            "affiliation": "Department of Medicine III, Clinical Division of Endocrinology and Metabolism, Medical University of Vienna, Vienna, Austria.\nDepartment of Imaging Methods, Faculty of Medicine, University of Ostrava, Ostrava, Czechia.",
+            "firstname": "Alena",
+            "initials": "A",
+            "lastname": "Svatkova"
+        },
+        {
+            "affiliation": "Center for Magnetic Resonance Research (CMRR), University of Minnesota, 2021 Sixth St. SE, Minneapolis, MN, 55455, USA.\nDiagnostic Imaging Center, Kuopio University Hospital, Kuopio, Finland.",
+            "firstname": "Heidi",
+            "initials": "H",
+            "lastname": "Grohn"
+        },
+        {
+            "affiliation": "Department of Medicine, University of Minnesota, Minneapolis, MN, USA.",
+            "firstname": "Anjali F",
+            "initials": "AF",
+            "lastname": "Kumar"
+        },
+        {
+            "affiliation": "Department of Medicine, University of Minnesota, Minneapolis, MN, USA.",
+            "firstname": "Elizabeth R",
+            "initials": "ER",
+            "lastname": "Seaquist"
+        },
+        {
+            "affiliation": "Center for Magnetic Resonance Research (CMRR), University of Minnesota, 2021 Sixth St. SE, Minneapolis, MN, 55455, USA. mangia@umn.edu.",
+            "firstname": "Silvia",
+            "initials": "S",
+            "lastname": "Mangia"
+        }
+    ],
+    "conclusions": "Since group averages of individual FreeSurfer versions closely matched, in keeping with previous literature, the main origin of this disparity seemed to lie in substantially higher within-group variability in the model pathological condition. Ergo, until validation in common research scenarios as case-control comparison studies is included into the development process of new software suites, confirmatory analyses utilising a similar software based on analogous, but not fully equivalent principles, might be considered as supplement to careful quality control.",
+    "copyrights": "\u00a9 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.",
+    "doi": "10.1007/s00234-021-02862-0\n10.3389/fnins.2017.00529\n10.1007/s11682-018-9994-x\n10.2337/db19-1100\n10.1016/j.neuroimage.2012.01.021\n10.3389/fninf.2015.00012\n10.1371/journal.pone.0038234\n10.3389/fneur.2019.01338\n10.1016/j.jdiacomp.2013.07.001\n10.1016/j.parkreldis.2010.12.010\n10.1007/s11682-014-9348-2\n10.1016/j.neuroimage.2013.06.068\n10.1186/s12883-015-0274-8\n10.1186/1471-2105-16-S7-S8\n10.1016/j.jpsychires.2018.04.016\n10.1007/s00125-006-0283-7",
+    "journal": "Neuroradiology",
+    "keywords": [
+        "FreeSurfer",
+        "Magnetic resonance imaging",
+        "Repeatability",
+        "Volumetry"
+    ],
+    "methods": null,
+    "publication_date": "2022-01-07",
+    "pubmed_id": "34988592\n28993722\n30511116\n15488422\n24789776\n27018380\n32839347\n22248573\n23668970\n25964757\n22675527\n17428687\n16651008\n31998210\n23994432\n19233293\n21236720\n19162198\n20162602\n25563229\n16443764\n23827332\n25879588\n11889230\n25953026\n18414838\n29729620\n16703329",
+    "results": "Worryingly, FreeSurfer 5.3 detected both cortical and subcortical volume differences out of the preselected regions of interest, but newer versions such as FreeSurfer 5.3 HCP and FreeSurfer 6.0 reported only subcortical differences of lower magnitude and FreeSurfer 7.1 failed to find any statistically significant inter-group differences.",
+    "title": "Different FreeSurfer versions might generate different statistical outcomes in case-control comparison studies.",
+    "xml": "<Element 'PubmedArticle' at 0x7d78276ec680>"
+}{
+    "abstract": "To determine whether reliable brain atrophy measures can be obtained from post-contrast 3D T1-weighted images in patients with multiple sclerosis (MS) using FreeSurfer.\nTwenty-two patients with MS were included, in which 3D T1-weighted MR images were obtained during the same scanner visit, with the same acquisition protocol, before and after administration of gadolinium-based contrast agents (GBCAs). Two FreeSurfer versions (v.6.0.1 and v.7.1.1.) were applied to calculate grey matter (GM) and white matter (WM) volumes and global and regional cortical thickness. The consistency between measures obtained in pre- and post-contrast images was assessed by intra-class correlation coefficient (ICC), the difference was investigated by paired t-tests, and the mean percentage increase or decrease was calculated for total WM and GM matter volume, total deep GM and thalamus volume, and mean cortical thickness.\nGood to excellent reliability was found between all investigated measures, with ICC ranging from 0.926 to 0.996, all p values\u2009<\u20090.001. GM volumes and cortical thickness measurements were significantly higher in post-contrast images by 3.1 to 17.4%, while total WM volume decreased significantly by 1.7% (all p values\u2009<\u20090.001).\nThe consistency between values obtained from pre- and post-contrast images was excellent, suggesting it may be possible to extract reliable brain atrophy measurements from T1-weighted images acquired after administration of GBCAs, using FreeSurfer. However, absolute values were systematically different between pre- and post-contrast images, meaning that such images should not be compared directly. Potential systematic effects, possibly dependent on GBCA dose or the delay time after contrast injection, should be investigated.\nClinical trials.gov. identifier: NCT00360906.\n\u2022 The influence of gadolinium-based contrast agents (GBCAs) on atrophy measurements is still largely unknown and challenges the use of a considerable source of historical and prospective real-world data. \u2022 In 22 patients with multiple sclerosis, the consistency between brain atrophy measurements obtained from pre- and post-contrast images was excellent, suggesting it may be possible to extract reliable atrophy measurements in T1-weighted images acquired after administration of GBCAs, using FreeSurfer. \u2022 Absolute values were systematically different between pre- and post-contrast images, meaning that such images should not be compared directly, and measurements extracted from certain regions (e.g., the temporal pole) should be interpreted with caution.",
+    "authors": [
+        {
+            "affiliation": "Department of Clinical Medicine, University of Bergen, Bergen, Norway. Ingrid.lie@uib.no.",
+            "firstname": "Ingrid Anne",
+            "initials": "IA",
+            "lastname": "Lie"
+        },
+        {
+            "affiliation": "Department of Radiology and Nuclear Medicine, MS Center Amsterdam, Amsterdam Neuroscience, Amsterdam UMC, Location VUmc, De Boelelaan 1118, 1081 HZ, Amsterdam, The Netherlands.",
+            "firstname": "Emma",
+            "initials": "E",
+            "lastname": "Kerklingh"
+        },
+        {
+            "affiliation": "Department of Clinical Medicine, University of Bergen, Bergen, Norway.\nNeuro-SysMed, Department of Neurology, Haukeland University Hospital, Bergen, Norway.\nDepartment of Neurology, St. Olav's University Hospital, Trondheim, Norway.",
+            "firstname": "Kristin",
+            "initials": "K",
+            "lastname": "Wesnes"
+        },
+        {
+            "affiliation": "Department of Radiology and Nuclear Medicine, MS Center Amsterdam, Amsterdam Neuroscience, Amsterdam UMC, Location VUmc, De Boelelaan 1118, 1081 HZ, Amsterdam, The Netherlands.",
+            "firstname": "David R",
+            "initials": "DR",
+            "lastname": "van Nederpelt"
+        },
+        {
+            "affiliation": "Department of Radiology and Nuclear Medicine, MS Center Amsterdam, Amsterdam Neuroscience, Amsterdam UMC, Location VUmc, De Boelelaan 1118, 1081 HZ, Amsterdam, The Netherlands.",
+            "firstname": "Iman",
+            "initials": "I",
+            "lastname": "Brouwer"
+        },
+        {
+            "affiliation": "Department of Clinical Medicine, University of Bergen, Bergen, Norway.\nNeuro-SysMed, Department of Neurology, Haukeland University Hospital, Bergen, Norway.",
+            "firstname": "\u00d8ivind",
+            "initials": "\u00d8",
+            "lastname": "Torkildsen"
+        },
+        {
+            "affiliation": "Department of Clinical Medicine, University of Bergen, Bergen, Norway.\nNeuro-SysMed, Department of Neurology, Haukeland University Hospital, Bergen, Norway.",
+            "firstname": "Kjell-Morten",
+            "initials": "KM",
+            "lastname": "Myhr"
+        },
+        {
+            "affiliation": "Department of Radiology and Nuclear Medicine, MS Center Amsterdam, Amsterdam Neuroscience, Amsterdam UMC, Location VUmc, De Boelelaan 1118, 1081 HZ, Amsterdam, The Netherlands.\nInstitutes of Neurology and Healthcare Engineering, UCL London, London, UK.",
+            "firstname": "Frederik",
+            "initials": "F",
+            "lastname": "Barkhof"
+        },
+        {
+            "affiliation": "Department of Clinical Medicine, University of Bergen, Bergen, Norway.\nNorwegian Multiple Sclerosis Competence Centre, Department of Neurology, Haukeland University Hospital, Bergen, Norway.",
+            "firstname": "Lars",
+            "initials": "L",
+            "lastname": "B\u00f8"
+        },
+        {
+            "affiliation": "Department of Radiology and Nuclear Medicine, MS Center Amsterdam, Amsterdam Neuroscience, Amsterdam UMC, Location VUmc, De Boelelaan 1118, 1081 HZ, Amsterdam, The Netherlands.",
+            "firstname": "Hugo",
+            "initials": "H",
+            "lastname": "Vrenken"
+        }
+    ],
+    "conclusions": "The consistency between values obtained from pre- and post-contrast images was excellent, suggesting it may be possible to extract reliable brain atrophy measurements from T1-weighted images acquired after administration of GBCAs, using FreeSurfer. However, absolute values were systematically different between pre- and post-contrast images, meaning that such images should not be compared directly. Potential systematic effects, possibly dependent on GBCA dose or the delay time after contrast injection, should be investigated.",
+    "copyrights": "\u00a9 2021. The Author(s).",
+    "doi": "10.1007/s00330-021-08405-8\n10.1177/1352458514562440\n10.1016/j.jns.2008.12.005\n10.3174/ajnr.A3503\n10.1002/ana.21436\n10.1177/1352458519826364\n10.1136/jnnp-2013-306132\n10.1212/WNL.0000000000005292\n10.1001/archpsyc.60.9.878\n10.1212/WNL.58.5.695\n10.1016/j.neuroimage.2014.05.044\n10.1002/hbm.24017\n10.1007/s12021-014-9229-2\n10.1002/ana.25145\n10.1093/brain/awv337\n10.1007/s00415-006-0503-6\n10.1109/TMI.2002.806283\n10.1016/j.neuroimage.2010.07.052\n10.1006/nimg.2002.1040\n10.1038/nrneurol.2015.106\n10.3174/ajnr.A5773\n10.1007/s10534-016-9931-7\n10.1007/s11604-015-0503-5\n10.1007/s00234-018-2082-5\n10.3174/ajnr.A3890\n10.1001/archneurol.2012.283\n10.1002/ana.1032\n10.1016/j.neuroimage.2011.11.032\n10.1002/hbm.21344\n10.1016/j.neuroimage.2012.01.021\n10.1006/nimg.1998.0395\n10.1016/j.neuroimage.2006.01.021\n10.1371/journal.pone.0184661\n10.1109/42.906424\n10.11613/BM.2015.015\n10.1016/j.jcm.2016.02.012\n10.1002/jmri.21501\n10.3174/ajnr.A4635\n10.1016/j.neuroimage.2006.02.051\n10.1002/hbm.20161\n10.3389/fnins.2015.00379\n10.1073/pnas.200033797\n10.3389/fnins.2019.00729\n10.1016/j.neurobiolaging.2019.05.010\n10.1007/s00330-018-5710-x\n10.1111/jon.12676\n10.1586/ern.10.155\n10.1371/journal.pone.0176519\n10.1371/journal.pone.0206939",
+    "journal": "European radiology",
+    "keywords": [
+        "Atrophy",
+        "Gadolinium",
+        "Grey matter",
+        "Magnetic resonance imaging",
+        "Multiple sclerosis"
+    ],
+    "methods": null,
+    "publication_date": "2022-01-04",
+    "pubmed_id": "34978580\n25583833\n19168190\n23578679\n18661561\n30741108\n24029546\n29540589\n12963669\n11889230\n24879923\n29468773\n24789776\n29331092\n26637488\n17361339\n12585710\n20674750\n12482100\n26149978\n30385472\n27053146\n26608061\n30128599\n24699093\n22507886\n11456302\n22119648\n21882300\n22248573\n9931268\n16530430\n28945803\n11293691\n26110027\n27330520\n18777529\n26659338\n16651008\n15986433\n26539075\n10984517\n31379483\n31207467\n30242503\n31750599\n21375447\n28437430\n30408094",
+    "results": "Good to excellent reliability was found between all investigated measures, with ICC ranging from 0.926 to 0.996, all p values\u2009<\u20090.001. GM volumes and cortical thickness measurements were significantly higher in post-contrast images by 3.1 to 17.4%, while total WM volume decreased significantly by 1.7% (all p values\u2009<\u20090.001).",
+    "title": "The effect of gadolinium-based contrast-agents on automated brain atrophy measurements by FreeSurfer in patients with multiple sclerosis.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827710ae0>"
+}{
+    "abstract": "White matter hyperintensities (WMH) of presumed vascular origin are frequently found in MRIs of healthy older adults. WMH are also associated with aging and cognitive decline. Here, we compared and validated three algorithms for WMH extraction: FreeSurfer (T1w), UBO Detector (T1w\u2009+\u2009FLAIR), and FSL's Brain Intensity AbNormality Classification Algorithm (BIANCA; T1w\u2009+\u2009FLAIR) using a longitudinal dataset comprising MRI data of cognitively healthy older adults (baseline N\u00a0=\u00a0231, age range 64-87\u2009years). As reference we manually segmented WMH in T1w, three-dimensional (3D) FLAIR, and two-dimensional (2D) FLAIR images which were used to assess the segmentation accuracy of the different automated algorithms. Further, we assessed the relationships of WMH volumes provided by the algorithms with Fazekas scores and age. FreeSurfer underestimated the WMH volumes and scored worst in Dice Similarity Coefficient (DSC\u00a0=\u00a00.434) but its WMH volumes strongly correlated with the Fazekas scores (r",
+    "authors": [
+        {
+            "affiliation": "Division of Neuropsychology, Department of Psychology, University of Zurich, Zurich, Switzerland.\nUniversity Research Priority Program (URPP), Dynamics of Healthy Aging, University of Zurich, Zurich, Switzerland.",
+            "firstname": "Isabel",
+            "initials": "I",
+            "lastname": "Hotz"
+        },
+        {
+            "affiliation": "Division of Neuropsychology, Department of Psychology, University of Zurich, Zurich, Switzerland.",
+            "firstname": "Pascal Fr\u00e9d\u00e9ric",
+            "initials": "PF",
+            "lastname": "Deschwanden"
+        },
+        {
+            "affiliation": "University Research Priority Program (URPP), Dynamics of Healthy Aging, University of Zurich, Zurich, Switzerland.",
+            "firstname": "Franziskus",
+            "initials": "F",
+            "lastname": "Liem"
+        },
+        {
+            "affiliation": "University Research Priority Program (URPP), Dynamics of Healthy Aging, University of Zurich, Zurich, Switzerland.",
+            "firstname": "Susan",
+            "initials": "S",
+            "lastname": "M\u00e9rillat"
+        },
+        {
+            "affiliation": "University Research Priority Program (URPP), Dynamics of Healthy Aging, University of Zurich, Zurich, Switzerland.",
+            "firstname": "Brigitta",
+            "initials": "B",
+            "lastname": "Malagurski"
+        },
+        {
+            "affiliation": "Department of Neuroradiology, University Hospital Zurich, Zurich, Switzerland.",
+            "firstname": "Spyros",
+            "initials": "S",
+            "lastname": "Kollias"
+        },
+        {
+            "affiliation": "Division of Neuropsychology, Department of Psychology, University of Zurich, Zurich, Switzerland.\nUniversity Research Priority Program (URPP), Dynamics of Healthy Aging, University of Zurich, Zurich, Switzerland.",
+            "firstname": "Lutz",
+            "initials": "L",
+            "lastname": "J\u00e4ncke"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2021 The Authors. Human Brain Mapping published by Wiley Periodicals LLC.",
+    "doi": "10.1002/hbm.25739\n10.1016/j.jagp.2013.03.005\n10.1016/j.neuroimage.2003.10.012\n10.1159/000333482\n10.18637/jss.v067.i01\n10.1080/07038992.1998.10874685\n10.1016/S0140-6736(86)90837-8\n10.1007/978-3-319-46630-9_9\n10.5334/joc.10\n10.1007/s12021-015-9260-y\n10.1007/978-3-319-19992-4_2\n10.1037/1040-3590.6.4.284\n10.1037/h0026256\n10.4324/9780203771587\n10.4324/9780203771587\n10.1093/braincomms/fcz041\n10.1002/hbm.23894\n10.1016/j.neuroimage.2017.06.009\n10.1101/2020.07.07.191809\n10.1016/j.jns.2012.07.064\n10.1136/bmj.c3666\n10.1016/j.neurobiolaging.2004.05.004\n10.1007/s10072-020-04295-8\n10.2307/1932409\n10.1136/svn-2018-000209\n10.1109/ICPR.1994.576361\n10.1093/brain/awt184\n10.1038/s41592-018-0235-4\n10.2214/ajr.149.2.351\n10.1016/j.neuroimage.2012.01.021\n10.1016/s0896-6273(02)00569-x\n10.1016/0022-3956(75)90026-6\n10.3389/fneur.2019.00238\n10.1080/01621459.1937.10503522\n10.1038/s41598-017-05300-5\n10.1371/journal.pcbi.1005209\n10.3389/fninf.2011.00013\n10.1016/j.neuroimage.2016.07.018\n10.1016/j.nicl.2017.12.022\n10.1037//0894-4105.14.2.224\n10.1038/s41598-019-52966-0\n10.1109/34.232073\n10.1136/bmj.b2477\n10.1016/s1361-8415(01)00036-6\n10.1016/j.neuroimage.2018.03.050\n10.1016/j.jcm.2016.02.012\n10.2307/2529310\n10.1007/s12021-018-9372-2\n10.5281/zenodo.1887737\n10.1037/1082-989X.1.1.30\n10.1155/2013/198471\n10.1038/srep41637\n10.1038/nrneurol.2015.10\n10.3389/fnagi.2016.00062\n10.1016/j.neuroimage.2012.02.084\n10.1212/01.wnl.0000251302.55202.73\n10.1371/journal.pone.0048953\n10.1016/0022-510x(93)90041-v\n10.1016/j.neuroimage.2011.11.032\n10.1016/s0140-6736(03)13616-1\n10.1136/svn-2016-000035\n10.1016/0020-0190(91)90101-M\n10.1037//0033-2909.86.2.420\n10.1212/WNL.0b013e318217e7c8\n10.1101/437608\n10.1007/s11682-018-9943-8\n10.1109/TMI.2010.2046908\n10.1101/170209\n10.1016/j.nicl.2016.07.002\n10.1161/STROKEAHA.107.513176\n10.1007/978-3-319-24553-9_83\n10.1016/j.nicl.2020.102357\n10.1186/1471-2342-12-17\n10.1161/01.STR.32.6.1318\n10.1016/S1474-4422(13)70124-8\n10.1161/JAHA.114.001140\n10.1037/xge0000014\n10.1007/978-3-642-40811-3_76\n10.1109/42.906424\n10.1159/000324307",
+    "journal": "Human brain mapping",
+    "keywords": [
+        "MRI",
+        "automated segmentation",
+        "healthy aging",
+        "validation",
+        "white matter hyperintensities"
+    ],
+    "methods": null,
+    "publication_date": "2021-12-08",
+    "pubmed_id": "34873789\n23831171\n15006671\n22590477\n2868172\n31517183\n25649877\n26221664\n19673146\n31894208\n29181872\n28602597\n33783933\n22921728\n20660506\n15653178\n32095945\n31338220\n23864274\n30532080\n3496763\n22248573\n11832223\n1202204\n30972001\n28698556\n28278228\n21897815\n27402600\n29527496\n10791862\n31727919\n19581317\n11516708\n29578029\n27330520\n843571\n29594711\n9259759\n23401776\n28134332\n25686760\n27047377\n22430496\n17224576\n23152828\n8433101\n22119648\n12814718\n28959468\n18839484\n21518999\n31376518\n30145714\n20378467\n0\n16611781\n27489772\n18635849\n32739882\n22812697\n11387493\n23867200\n26104658\n25111580\n24505717\n11293691\n21307637",
+    "results": null,
+    "title": "Performance of three freely available methods for extracting white matter hyperintensities: FreeSurfer, UBO Detector, and BIANCA.",
+    "xml": "<Element 'PubmedArticle' at 0x7d782771f920>"
+}{
+    "abstract": "Large-scale longitudinal and multi-centre studies are used to explore neuroimaging markers of normal ageing, and neurodegenerative and mental health disorders. Longitudinal changes in brain structure are typically small, therefore the reliability of automated techniques is crucial. Determining the effects of different factors on reliability allows investigators to control those adversely affecting reliability, calculate statistical power, or even avoid particular brain measures with low reliability. This study examined the impact of several image acquisition and processing factors and documented the test-retest reliability of structural MRI measurements.\nIn Phase I, 20 healthy adults (11 females; aged 20-30 years) were scanned on two occasions three weeks apart on the same scanner using the ADNI-3 protocol. On each occasion, individuals were scanned twice (repetition), after re-entering the scanner (reposition) and after tilting their head forward. At one year follow-up, nine returning individuals and 11 new volunteers were recruited for Phase II (11 females; aged 22-31 years). Scans were acquired on two different scanners using the ADNI-2 and ADNI-3 protocols. Structural images were processed using FreeSurfer (v5.3.0, 6.0.0 and 7.1.0) to provide subcortical and cortical volume, cortical surface area and thickness measurements. Intra-class correlation coefficients (ICC) were calculated to estimate test-retest reliability. We examined the effect of repetition, reposition, head tilt, time between scans, MRI sequence and scanner on reliability of structural brain measurements. Mean percentage differences were also calculated in supplementary analyses.\nUsing the FreeSurfer v7.1.0 longitudinal pipeline, we observed high reliability for subcortical and cortical volumes, and cortical surface areas at repetition, reposition, three weeks and one year (mean ICCs>0.97). Cortical thickness reliability was lower (mean ICCs>0.82). Head tilt had the greatest adverse impact on ICC estimates, for example reducing mean right cortical thickness to ICC=0.74. In contrast, changes in ADNI sequence or MRI scanner had a minimal effect. We observed an increase in reliability for updated FreeSurfer versions, with the longitudinal pipeline consistently having a higher reliability than the cross-sectional pipeline.\nLongitudinal studies should monitor or control head tilt to maximise reliability. We provided the ICC estimates and mean percentage differences for all FreeSurfer brain regions, which may inform power analyses for clinical studies and have implications for the design of future longitudinal studies.",
+    "authors": [
+        {
+            "affiliation": "Department of Psychosis Studies, Institute of Psychiatry, Psychology & Neuroscience, King's College London, 16 De Crespigny Park, London SE5 8AF, United Kingdom. Electronic address: emily.p.hedges@kcl.ac.uk.",
+            "firstname": "Emily P",
+            "initials": "EP",
+            "lastname": "Hedges"
+        },
+        {
+            "affiliation": "Department of Forensic and Neurodevelopmental Sciences, Institute of Psychiatry, Psychology & Neuroscience, King's College London, London SE5 8AF, United Kingdom.",
+            "firstname": "Mihail",
+            "initials": "M",
+            "lastname": "Dimitrov"
+        },
+        {
+            "affiliation": "Department of Psychosis Studies, Institute of Psychiatry, Psychology & Neuroscience, King's College London, 16 De Crespigny Park, London SE5 8AF, United Kingdom.",
+            "firstname": "Uzma",
+            "initials": "U",
+            "lastname": "Zahid"
+        },
+        {
+            "affiliation": "Department of Psychosis Studies, Institute of Psychiatry, Psychology & Neuroscience, King's College London, 16 De Crespigny Park, London SE5 8AF, United Kingdom.",
+            "firstname": "Barbara",
+            "initials": "B",
+            "lastname": "Brito Vega"
+        },
+        {
+            "affiliation": "Department of Psychosis Studies, Institute of Psychiatry, Psychology & Neuroscience, King's College London, 16 De Crespigny Park, London SE5 8AF, United Kingdom.",
+            "firstname": "Shuqing",
+            "initials": "S",
+            "lastname": "Si"
+        },
+        {
+            "affiliation": "Department of Forensic and Neurodevelopmental Sciences, Institute of Psychiatry, Psychology & Neuroscience, King's College London, London SE5 8AF, United Kingdom.",
+            "firstname": "Hannah",
+            "initials": "H",
+            "lastname": "Dickson"
+        },
+        {
+            "affiliation": "Department of Psychosis Studies, Institute of Psychiatry, Psychology & Neuroscience, King's College London, 16 De Crespigny Park, London SE5 8AF, United Kingdom.",
+            "firstname": "Philip",
+            "initials": "P",
+            "lastname": "McGuire"
+        },
+        {
+            "affiliation": "Department of Neuroimaging, Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology & Neuroscience, King's College London, London SE5 8AF, United Kingdom.",
+            "firstname": "Steven",
+            "initials": "S",
+            "lastname": "Williams"
+        },
+        {
+            "affiliation": "Department of Neuroimaging, Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology & Neuroscience, King's College London, London SE5 8AF, United Kingdom.",
+            "firstname": "Gareth J",
+            "initials": "GJ",
+            "lastname": "Barker"
+        },
+        {
+            "affiliation": "Department of Psychosis Studies, Institute of Psychiatry, Psychology & Neuroscience, King's College London, 16 De Crespigny Park, London SE5 8AF, United Kingdom.",
+            "firstname": "Matthew J",
+            "initials": "MJ",
+            "lastname": "Kempton"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2021. Published by Elsevier Inc.",
+    "doi": "10.1016/j.neuroimage.2021.118751",
+    "journal": "NeuroImage",
+    "keywords": [
+        "Longitudinal",
+        "Morphology",
+        "Reproducibility",
+        "Structural MRI"
+    ],
+    "methods": null,
+    "publication_date": "2021-12-02",
+    "pubmed_id": "34848299\n27004471\n27018380\n33121264\n30305740\n17695343\n24595028\n22675527\n16651008\n26033168\n18302232\n16300968\n19233293\n23668971\n32035272\n19874902\n25534113\n26539075\n28948069\n19027862\n31722018\n19162198\n20162602\n18172019\n21457946\n20637289\n22430496\n25498430\n27634551\n12873856\n15202109\n33940143\n17569971\n33625755\n24399358\n31424555\n26033243\n29449073\n26747746\n35131573",
+    "results": "Using the FreeSurfer v7.1.0 longitudinal pipeline, we observed high reliability for subcortical and cortical volumes, and cortical surface areas at repetition, reposition, three weeks and one year (mean ICCs>0.97). Cortical thickness reliability was lower (mean ICCs>0.82). Head tilt had the greatest adverse impact on ICC estimates, for example reducing mean right cortical thickness to ICC=0.74. In contrast, changes in ADNI sequence or MRI scanner had a minimal effect. We observed an increase in reliability for updated FreeSurfer versions, with the longitudinal pipeline consistently having a higher reliability than the cross-sectional pipeline.",
+    "title": "Reliability of structural MRI measurements: The effects of scan session, head tilt, inter-scan interval, acquisition sequence, FreeSurfer version and processing stream.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827c6dd50>"
+}{
+    "abstract": "Structural hippocampal abnormalities are common in many neurological and psychiatric disorders, and variation in hippocampal measures is related to cognitive performance and other complex phenotypes such as stress sensitivity. Hippocampal subregions are increasingly studied, as automated algorithms have become available for mapping and volume quantification. In the context of the Enhancing Neuro Imaging Genetics through Meta Analysis Consortium, several Disease Working Groups are using the FreeSurfer software to analyze hippocampal subregion (subfield) volumes in patients with neurological and psychiatric conditions along with data from matched controls. In this overview, we explain the algorithm's principles, summarize measurement reliability studies, and demonstrate two additional aspects (subfield autocorrelation and volume/reliability correlation) with illustrative data. We then explain the rationale for a standardized hippocampal subfield segmentation quality control (QC) procedure for improved pipeline harmonization. To guide researchers to make optimal use of the algorithm, we discuss how global size and age effects can be modeled, how QC steps can be incorporated and how subfields may be aggregated into composite volumes. This discussion is based on a synopsis of 162 published neuroimaging studies (01/2013-12/2019) that applied the FreeSurfer hippocampal subfield segmentation in a broad range of domains including cognition and healthy aging, brain development and neurodegeneration, affective disorders, psychosis, stress regulation, neurotoxicity, epilepsy, inflammatory disease, childhood adversity and posttraumatic stress disorder, and candidate and whole genome (epi-)genetics. Finally, we highlight points where FreeSurfer-based hippocampal subfield studies may be optimized.",
+    "authors": [
+        {
+            "affiliation": "Max Planck Institute of Psychiatry, Munich, Germany.",
+            "firstname": "Philipp G",
+            "initials": "PG",
+            "lastname": "S\u00e4mann"
+        },
+        {
+            "affiliation": "Centre for Medical Image Computing, University College London, London, UK.\nThe Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital/Harvard Medical School, Boston, Massachusetts, US.\nComputer Science and AI Laboratory (CSAIL), Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts, US.",
+            "firstname": "Juan Eugenio",
+            "initials": "JE",
+            "lastname": "Iglesias"
+        },
+        {
+            "affiliation": "Department of Biomedical Engineering, Illinois Institute of Technology, Chicago, USA.",
+            "firstname": "Boris",
+            "initials": "B",
+            "lastname": "Gutman"
+        },
+        {
+            "affiliation": "Department of Psychiatry, University of M\u00fcnster, M\u00fcnster, Germany.",
+            "firstname": "Dominik",
+            "initials": "D",
+            "lastname": "Grotegerd"
+        },
+        {
+            "affiliation": "Department of Psychiatry, University of M\u00fcnster, M\u00fcnster, Germany.",
+            "firstname": "Ramona",
+            "initials": "R",
+            "lastname": "Leenings"
+        },
+        {
+            "affiliation": "Department of Psychiatry, University of M\u00fcnster, M\u00fcnster, Germany.\nDepartment of Mathematics and Computer Science, University of M\u00fcnster, Germany.",
+            "firstname": "Claas",
+            "initials": "C",
+            "lastname": "Flint"
+        },
+        {
+            "affiliation": "Department of Psychiatry, University of M\u00fcnster, M\u00fcnster, Germany.",
+            "firstname": "Udo",
+            "initials": "U",
+            "lastname": "Dannlowski"
+        },
+        {
+            "affiliation": "Brain Imaging and Analysis Center, Duke University, Durham, North Carolina, USA.\nVISN 6 MIRECC, Durham VA, Durham, North Carolina, USA.",
+            "firstname": "Emily K",
+            "initials": "EK",
+            "lastname": "Clarke-Rubright"
+        },
+        {
+            "affiliation": "Brain Imaging and Analysis Center, Duke University, Durham, North Carolina, USA.\nVISN 6 MIRECC, Durham VA, Durham, North Carolina, USA.",
+            "firstname": "Rajendra A",
+            "initials": "RA",
+            "lastname": "Morey"
+        },
+        {
+            "affiliation": "Clinical Translational Neuroscience Laboratory, Department of Psychiatry and Human Behavior, University of California, Irvine, California, USA.\nCenter for the Neurobiology of Learning and Memory, University of California Irvine, Irvine, California, USA.",
+            "firstname": "Theo G M",
+            "initials": "TGM",
+            "lastname": "van Erp"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Los Angeles, California, USA.",
+            "firstname": "Christopher D",
+            "initials": "CD",
+            "lastname": "Whelan"
+        },
+        {
+            "affiliation": "Department of Psychiatry, Amsterdam University Medical Centers, Vrije Universiteit and GGZ inGeest, Amsterdam Neuroscience, Amsterdam, The Netherlands.",
+            "firstname": "Laura K M",
+            "initials": "LKM",
+            "lastname": "Han"
+        },
+        {
+            "affiliation": "Orygen, Parkville, Australia.\nCentre for Youth Mental Health, The University of Melbourne, Melbourne, Australia.",
+            "firstname": "Laura S",
+            "initials": "LS",
+            "lastname": "van Velzen"
+        },
+        {
+            "affiliation": "Department of Psychiatry, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Canada.",
+            "firstname": "Bo",
+            "initials": "B",
+            "lastname": "Cao"
+        },
+        {
+            "affiliation": "The Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital/Harvard Medical School, Boston, Massachusetts, US.",
+            "firstname": "Jean C",
+            "initials": "JC",
+            "lastname": "Augustinack"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Los Angeles, California, USA.",
+            "firstname": "Paul M",
+            "initials": "PM",
+            "lastname": "Thompson"
+        },
+        {
+            "affiliation": "Imaging Genetics Center, Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Los Angeles, California, USA.",
+            "firstname": "Neda",
+            "initials": "N",
+            "lastname": "Jahanshad"
+        },
+        {
+            "affiliation": "Orygen, Parkville, Australia.\nCentre for Youth Mental Health, The University of Melbourne, Melbourne, Australia.",
+            "firstname": "Lianne",
+            "initials": "L",
+            "lastname": "Schmaal"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2020 The Authors. Human Brain Mapping published by Wiley Periodicals LLC.",
+    "doi": "10.1002/hbm.25326\n10.1093/schbul/sbz116\n10.1177/2470547017744538\n10.3389/fnagi.2018.00439\n10.1016/s0896-6273(02)00830-9\n10.1016/j.neuroimage.2019.02.066\n10.1002/hipo.23172\n10.1016/j.schres.2019.10.009\n10.1016/j.eplepsyres.2018.08.009\n10.1093/arclin/acy066\n10.1016/j.nicl.2019.101860\n10.1126/science.aay6690\n10.21767/2171-6625.1000159\n10.1192/bjp.2018.224\n10.1109/isbi.2012.6235648\n10.1186/s41747-019-0092-7\n10.1002/hbm.24988\n10.1016/j.brainres.2019.146591\n10.1111/bdi.12857\n10.1016/j.plrev.2015.03.001\n10.1007/s00234-019-02299-6\n10.1007/s00439-011-1118-2\n10.1007/s11682-018-9931-z\n10.1038/mp.2017.224\n10.1038/s41380-019-0443-z\n10.1093/ijnp/pyw039\n10.1080/20008198.2020.1785994\n10.1371/journal.pone.0224030\n10.1038/s41588-019-0511-y\n10.1007/s00429-009-0203-y\n10.1093/schbul/sbx160\n10.1016/j.neuroimage.2013.02.003\n10.3174/ajnr.A4659\n10.1002/hbm.25234\n10.3389/fninf.2019.00013\n10.21037/qims.2019.05.21\n10.1002/jmri.26037",
+    "journal": "Human brain mapping",
+    "keywords": [
+        "ENIGMA",
+        "FreeSurfer",
+        "MRI",
+        "hippocampal subfields",
+        "hippocampal subregions",
+        "hippocampus",
+        "quality control",
+        "segmentation"
+    ],
+    "methods": null,
+    "publication_date": "2020-12-29",
+    "pubmed_id": "33368865\n31136968\n25246365\n30684895\n30251770\n29427578\n31776577\n1946842\n29890200\n29520395\n29897598\n29682609\n30705627\n29889066\n28355989\n24309162\n31972281\n31308432\n26899212\n15488422\n12194864\n30039746\n29865063\n31024418\n29615675\n28115740\n25545784\n26614098\n30594813\n27744126\n31629116\n29575376\n25477768\n17966093\n31153103\n30443694\n26733822\n31058404\n30840906\n31675165\n25231681\n2570916\n28667671\n29175494\n31054405\n31130145\n31240857\n29893987\n29787958\n31653582\n30248630\n24051060\n30430703\n23317454\n27995733\n22414994\n31727746\n29778641\n25921321\n24878607\n31795059\n25866294\n27893017\n22248573\n29904644\n28116240\n29155184\n31334583\n24144441\n25422956\n25044977\n31115118\n2105589\n15356639\n25563516\n30407496\n28188659\n29067330\n28086035\n12668349\n31158694\n32193296\n28503392\n30442205\n26413211\n28367136\n30721801\n28575645\n26802503\n25809287\n30687030\n30107268\n25127742\n28923718\n30900111\n27065163\n30511334\n28721741\n28281317\n28079061\n26903271\n32198905\n25428255\n30295348\n27403591\n25936807\n27426838\n31816319\n2748838\n30950937\n31022627\n31630469\n19692839\n31077957\n31734526\n29968776\n28326033\n29379287\n25658118\n25370484\n30606656\n31711030\n26425829\n25891321\n31175352\n29572865\n24976170\n24850422\n22692142\n20600996\n31673749\n27829188\n29397666\n29858658\n16077740\n22143225\n30094166\n26876151\n16611790\n23813689\n30673663\n22759884\n23042923\n28979205\n25266915\n30319375\n30683708\n30054872\n30339962\n28088928\n26324541\n31529792\n30712362\n29133948\n25255942\n31164700\n26043939\n29914031\n8378488\n24828364\n31896560\n30380517\n31409452\n27207916\n33029326\n16819972\n29977030\n16713659\n19405132\n29527502\n30384147\n24465557\n30384146\n31155012\n23827332\n14997420\n21684724\n2203101\n31245529\n29462642\n27951456\n16714456\n19776264\n31239688\n31712617\n28654095\n30854188\n31622410\n30558867\n30524352\n23553678\n24339261\n31407461\n26130062\n24784800\n31821869\n30888510\n31771861\n32416226\n25057194\n31148327\n26911691\n29518573\n30798080\n30245458\n3143242\n15275929\n30186103\n31636452\n8351342\n28479476\n1335854\n27137745\n29468773\n26824403\n24638919\n28948070\n21331174\n27237705\n27489767\n29474878\n28725691\n27696657\n24902771\n29550609\n22331913\n30862732\n32198361\n19205731\n30364338\n31491821\n30279459\n32278894\n19068424\n18979753\n19405131\n28249819\n29272467\n25339897\n30796577\n29872419\n28884957\n21440071\n26747746\n23415948\n26846925\n25309437\n33058385\n22440643\n29341323\n28961451\n31034738\n18840532\n25181316\n30904825\n27646772\n31188536\n30983985\n30364081\n31367556\n29676856\n27144832\n32596977\n30261457",
+    "results": null,
+    "title": "FreeSurfer-based segmentation of hippocampal subfields: A review of methods and applications, with a novel quality control procedure for ENIGMA studies and other collaborative efforts.",
+    "xml": "<Element 'PubmedArticle' at 0x7d7827c49f80>"
+}
