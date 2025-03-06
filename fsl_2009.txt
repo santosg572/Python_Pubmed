@@ -1,0 +1,358 @@
+{
+    "abstract": "Major depressive disorder (MDD) and diabetes mellitus type II (T2DM) are two of the major health challenges of our time. It has been shown that MDD and T2DM are highly co-morbid, and recent work has proposed a bi-directional connection between the diseases. The aim of the current study was to investigate the effect of a high-fat diet (HFD) on behavior and metabolism in a genetic rat model of depression, the Flinders Sensitive and Resistant Line (FSL/FRL) rats. Age and weight matched rats were fed a HFD or control diet for 10 weeks and subjected to behavioral testing and metabolic assessment. We found that HFD exacerbated the depressive-like behavior of the FSL rat in the Forced Swim Test (FST), a depression screening tool, although it did not affect the non-depressed FRL rat despite a higher caloric intake. Moreover, the depressive-like phenotype was associated with reduced anxiety and impairment in novel object recognition memory, while HFD consumption led to diminished object recognition memory as well. In both strains HFD increased insulin levels during an oral glucose tolerance test, although fasting blood glucose levels were only significantly increased by HFD in the FSL rat, suggesting a greater metabolic susceptibility in this rat strain. We conclude that compared with the FRL rat, the FSL rat is more susceptible to developing aberrant behaviors related to depression following metabolic stress induced by HFD. Further studies with a mechanistic focus could potentially lead to a better understanding of a possible pathophysiological link between T2DM and MDD.",
+    "authors": [
+        {
+            "affiliation": "Centre for Psychiatric Research, Aarhus University Hospital-Risskov, Risskov, Denmark.",
+            "firstname": "Anders",
+            "initials": "A",
+            "lastname": "Abildgaard"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Lasse",
+            "initials": "L",
+            "lastname": "Solskov"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Vallo",
+            "initials": "V",
+            "lastname": "Volke"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Brian H",
+            "initials": "BH",
+            "lastname": "Harvey"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Sten",
+            "initials": "S",
+            "lastname": "Lund"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gregers",
+            "initials": "G",
+            "lastname": "Wegener"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2010 Elsevier Ltd. All rights reserved.",
+    "doi": "10.1016/j.psyneuen.2010.09.004",
+    "journal": "Psychoneuroendocrinology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2010-10-05",
+    "pubmed_id": "20888697",
+    "results": null,
+    "title": "A high-fat diet exacerbates depressive-like behavior in the Flinders Sensitive Line (FSL) rat, a genetic model of depression.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a6de0>"
+}{
+    "abstract": "Little is known of how Toll-like receptor (TLR) ligands are processed after recognition by TLRs. This study was therefore designed to investigate how the TLR2 ligand FSL-1 is processed in macrophages after recognition by TLR2. FSL-1 was internalized into the murine macrophage cell line, RAW264.7. Both chlorpromazine and methyl-beta-cyclodextrin, which inhibit clathrin-dependent endocytosis, reduced FSL-1 uptake by RAW264.7 cells in a dose-dependent manner but nystatin, which inhibits caveolae- and lipid raft-dependent endocytosis, did not. FSL-1 was co-localized with clathrin but not with TLR2 in the cytosol of RAW264.7 cells. These results suggest that internalization of FSL-1 is clathrin dependent. In addition, FSL-1 was internalized by peritoneal macrophages from TLR2-deficient mice. FSL-1 was internalized by human embryonic kidney 293 cells transfected with CD14 or CD36 but not by the non-transfected cells. Also, knockdown of CD14 or CD36 in the transfectants reduced FSL-1 uptake. In this study, we suggest that (i) FSL-1 is internalized into macrophages via a clathrin-dependent endocytic pathway, (ii) the FSL-1 uptake by macrophages occurs irrespective of the presence of TLR2, and (iii) CD14 and CD36 are responsible for the internalization of FSL-1.",
+    "authors": [
+        {
+            "affiliation": "Laboratory of Oral Molecular Microbiology, Department of Oral Pathobiological Science, Hokkaido University Graduate School of Dental Medicine, Japan.",
+            "firstname": "Haque M",
+            "initials": "HM",
+            "lastname": "Shamsul"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Akira",
+            "initials": "A",
+            "lastname": "Hasebe"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mitsuhiro",
+            "initials": "M",
+            "lastname": "Iyori"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Makoto",
+            "initials": "M",
+            "lastname": "Ohtani"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kazuto",
+            "initials": "K",
+            "lastname": "Kiura"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Diya",
+            "initials": "D",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Yasunori",
+            "initials": "Y",
+            "lastname": "Totsuka"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ken-ichiro",
+            "initials": "K",
+            "lastname": "Shibata"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1111/j.1365-2567.2009.03232.x",
+    "journal": "Immunology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2010-02-02",
+    "pubmed_id": "20113368\n16497588\n17223959\n10922424\n11518816\n17284172\n10338521\n11086096\n16420600\n16965351\n17316370\n17938187\n14500665\n14977973\n16819971\n15247273\n16848791\n14617356\n1739974\n8245121\n7615524\n10198050\n12183451\n10359788\n15146246\n8120091\n9490634\n15146245\n17889651\n12621426\n15998596\n17376169\n15690042\n15714590\n16920954\n16373361\n17283098\n16880211\n17466567\n16061696\n12130500\n7542010\n12045230\n16177110\n9166424\n16982924\n17283106\n16113677\n16497584\n8557340",
+    "results": null,
+    "title": "The Toll-like receptor 2 (TLR2) ligand FSL-1 is internalized via the clathrin-dependent endocytic pathway triggered by CD14 and CD36 but not by TLR2.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a40e0>"
+}{
+    "abstract": "The 5-hydroxytryptamine system is thought to play a crucial role in the pathophysiology of depression and represents the target for selective 5-HT reuptake inhibitors (SSRIs). Flinders Sensitive Line (FSL) and Flinders Resistant Line (FRL) rats were bred from Sprague-Dawley (SPD) rats to produce strains with increased (FSL) or decreased (FRL) sensitivity to the cholinesterase inhibitor. The FSL rats have been identified as a good model of depression. Many studies in normal rats showed that chronic treatments with SSRIs reduce the densities of SERT. The objective of the present investigation was to assess the influence of chronic fluoxetine treatment on SERT density (Bmax; fmol/mg) in the FSL rat model of depression, relative to that in the FRL rats and SPD rats. FSL, FRL and SPD rats were randomly assigned into groups receiving the vehicle or 10 mg/kg of fluoxetine i.p. for 14 days. Binding was assessed by incubating the brain sections in a buffer containing 20 pM of [(125)I]-RTI-55 [[(125)I](-)-2beta-carbomethoxy-3beta-(4-iodophenyl)tropane and 200 nM of GBR12935 [1-(2-(diphenylmethoxy)ethyl)-4-(3-phenylpropyl)piperazine]. The fluoxetine treatment reduced B(max) in all three rat strains when the saline and respective fluoxetine groups were compared (e.g., the FSL-SAL relative to FSL-FLX groups). Chronic fluoxetine treatment reduces the densities of SERT in the FSL rats to a larger extent than in the normal SPD control rats.",
+    "authors": [
+        {
+            "affiliation": "Department for Neurology and Neurosurgery, Cone Neurosurgical Research Laboratory and Montreal Neurological Institute, McGill University, Montreal, Quebec, Canada.",
+            "firstname": "Tomislav",
+            "initials": "T",
+            "lastname": "Kovacevi\u0107"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ivan",
+            "initials": "I",
+            "lastname": "Skelin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mirko",
+            "initials": "M",
+            "lastname": "Diksic"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "(c) 2009 Wiley-Liss, Inc.",
+    "doi": "10.1002/syn.20721",
+    "journal": "Synapse (New York, N.Y.)",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-11-20",
+    "pubmed_id": "19924693",
+    "results": null,
+    "title": "Chronic fluoxetine treatment has a larger effect on the density of a serotonin transporter in the Flinders Sensitive Line (FSL) rat model of depression than in normal rats.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6046430>"
+}{
+    "abstract": "Herpes simplex virus type 2 (HSV-2) is a leading cause of genital ulceration that can predispose individuals to an increased risk of acquiring other sexually transmitted infections. There are no approved HSV-2 vaccines and current suppressive therapies require daily compound administration that does not prevent all recurrences. A promising experimental strategy is the use of toll-like receptor (TLR) agonists to induce an innate immune response that provides resistance to HSV-2 infection. Previous studies showed that anti-herpetic activity varied based on origin of the agonists and activation of different TLR indicating that activity likely occurs through elaboration of a specific innate immune response. To test the hypothesis, we evaluated the ability of a bacterial-derived TLR2/6 agonist (FSL-1) to increase resistance to experimental genital HSV-2 infection.\nVaginal application of FSL-1 at selected doses and times was evaluated to identify potential increased resistance to genital HSV-2 infection in the mouse model. The FSL-1 induced cytokine profile was quantified using kinetically collected vaginal lavages. Additionally, cytokine elaboration and organ weights were evaluated after single or multiple FSL-1 doses to establish a preliminary safety profile. Human vaginal EC cultures were used to confirm the mouse model outcomes.\nThe results showed that vaginally-applied FSL-1 created an environment resistant to a 25-fold higher HSV-2 challenge dose. Mechanistically, vaginal FSL-1 application led to transient elaboration of cytokines linked to anti-herpetic innate immune responses. No gross local or peripheral immunotoxicity was observed even after multiple dosing. FSL-1 also created an anti-herpetic environment in cultures of human vaginal epithelial cells (EC).\nThe results showed, for the first time, that the bacterial-derived TLR2/6 agonist FSL-1 induced significant resistance to HSV-2 infection when applied in mice or human vaginal EC cultures. Cytokine evaluation illustrated that anti-herpetic activity correlated with induction of a specific profile. The identified anti-herpetic profile provides an invaluable resource for the future design of novel compounds to reduce genital HSV-2 transmission and improves understanding of the complex innate immune response to potential pathogens elicited by the vaginal mucosa.",
+    "authors": [
+        {
+            "affiliation": "Department of Microbiology and Immunology, University of Texas Medical Branch, Galveston, TX, USA. warose@utmb.edu",
+            "firstname": "William A",
+            "initials": "WA",
+            "lastname": "Rose"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Chris L",
+            "initials": "CL",
+            "lastname": "McGowin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Richard B",
+            "initials": "RB",
+            "lastname": "Pyles"
+        }
+    ],
+    "conclusions": "The results showed, for the first time, that the bacterial-derived TLR2/6 agonist FSL-1 induced significant resistance to HSV-2 infection when applied in mice or human vaginal EC cultures. Cytokine evaluation illustrated that anti-herpetic activity correlated with induction of a specific profile. The identified anti-herpetic profile provides an invaluable resource for the future design of novel compounds to reduce genital HSV-2 transmission and improves understanding of the complex innate immune response to potential pathogens elicited by the vaginal mucosa.",
+    "copyrights": null,
+    "doi": "10.1186/1743-422X-6-195\n10.1016/S0140-6736(07)61908-4\n10.1001/jama.296.8.964\n10.1128/JVI.02110-06\n10.1097/OLQ.0b013e3181788301\n10.1097/01.aids.0000198081.09337.a7\n10.1086/522006\n10.1146/annurev.med.59.061606.095540\n10.1128/CMR.00046-08\n10.1111/j.1600-065X.2008.00737.x\n10.1111/j.1600-0897.2007.00566.x\n10.1086/425079\n10.1128/JVI.01036-06\n10.1128/JVI.77.2.953-962.2003\n10.1128/JVI.01099-06\n10.1128/JVI.76.22.11387-11396.2002\n10.1016/j.jri.2006.09.002\n10.1371/journal.ppat.1000233\n10.1128/IAI.72.3.1657-1665.2004\n10.1111/j.1600-0897.2006.00381.x\n10.1111/j.1574-695X.2007.00218.x\n10.1016/S0042-6822(95)80038-7\n10.1016/j.ijantimicag.2008.04.010\n10.1002/jmv.20365\n10.1007/s10156-008-0630-3\n10.1016/j.antiviral.2004.06.004\n10.1016/j.antiviral.2004.06.005\n10.1086/429299\n10.1089/vim.2005.18.595\n10.1084/jem.20030162\n10.1038/35099560\n10.1126/science.1093620\n10.1177/1753425908096518\n10.1038/sj.embor.7400248\n10.1128/JVI.75.14.6705-6709.2001\n10.1034/j.1600-0897.2001.d01-34.x\n10.1006/viro.1997.8441\n10.1016/j.virol.2006.03.004\n10.1006/viro.1999.9739\n10.1128/CMR.14.4.778-809.2001\n10.1016/j.vaccine.2008.09.045\n10.1038/mi.2008.81",
+    "journal": "Virology journal",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-11-12",
+    "pubmed_id": "19903337\n18156035\n2175939\n16926356\n17151134\n18607314\n16327322\n18008255\n9880471\n18186706\n8195614\n19366914\n19120477\n18201283\n15499542\n17005672\n12502811\n17005677\n12388699\n17092567\n19057665\n12008923\n14977973\n16674601\n16895653\n17316370\n7831778\n18619817\n15902702\n18936885\n16419271\n15450382\n15450383\n15838802\n16359226\n12900525\n11607032\n14976262\n18809654\n15359270\n11413339\n11775012\n9123869\n16603217\n10366565\n3011918\n11585785\n11257190\n18835576\n19129756",
+    "results": "The results showed that vaginally-applied FSL-1 created an environment resistant to a 25-fold higher HSV-2 challenge dose. Mechanistically, vaginal FSL-1 application led to transient elaboration of cytokines linked to anti-herpetic innate immune responses. No gross local or peripheral immunotoxicity was observed even after multiple dosing. FSL-1 also created an anti-herpetic environment in cultures of human vaginal epithelial cells (EC).",
+    "title": "FSL-1, a bacterial-derived toll-like receptor 2/6 agonist, enhances resistance to experimental HSV-2 infection.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a0810>"
+}{
+    "abstract": "Stress engenders the precipitation and progression of affective disorders, while stress-related release of excitatory mediators is implicated in the degenerative pathology observed especially in the hippocampus of patients with severe depression. Nitric oxide (NO) release following stress-evoked N-methyl-d-aspartate (NMDA) receptor activation modulates neurotransmission, cellular memory and neuronal toxicity. We have investigated the Flinders rat (FSL/FRL), a genetic animal model of depression, regarding the response of the hippocampal nitrergic system following exposure to an escapable stress/inescapable stress (ES-IS) paradigm. Hippocampal tissue from naive FSL/FRL rats and those exposed to ES-IS were studied with respect to constitutive nitric oxide synthase (cNOS) activity and neuronal nitric oxide synthase (nNOS) protein levels, as well as transcript expression of upstream regulatory proteins in the NMDA-NO signalling pathway, including NMDAR1, nNOS, CAPON, PIN and PSD95. Within stress-naive animals, no differences in hippocampal cNOS activity and nNOS expression or PIN were evident in FSL and FRL rats, although transcripts for NMDAR1 and CAPON were increased in FSL rats. Within the group of ES-IS animals, we found an increase in total hippocampal cNOS activity, nNOS protein levels and mRNA expression in FSL vs. FRL rats, together with an increase in PSD95 transcripts, and a reduction in PIN. In conclusion, ES-IS enhanced hippocampal cNOS activity in FSL rats, but not FRL rats, confirming the NMDA-NO cascade as an important vulnerability factor in the depressive phenotype of the FSL rat.",
+    "authors": [
+        {
+            "affiliation": "Centre for Psychiatric Research, Aarhus University Hospital, Risskov, Denmark. wegener@dadlnet.dk",
+            "firstname": "Gregers",
+            "initials": "G",
+            "lastname": "Wegener"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Brian H",
+            "initials": "BH",
+            "lastname": "Harvey"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Birgit",
+            "initials": "B",
+            "lastname": "Bonefeld"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Heidi K",
+            "initials": "HK",
+            "lastname": "M\u00fcller"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Vallo",
+            "initials": "V",
+            "lastname": "Volke"
+        },
+        {
+            "affiliation": null,
+            "firstname": "David H",
+            "initials": "DH",
+            "lastname": "Overstreet"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Betina",
+            "initials": "B",
+            "lastname": "Elfving"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1017/S1461145709990241",
+    "journal": "The international journal of neuropsychopharmacology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-07-25",
+    "pubmed_id": "19627650",
+    "results": null,
+    "title": "Increased stress-evoked nitric oxide signalling in the Flinders sensitive line (FSL) rat: a genetic animal model of depression.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e92070>"
+}{
+    "abstract": "Tensor analysis of diffusion weighted magnetic resonance images is increasingly used for non-invasive tracking of nerve fibers in the human brain. Diffusion-tensor imaging (DTI) enables in-vivo research on the internal structure of the central nervous system, encompassing interconnection of functional areas, correlation between fiber deformations and certain disease patterns, as well as brain tumor localization. But the modeling of the local diffusion parameters is a computationally expensive part of the processing pipeline, resulting to run times up to days on standard desktop computers. A grid implementation of the algorithm with slice based parallelization reduces the processing down to 10% compared to a local cluster and 20% compared to sequential processing on the grid. A workflow implementation enables fault-tolerant handling of temporary failures within the grid. Furthermore, pure web-based access to the grid application allows for collaborative utilization even from protected infrastructures, as they are typically found in clinical environments.",
+    "authors": [
+        {
+            "affiliation": "Otto von Guericke University of Magdeburg, Institute of Biometry and Medical Informatics, Germany.",
+            "firstname": "Ralf",
+            "initials": "R",
+            "lastname": "L\u00fctzkendorf"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Johannes",
+            "initials": "J",
+            "lastname": "Bernarding"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Frank",
+            "initials": "F",
+            "lastname": "Hertel"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Fred",
+            "initials": "F",
+            "lastname": "Viezens"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Andreas",
+            "initials": "A",
+            "lastname": "Thiel"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Dagmar",
+            "initials": "D",
+            "lastname": "Krefting"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": null,
+    "journal": "Studies in health technology and informatics",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-07-14",
+    "pubmed_id": "19593046",
+    "results": null,
+    "title": "Enabling of grid based diffusion tensor imaging using a workflow implementation of FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e99210>"
+}{
+    "abstract": "Typically in neuroimaging we are looking to extract some pertinent information from imperfect, noisy images of the brain. This might be the inference of percent changes in blood flow in perfusion FMRI data, segmentation of subcortical structures from structural MRI, or inference of the probability of an anatomical connection between an area of cortex and a subthalamic nucleus using diffusion MRI. In this article we will describe how Bayesian techniques have made a significant impact in tackling problems such as these, particularly in regards to the analysis tools in the FMRIB Software Library (FSL). We shall see how Bayes provides a framework within which we can attempt to infer on models of neuroimaging data, while allowing us to incorporate our prior belief about the brain and the neuroimaging equipment in the form of biophysically informed or regularising priors. It allows us to extract probabilistic information from the data, and to probabilistically combine information from multiple modalities. Bayes can also be used to not only compare and select between models of different complexity, but also to infer on data using committees of models. Finally, we mention some analysis scenarios where Bayesian methods are impractical, and briefly discuss some practical approaches that we have taken in these cases.",
+    "authors": [
+        {
+            "affiliation": "University of Oxford Centre for Functional MRI of the Brain, UK. woolrich@fmrib.ox.ac.uk",
+            "firstname": "Mark W",
+            "initials": "MW",
+            "lastname": "Woolrich"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Saad",
+            "initials": "S",
+            "lastname": "Jbabdi"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Brian",
+            "initials": "B",
+            "lastname": "Patenaude"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Michael",
+            "initials": "M",
+            "lastname": "Chappell"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Salima",
+            "initials": "S",
+            "lastname": "Makni"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Timothy",
+            "initials": "T",
+            "lastname": "Behrens"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Christian",
+            "initials": "C",
+            "lastname": "Beckmann"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mark",
+            "initials": "M",
+            "lastname": "Jenkinson"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Stephen M",
+            "initials": "SM",
+            "lastname": "Smith"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.neuroimage.2008.10.055",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-12-09",
+    "pubmed_id": "19059349",
+    "results": null,
+    "title": "Bayesian analysis of neuroimaging data in FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e9b560>"
+}

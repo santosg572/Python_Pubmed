@@ -1,0 +1,808 @@
+{
+    "abstract": "MUC1 is an attractive target for cancer vaccines as a result of its over-expression and aberrant glycosylation pattern on many tumor cells. However, the low immunogenicity of MUC1 and immune tolerance have limited its application. Herein, we designed MUC1-based tricomponent antitumor vaccines adjuvanted with fibroblast stimulating lipopeptide 1 (FSL-1). Immunological results indicate that the glycosylated tricomponent vaccine candidate has elicited both humoral and cellular immune responses. The induced antibodies could effectively bind to MCF-7. Furthermore, the vaccine exhibited an obvious reduction in tumour burden.",
+    "authors": [
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology , College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research , Nankai University , Haihe Education Park, 38 Tongyan Road , Tianjin , 300350 , P. R. China . Email: yhliu@mail.nankai.edu.cn ; Email: wzhao@nankai.edu.cn.",
+            "firstname": "Mingjing",
+            "initials": "M",
+            "lastname": "Li"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology , College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research , Nankai University , Haihe Education Park, 38 Tongyan Road , Tianjin , 300350 , P. R. China . Email: yhliu@mail.nankai.edu.cn ; Email: wzhao@nankai.edu.cn.",
+            "firstname": "Zhaoyu",
+            "initials": "Z",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology , College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research , Nankai University , Haihe Education Park, 38 Tongyan Road , Tianjin , 300350 , P. R. China . Email: yhliu@mail.nankai.edu.cn ; Email: wzhao@nankai.edu.cn.",
+            "firstname": "Bocheng",
+            "initials": "B",
+            "lastname": "Yan"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology , College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research , Nankai University , Haihe Education Park, 38 Tongyan Road , Tianjin , 300350 , P. R. China . Email: yhliu@mail.nankai.edu.cn ; Email: wzhao@nankai.edu.cn.",
+            "firstname": "Xiaona",
+            "initials": "X",
+            "lastname": "Yin"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology , College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research , Nankai University , Haihe Education Park, 38 Tongyan Road , Tianjin , 300350 , P. R. China . Email: yhliu@mail.nankai.edu.cn ; Email: wzhao@nankai.edu.cn.",
+            "firstname": "Yue",
+            "initials": "Y",
+            "lastname": "Zhao"
+        },
+        {
+            "affiliation": "College of Life Sciences , Nankai University , Nankai District, 94 Weijin Road , Tianjin , 300071 , P. R. China.",
+            "firstname": "Fan",
+            "initials": "F",
+            "lastname": "Yu"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology , College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research , Nankai University , Haihe Education Park, 38 Tongyan Road , Tianjin , 300350 , P. R. China . Email: yhliu@mail.nankai.edu.cn ; Email: wzhao@nankai.edu.cn.",
+            "firstname": "Meng",
+            "initials": "M",
+            "lastname": "Meng"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology , College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research , Nankai University , Haihe Education Park, 38 Tongyan Road , Tianjin , 300350 , P. R. China . Email: yhliu@mail.nankai.edu.cn ; Email: wzhao@nankai.edu.cn.",
+            "firstname": "Yonghui",
+            "initials": "Y",
+            "lastname": "Liu"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology , College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research , Nankai University , Haihe Education Park, 38 Tongyan Road , Tianjin , 300350 , P. R. China . Email: yhliu@mail.nankai.edu.cn ; Email: wzhao@nankai.edu.cn.",
+            "firstname": "Wei",
+            "initials": "W",
+            "lastname": "Zhao"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "This journal is \u00a9 The Royal Society of Chemistry 2019.",
+    "doi": "10.1039/c9md00254e",
+    "journal": "MedChemComm",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2020-03-07",
+    "pubmed_id": "32133105\n28102259\n23944352\n16117706\n23440054\n10760879\n22247051\n16247814\n29742893\n25318465\n29782143\n30398345\n29120508\n24890740\n21308921\n17767155\n22171012\n29768704\n11086096\n14977973\n27530357\n24038824\n23280874\n30359529\n20818757\n19174760\n24449389\n26918109\n23090901\n22491065\n19409816\n30413430\n21910197\n29484882",
+    "results": null,
+    "title": "Design of a MUC1-based tricomponent vaccine adjuvanted with FSL-1 for cancer immunotherapy.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ee4f40>"
+}{
+    "abstract": "Protein antigens are, in general, weakly immunogenic, and therefore require co-delivery with adjuvants to stimulate potent immune responses. The fusion of (poly)peptide antigens to immunostimulatory adjuvants (e.g. Toll-like receptor (TLR) agonists) has been demonstrated to greatly improve vaccine potency compared to mixtures of antigen and adjuvant. Chemical approaches, to enable the rapid, site-specific and high-yielding linkage of TLR2 ligands to recombinant protein antigens, have been previously optimized. These approaches require the use of denaturing conditions to ensure high reaction yields, which limits their application, as maintenance of native protein folding is necessary to elicit antibodies against conformational epitopes. Here, this work aimed to optimize an alternative method, to ensure the efficient bioconjugation of TLR2 ligands onto folded protein antigens. An enzyme-mediated approach, using Staphylococcus aureus sortase A (or a penta mutant with enhanced efficiency), was optimized for reaction yield and time, as well as enzyme type and amount. This approach enabled the site-specific conjugation of the TLR2-agonist fibroblast-stimulating lipopeptide-1 (FSL-1) onto a model group A Streptococcus (GAS) recombinant polytope antigen under conditions that maintain protein folding, yielding a homogeneous, molecularly-defined product, with ligation yields as high as 90%. Following intramuscular (IM) administration of the ligation product to humanized plasminogen AlbPLG1 mice, high-titer, antigen-specific IgG antibodies were observed, which conferred protection against subcutaneous challenge with GAS strain 5448. In comparison, mixtures of the GAS antigen with aluminum hydroxide or FSL-1 failed to provide protection, with the FSL-1 mixture yielding ~1000-fold lower antigen-specific IgG antibody titers, and the mixture with alum yielding a Th2-biased response compared to the more balanced Th1/Th2 responses observed with the FSL-1 conjugate. Overall, a FSL-1 bioconjugation method for the efficient production of antigen-TLR2 agonist conjugates, which maintain protein folding, was produced, with broad utility for the development of self-adjuvanting vaccines against subunit protein antigens.",
+    "authors": [
+        {
+            "affiliation": "School of Pharmacy, The University of Queensland, Woolloongabba 4102, QLD, Australia.",
+            "firstname": "Zhenghui",
+            "initials": "Z",
+            "lastname": "Xu"
+        },
+        {
+            "affiliation": "Australian Infectious Diseases Research Centre and School of Chemistry and Molecular Biosciences, The University of Queensland, St. Lucia, QLD, Australia; C\u00e1tedras CONACYT - Unidad de Investigaci\u00f3n M\u00e9dica en Inmunoqu\u00edmica, Hospital de Especialidades del Centro M\u00e9dico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, CDMX, Mexico.",
+            "firstname": "Tania",
+            "initials": "T",
+            "lastname": "Rivera-Hernandez"
+        },
+        {
+            "affiliation": "School of Pharmacy, The University of Queensland, Woolloongabba 4102, QLD, Australia.",
+            "firstname": "Oishee",
+            "initials": "O",
+            "lastname": "Chatterjee"
+        },
+        {
+            "affiliation": "Australian Infectious Diseases Research Centre and School of Chemistry and Molecular Biosciences, The University of Queensland, St. Lucia, QLD, Australia.",
+            "firstname": "Mark J",
+            "initials": "MJ",
+            "lastname": "Walker"
+        },
+        {
+            "affiliation": "School of Pharmacy, The University of Queensland, Woolloongabba 4102, QLD, Australia; Australian Infectious Diseases Research Centre and School of Chemistry and Molecular Biosciences, The University of Queensland, St. Lucia, QLD, Australia. Electronic address: p.moyle@uq.edu.au.",
+            "firstname": "Peter M",
+            "initials": "PM",
+            "lastname": "Moyle"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2019 Elsevier B.V. All rights reserved.",
+    "doi": "10.1016/j.jconrel.2019.11.018",
+    "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+    "keywords": [
+        "Bioconjugation",
+        "Co-delivery",
+        "Group A Streptococcus",
+        "Self-adjuvanting vaccine",
+        "Sortase A-mediated ligation",
+        "Toll-like receptor"
+    ],
+    "methods": null,
+    "publication_date": "2019-11-24",
+    "pubmed_id": "31758971",
+    "results": null,
+    "title": "Semisynthetic, self-adjuvanting vaccine development: Efficient, site-specific sortase A-mediated conjugation of Toll-like receptor 2 ligand FSL-1 to recombinant protein antigens under native conditions and application to a model group A streptococcal vaccine.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5efff10>"
+}{
+    "abstract": "Mycoplasma infection can cause many diseases in pigs, resulting in great economic losses in pork production. Innate immune responses are thought to play critical roles in the pathogenesis of mycoplasma disease. However, the molecular events involved in immune responses remain to be determined. Hence, the object of this study was to use RNA-Seq to investigate the gene expression profiles of the innate immune response mediated by FSL-1 in pig monocyte-derived macrophages (MDMs). The results revealed that 1442 genes were differentially expressed in the FSL-1 group compared with the control groups, of which 777 genes were upregulated and 665 genes were downregulated. KEGG pathway analysis showed that the upregulated genes were mainly involved in innate immune-related pathways including the TNF signaling pathway, cytokine-cytokine receptor interaction, Toll-like receptor signaling pathway, Jak-STAT signaling pathway, chemokine signaling pathway, NOD-like receptor signaling pathway and NF-kappa B signaling pathway. The downregulated genes were only involved in the cGMP-PKG signaling pathway and glycerophospholipid metabolism. Our results showed that FSL-1 stimulation activated the TLR2 signaling pathway and resulted in diverse inflammatory responses. FSL-1 induced the transcription of numerous protein-coding genes involved in a complex network of innate immune-related pathways. We speculate that TNF, IL1B, IL6, NFKB1, NFKBIA, CXCL2, CXCL8, CXCL10, CCL2, CCL4 and CCL5 were the most likely hub genes that play important roles in the above pathways. This study identified the differentially expressed genes and their related signaling pathways, contributing to the comprehensive understanding of the mechanisms underlying host-pathogen interactions during mycoplasma infection and providing a reference model for further studies.",
+    "authors": [
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Lisheng",
+            "initials": "L",
+            "lastname": "Zhou"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Li",
+            "initials": "L",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China. Electronic address: zhao_weimin1983@aliyun.com.",
+            "firstname": "Weimin",
+            "initials": "W",
+            "lastname": "Zhao"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Shouwen",
+            "initials": "S",
+            "lastname": "Ren"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Feng",
+            "initials": "F",
+            "lastname": "Tu"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Yanfeng",
+            "initials": "Y",
+            "lastname": "Fu"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Bixia",
+            "initials": "B",
+            "lastname": "Li"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Xuemin",
+            "initials": "X",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China. Electronic address: fxmw2000@163.com.",
+            "firstname": "Xiaomin",
+            "initials": "X",
+            "lastname": "Fang"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2019 Elsevier Ltd. All rights reserved.",
+    "doi": "10.1016/j.micpath.2019.103830",
+    "journal": "Microbial pathogenesis",
+    "keywords": [
+        "FSL-1",
+        "Innate immune",
+        "Mycoplasmas",
+        "Porcine",
+        "RNA-Seq",
+        "Signaling pathway"
+    ],
+    "methods": null,
+    "publication_date": "2019-11-07",
+    "pubmed_id": "31689475",
+    "results": null,
+    "title": "Transcriptome sequencing analysis of porcine MDM response to FSL-1 stimulation.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a5670>"
+}{
+    "abstract": "P2X7 receptors (P2X7R) are ligand-gated ion channels activated by adenosine 5'-triphosphate (ATP), which are involved in processes that are dysfunctional in stress response and depression, such as neurotransmitter release, and neuroimmune response. Genetic and pharmacological inhibition of the P2X7R induce antidepressant-like effects in animals exposed to stress. However, the effect of P2X7R antagonism in an animal model of depression based on selective breeding has not previously been studied, and the mechanism underling the antidepressant-like effect induced by the P2X7R blockade remains unknown.\nThe present study aimed to: (1) determine whether P2X7R blockade induces antidepressant-like effects in the Flinders Sensitive Line (FSL) rats and, (2) investigate whether brain-derived neurotrophic factor (BDNF) signalling in the frontal cortex and hippocampus is involved in this effect.\nFSL and the control Flinders Resistant Line (FRL) rats were treated with vehicle or the P2X7R antagonist A-804598 (3, 10 or 30\u2009mg/Kg/day) for 1 or 7 days before being exposed to the forced swim test (FST). After the behavioural test, animals were decapitated, their brains were removed and the frontal cortex, ventral and dorsal hippocampus were dissected for BDNF signalling analysis.\nWe found that repeated treatment with A-804598 (30\u2009mg/Kg) reduced the immobility time in the FST and activated the BDNF signalling in the ventral hippocampus of FSL rats.\nP2X7R blockade induces an antidepressant-like effect associated with increased levels of BDNF-AKT-p70 S6 kinase in the ventral hippocampus, which may be mediated by tropomyosin-related kinase B (TRKB) receptor activation supporting the notion of P2X7R antagonism as a potential new antidepressant strategy.",
+    "authors": [
+        {
+            "affiliation": "Department of Pharmacology, School of Medicine of Ribeir\u00e3o Preto - University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil.\nDepartment of Physics and Chemistry, School of Pharmaceutical Sciences of Ribeir\u00e3o Preto - University of S\u00e3o Paulo, Ribeir\u00e3o Preto, Brazil.\nDepartment of Clinical Medicine, Aarhus University, Aarhus, Denmark.\nDepartment of Biochemistry, Chemistry Institute, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil.",
+            "firstname": "Deidiane E",
+            "initials": "DE",
+            "lastname": "Ribeiro"
+        },
+        {
+            "affiliation": "Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.",
+            "firstname": "Heidi K",
+            "initials": "HK",
+            "lastname": "M\u00fcller"
+        },
+        {
+            "affiliation": "Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.",
+            "firstname": "Betina",
+            "initials": "B",
+            "lastname": "Elfving"
+        },
+        {
+            "affiliation": "Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.",
+            "firstname": "Amanda",
+            "initials": "A",
+            "lastname": "Eskelund"
+        },
+        {
+            "affiliation": "Department of Physics and Chemistry, School of Pharmaceutical Sciences of Ribeir\u00e3o Preto - University of S\u00e3o Paulo, Ribeir\u00e3o Preto, Brazil.\nDepartment of Clinical Medicine, Aarhus University, Aarhus, Denmark.\nAarhus Institute of Advanced Studies, Aarhus University, Aarhus, Denmark.",
+            "firstname": "Samia Rl",
+            "initials": "SR",
+            "lastname": "Joca"
+        },
+        {
+            "affiliation": "Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.\nAUGUST Centre, Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.",
+            "firstname": "Gregers",
+            "initials": "G",
+            "lastname": "Wegener"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1177/0269881119872173",
+    "journal": "Journal of psychopharmacology (Oxford, England)",
+    "keywords": [
+        "P2X7 receptor",
+        "antidepressant",
+        "depression",
+        "hippocampus",
+        "rats"
+    ],
+    "methods": null,
+    "publication_date": "2019-09-19",
+    "pubmed_id": "31526216",
+    "results": "We found that repeated treatment with A-804598 (30\u2009mg/Kg) reduced the immobility time in the FST and activated the BDNF signalling in the ventral hippocampus of FSL rats.",
+    "title": "Antidepressant-like effect induced by P2X7 receptor blockade in FSL rats is associated with BDNF signalling activation.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6046e80>"
+}{
+    "abstract": "To understand the risk of hypoglycaemia during Ramadan fasting by use of CGM, as well as to observe the Glycemic control and renal functions in patients with diabetes and chronic kidney disease stage 3 (CKD-3).\nA prospective interventional study conducted in the Dubai Hospital, a tertiary care centre in the United Arab Emirates, during the month of Ramadan 1437 AH (Hijri), which corresponded to June 6th till July 5th, 2016. 25 patients with type 2 diabetes and stage 3 chronic kidney disease (CKD stage 3) were included in the study, who intended to fast during Ramadan. The aim was to observe the serum glucose level through 24\u202fh FreeStyle Libre flash continuous glucose monitor (FSL-CGM). Most patients had three sensors during the study, covering an average three weeks during Ramadan and three weeks outside Ramadan (Sha'ban and shawal). We also monitored the change in, BP, HBA1c, kidney functions and BMI before and after Ramadan.\nThis study included 25 adults with a mean age of 60 (\u00b114\u202fyears). Fasting Ramadan did not result in any significant change in biophysical and biochemical profile of these patients. Data from FSL-CGM showed significantly longer duration (101.9\u202f\u00b1\u202f119.1 Vs. 45.9\u202f\u00b1\u202f47.6\u202fmin, p\u202f<\u202f0.033) and more frequent hypoglycemic episodes (4.4\u202f\u00b1\u202f4.7 Vs. 2.3\u202f\u00b1\u202f3.0, p\u202f<\u202f0.047) during Ramadan compared tonon-Ramadan respectively. The mean blood glucose readings were also significantly lower (70.7\u202f\u00b1\u202f29.3 Vs.93.7\u202f\u00b1\u202f57.9\u202fmg/dl p\u202f<\u202f0.011) during Ramadan compared to non -fasting period. The renal function mean\u202f\u00b1\u202fSD (serum creatinine 1.48\u202f\u00b1\u202f0.37, 1.44\u202f\u00b1\u202f0.37 and eGFR, 49.0\u202f\u00b1\u202f18.4, 48.9\u202f\u00b1\u202f17.5 p 0.9) showed no significant change due to fasting.\nIn patients with diabetes and CKD-stage 3 Ramadan fasting under close supervision and optimal diabetes care, was not associated with worsening of HBA1c and renal function. Patients had significantly more frequent and prolonged hypoglycemic episodes during Ramadan.",
+    "authors": [
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.",
+            "firstname": "Fatheya",
+            "initials": "F",
+            "lastname": "Alawadi"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates. Electronic address: frashid@dha.gov.ae.",
+            "firstname": "Fauzia",
+            "initials": "F",
+            "lastname": "Rashid"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.",
+            "firstname": "Alaaeldin",
+            "initials": "A",
+            "lastname": "Bashier"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.",
+            "firstname": "Elamin",
+            "initials": "E",
+            "lastname": "Abdelgadir"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.",
+            "firstname": "Maryam",
+            "initials": "M",
+            "lastname": "Al Saeed"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.",
+            "firstname": "Sona",
+            "initials": "S",
+            "lastname": "Abuelkheir"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.",
+            "firstname": "Azza",
+            "initials": "A",
+            "lastname": "Khalifa"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.",
+            "firstname": "Fatima",
+            "initials": "F",
+            "lastname": "Al Sayyah"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.",
+            "firstname": "Fawzi",
+            "initials": "F",
+            "lastname": "Bachet"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.",
+            "firstname": "Mohammed",
+            "initials": "M",
+            "lastname": "Elsayed"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.",
+            "firstname": "Khadija",
+            "initials": "K",
+            "lastname": "Abdallah"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.",
+            "firstname": "Mohamed",
+            "initials": "M",
+            "lastname": "Hassanein"
+        }
+    ],
+    "conclusions": "In patients with diabetes and CKD-stage 3 Ramadan fasting under close supervision and optimal diabetes care, was not associated with worsening of HBA1c and renal function. Patients had significantly more frequent and prolonged hypoglycemic episodes during Ramadan.",
+    "copyrights": "Copyright \u00a9 2019 Elsevier B.V. All rights reserved.",
+    "doi": "10.1016/j.diabres.2019.03.015",
+    "journal": "Diabetes research and clinical practice",
+    "keywords": [
+        "CGMS",
+        "CKD",
+        "Diabetes",
+        "Fasting",
+        "Hypoglycemia",
+        "Ramadan"
+    ],
+    "methods": "A prospective interventional study conducted in the Dubai Hospital, a tertiary care centre in the United Arab Emirates, during the month of Ramadan 1437 AH (Hijri), which corresponded to June 6th till July 5th, 2016. 25 patients with type 2 diabetes and stage 3 chronic kidney disease (CKD stage 3) were included in the study, who intended to fast during Ramadan. The aim was to observe the serum glucose level through 24\u202fh FreeStyle Libre flash continuous glucose monitor (FSL-CGM). Most patients had three sensors during the study, covering an average three weeks during Ramadan and three weeks outside Ramadan (Sha'ban and shawal). We also monitored the change in, BP, HBA1c, kidney functions and BMI before and after Ramadan.",
+    "publication_date": "2019-03-19",
+    "pubmed_id": "30880094",
+    "results": "This study included 25 adults with a mean age of 60 (\u00b114\u202fyears). Fasting Ramadan did not result in any significant change in biophysical and biochemical profile of these patients. Data from FSL-CGM showed significantly longer duration (101.9\u202f\u00b1\u202f119.1 Vs. 45.9\u202f\u00b1\u202f47.6\u202fmin, p\u202f<\u202f0.033) and more frequent hypoglycemic episodes (4.4\u202f\u00b1\u202f4.7 Vs. 2.3\u202f\u00b1\u202f3.0, p\u202f<\u202f0.047) during Ramadan compared tonon-Ramadan respectively. The mean blood glucose readings were also significantly lower (70.7\u202f\u00b1\u202f29.3 Vs.93.7\u202f\u00b1\u202f57.9\u202fmg/dl p\u202f<\u202f0.011) during Ramadan compared to non -fasting period. The renal function mean\u202f\u00b1\u202fSD (serum creatinine 1.48\u202f\u00b1\u202f0.37, 1.44\u202f\u00b1\u202f0.37 and eGFR, 49.0\u202f\u00b1\u202f18.4, 48.9\u202f\u00b1\u202f17.5 p 0.9) showed no significant change due to fasting.",
+    "title": "The use of Free Style Libre Continues Glucose Monitoring (FSL-CGM) to monitor the impact of Ramadan fasting on glycemic changes and kidney function in high-risk patients with diabetes and chronic kidney disease stage 3 under optimal diabetes care.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6099a80>"
+}{
+    "abstract": "Most of Muslims patients with diabetes and Coronary Heart Disease (CHD) elect to fast in Ramadan, but the actual risk in this subset of patients with diabetes is largely unknown. We aimed to understand the safety of fasting in CHD patients with diabetes insisting on fasting Ramadan under optimal care. We also monitored the change in biophysical and biochemical parameters of these patients before and after Ramadan. We conducted this prospective study in a tertiary care hospital in Dubai during Ramadan 2016, (June 6th till July 5th).\n21 Patients with T2DM with stable known CHD during the three months prior to study and insisted on fasting despite advice against it were recruited for the study. All patients received continuous glucose monitoring with free style libre monitoring device (FSL-CGM) during and outside Ramadan period. We recorded DM or CVD-related emergency visit or hospitalisation, change in BMI, systolic and diastolic BP, lipids profile, e-GFR, HBA1c, and frequency of hypoglycemia during Ramadan fasting and not -fasting period.\nThis is first study using CGM in CHD patients with diabetes who observe fast in Ramadan. Patients had a significantly higher incidence (3.2\u202f\u00b1\u202f2.8 vs 1.1\u202f\u00b1\u202f1.6 episodes, p\u202f=\u202f0.033) and prolonged duration of hypoglycemia (117.8\u202f\u00b1\u202f87.2, 49.1\u202f\u00b1\u202f59.1\u202fmin p 0.022) during fasting compared to non-fasting respectively. No significant alteration was seen in BMI, SBP and DBP, lipid profile and renal function. There is a significant improvement in HBA1c during Ramadan.\nWe could not associate any adverse cardiovascular effects with fasting Ramadan in patients with stable CHD under optimal diabetes care. FSL-CGMS data showed higher frequency of hypoglycemia during Ramadan fasting. Studies with larger sample size are needed for further validation of these findings.",
+    "authors": [
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates.",
+            "firstname": "Mohamed",
+            "initials": "M",
+            "lastname": "Hassanein"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates. Electronic address: frashid@dha.gov.ae.",
+            "firstname": "Fauzia",
+            "initials": "F",
+            "lastname": "Rashid"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates.",
+            "firstname": "Mohamed",
+            "initials": "M",
+            "lastname": "Elsayed"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates.",
+            "firstname": "Alaaeldin",
+            "initials": "A",
+            "lastname": "Basheir"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates.",
+            "firstname": "Maryam",
+            "initials": "M",
+            "lastname": "Al Saeed"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates.",
+            "firstname": "Elamin",
+            "initials": "E",
+            "lastname": "Abdelgadir"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates.",
+            "firstname": "Sona",
+            "initials": "S",
+            "lastname": "AbuelKheir"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates.",
+            "firstname": "Azza",
+            "initials": "A",
+            "lastname": "Khalifa"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates.",
+            "firstname": "Fatima",
+            "initials": "F",
+            "lastname": "Al Sayyah"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates.",
+            "firstname": "Fawzi",
+            "initials": "F",
+            "lastname": "Bachet"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates.",
+            "firstname": "Susan",
+            "initials": "S",
+            "lastname": "Jacob"
+        },
+        {
+            "affiliation": "Endocrine Department, Dubai Hospital, United Arab Emirates.",
+            "firstname": "Fatheya",
+            "initials": "F",
+            "lastname": "Alawadi"
+        }
+    ],
+    "conclusions": "We could not associate any adverse cardiovascular effects with fasting Ramadan in patients with stable CHD under optimal diabetes care. FSL-CGMS data showed higher frequency of hypoglycemia during Ramadan fasting. Studies with larger sample size are needed for further validation of these findings.",
+    "copyrights": "Copyright \u00a9 2019 Elsevier B.V. All rights reserved.",
+    "doi": "10.1016/j.diabres.2019.01.038",
+    "journal": "Diabetes research and clinical practice",
+    "keywords": [
+        "Cardiac",
+        "Coronary Heart Disease (CHD)",
+        "FSL-CGMS",
+        "Fasting",
+        "Hypoglycemia",
+        "Ramadan"
+    ],
+    "methods": null,
+    "publication_date": "2019-02-17",
+    "pubmed_id": "30771364",
+    "results": "This is first study using CGM in CHD patients with diabetes who observe fast in Ramadan. Patients had a significantly higher incidence (3.2\u202f\u00b1\u202f2.8 vs 1.1\u202f\u00b1\u202f1.6 episodes, p\u202f=\u202f0.033) and prolonged duration of hypoglycemia (117.8\u202f\u00b1\u202f87.2, 49.1\u202f\u00b1\u202f59.1\u202fmin p 0.022) during fasting compared to non-fasting respectively. No significant alteration was seen in BMI, SBP and DBP, lipid profile and renal function. There is a significant improvement in HBA1c during Ramadan.",
+    "title": "Assessment of risk of fasting during Ramadan under optimal diabetes care, in high-risk patients with diabetes and coronary heart disease through the use of FreeStyle Libre flash continuous glucose monitor (FSL-CGMS).",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6096ed0>"
+}{
+    "abstract": "To compare the cross-sectional robustness of commonly used volumetric software and effects of lesion filling in multiple sclerosis (MS).\nNine MS patients (six females; age 38\u00b113 years, disease duration 7.3\u00b15.2 years) were scanned twice with repositioning on three MRI scanners (Siemens Aera 1.5T, Avanto 1.5T, Trio 3.0T) the same day. Volumetric T\nVariability in volumetrics was lower within than between scanners (CoV 0.17-0.96% vs. 0.65-5.0%, p<0.001). All software provided similarly robust segmentations of the brain volume on the same scanner (CoV 0.17-0.28%, p=0.076). Normalisation improved inter-scanner reproducibility in FreeSurfer and SPM-based methods, but the FSL-SIENAX scaling factor did not improve robustness. Generally, SPM-based methods produced the most consistent volumetrics, while FreeSurfer was more robust for WM volumes on different scanners. FreeSurfer had more robust normalised brain and GM volumes on different scanners than FSL-SIENAX (p=0.004). MS lesion filling changed the output of FSL-SIENAX, SPM and SPM-CAT but not FreeSurfer.\nConsistent use of the same scanner is essential and normalisation to the intracranial volume is recommended for multiple scanners. Based on robustness, SPM-based methods are particularly suitable for cross-sectional volumetry. FreeSurfer poses a suitable alternative with WM segmentations less sensitive to MS lesions.\n\u2022 The same scanner should be used for brain volumetry. If different scanners are used, the intracranial volume normalisation improves the FreeSurfer and SPM robustness (but not the FSL scaling factor). \u2022 FreeSurfer, FSL and SPM all provide robust measures of the whole brain volume on the same MRI scanner. SPM-based methods overall provide the most robust segmentations (except white matter segmentations on different scanners where FreeSurfer is more robust). \u2022 MS lesion filling with Lesion Segmentation Toolbox changes the output of FSL-SIENAX and SPM. FreeSurfer output is not affected by MS lesion filling since it already takes white matter hypointensities into account and is therefore particularly suitable for MS brain volumetry.",
+    "authors": [
+        {
+            "affiliation": "Division of Clinical Geriatrics, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden.\nDepartment of Radiology, The First Hospital of Jilin University, Changchun, China.",
+            "firstname": "Chunjie",
+            "initials": "C",
+            "lastname": "Guo"
+        },
+        {
+            "affiliation": "Division of Clinical Geriatrics, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden.",
+            "firstname": "Daniel",
+            "initials": "D",
+            "lastname": "Ferreira"
+        },
+        {
+            "affiliation": "Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden.\nDepartment of Neurology, Karolinska University Hospital, Stockholm, Sweden.",
+            "firstname": "Katarina",
+            "initials": "K",
+            "lastname": "Fink"
+        },
+        {
+            "affiliation": "Division of Clinical Geriatrics, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden.",
+            "firstname": "Eric",
+            "initials": "E",
+            "lastname": "Westman"
+        },
+        {
+            "affiliation": "Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden. tobias.granberg@ki.se.\nDivision of Neuroradiology, Department of Radiology, Karolinska University Hospital, 141 86, Stockholm, Sweden. tobias.granberg@ki.se.",
+            "firstname": "Tobias",
+            "initials": "T",
+            "lastname": "Granberg"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1007/s00330-018-5710-x\n10.1016/S1474-4422(17)30470-2\n10.1016/S1474-4422(15)00393-2\n10.1038/nrneurol.2015.194\n10.1038/nrneurol.2009.41\n10.1007/s00330-017-4921-x\n10.1002/jmri.22214\n10.1007/s00415-012-6762-5\n10.1016/j.neuroimage.2006.02.051\n10.1016/j.neuroimage.2009.02.010\n10.1016/j.neuroimage.2012.01.021\n10.1016/j.neuroimage.2005.02.018\n10.1002/ana.22366\n10.1212/WNL.0000000000000560\n10.1212/WNL.33.11.1444\n10.1016/j.jneuroim.2014.06.010\n10.1006/nimg.2002.1040\n10.1016/j.neuroimage.2012.03.074\n10.1016/j.neuroimage.2007.07.007\n10.1016/j.neuroimage.2011.11.032\n10.1111/ane.12667\n10.1212/WNL.0b013e3181e24136\n10.1016/j.neuroimage.2016.07.035\n10.3174/ajnr.A4665\n10.1007/s00330-011-2336-7\n10.1016/j.nicl.2015.10.012\n10.1016/j.neuroimage.2012.02.084",
+    "journal": "European radiology",
+    "keywords": [
+        "Brain",
+        "Imaging, three-dimensional",
+        "Magnetic resonance imaging",
+        "Multiple sclerosis",
+        "Reproducibility of results"
+    ],
+    "methods": null,
+    "publication_date": "2018-09-23",
+    "pubmed_id": "30242503\n29275977\n26822746\n26526531\n19488083\n28667482\n20362675\n20575080\n23263472\n16651008\n19233293\n22248573\n21979382\n15955494\n21387374\n24871874\n6685237\n24999245\n12482100\n22484407\n17761438\n22119648\n18537111\n27798694\n25505764\n26369511\n27558404\n20530323\n25904813\n27431758\n26759553\n26797137\n22113264\n22790248\n26740917\n22430496",
+    "results": "Variability in volumetrics was lower within than between scanners (CoV 0.17-0.96% vs. 0.65-5.0%, p<0.001). All software provided similarly robust segmentations of the brain volume on the same scanner (CoV 0.17-0.28%, p=0.076). Normalisation improved inter-scanner reproducibility in FreeSurfer and SPM-based methods, but the FSL-SIENAX scaling factor did not improve robustness. Generally, SPM-based methods produced the most consistent volumetrics, while FreeSurfer was more robust for WM volumes on different scanners. FreeSurfer had more robust normalised brain and GM volumes on different scanners than FSL-SIENAX (p=0.004). MS lesion filling changed the output of FSL-SIENAX, SPM and SPM-CAT but not FreeSurfer.",
+    "title": "Repeatability and reproducibility of FreeSurfer, FSL-SIENAX and SPM brain volumetric measurements and the effect of lesion filling in multiple sclerosis.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a0f40>"
+}{
+    "abstract": "To investigate the feasibility, effectiveness, and reproducibility of femtosecond laser (FSL) technology in different corneal cuts.\nExperimental study at the Brandon Regional Health Centre.\nTwenty two Human Cadaver eyes donated for research and supplied by the eye bank of Manitoba university.\nIn this experimental study, the effectiveness and reproducibility of FSL were investigated in different corneal cuts. The corneas were divided into 5 groups: group I for penetrating keratoplasty; group II for anterior lamellar keratoplasty; group III for corneal pockets for inlays; group IV for intracorneal ring tunnels; and group V for corneal cross-linking pockets. Our primary endpoint was the repeatability of planned versus obtained thickness and diameter of the cuts with FSL. A secondary endpoint was the effectiveness and ease of dissection, rated from 0-4, with 4 being the easiest and 0 the most difficult to dissect.\nThere was a high correlation between planned and obtained thickness (r = 0.997, p < 0.001) and diameter (r = 0.998, p < 0.001). Both were statistically significant. Linear regression analyses showed that the obtained thickness of corneal cuts in micrometers was significantly predicted by the planned thickness of corneal cuts in micrometers (\u03b2 = 0.996, t = 56.47, p < 0.001). Likewise, the obtained diameter of corneal cuts in millimeters was significantly predicted by the planned diameter of corneal cuts in millimeters (\u03b2 = 0.971, t = 70.85, p < 0.001). The surgeons gave 15 out of a total of 22 corneas (68.2%) the maximum score for ease of dissection (Grade 4), where no adhesions were found and the dissection was smooth and steady. Five corneas out of a total of 22 (22.7%) were given a score of 3 of 4 where minor adhesions were found. Two corneas out of a total of 22 (9.1%) were given a score of 2 of 4 where >1 adhesion was found, with some difficulty in separating the cut cornea from the bed. No corneas were given grade 1 or grade 0. No significant differences were obtained for the ease of dissection among the 5 surgery types using Kruskal-Wallis H test (H [4] = 4.971, p > 0.05).\nThe measured corneal-cut geometry correlated well with laser settings in a variety of full- and partial-thickness FSL corneal patterns, including different depths and diameters. This reproducible efficacy and measurement accuracy of the planned versus obtained cuts could have a favourable result on a variety of corneal surgeries. It also yields a favourable ease of dissection of the cut lenticule from the stromal bed.",
+    "authors": [
+        {
+            "affiliation": "Ocular Microsurgery & Laser Centre, Brandon, Man.; Eye Consultant Centre, Dubai, United Arab Emirates. Electronic address: tarekan@yahoo.com.",
+            "firstname": "Tarek",
+            "initials": "T",
+            "lastname": "Ibrahim"
+        },
+        {
+            "affiliation": "Department of Psychology, Brandon University, Brandon, Man.",
+            "firstname": "Phillip",
+            "initials": "P",
+            "lastname": "Goernert"
+        },
+        {
+            "affiliation": "Ocular Microsurgery & Laser Centre, Brandon, Man.; Department of Ophthalmology, University of Manitoba, Winnipeg, Man.; Brandon Regional Health Centre, Prairie Mountain Health, Brandon, Man.",
+            "firstname": "Guillermo",
+            "initials": "G",
+            "lastname": "Rocha"
+        }
+    ],
+    "conclusions": "The measured corneal-cut geometry correlated well with laser settings in a variety of full- and partial-thickness FSL corneal patterns, including different depths and diameters. This reproducible efficacy and measurement accuracy of the planned versus obtained cuts could have a favourable result on a variety of corneal surgeries. It also yields a favourable ease of dissection of the cut lenticule from the stromal bed.",
+    "copyrights": "Copyright \u00a9 2018 Canadian Ophthalmological Society. Published by Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.jcjo.2017.11.005",
+    "journal": "Canadian journal of ophthalmology. Journal canadien d'ophtalmologie",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2018-08-19",
+    "pubmed_id": "30119784",
+    "results": "There was a high correlation between planned and obtained thickness (r = 0.997, p < 0.001) and diameter (r = 0.998, p < 0.001). Both were statistically significant. Linear regression analyses showed that the obtained thickness of corneal cuts in micrometers was significantly predicted by the planned thickness of corneal cuts in micrometers (\u03b2 = 0.996, t = 56.47, p < 0.001). Likewise, the obtained diameter of corneal cuts in millimeters was significantly predicted by the planned diameter of corneal cuts in millimeters (\u03b2 = 0.971, t = 70.85, p < 0.001). The surgeons gave 15 out of a total of 22 corneas (68.2%) the maximum score for ease of dissection (Grade 4), where no adhesions were found and the dissection was smooth and steady. Five corneas out of a total of 22 (22.7%) were given a score of 3 of 4 where minor adhesions were found. Two corneas out of a total of 22 (9.1%) were given a score of 2 of 4 where >1 adhesion was found, with some difficulty in separating the cut cornea from the bed. No corneas were given grade 1 or grade 0. No significant differences were obtained for the ease of dissection among the 5 surgery types using Kruskal-Wallis H test (H [4] = 4.971, p > 0.05).",
+    "title": "Femto-second laser (FSL) techniques and consistency in corneal surgery: experimental study.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6093650>"
+}{
+    "abstract": "Measurements of brain volume loss (BVL) in individual patients are currently discussed controversially. One concern is the impact of short-term biological noise, like hydration status.\nThree publicly available reliability MRI datasets with scan intervals of days to weeks were used. An additional cohort of 60 early relapsing multiple sclerosis (MS) patients with MRI follow-ups was analyzed to test whether after 1\u00a0year pathological BVL is detectable in a relevant fraction of MS patients. BVL was determined using SIENA/FSL. Results deviating from zero in the reliability datasets were considered as within-patient fluctuation (WPF) consisting of the intrinsic measurement error as well as the short-term biological fluctuations of brain volumes. We provide an approach to interpret BVL measurements in individual patients taking the WPF into account.\nThe estimated standard deviation of BVL measurements from the pooled reliability datasets was 0.28%. For a BVL measurement of x% per year in an individual patient, the true BVL lies with an error probability of 5% in the interval x%\u2009\u00b1\u2009(1.96\u2009\u00d7\u20090.28)/(scan interval in years)%. To allow a BVL per year of at least 0.4% to be identified after 1\u00a0year, the measured BVL needs to exceed 0.94%. The median BVL per year in the MS patient cohort was 0.44%. In 11 out of 60 MS patients (18%) we found a BVL per year equal or greater than 0.94%.\nThe estimated WPF may be helpful when interpreting BVL results on an individual patient level in diseases such as MS.",
+    "authors": [
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland. roland.opfer@jung-diagnostics.de.\nJung Diagnostics GmbH, Hamburg, Germany. roland.opfer@jung-diagnostics.de.",
+            "firstname": "Roland",
+            "initials": "R",
+            "lastname": "Opfer"
+        },
+        {
+            "affiliation": "Jung Diagnostics GmbH, Hamburg, Germany.",
+            "firstname": "Ann-Christin",
+            "initials": "AC",
+            "lastname": "Ostwaldt"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland.",
+            "firstname": "Christine",
+            "initials": "C",
+            "lastname": "Walker-Egger"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland.\nDepartment of Information Technology and Electrical Engineering, Swiss Federal Institute of Technology, Zurich, Switzerland.",
+            "firstname": "Praveena",
+            "initials": "P",
+            "lastname": "Manogaran"
+        },
+        {
+            "affiliation": "Biostatistics Unit, Department of Health Sciences, University of Genoa, Genoa, Italy.",
+            "firstname": "Maria Pia",
+            "initials": "MP",
+            "lastname": "Sormani"
+        },
+        {
+            "affiliation": "Department of Medicine, Surgery and Neuroscience, University of Siena, Siena, Italy.",
+            "firstname": "Nicola",
+            "initials": "N",
+            "lastname": "De Stefano"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland.",
+            "firstname": "Sven",
+            "initials": "S",
+            "lastname": "Schippling"
+        }
+    ],
+    "conclusions": "The estimated WPF may be helpful when interpreting BVL results on an individual patient level in diseases such as MS.",
+    "copyrights": null,
+    "doi": "10.1007/s00415-018-8825-8",
+    "journal": "Journal of neurology",
+    "keywords": [
+        "Brain atrophy",
+        "MRI",
+        "Multiple sclerosis",
+        "Reliability",
+        "SIENA"
+    ],
+    "methods": null,
+    "publication_date": "2018-03-20",
+    "pubmed_id": "29549466\n25904813\n25089020\n17537648\n26195051\n28054131\n25379428\n27335096\n25977792\n26723849\n25632085\n21326603\n22484407\n27688944\n12482100\n29407463\n28247239\n27431758\n27335098\n19201002\n15699394\n22104089\n17714011",
+    "results": "The estimated standard deviation of BVL measurements from the pooled reliability datasets was 0.28%. For a BVL measurement of x% per year in an individual patient, the true BVL lies with an error probability of 5% in the interval x%\u2009\u00b1\u2009(1.96\u2009\u00d7\u20090.28)/(scan interval in years)%. To allow a BVL per year of at least 0.4% to be identified after 1\u00a0year, the measured BVL needs to exceed 0.94%. The median BVL per year in the MS patient cohort was 0.44%. In 11 out of 60 MS patients (18%) we found a BVL per year equal or greater than 0.94%.",
+    "title": "Within-patient fluctuation of brain volume estimates from short-term repeated MRI measurements using SIENA/FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5f31c10>"
+}{
+    "abstract": null,
+    "authors": [
+        {
+            "affiliation": "McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada; Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada.",
+            "firstname": "Dorothee",
+            "initials": "D",
+            "lastname": "Schoemaker"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA; Charit\u00e9, Berlin, Germany.",
+            "firstname": "Claudia",
+            "initials": "C",
+            "lastname": "Buss"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA.",
+            "firstname": "Kevin",
+            "initials": "K",
+            "lastname": "Head"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA.",
+            "firstname": "Curt A",
+            "initials": "CA",
+            "lastname": "Sandman"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA; University of Denver, CO, USA.",
+            "firstname": "Elysia P",
+            "initials": "EP",
+            "lastname": "Davis"
+        },
+        {
+            "affiliation": "Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada; Biomedical Engineering Department, McGill University, Montreal, QC, Canada.",
+            "firstname": "M Mallar",
+            "initials": "MM",
+            "lastname": "Chakravarty"
+        },
+        {
+            "affiliation": "McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada.",
+            "firstname": "Serge",
+            "initials": "S",
+            "lastname": "Gauthier"
+        },
+        {
+            "affiliation": "McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada; Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada. Electronic address: jens.pruessner@mcgill.ca.",
+            "firstname": "Jens C",
+            "initials": "JC",
+            "lastname": "Pruessner"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.neuroimage.2018.02.009",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2018-02-25",
+    "pubmed_id": "29477029",
+    "results": null,
+    "title": "Corrigendum to \"Hippocampus and amygdala volumes from magnetic resonance images in children: Assessing accuracy of FreeSurfer and FSL against manual segmentation\"[NeuroImage 129 (2016) 1-14].",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6080d10>"
+}{
+    "abstract": "Brain volume loss (BVL) has gained increasing interest for monitoring tissue damage in neurodegenerative diseases including multiple sclerosis (MS). In this longitudinal study, 117 healthy participants (age range 37.3-82.6\u00a0years) received at least 2 magnetic resonance imaging examinations. BVL (in %) was determined with the Structural Image Evaluation using Normalisation of Atrophy/FMRIB Software Library and annualized. Mean BVL per year was 0.15%, 0.30%, 0.46%, and 0.61% at ages 45, 55, 65, and 75 years, respectively. The corresponding BVL per year values of the age-dependent 95th percentiles were 0.52%, 0.77%, 1.05% and 1.45%. Pathological BVL can be assumed if an individual BVL per year exceeds these thresholds for a given age. The mean BVL per year determined in this longitudinal study was consistent with results from a cross-sectional study that was published recently. The cut-off for a pathological BVL per year at the age of 45 years (0.52%) was consistent with the cut-off suggested previously to distinguish between physiological and pathological BVL in MS patients. Different cut-off values, however, need to be considered when interpreting BVL assessed in cohorts of higher ages.",
+    "authors": [
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland; Jung diagnostics GmbH, Hamburg, Germany. Electronic address: roland.opfer@jung-diagnostics.de.",
+            "firstname": "Roland",
+            "initials": "R",
+            "lastname": "Opfer"
+        },
+        {
+            "affiliation": "Jung diagnostics GmbH, Hamburg, Germany.",
+            "firstname": "Ann-Christin",
+            "initials": "AC",
+            "lastname": "Ostwaldt"
+        },
+        {
+            "affiliation": "Biostatistics Unit, Department of Health Sciences, University of Genoa, Genoa, Italy.",
+            "firstname": "Maria Pia",
+            "initials": "MP",
+            "lastname": "Sormani"
+        },
+        {
+            "affiliation": "Medical Prevention Center Hamburg (MPCH), Hamburg, Germany.",
+            "firstname": "Carola",
+            "initials": "C",
+            "lastname": "Gocke"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland.",
+            "firstname": "Christine",
+            "initials": "C",
+            "lastname": "Walker-Egger"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland; Department of Information Technology and Electrical Engineering, Swiss Federal Institute of Technology, Zurich, Switzerland.",
+            "firstname": "Praveena",
+            "initials": "P",
+            "lastname": "Manogaran"
+        },
+        {
+            "affiliation": "Department of Medicine, Surgery and Neuroscience, University of Siena, Siena, Italy.",
+            "firstname": "Nicola",
+            "initials": "N",
+            "lastname": "De Stefano"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland.",
+            "firstname": "Sven",
+            "initials": "S",
+            "lastname": "Schippling"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2017 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neurobiolaging.2017.12.024",
+    "journal": "Neurobiology of aging",
+    "keywords": [
+        "Aging",
+        "Brain atrophy",
+        "Brain volume loss",
+        "Cutoff",
+        "Multiple sclerosis",
+        "SIENA"
+    ],
+    "methods": null,
+    "publication_date": "2018-02-07",
+    "pubmed_id": "29407463",
+    "results": null,
+    "title": "Estimates of age-dependent cutoffs for pathological brain volume loss using SIENA/FSL-a longitudinal brain volumetry study in healthy adults.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6081da0>"
+}{
+    "abstract": "Segmentation of human brain structures is crucial for the volumetric quantification of brain disease. Advances in algorithmic approaches have led to automated techniques that save time compared to interactive methods. Recently, the utility and accuracy of template library fusion algorithms, such as Local MAP PSTAPLE (PSTAPLE), have been demonstrated but there is little guidance regarding its reproducibility compared to single template-based algorithms such as FreeSurfer and FSL-FIRST.\nEight repeated magnetic resonance imagings of 20 subjects were segmented using FreeSurfer, FSL-FIRST, and PSTAPLE. We reported the reproducibility of segmentation-derived volume measurements for brain structures and calculated sample size estimates for detecting hypothetical rates of tissue atrophy given the observed variances.\nPSTAPLE had the most reproducible volume measurements for hippocampus, putamen, thalamus, caudate, pallidum, amygdala, Accumbens area, and cortical regions. FreeSurfer was most reproducible for brainstem. PSTAPLE was the most accurate algorithm in terms of several metrics include Dice's coefficient. The sample size estimates showed that a study utilizing PSTAPLE would require tens to hundreds less subjects than the other algorithms for detecting atrophy rates typically observed in brain disease.\nPSTAPLE is a useful tool for automatic human brain segmentation due to its precision and accuracy, which enable the detection of the size of the effect typically reported for neurological disorders with a substantially reduced sample size, in comparison to the other tools we assessed. This enables randomized controlled trials to be executed with reduced cost and duration, in turn, facilitating the assessment of new therapeutic interventions.",
+    "authors": [
+        {
+            "affiliation": "Computational Radiology Laboratory, Department of Radiology, Boston Children's Hospital, and Harvard Medical School, Boston, MA.",
+            "firstname": "Clemente",
+            "initials": "C",
+            "lastname": "Velasco-Annis"
+        },
+        {
+            "affiliation": "Computational Radiology Laboratory, Department of Radiology, Boston Children's Hospital, and Harvard Medical School, Boston, MA.",
+            "firstname": "Alireza",
+            "initials": "A",
+            "lastname": "Akhondi-Asl"
+        },
+        {
+            "affiliation": "Computational Radiology Laboratory, Department of Radiology, Boston Children's Hospital, and Harvard Medical School, Boston, MA.",
+            "firstname": "Aymeric",
+            "initials": "A",
+            "lastname": "Stamm"
+        },
+        {
+            "affiliation": "Computational Radiology Laboratory, Department of Radiology, Boston Children's Hospital, and Harvard Medical School, Boston, MA.",
+            "firstname": "Simon K",
+            "initials": "SK",
+            "lastname": "Warfield"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2017 by the American Society of Neuroimaging.",
+    "doi": "10.1111/jon.12483",
+    "journal": "Journal of neuroimaging : official journal of the American Society of Neuroimaging",
+    "keywords": [
+        "FSL",
+        "FreeSurfer",
+        "MRI",
+        "STAPLE",
+        "brain",
+        "segmentation"
+    ],
+    "methods": null,
+    "publication_date": "2017-11-15",
+    "pubmed_id": "29134725",
+    "results": "PSTAPLE had the most reproducible volume measurements for hippocampus, putamen, thalamus, caudate, pallidum, amygdala, Accumbens area, and cortical regions. FreeSurfer was most reproducible for brainstem. PSTAPLE was the most accurate algorithm in terms of several metrics include Dice's coefficient. The sample size estimates showed that a study utilizing PSTAPLE would require tens to hundreds less subjects than the other algorithms for detecting atrophy rates typically observed in brain disease.",
+    "title": "Reproducibility of Brain MRI Segmentation Algorithms: Empirical Comparison of Local MAP PSTAPLE, FreeSurfer, and FSL-FIRST.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5eeaf20>"
+}{
+    "abstract": "The aim of this study was to investigate the use of one magnetic resonance image-processing tool, FSL, in its ability to perform automated segmentation of computed tomographic images of the brain.\nHead computed tomography (CT) images were brain extracted and segmented using the FSL tools BET and FAST, respectively. The products of segmentation were analyzed by histogram. The impact of image intensity inhomogeneity correction was investigated using simulated bias fields, 14 routine head CT scans, and selected illustrative clinical cases.\nFSL FAST performs direct segmentation of head CT images, permitting quantitation of gray and white matter densities and volumes, achieving a more complete segmentation than masking methods. \"Bias field correction\" reduced the covariance of image signal intensities of the total brain and gray matter images (P < 0.01). Correction is larger when the effects of beam hardening and radiation scatter are larger, resulting in improved segmentation.\nFSL FAST enables direct segmentation of head CT images.",
+    "authors": [
+        {
+            "affiliation": null,
+            "firstname": "Keith A",
+            "initials": "KA",
+            "lastname": "Cauley"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Joe",
+            "initials": "J",
+            "lastname": "Och"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Patrick J",
+            "initials": "PJ",
+            "lastname": "Yorks"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Samuel W",
+            "initials": "SW",
+            "lastname": "Fielden"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1097/RCT.0000000000000660",
+    "journal": "Journal of computer assisted tomography",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2017-08-09",
+    "pubmed_id": "28786900",
+    "results": "FSL FAST performs direct segmentation of head CT images, permitting quantitation of gray and white matter densities and volumes, achieving a more complete segmentation than masking methods. \"Bias field correction\" reduced the covariance of image signal intensities of the total brain and gray matter images (P < 0.01). Correction is larger when the effects of beam hardening and radiation scatter are larger, resulting in improved segmentation.",
+    "title": "Automated Segmentation of Head Computed Tomography Images Using FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e606a200>"
+}

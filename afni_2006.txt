@@ -1,0 +1,58 @@
+{
+    "abstract": "The Functional Imaging Analysis Contest (FIAC) datasets were analyzed with the AFNI software package. Two types of linear regression analyses were carried out: \"fixed shape\" hemodynamic response, where a preselected incomplete gamma function is used to model each brief activation episode, and \"variable shape\" analysis, where the temporal shape of the response model in each stimulus block class is allowed to vary separately in each voxel. These time series regressions were carried out both in the volume and on the original data projected to individual standardized cortical surface models. Intersubject analyses were carried out voxel-wise on the regression amplitudes obtained from these time series results, using a multi-way within-subject analysis of variance (ANOVA). Group analysis of the block design demonstrated a significant repetition suppression of the BOLD signal within blocks in the superior and middle temporal gyrus. This effect may represent differences in the response to the first stimulus following a period of silence compared to the remaining sentences in the block. Analyzing the event-related data, Brodmann area 31 showed significant sentence effect and consecutive-sentence repetition effect. However, no significant speaker effect was found; these results may be consistent with the instructions to the subjects that they would be tested on the sentence content. Sentence by speaker interaction effects were found in bilateral middle temporal gyrus, left inferior frontal, and left inferior temporal gyrus.",
+    "authors": [
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Department of Health and Human Services, Bethesda, Maryland 20892-1148, USA. ziad@nih.gov",
+            "firstname": "Ziad S",
+            "initials": "ZS",
+            "lastname": "Saad"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gang",
+            "initials": "G",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Richard C",
+            "initials": "RC",
+            "lastname": "Reynolds"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Patricia P",
+            "initials": "PP",
+            "lastname": "Christidis"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kenneth R",
+            "initials": "KR",
+            "lastname": "Hammett"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Patrick S F",
+            "initials": "PS",
+            "lastname": "Bellgowan"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Robert W",
+            "initials": "RW",
+            "lastname": "Cox"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1002/hbm.20247",
+    "journal": "Human brain mapping",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2006-03-29",
+    "pubmed_id": "16568421\n11489732\n16035046\n10659849\n9950716\n8812068\n9430344\n9931268\n16565949\n15928057\n9931269\n10619420\n7596267\n10912591\n12729491\n12367638\n16172003",
+    "results": null,
+    "title": "Functional imaging analysis contest (FIAC) analysis according to AFNI and SUMA.",
+    "xml": "<Element 'PubmedArticle' at 0x7dcbe74d2980>"
+}

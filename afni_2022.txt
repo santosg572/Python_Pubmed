@@ -1,0 +1,43 @@
+{
+    "abstract": "Quality control (QC) is a necessary, but often an under-appreciated, part of FMRI processing. Here we describe procedures for performing QC on acquired or publicly available FMRI datasets using the widely used AFNI software package. This work is part of the Research Topic, \"Demonstrating Quality Control (QC) Procedures in fMRI.\" We used a sequential, hierarchical approach that contained the following major stages: (1) GTKYD (getting to know your data, esp. its basic acquisition properties), (2) APQUANT (examining quantifiable measures, with thresholds), (3) APQUAL (viewing qualitative images, graphs, and other information in systematic HTML reports) and (4) GUI (checking features interactively with a graphical user interface); and for task data, and (5) STIM (checking stimulus event timing statistics). We describe how these are complementary and reinforce each other to help researchers stay close to their data. We processed and evaluated the provided, publicly available resting state data collections (7 groups, 139 total subjects) and task-based data collection (1 group, 30 subjects). As specified within the Topic guidelines, each subject's dataset was placed into one of three categories: Include, exclude or uncertain. The main focus of this paper, however, is the detailed description of QC procedures: How to understand the contents of an FMRI dataset, to check its contents for appropriateness, to verify processing steps, and to examine potential quality issues. Scripts for the processing and analysis are freely available.",
+    "authors": [
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, Bethesda, MD, United States.",
+            "firstname": "Richard C",
+            "initials": "RC",
+            "lastname": "Reynolds"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, Bethesda, MD, United States.",
+            "firstname": "Paul A",
+            "initials": "PA",
+            "lastname": "Taylor"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, Bethesda, MD, United States.",
+            "firstname": "Daniel R",
+            "initials": "DR",
+            "lastname": "Glen"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2023 Reynolds, Taylor and Glen.",
+    "doi": "10.3389/fnins.2022.1073800\n10.1016/j.neuron.2012.05.001\n10.1073/pnas.0911855107\n10.1016/j.neuroimage.2016.12.018\n10.1038/mp.2013.78\n10.1002/mrm.20695\n10.1016/j.neuroimage.2010.07.033\n10.3389/fninf.2020.00018\n10.1089/brain.2013.0210\n10.1016/j.neuroimage.2010.04.246\n10.7554/eLife.71774\n10.1016/j.neuroimage.2008.09.037\n10.1089/brain.2013.0156\n10.1016/j.neuroimage.2015.05.015\n10.1371/journal.pone.0185552\n10.1101/2022.10.26.513929",
+    "journal": "Frontiers in neuroscience",
+    "keywords": [
+        "AFNI",
+        "FMRI",
+        "data visualization",
+        "processing",
+        "quality control",
+        "reproducibility",
+        "resting state",
+        "task-based"
+    ],
+    "methods": null,
+    "publication_date": "2023-02-17",
+    "pubmed_id": "36793774\n22632718\n20176931\n27956209\n8812068\n23774715\n10984517\n16215962\n20656036\n32528270\n24702246\n20420926\n34658334\n18976717\n23705677\n25987368\n28973000\n37116766",
+    "results": null,
+    "title": "Quality control practices in FMRI analysis: Philosophy, methods and examples using AFNI.",
+    "xml": "<Element 'PubmedArticle' at 0x7dcbe74d27a0>"
+}

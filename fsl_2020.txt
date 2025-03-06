@@ -1,0 +1,743 @@
+{
+    "abstract": "FSL's FMRIB's Integrated Registration and Segmentation Tool (FSL-FIRST) is a widely used and well-validated tool. Automated thalamic segmentation is a common application and an important longitudinal measure for multiple sclerosis (MS). However, FSL-FIRST's algorithm is based on shape models derived from non-MS groups. As such, the present study sought to systematically assess common thalamic segmentation errors made by FSL-FIRST on MRIs from people with multiple sclerosis (PwMS).\nFSL-FIRST was applied to generate thalamic segmentation masks for 890 MR images in PwMS. Images and masks were reviewed systematically to classify and quantify errors, as well as associated anatomical variations and MRI abnormalities. For cases with overt errors (n = 362), thalamic masks were corrected and quantitative volumetric differences were calculated.\nIn the entire quantitative volumetric group, the mean volumetric error of FSL-FIRST was 2.74% (0.360 ml): among only corrected cases, the mean volumetric error was 6.79% (0.894 ml). The average percent volumetric error associated with seven error types, two anatomical variants, and motions artifacts are reported. Additional analyses showed that the presence of motion artifacts or anatomical variations significantly increased the probability of error (\u03c7\nIn PwMS, FSL-FIRST thalamic segmentation miscalculates thalamic volumetry in a predictable fashion, and may be biased to overestimate highly atrophic thalami. As such, it is recommended that segmentations be reviewed and corrected manually when appropriate for specific studies.",
+    "authors": [
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Department of Neurology, School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York, Buffalo, New York, USA.",
+            "firstname": "Cassondra",
+            "initials": "C",
+            "lastname": "Lyman"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Department of Neurology, School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York, Buffalo, New York, USA.",
+            "firstname": "Dongchan",
+            "initials": "D",
+            "lastname": "Lee"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Department of Neurology, School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York, Buffalo, New York, USA.",
+            "firstname": "Hannah",
+            "initials": "H",
+            "lastname": "Ferrari"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Department of Neurology, School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York, Buffalo, New York, USA.\nDepartment of Neurology, Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York (SUNY), Buffalo, New York, USA.",
+            "firstname": "Tom A",
+            "initials": "TA",
+            "lastname": "Fuchs"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Department of Neurology, School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York, Buffalo, New York, USA.\nIRCCS, Fondazione Don Carlo Gnocchi ONLUS, Milan, Italy.",
+            "firstname": "Niels",
+            "initials": "N",
+            "lastname": "Bergsland"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Department of Neurology, School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York, Buffalo, New York, USA.",
+            "firstname": "Dejan",
+            "initials": "D",
+            "lastname": "Jakimovski"
+        },
+        {
+            "affiliation": "Department of Neurology, Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York (SUNY), Buffalo, New York, USA.",
+            "firstname": "Bianca",
+            "initials": "B",
+            "lastname": "Weinstock-Guttmann"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Department of Neurology, School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York, Buffalo, New York, USA.\nDepartment of Neurology, Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York (SUNY), Buffalo, New York, USA.\nCenter for Biomedical Imaging, Clinical Translational Science Institute, University at Buffalo, State University of New York (SUNY), Buffalo, New York, USA.",
+            "firstname": "Robert",
+            "initials": "R",
+            "lastname": "Zivadinov"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Department of Neurology, School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York, Buffalo, New York, USA.\nDepartment of Neurology, Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York (SUNY), Buffalo, New York, USA.\nCenter for Biomedical Imaging, Clinical Translational Science Institute, University at Buffalo, State University of New York (SUNY), Buffalo, New York, USA.",
+            "firstname": "Michael G",
+            "initials": "MG",
+            "lastname": "Dwyer"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2021 American Society of Neuroimaging.",
+    "doi": "10.1111/jon.12947",
+    "journal": "Journal of neuroimaging : official journal of the American Society of Neuroimaging",
+    "keywords": [
+        "atrophy",
+        "errors",
+        "segmentation",
+        "thalamus",
+        "volumetry"
+    ],
+    "methods": null,
+    "publication_date": "2021-11-13",
+    "pubmed_id": "34767684",
+    "results": "In the entire quantitative volumetric group, the mean volumetric error of FSL-FIRST was 2.74% (0.360 ml): among only corrected cases, the mean volumetric error was 6.79% (0.894 ml). The average percent volumetric error associated with seven error types, two anatomical variants, and motions artifacts are reported. Additional analyses showed that the presence of motion artifacts or anatomical variations significantly increased the probability of error (\u03c7",
+    "title": "MRI-based thalamic volumetry in multiple sclerosis using FSL-FIRST: Systematic assessment of common error modes.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5eab6f0>"
+}{
+    "abstract": "As a novel lactate-derived post-translational modification (PTM), lysine lactylation (Kla) is involved in diverse biological processes, and participates in human tumorigenesis. Identification of Kla substrates with their exact sites is crucial for revealing the molecular mechanisms of lactylation. In contrast with labor-intensive and time-consuming experimental approaches, computational prediction of Kla could provide convenience and increased speed, but is still lacking. In this work, although current identified Kla sites are limited, we constructed the first Kla benchmark dataset and developed a few-shot learning-based architecture approach to leverage the power of small datasets and reduce the impact of imbalance and overfitting. A maximum 11.7% (0.745 versus 0.667) increase of area under the curve (AUC) value was achieved in contrast to conventional machine learning methods. We conducted a comprehensive survey of the performance by combining 8 sequence-based features and 3 structure-based features and tailored a multi-feature hybrid system for synergistic combination. This system achieved >16.2% improvement of the AUC value (0.889 versus 0.765) compared with single feature-based models for the prediction of Kla sites ",
+    "authors": [
+        {
+            "affiliation": "Department of Pathophysiology, School of Basic Medical Sciences, Zhengzhou University, Zhengzhou, Henan 450001, China.\nComputational Biology Department, School of Computer Science, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213, USA.",
+            "firstname": "Peiran",
+            "initials": "P",
+            "lastname": "Jiang"
+        },
+        {
+            "affiliation": "MOE Key Laboratory of Molecular Biophysics, Hubei Bioinformatics and Molecular Imaging Key Laboratory, Center for Artificial Intelligence Biology, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, Hubei 430074, China.",
+            "firstname": "Wanshan",
+            "initials": "W",
+            "lastname": "Ning"
+        },
+        {
+            "affiliation": "Department of Pathophysiology, School of Basic Medical Sciences, Zhengzhou University, Zhengzhou, Henan 450001, China.\nHenan Provincial Cooperative Innovation Center for Cancer Chemoprevention, Zhengzhou, Henan 450001, China.",
+            "firstname": "Yunshu",
+            "initials": "Y",
+            "lastname": "Shi"
+        },
+        {
+            "affiliation": "State Key Laboratory of Digital Manufacturing Equipment and Technology, Huazhong University of Science and Technology, Wuhan, Hubei 430074, China.",
+            "firstname": "Chuan",
+            "initials": "C",
+            "lastname": "Liu"
+        },
+        {
+            "affiliation": "Department of Pathophysiology, School of Basic Medical Sciences, Zhengzhou University, Zhengzhou, Henan 450001, China.",
+            "firstname": "Saijun",
+            "initials": "S",
+            "lastname": "Mo"
+        },
+        {
+            "affiliation": "Department of Pathophysiology, School of Basic Medical Sciences, Zhengzhou University, Zhengzhou, Henan 450001, China.",
+            "firstname": "Haoran",
+            "initials": "H",
+            "lastname": "Zhou"
+        },
+        {
+            "affiliation": "Department of Pathophysiology, School of Basic Medical Sciences, Zhengzhou University, Zhengzhou, Henan 450001, China.\nState Key Laboratory of Esophageal Cancer Prevention and Treatment, Zhengzhou, Henan 450001, China.\nAcademy of Medical Sciences, Zhengzhou University, Zhengzhou, Henan 450001, China.",
+            "firstname": "Kangdong",
+            "initials": "K",
+            "lastname": "Liu"
+        },
+        {
+            "affiliation": "Department of Pathophysiology, School of Basic Medical Sciences, Zhengzhou University, Zhengzhou, Henan 450001, China.\nState Key Laboratory of Esophageal Cancer Prevention and Treatment, Zhengzhou, Henan 450001, China.",
+            "firstname": "Yaping",
+            "initials": "Y",
+            "lastname": "Guo"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2021 The Authors.",
+    "doi": "10.1016/j.csbj.2021.08.013\n10.1126/science:123.3191.309\n10.1126/science:1160809\n10.1016/j.cell.2011.02.013\n10.1016/j.redox.2020.101454\n10.1016/j.cmet.2014.12.005\n10.1038/s41586-019-1678-1\n10.1038/nrm.2016.140\n10.1073/pnas.2009778117\n10.1186/s13059-021-02308-z\n10.1016/j.gpb.2019.11.010\n10.1038/s41551-020-00633-5\n10.1038/s43018-020-00169-2\n10.1093/bioinformatics/btt554\n10.3390/cells9051266\n10.1093/nar/25.17.3389\n10.1093/bioinformatics/bth466\n10.1038/srep10184\n10.1093/nar/gkm854\n10.1093/nar/gkq1104\n10.1093/nar/gkg584\n10.1371/journal.pone.0022930\n10.1093/protein/9.1.27\n10.1155/2020/8926750\n10.3934/mbe.2019123\n10.1073/pnas.0607879104\n10.1089/omi.2015.0095\n10.1093/nar/gky1049\n10.1016/j.ab.2017.03.021\n10.1186/s12864-017-4336-8\n10.1371/journal.pone.0191900\n10.1038/cr.2013.151\n10.1038/s41592-019-0351-9\n10.1613/jair.953\n10.1093/bib/bbaa259\n10.1109/ICCV.2019.00382\n10.1016/j.gpb.2020.01.001\n10.1214/17-EJS1338SI\n10.1016/j.omtn.2019.08.011\n10.1016/j.omtn.2019.04.019\n10.1038/nmeth.2646\n10.1093/nar/gkw1108\n10.3389/fonc.2020.00373\n10.1038/onc.2013.406",
+    "journal": "Computational and structural biotechnology journal",
+    "keywords": [
+        "Deep neural network",
+        "Ensemble learning",
+        "Few-shot learning",
+        "Lactylation",
+        "Multi-feature hybrid system",
+        "Post-translational modification"
+    ],
+    "methods": null,
+    "publication_date": "2021-09-03",
+    "pubmed_id": "34471495\n13298683\n19460998\n21376230\n32113910\n25565206\n31645732\n27924077\n33199625\n33726814\n33193272\n32861878\n32248222\n33208927\n34223192\n29528364\n24064423\n32443803\n9254694\n27787820\n15308540\n33099604\n30351377\n29186295\n26084794\n18160410\n21062810\n12824383\n21829559\n9053899\n7568000\n33133228\n31137222\n17360525\n26406767\n30395287\n28363440\n29363424\n12824487\n29432431\n24217768\n30923373\n33211841\n33034338\n30590410\n32200042\n31542696\n31146255\n32134472\n24097270\n32363397\n27899567\n32292719\n24096483",
+    "results": null,
+    "title": "FSL-Kla: A few-shot learning-based multi-feature hybrid system for lactylation site prediction.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60909f0>"
+}{
+    "abstract": "",
+    "authors": [
+        {
+            "affiliation": "Department of Food Science, University of Tennessee, Knoxville, Tennessee, USA.",
+            "firstname": "Tracey Lee",
+            "initials": "TL",
+            "lastname": "Peters"
+        },
+        {
+            "affiliation": "Department of Food Science, University of Tennessee, Knoxville, Tennessee, USA.",
+            "firstname": "Lauren K",
+            "initials": "LK",
+            "lastname": "Hudson"
+        },
+        {
+            "affiliation": "Department of Food Science, University of Tennessee, Knoxville, Tennessee, USA.",
+            "firstname": "Daniel W",
+            "initials": "DW",
+            "lastname": "Bryan"
+        },
+        {
+            "affiliation": "Department of Food Science, University of Tennessee, Knoxville, Tennessee, USA.",
+            "firstname": "Yaxiong",
+            "initials": "Y",
+            "lastname": "Song"
+        },
+        {
+            "affiliation": "Center for Food Safety, University of Georgia, Griffin, Georgia, USA.",
+            "firstname": "Henk C",
+            "initials": "HC",
+            "lastname": "den Bakker"
+        },
+        {
+            "affiliation": "Centers for Disease Control and Prevention, National Listeria Reference Laboratory, Atlanta, Georgia, USA.",
+            "firstname": "Zuzana",
+            "initials": "Z",
+            "lastname": "Kucerova"
+        },
+        {
+            "affiliation": "Department of Food Science, University of Tennessee, Knoxville, Tennessee, USA tdenes@utk.edu.",
+            "firstname": "Thomas G",
+            "initials": "TG",
+            "lastname": "Denes"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1128/MRA.01158-20\n10.1016/S1473-3099(14)70870-9\n10.1002/9781118960608.gbm00547\n10.1093/oxfordjournals.jbchem.a135130\n10.1128/AEM.00087-15\n10.1128/AEM.02138-20\n10.1093/bioinformatics/btu170\n10.1371/journal.pcbi.1005595\n10.1093/bioinformatics/btt086\n10.1093/bioinformatics/btp352\n10.1093/nar/gkw569\n10.1111/mmi.14455\n10.1111/mmi.13009\n10.1371/journal.ppat.1004919\n10.1093/molbev/msm152",
+    "journal": "Microbiology resource announcements",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2021-01-09",
+    "pubmed_id": "33414303\n25241232\n3926758\n25888172\n32887717\n24695404\n28594827\n23422339\n19505943\n27342282\n32185836\n25825127\n26001194\n17652332",
+    "results": null,
+    "title": "Complete Genome Sequence of a Serotype 7 Listeria monocytogenes Strain, FSL R9-0915.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e984a0>"
+}{
+    "abstract": "We introduce FSL-MRS, an end-to-end, modular, open-source MRS analysis toolbox. It provides spectroscopic data conversion, preprocessing, spectral simulation, fitting, quantitation, and visualization.\nThe FSL-MRS package is modular. Its programs operate on data in a standard format (Neuroimaging Informatics Technology Initiative [NIfTI]) capable of storing single-voxel and multivoxel spectroscopy, including spatial orientation information. The FSL-MRS toolbox includes tools for preprocessing of raw spectroscopy data, including coil combination, frequency and phase alignment, and filtering. A density matrix simulation program is supplied for generation of basis spectra from simple text-based descriptions of pulse sequences. Fitting is based on linear combination of basis spectra and implements Markov chain Monte Carlo optimization for the estimation of the full posterior distribution of metabolite concentrations. Validation of the fitting is carried out on independently created simulated data, phantom data, and three in vivo human data sets (257 single-voxel spectroscopy and 8 MRSI data sets) at 3 T and 7 T. Interactive HTML reports are automatically generated by processing and fitting stages of the toolbox. The FSL-MRS package can be used on the command line or interactively in the Python language.\nValidation of the fitting shows low error in simulation (median error of 11.9%) and in phantom (3.4%). Average correlation between a third-party toolbox (LCModel) and FSL-MRS was high (0.53-0.81) in all three in vivo data sets.\nThe FSL-MRS toolbox is designed to be flexible and extensible to new forms of spectroscopic acquisitions. Custom fitting models can be specified within the framework for dynamic or multivoxel spectroscopy. It is available as part of the FMRIB Software Library.",
+    "authors": [
+        {
+            "affiliation": "Wellcome Centre for Integrative Neuroimaging, FMRIB, Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, United Kingdom.\nMRC Brain Network Dynamics Unit, University of Oxford, Oxford, United Kingdom.",
+            "firstname": "William T",
+            "initials": "WT",
+            "lastname": "Clarke"
+        },
+        {
+            "affiliation": "Wellcome Centre for Integrative Neuroimaging, FMRIB, Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, United Kingdom.\nMRC Brain Network Dynamics Unit, University of Oxford, Oxford, United Kingdom.",
+            "firstname": "Charlotte J",
+            "initials": "CJ",
+            "lastname": "Stagg"
+        },
+        {
+            "affiliation": "Wellcome Centre for Integrative Neuroimaging, FMRIB, Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, United Kingdom.",
+            "firstname": "Saad",
+            "initials": "S",
+            "lastname": "Jbabdi"
+        }
+    ],
+    "conclusions": "The FSL-MRS toolbox is designed to be flexible and extensible to new forms of spectroscopic acquisitions. Custom fitting models can be specified within the framework for dynamic or multivoxel spectroscopy. It is available as part of the FMRIB Software Library.",
+    "copyrights": "\u00a9 2020 The Authors. Magnetic Resonance in Medicine published by Wiley Periodicals LLC on behalf of International Society for Magnetic Resonance in Medicine.",
+    "doi": "10.1002/mrm.28630\n10.1002/nbm.3838\n10.1088/0957-0233/20/10/104035\n10.1002/nmb.4257\n10.1002/nbm.4129\n10.5281/zenodo.3937147\n10.1002/nbm.4197\n10.1101/2020.06.05.136796",
+    "journal": "Magnetic resonance in medicine",
+    "keywords": [
+        "Bayesian fitting",
+        "MRS",
+        "MRSI",
+        "open-source",
+        "spectroscopy"
+    ],
+    "methods": null,
+    "publication_date": "2020-12-07",
+    "pubmed_id": "33280161\n30296560\n29044762\n31855587\n28433623\n29155183\n31814197\n21979382\n8812068\n25548816\n8139448\n26715192\n20878762\n19059349\n27326542\n32084297\n20373389\n25820303\n24436292\n12323148\n2161984\n31313877\n28548302\n30390346\n26094860\n10861994\n29727496\n16688703\n32015543\n21766380\n27909746\n19319893\n28323160\n29773892\n37183778\n2868172\n16767752\n32797656\n32603810\n30329186\n31782845\n33530131",
+    "results": "Validation of the fitting shows low error in simulation (median error of 11.9%) and in phantom (3.4%). Average correlation between a third-party toolbox (LCModel) and FSL-MRS was high (0.53-0.81) in all three in vivo data sets.",
+    "title": "FSL-MRS: An end-to-end spectroscopy analysis package.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6095170>"
+}{
+    "abstract": "There are instances in which an estimate of the brain volume should be obtained from MRI in clinical practice. Our objective is to calculate cross-sectional robustness of a convolutional neural network (CNN) based software (Entelai Pic) for brain volume estimation and compare it to traditional software such as FreeSurfer, CAT12 and FSL in healthy controls (HC).\nSixteen HC were scanned four times, two different days on two different MRI scanners (1.5\u202fT and 3\u202fT). Volumetric T1-weighted images were acquired and post-processed with FreeSurfer v6.0.0, Entelai Pic v2, CAT12 v12.5 and FSL v5.0.9. Whole-brain, grey matter (GM), white matter (WM) and cerebrospinal fluid (CSF) volumes were calculated. Correlation and agreement between methods was assessed using intraclass correlation coefficient (ICC) and Bland Altman plots. Robustness was assessed using the coefficient of variation (CV).\nWhole-brain volume estimation had better correlation between FreeSurfer and Entelai Pic (ICC (95% CI) 0.96 (0.94-0.97)) than FreeSurfer and CAT12 (0.92 (0.88-0.96)) and FSL (0.87 (0.79-0.91)). WM, GM and CSF showed a similar trend. Compared to FreeSurfer, Entelai Pic provided similarly robust segmentations of brain volumes both on same-scanner (mean CV 1.07, range 0.20-3.13% vs. mean CV 1.05, range 0.21-3.20%, p\u202f=\u202f0.86) and on different-scanner variables (mean CV 3.84, range 2.49-5.91% vs. mean CV 3.84, range 2.62-5.13%, p\u202f=\u202f0.96). Mean post-processing times were 480, 5, 40 and 5\u202fmin for FreeSurfer, Entelai Pic, CAT12 and FSL respectively.\nBased on robustness and processing times, our CNN-based model is suitable for cross-sectional volumetry on clinical practice.",
+    "authors": [
+        {
+            "affiliation": "Diagnostic Imaging Department, Fleni, Buenos Aires, Argentina; Entelai, Buenos Aires, Argentina. Electronic address: hchaves@fleni.org.ar.",
+            "firstname": "Hern\u00e1n",
+            "initials": "H",
+            "lastname": "Chaves"
+        },
+        {
+            "affiliation": "Entelai, Buenos Aires, Argentina.",
+            "firstname": "Francisco",
+            "initials": "F",
+            "lastname": "Dorr"
+        },
+        {
+            "affiliation": "Entelai, Buenos Aires, Argentina.",
+            "firstname": "Mart\u00edn El\u00edas",
+            "initials": "ME",
+            "lastname": "Costa"
+        },
+        {
+            "affiliation": "Diagnostic Imaging Department, Fleni, Buenos Aires, Argentina; Entelai, Buenos Aires, Argentina.",
+            "firstname": "Mar\u00eda Mercedes",
+            "initials": "MM",
+            "lastname": "Serra"
+        },
+        {
+            "affiliation": "Entelai, Buenos Aires, Argentina; Departamento de Computaci\u00f3n, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina; Instituto en Ciencias de la Computaci\u00f3n (ICC), CONICET-Universidad de Buenos Aires, Buenos Aires, Argentina.",
+            "firstname": "Diego Fern\u00e1ndez",
+            "initials": "DF",
+            "lastname": "Slezak"
+        },
+        {
+            "affiliation": "Entelai, Buenos Aires, Argentina; Neurology Department, Fleni, Buenos Aires, Argentina; Center for Research on Neuroimmunological Diseases (CIEN), Fleni, Buenos Aires, Argentina; Center for Biostatistics, Epidemiology and Public Health (CEBES), Fleni, Buenos Aires, Argentina.",
+            "firstname": "Mauricio F",
+            "initials": "MF",
+            "lastname": "Farez"
+        },
+        {
+            "affiliation": "Neurology Department, Fleni, Buenos Aires, Argentina.",
+            "firstname": "Gustavo",
+            "initials": "G",
+            "lastname": "Sevlever"
+        },
+        {
+            "affiliation": "Diagnostic Imaging Department, Fleni, Buenos Aires, Argentina.",
+            "firstname": "Paulina",
+            "initials": "P",
+            "lastname": "Ya\u00f1ez"
+        },
+        {
+            "affiliation": "Diagnostic Imaging Department, Fleni, Buenos Aires, Argentina.",
+            "firstname": "Claudia",
+            "initials": "C",
+            "lastname": "Cejas"
+        }
+    ],
+    "conclusions": "Based on robustness and processing times, our CNN-based model is suitable for cross-sectional volumetry on clinical practice.",
+    "copyrights": "Copyright \u00a9 2020 Elsevier Masson SAS. All rights reserved.",
+    "doi": "10.1016/j.neurad.2020.10.001",
+    "journal": "Journal of neuroradiology = Journal de neuroradiologie",
+    "keywords": [
+        "Brain",
+        "Deep learning",
+        "Freesurfer.",
+        "Magnetic resonance imaging",
+        "Segmentation"
+    ],
+    "methods": null,
+    "publication_date": "2020-11-03",
+    "pubmed_id": "33137334",
+    "results": "Whole-brain volume estimation had better correlation between FreeSurfer and Entelai Pic (ICC (95% CI) 0.96 (0.94-0.97)) than FreeSurfer and CAT12 (0.92 (0.88-0.96)) and FSL (0.87 (0.79-0.91)). WM, GM and CSF showed a similar trend. Compared to FreeSurfer, Entelai Pic provided similarly robust segmentations of brain volumes both on same-scanner (mean CV 1.07, range 0.20-3.13% vs. mean CV 1.05, range 0.21-3.20%, p\u202f=\u202f0.86) and on different-scanner variables (mean CV 3.84, range 2.49-5.91% vs. mean CV 3.84, range 2.62-5.13%, p\u202f=\u202f0.96). Mean post-processing times were 480, 5, 40 and 5\u202fmin for FreeSurfer, Entelai Pic, CAT12 and FSL respectively.",
+    "title": "Brain volumes quantification from MRI in healthy controls: Assessing correlation, agreement and robustness of a convolutional neural network-based software against FreeSurfer, CAT12 and FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ebc180>"
+}{
+    "abstract": "Brain extraction represents an important step in numerous neuroimaging analyses. The brain extraction tool (BET)2 is a widely used deformable model-based approach for extraction of intracranial volume (ICV). The aim of this study is to estimate the ICV extraction accuracy using synthetic MR(SyMRI) method and BET2 in healthy adult participants and patients with Sturge-Weber Syndrome (SWS), including infants. 'Quantification of relaxation times and proton density by multi-echo acquisition of saturation recovery with turbo-spin-echo readout' (QRAPMASTER) with a 3.0\u00a0T magnetic resonance image (MRI) system was used for data acquisition. Statistical evaluations were performed with linear regression analysis and the Jaccard similarity coefficient (J). ICV extraction accuracy with synthetic MR method is found to be higher than BET2, for both aged healthy participants and SWS.",
+    "authors": [
+        {
+            "affiliation": "Department of Radiological Technology, Faculty of Health Science, Juntendo University, 2-1-1 hongo, bunkyo-ku, Tokyo 113-8421, Japan. Electronic address: m.goto.ql@juntendo.ac.jp.",
+            "firstname": "Masami",
+            "initials": "M",
+            "lastname": "Goto"
+        },
+        {
+            "affiliation": "Department of Radiology, Juntendo University School of Medicine, Japan.",
+            "firstname": "Akifumi",
+            "initials": "A",
+            "lastname": "Hagiwara"
+        },
+        {
+            "affiliation": "Department of Radiology, Juntendo University School of Medicine, Japan; Division of Radiology, Department of Pathophysiological and Therapeutic Science, Faculty of Medicine, Tottori University, Japan.",
+            "firstname": "Ayumi",
+            "initials": "A",
+            "lastname": "Kato"
+        },
+        {
+            "affiliation": "Department of Radiology, Juntendo University School of Medicine, Japan; Department of Radiology, Graduate School of Medicine, The University of Tokyo, Japan.",
+            "firstname": "Shohei",
+            "initials": "S",
+            "lastname": "Fujita"
+        },
+        {
+            "affiliation": "Department of Radiology, Juntendo University School of Medicine, Japan; Department of Radiology, Toho University Omori Medical Center, Japan.",
+            "firstname": "Masaaki",
+            "initials": "M",
+            "lastname": "Hori"
+        },
+        {
+            "affiliation": "Department of Radiology, Juntendo University School of Medicine, Japan.",
+            "firstname": "Koji",
+            "initials": "K",
+            "lastname": "Kamagata"
+        },
+        {
+            "affiliation": "Department of Neurosurgery, Juntendo University School of Medicine, Japan.",
+            "firstname": "Hidenori",
+            "initials": "H",
+            "lastname": "Sugano"
+        },
+        {
+            "affiliation": "Department of Neurosurgery, Juntendo University School of Medicine, Japan.",
+            "firstname": "Hajime",
+            "initials": "H",
+            "lastname": "Arai"
+        },
+        {
+            "affiliation": "Department of Radiology, Juntendo University School of Medicine, Japan.",
+            "firstname": "Shigeki",
+            "initials": "S",
+            "lastname": "Aoki"
+        },
+        {
+            "affiliation": "Department of Radiology, Graduate School of Medicine, The University of Tokyo, Japan.",
+            "firstname": "Osamu",
+            "initials": "O",
+            "lastname": "Abe"
+        },
+        {
+            "affiliation": "Department of Radiological Technology, Faculty of Health Science, Juntendo University, 2-1-1 hongo, bunkyo-ku, Tokyo 113-8421, Japan.",
+            "firstname": "Hajime",
+            "initials": "H",
+            "lastname": "Sakamoto"
+        },
+        {
+            "affiliation": "Department of Radiological Technology, Faculty of Health Science, Juntendo University, 2-1-1 hongo, bunkyo-ku, Tokyo 113-8421, Japan.",
+            "firstname": "Yasuaki",
+            "initials": "Y",
+            "lastname": "Sakano"
+        },
+        {
+            "affiliation": "Department of Radiological Technology, Faculty of Health Science, Juntendo University, 2-1-1 hongo, bunkyo-ku, Tokyo 113-8421, Japan.",
+            "firstname": "Shinsuke",
+            "initials": "S",
+            "lastname": "Kyogoku"
+        },
+        {
+            "affiliation": "Department of Radiological Technology, Faculty of Health Science, Juntendo University, 2-1-1 hongo, bunkyo-ku, Tokyo 113-8421, Japan.",
+            "firstname": "Hiroyuki",
+            "initials": "H",
+            "lastname": "Daida"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2020 Elsevier Ltd. All rights reserved.",
+    "doi": "10.1016/j.jocn.2020.07.024",
+    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+    "keywords": [
+        "Brain extraction",
+        "FSL",
+        "QRAPMASTER",
+        "Sturge-Weber Syndrome",
+        "Synthetic MRI"
+    ],
+    "methods": null,
+    "publication_date": "2020-10-20",
+    "pubmed_id": "33070892",
+    "results": null,
+    "title": "Estimation of intracranial volume: A comparative study between synthetic MRI and FSL-brain extraction tool (BET)2.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ebcf90>"
+}{
+    "abstract": "",
+    "authors": [
+        {
+            "affiliation": "Genetics, Reproduction and Development (GReD) Laboratory, Clermont Auvergne University, CNRS UMR 6293, INSERM U1103, Translational Approach to Epithelial Injury and Repair Team, Clermont-Ferrand, France.",
+            "firstname": "Marilyne",
+            "initials": "M",
+            "lastname": "Lavergne"
+        },
+        {
+            "affiliation": "Genetics, Reproduction and Development (GReD) Laboratory, Clermont Auvergne University, CNRS UMR 6293, INSERM U1103, Translational Approach to Epithelial Injury and Repair Team, Clermont-Ferrand, France.",
+            "firstname": "Corinne",
+            "initials": "C",
+            "lastname": "Belville"
+        },
+        {
+            "affiliation": "Genetics, Reproduction and Development (GReD) Laboratory, Clermont Auvergne University, CNRS UMR 6293, INSERM U1103, Translational Approach to Epithelial Injury and Repair Team, Clermont-Ferrand, France.",
+            "firstname": "H\u00e9l\u00e9na",
+            "initials": "H",
+            "lastname": "Choltus"
+        },
+        {
+            "affiliation": "Genetics, Reproduction and Development (GReD) Laboratory, Clermont Auvergne University, CNRS UMR 6293, INSERM U1103, Translational Approach to Epithelial Injury and Repair Team, Clermont-Ferrand, France.",
+            "firstname": "Christelle",
+            "initials": "C",
+            "lastname": "Gross"
+        },
+        {
+            "affiliation": "Genetics, Reproduction and Development (GReD) Laboratory, Clermont Auvergne University, CNRS UMR 6293, INSERM U1103, Translational Approach to Epithelial Injury and Repair Team, Clermont-Ferrand, France.\nCHU Clermont-Ferrand, Medical Biochemistry and Molecular Biology Department, Clermont-Ferrand, France.",
+            "firstname": "R\u00e9gine",
+            "initials": "R",
+            "lastname": "Minet-Quinard"
+        },
+        {
+            "affiliation": "Genetics, Reproduction and Development (GReD) Laboratory, Clermont Auvergne University, CNRS UMR 6293, INSERM U1103, Translational Approach to Epithelial Injury and Repair Team, Clermont-Ferrand, France.\nCHU Clermont-Ferrand, Obstetrics and Gynecology Department, Clermont-Ferrand, France.",
+            "firstname": "Denis",
+            "initials": "D",
+            "lastname": "Gallot"
+        },
+        {
+            "affiliation": "Genetics, Reproduction and Development (GReD) Laboratory, Clermont Auvergne University, CNRS UMR 6293, INSERM U1103, Translational Approach to Epithelial Injury and Repair Team, Clermont-Ferrand, France.\nCHU Clermont-Ferrand, Medical Biochemistry and Molecular Biology Department, Clermont-Ferrand, France.",
+            "firstname": "Vincent",
+            "initials": "V",
+            "lastname": "Sapin"
+        },
+        {
+            "affiliation": "Genetics, Reproduction and Development (GReD) Laboratory, Clermont Auvergne University, CNRS UMR 6293, INSERM U1103, Translational Approach to Epithelial Injury and Repair Team, Clermont-Ferrand, France.",
+            "firstname": "Lo\u00efc",
+            "initials": "L",
+            "lastname": "Blanchon"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2020 Lavergne, Belville, Choltus, Gross, Minet-Quinard, Gallot, Sapin and Blanchon.",
+    "doi": "10.3389/fimmu.2020.01645\n10.1016/0002-9378(60)90512-3\n10.1093/humrep/14.1.237\n10.1111/j.1471-0528.1994.tb11908.x\n10.1093/humrep/14.11.2895\n10.1155/2013/316146\n10.1210/jc.83.2.660\n10.1016/S0002-9378(00)70232-8\n10.1095/biolreprod.104.033647\n10.1677/joe.0.1620351\n10.1016/j.placenta.2012.04.014\n10.1016/j.placenta.2011.01.015\n10.1016/j.ajog.2015.05.041\n10.1016/j.placenta.2018.05.008\n10.1371/journal.pone.0031136\n10.18632/aging.100891\n10.1210/jc.2016-3150\n10.4049/jimmunol.1601482\n10.1093/molehr/gag001\n10.1016/S0002-9378(99)70400-X\n10.1071/RD9961069\n10.1016/j.placenta.2016.05.013\n10.5468/ogs.2019.62.4.199\n10.1093/humupd/dmw022\n10.3389/fendo.2017.00196\n10.1111/imr.12577\n10.1016/j.coi.2005.06.002\n10.4049/jimmunol.1601342\n10.1016/j.cca.2014.09.024\n10.1038/nrrheum.2012.143\n10.1111/jgh.12072\n10.1016/S1097-2765(02)00599-3\n10.1016/j.cell.2014.04.007\n10.1016/j.abb.2019.02.008\n10.1111/imm.12989\n10.3349/ymj.2016.57.1.5\n10.1084/jem.20172222\n10.1016/S1074-7613(00)80209-5\n10.15252/embj.201694696\n10.1074/jbc.M117.797217\n10.1080/14767058.2017.1422714\n10.1080/14767058.2019.1610740\n10.1111/aji.12648\n10.1095/biolreprod.116.144139\n10.1093/biolre/ioy264\n10.1093/biolre/ioy261\n10.1177/1933719116675058\n10.1111/cei.13130\n10.1016/j.jri.2017.09.002\n10.1182/blood-2016-03-705434\n10.1371/journal.pone.0129095\n10.1080/14767058.2017.1418313\n10.3389/fimmu.2013.00242\n10.1038/s41379-018-0031-9\n10.1038/ng1740\n10.1186/s12958-017-0286-x\n10.1093/hmg/ddt457\n10.1007/s00109-018-01737-x\n10.1016/j.immuni.2012.02.001\n10.1371/journal.pone.0152853\n10.1210/jc.2015-2057\n10.1373/clinchem.2008.112797\n10.1590/S0100-879X2006000700009\n10.1128/JCM.30.1.245-248.1992\n10.1093/clinids/17.Supplement_1.S272\n10.1155/2018/8237087\n10.1530/REP-17-0604\n10.1016/j.jri.2018.04.003\n10.1016/j.placenta.2015.10.015\n10.1002/mgg3.330\n10.1515/jpm-2018-0271\n10.1111/aji.13049\n10.1080/14767050802212109\n10.1111/aji.13184\n10.1111/j.1471-0528.2009.02428.x\n10.1111/aji.12440\n10.1111/aji.12174\n10.4314/wajm.v26i1.28299\n10.14712/18059694.2016.115\n10.3109/14767058.2013.818124\n10.1371/journal.pone.0166794\n10.1056/NEJM198810133191503\n10.3109/14767058.2016.1140734\n10.1515/jpm-2016-0305\n10.2147/JIR.S141220\n10.1111/omi.12225\n10.1074/jbc.M110.197681\n10.1007/s00018-016-2396-6\n10.1074/jbc.M111.306191\n10.1016/j.tjog.2017.12.001\n10.1016/j.molimm.2015.06.013\n10.1093/molehr/gau060\n10.1074/jbc.RA118.004407\n10.1038/nature09663\n10.1371/journal.pone.0108390\n10.1016/j.chembiol.2017.03.009",
+    "journal": "Frontiers in immunology",
+    "keywords": [
+        "FSL-1",
+        "NLRP7",
+        "amnion epithelial cells",
+        "fetal membranes",
+        "inflammasomes",
+        "inflammation",
+        "mycoplasmas"
+    ],
+    "methods": null,
+    "publication_date": "2020-08-28",
+    "pubmed_id": "32849565\n13803349\n10374127\n8018607\n10548644\n24106700\n9467589\n10694345\n15548732\n10467226\n22595042\n21367451\n26025293\n29941169\n22348044\n26851389\n28388726\n28031337\n12529419\n10601939\n8916283\n27452431\n31338337\n27363410\n28861041\n29027222\n15955682\n28167650\n25278350\n22945591\n23216461\n12191486\n24855941\n30772258\n30098204\n26632377\n29432122\n10843390\n27418190\n28726636\n29295667\n31006293\n28233423\n27806943\n30596885\n30590393\n27852921\n29683202\n28915449\n27589872\n26053021\n29385859\n23970884\n29463882\n16462743\n28810880\n24105472\n30617930\n22361007\n27043315\n26207951\n19246619\n16862282\n1310331\n8399929\n29682558\n29358306\n29751216\n26545961\n29178652\n30412466\n30225853\n18828051\n31461796\n20002372\n26952361\n24238269\n17595988\n18646667\n20073423\n23796000\n27861554\n3262199\n26795404\n28599391\n30288079\n29682880\n21097506\n27761594\n22025618\n29458875\n26143398\n25082979\n30459235\n21124315\n25238390\n28392147",
+    "results": null,
+    "title": "Human Amnion Epithelial Cells (AECs) Respond to the FSL-1 Lipopeptide by Engaging the NLRP7 Inflammasome.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5f0b4c0>"
+}{
+    "abstract": "Fibroblast stimulating lipopeptide 1 (FSL-1) is the ligand of TLR2 and TLR6 and can be used as the vaccine adjuvant to prepare antitumor vaccines. However, FSL-1 is a stereoisomeric mixture that contains the ",
+    "authors": [
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Key Laboratory of Molecular Drug Research and KLMDASR of Tianjin, Nankai University, No. 38 Tongyan Road, Haihe Education Park, Tianjin 300353, P. R. China.",
+            "firstname": "Yonghui",
+            "initials": "Y",
+            "lastname": "Liu"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Key Laboratory of Molecular Drug Research and KLMDASR of Tianjin, Nankai University, No. 38 Tongyan Road, Haihe Education Park, Tianjin 300353, P. R. China.",
+            "firstname": "Bocheng",
+            "initials": "B",
+            "lastname": "Yan"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Key Laboratory of Molecular Drug Research and KLMDASR of Tianjin, Nankai University, No. 38 Tongyan Road, Haihe Education Park, Tianjin 300353, P. R. China.",
+            "firstname": "Zhaoyu",
+            "initials": "Z",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Key Laboratory of Molecular Drug Research and KLMDASR of Tianjin, Nankai University, No. 38 Tongyan Road, Haihe Education Park, Tianjin 300353, P. R. China.",
+            "firstname": "Haomiao",
+            "initials": "H",
+            "lastname": "Zhu"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Key Laboratory of Molecular Drug Research and KLMDASR of Tianjin, Nankai University, No. 38 Tongyan Road, Haihe Education Park, Tianjin 300353, P. R. China.",
+            "firstname": "Xiaona",
+            "initials": "X",
+            "lastname": "Yin"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Key Laboratory of Molecular Drug Research and KLMDASR of Tianjin, Nankai University, No. 38 Tongyan Road, Haihe Education Park, Tianjin 300353, P. R. China.",
+            "firstname": "Kun",
+            "initials": "K",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Key Laboratory of Molecular Drug Research and KLMDASR of Tianjin, Nankai University, No. 38 Tongyan Road, Haihe Education Park, Tianjin 300353, P. R. China.",
+            "firstname": "Menglei",
+            "initials": "M",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Key Laboratory of Molecular Drug Research and KLMDASR of Tianjin, Nankai University, No. 38 Tongyan Road, Haihe Education Park, Tianjin 300353, P. R. China.",
+            "firstname": "Wei",
+            "initials": "W",
+            "lastname": "Zhao"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2020 American Chemical Society.",
+    "doi": "10.1021/acsmedchemlett.9b00579\n10.1038/nm0303-269\n10.1586/erv.11.135\n10.1021/ar5004187\n10.1039/c3cs35470a\n10.1038/nrclinonc.2014.111\n10.1002/anie.201003810\n10.1002/anie.201106396\n10.1021/jacs.8b13503\n10.1038/s41563-018-0256-5\n10.1021/jacs.8b08473\n10.1021/acs.jmedchem.8b00960\n10.1021/acs.orglett.6b03591\n10.1039/C8CC04860F\n10.1128/IAI.72.3.1657-1665.2004\n10.1111/j.1574-695X.2005.00002.x\n10.1074/jbc.M513304200\n10.1039/C6CC04623A\n10.1016/j.vaccine.2018.05.090\n10.1093/intimm/13.7.933\n10.1074/jbc.M504320200\n10.1182/blood.V93.12.4309\n10.1172/JCI9180\n10.3390/vaccines4030025\n10.1038/nchembio.2007.25\n10.1002/anie.201300390\n10.1002/anie.201509935\n10.1002/ange.201006115\n10.1021/acschembio.9b00381\n10.1039/C8CC07691J\n10.1002/asia.201900448\n10.1021/jacs.7b09447\n10.1158/1078-0432.CCR-09-0737",
+    "journal": "ACS medicinal chemistry letters",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2020-07-18",
+    "pubmed_id": "32676142\n12612576\n22043956\n25665650\n23440054\n25001465\n20878823\n22247051\n30726084\n30643235\n30398345\n30351939\n28121454\n30101273\n14977973\n16420600\n16798732\n27530357\n29891349\n11431423\n16129684\n10361129\n10995787\n11559560\n27472370\n17767155\n23616304\n26800384\n21308921\n31498587\n30534737\n31042017\n29166012\n19723653",
+    "results": null,
+    "title": "Design, Synthesis, and Preliminary Immunological Studies of MUC1-Based Antitumor Vaccines Adjuvanted with ",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a1300>"
+}{
+    "abstract": "Depression is a common comorbid condition in Parkinson's disease (PD). Patients with depression have a two-fold increased risk to develop PD. Further, depression symptoms often precede motor symptoms in PD and are frequent at all stages of the disease. However, the influence of a depressive state on the responses to antiparkinson treatments is largely unknown. In this study, the genetically inbred depression-like flinders sensitive line (FSL) rats and control flinders resistant line (FRL) rats were studied in models of experimental parkinsonism. FSL rats showed a potentiated tremorgenic response to tacrine, a cholinesterase inhibitor used experimentally to induce 6 Hz resting tremor reminiscent of parkinsonian tremor. We also studied rats lesioned with 6-OHDA to induce hemiparkinsonism. No baseline differences in dopaminergic response to acute apomorphine or L-DOPA was found. However, following chronic treatment with L-DOPA, FRL rats developed sensitization of turning and abnormal involuntary movements (AIMs); these effects were counteracted by the anti-dyskinetic 5-HT",
+    "authors": [
+        {
+            "affiliation": "Department of Clinical Neuroscience, Karolinska University Hospital, Karolinska Institutet, Stockholm, Sweden.",
+            "firstname": "Nicoletta",
+            "initials": "N",
+            "lastname": "Schintu"
+        },
+        {
+            "affiliation": "Department of Clinical Neuroscience, Karolinska University Hospital, Karolinska Institutet, Stockholm, Sweden.",
+            "firstname": "Xiaoqun",
+            "initials": "X",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": "Department of Clinical Neuroscience, Karolinska University Hospital, Karolinska Institutet, Stockholm, Sweden.",
+            "firstname": "Nikolas",
+            "initials": "N",
+            "lastname": "Stroth"
+        },
+        {
+            "affiliation": "Department of Clinical Neuroscience, Karolinska University Hospital, Karolinska Institutet, Stockholm, Sweden.",
+            "firstname": "Aleksander A",
+            "initials": "AA",
+            "lastname": "Math\u00e9"
+        },
+        {
+            "affiliation": "Medical Mass Spectrometry Imaging, Department of Pharmaceutical Biosciences, Uppsala University, Uppsala, Sweden.\nScience for Life Laboratory, Uppsala University, Uppsala, Sweden.",
+            "firstname": "Per E",
+            "initials": "PE",
+            "lastname": "Andr\u00e9n"
+        },
+        {
+            "affiliation": "Department of Clinical Neuroscience, Karolinska University Hospital, Karolinska Institutet, Stockholm, Sweden.",
+            "firstname": "Per",
+            "initials": "P",
+            "lastname": "Svenningsson"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2020 Schintu, Zhang, Stroth, Math\u00e9, Andr\u00e9n and Svenningsson.",
+    "doi": "10.3389/fphar.2020.00304\n10.1038/nrneurol.2011.189\n10.1002/mds.20370\n10.1212/wnl.57.10.1829\n10.1097/wnr.0b013e3281668bf7\n10.1093/brain/awm082\n10.2174/187152711797247885\n10.1016/j.biopsych.2012.09.031\n10.1038/mp.2010.131\n10.1002/mds.21226\n10.1016/j.parkreldis.2008.11.001\n10.1124/pr.111.005678\n10.1016/S0140-6736(14)61393-3\n10.1016/j.brainresbull.2012.01.010\n10.1002/mds.10387\n10.1046/j.0953-816x.2001.01843.x\n10.1016/0166-2236(89)90096-9\n10.1074/jbc.275.22.16827\n10.1111/j.1600-0447.2001.00372.x\n10.1016/j.neubiorev.2005.03.015\n10.1124/pr.111.005397\n10.1002/ana.22097\n10.1016/s0301-0082(98)00053-7\n10.1016/j.pneurobio.2011.10.005\n10.3389/fneur.2018.00524\n10.1016/j.neulet.2013.11.034\n10.1093/bioinformatics/btq410\n10.1038/sj.emboj.7601651\n10.1093/brain/awu409\n10.1016/j.neures.2005.03.004\n10.1002/mds.27465\n10.1016/j.neuroscience.2006.12.001\n10.1002/cne.22605\n10.1007/s00213-011-2356-7\n10.1016/j.brainres.2006.04.019",
+    "journal": "Frontiers in pharmacology",
+    "keywords": [
+        "GRASP",
+        "L-DOPA",
+        "Parkinson\u2019s disease",
+        "dyskinesia",
+        "flinders sensitive line",
+        "tamalin",
+        "tremor"
+    ],
+    "methods": null,
+    "publication_date": "2020-04-09",
+    "pubmed_id": "32265703\n22198405\n15791634\n11723272\n17558292\n17452372\n21838677\n23200525\n21242991\n17094088\n19196540\n23319549\n25904081\n17956909\n22310150\n12671948\n11860512\n2479148\n10828067\n11722320\n11052214\n15925699\n23319547\n130180\n20882603\n9871939\n22075179\n30026724\n24287374\n20631159\n17396155\n25669730\n15893579\n30225905\n17218060\n21452237\n21647579\n16725125",
+    "results": null,
+    "title": "Non-dopaminergic Alterations in Depression-Like FSL Rats in Experimental Parkinsonism and L-DOPA Responses.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60462f0>"
+}{
+    "abstract": "Protein antigens are, in general, weakly immunogenic, and therefore require co-delivery with adjuvants to stimulate potent immune responses. The fusion of (poly)peptide antigens to immunostimulatory adjuvants (e.g. Toll-like receptor (TLR) agonists) has been demonstrated to greatly improve vaccine potency compared to mixtures of antigen and adjuvant. Chemical approaches, to enable the rapid, site-specific and high-yielding linkage of TLR2 ligands to recombinant protein antigens, have been previously optimized. These approaches require the use of denaturing conditions to ensure high reaction yields, which limits their application, as maintenance of native protein folding is necessary to elicit antibodies against conformational epitopes. Here, this work aimed to optimize an alternative method, to ensure the efficient bioconjugation of TLR2 ligands onto folded protein antigens. An enzyme-mediated approach, using Staphylococcus aureus sortase A (or a penta mutant with enhanced efficiency), was optimized for reaction yield and time, as well as enzyme type and amount. This approach enabled the site-specific conjugation of the TLR2-agonist fibroblast-stimulating lipopeptide-1 (FSL-1) onto a model group A Streptococcus (GAS) recombinant polytope antigen under conditions that maintain protein folding, yielding a homogeneous, molecularly-defined product, with ligation yields as high as 90%. Following intramuscular (IM) administration of the ligation product to humanized plasminogen AlbPLG1 mice, high-titer, antigen-specific IgG antibodies were observed, which conferred protection against subcutaneous challenge with GAS strain 5448. In comparison, mixtures of the GAS antigen with aluminum hydroxide or FSL-1 failed to provide protection, with the FSL-1 mixture yielding ~1000-fold lower antigen-specific IgG antibody titers, and the mixture with alum yielding a Th2-biased response compared to the more balanced Th1/Th2 responses observed with the FSL-1 conjugate. Overall, a FSL-1 bioconjugation method for the efficient production of antigen-TLR2 agonist conjugates, which maintain protein folding, was produced, with broad utility for the development of self-adjuvanting vaccines against subunit protein antigens.",
+    "authors": [
+        {
+            "affiliation": "School of Pharmacy, The University of Queensland, Woolloongabba 4102, QLD, Australia.",
+            "firstname": "Zhenghui",
+            "initials": "Z",
+            "lastname": "Xu"
+        },
+        {
+            "affiliation": "Australian Infectious Diseases Research Centre and School of Chemistry and Molecular Biosciences, The University of Queensland, St. Lucia, QLD, Australia; C\u00e1tedras CONACYT - Unidad de Investigaci\u00f3n M\u00e9dica en Inmunoqu\u00edmica, Hospital de Especialidades del Centro M\u00e9dico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, CDMX, Mexico.",
+            "firstname": "Tania",
+            "initials": "T",
+            "lastname": "Rivera-Hernandez"
+        },
+        {
+            "affiliation": "School of Pharmacy, The University of Queensland, Woolloongabba 4102, QLD, Australia.",
+            "firstname": "Oishee",
+            "initials": "O",
+            "lastname": "Chatterjee"
+        },
+        {
+            "affiliation": "Australian Infectious Diseases Research Centre and School of Chemistry and Molecular Biosciences, The University of Queensland, St. Lucia, QLD, Australia.",
+            "firstname": "Mark J",
+            "initials": "MJ",
+            "lastname": "Walker"
+        },
+        {
+            "affiliation": "School of Pharmacy, The University of Queensland, Woolloongabba 4102, QLD, Australia; Australian Infectious Diseases Research Centre and School of Chemistry and Molecular Biosciences, The University of Queensland, St. Lucia, QLD, Australia. Electronic address: p.moyle@uq.edu.au.",
+            "firstname": "Peter M",
+            "initials": "PM",
+            "lastname": "Moyle"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2019 Elsevier B.V. All rights reserved.",
+    "doi": "10.1016/j.jconrel.2019.11.018",
+    "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+    "keywords": [
+        "Bioconjugation",
+        "Co-delivery",
+        "Group A Streptococcus",
+        "Self-adjuvanting vaccine",
+        "Sortase A-mediated ligation",
+        "Toll-like receptor"
+    ],
+    "methods": null,
+    "publication_date": "2019-11-24",
+    "pubmed_id": "31758971",
+    "results": null,
+    "title": "Semisynthetic, self-adjuvanting vaccine development: Efficient, site-specific sortase A-mediated conjugation of Toll-like receptor 2 ligand FSL-1 to recombinant protein antigens under native conditions and application to a model group A streptococcal vaccine.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5f16a70>"
+}{
+    "abstract": "Mycoplasma infection can cause many diseases in pigs, resulting in great economic losses in pork production. Innate immune responses are thought to play critical roles in the pathogenesis of mycoplasma disease. However, the molecular events involved in immune responses remain to be determined. Hence, the object of this study was to use RNA-Seq to investigate the gene expression profiles of the innate immune response mediated by FSL-1 in pig monocyte-derived macrophages (MDMs). The results revealed that 1442 genes were differentially expressed in the FSL-1 group compared with the control groups, of which 777 genes were upregulated and 665 genes were downregulated. KEGG pathway analysis showed that the upregulated genes were mainly involved in innate immune-related pathways including the TNF signaling pathway, cytokine-cytokine receptor interaction, Toll-like receptor signaling pathway, Jak-STAT signaling pathway, chemokine signaling pathway, NOD-like receptor signaling pathway and NF-kappa B signaling pathway. The downregulated genes were only involved in the cGMP-PKG signaling pathway and glycerophospholipid metabolism. Our results showed that FSL-1 stimulation activated the TLR2 signaling pathway and resulted in diverse inflammatory responses. FSL-1 induced the transcription of numerous protein-coding genes involved in a complex network of innate immune-related pathways. We speculate that TNF, IL1B, IL6, NFKB1, NFKBIA, CXCL2, CXCL8, CXCL10, CCL2, CCL4 and CCL5 were the most likely hub genes that play important roles in the above pathways. This study identified the differentially expressed genes and their related signaling pathways, contributing to the comprehensive understanding of the mechanisms underlying host-pathogen interactions during mycoplasma infection and providing a reference model for further studies.",
+    "authors": [
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Lisheng",
+            "initials": "L",
+            "lastname": "Zhou"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Li",
+            "initials": "L",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China. Electronic address: zhao_weimin1983@aliyun.com.",
+            "firstname": "Weimin",
+            "initials": "W",
+            "lastname": "Zhao"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Shouwen",
+            "initials": "S",
+            "lastname": "Ren"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Feng",
+            "initials": "F",
+            "lastname": "Tu"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Yanfeng",
+            "initials": "Y",
+            "lastname": "Fu"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Bixia",
+            "initials": "B",
+            "lastname": "Li"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China.",
+            "firstname": "Xuemin",
+            "initials": "X",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences/ Jiangsu Germplasm Resources Protection and Utilization Platform, Nanjing, 210014, Jiangsu, China; Key Laboratory of Crop and Livestock Integration Ministry of Agriculture, Nanjing, 210014, Jiangsu, China. Electronic address: fxmw2000@163.com.",
+            "firstname": "Xiaomin",
+            "initials": "X",
+            "lastname": "Fang"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2019 Elsevier Ltd. All rights reserved.",
+    "doi": "10.1016/j.micpath.2019.103830",
+    "journal": "Microbial pathogenesis",
+    "keywords": [
+        "FSL-1",
+        "Innate immune",
+        "Mycoplasmas",
+        "Porcine",
+        "RNA-Seq",
+        "Signaling pathway"
+    ],
+    "methods": null,
+    "publication_date": "2019-11-07",
+    "pubmed_id": "31689475",
+    "results": null,
+    "title": "Transcriptome sequencing analysis of porcine MDM response to FSL-1 stimulation.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ede660>"
+}

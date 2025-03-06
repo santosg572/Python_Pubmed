@@ -1,0 +1,22 @@
+{
+    "abstract": "AFNI is an open source software package for the analysis and display of functional MRI data. It originated in 1994 to meet the specific needs of researchers at the Medical College of Wisconsin, in particular the mapping of activation maps to Talairach-Tournoux space, but has been expanded steadily since then into a wide-ranging set of tool for FMRI data analyses. AFNI was the first platform for real-time 3D functional activation and registration calculations. One of AFNI's main strengths is its flexibility and transparency. In recent years, significant efforts have been made to increase the user-friendliness of AFNI's FMRI processing stream, with the introduction of \"super-scripts\" to setup the entire analysis, and graphical front-ends for these managers.",
+    "authors": [
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, National Institutes of Health, Department of Health and Human Services, 10 Center Dr. Room 1D80, Bethesda, MD 20892-1148, USA. robertcox@mail.nih.gov",
+            "firstname": "Robert W",
+            "initials": "RW",
+            "lastname": "Cox"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Published by Elsevier Inc.",
+    "doi": "10.1016/j.neuroimage.2011.08.056",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2011-09-06",
+    "pubmed_id": "21889996\n1614324\n8366797\n20176931\n7707914\n8812068\n10571921\n15850749\n20420926\n15907293\n10912591\n18976717\n21945692\n21146620",
+    "results": null,
+    "title": "AFNI: what a long strange trip it's been.",
+    "xml": "<Element 'PubmedArticle' at 0x7dcbe74d3dd0>"
+}

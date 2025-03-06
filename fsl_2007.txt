@@ -1,0 +1,178 @@
+{
+    "abstract": "Typically in neuroimaging we are looking to extract some pertinent information from imperfect, noisy images of the brain. This might be the inference of percent changes in blood flow in perfusion FMRI data, segmentation of subcortical structures from structural MRI, or inference of the probability of an anatomical connection between an area of cortex and a subthalamic nucleus using diffusion MRI. In this article we will describe how Bayesian techniques have made a significant impact in tackling problems such as these, particularly in regards to the analysis tools in the FMRIB Software Library (FSL). We shall see how Bayes provides a framework within which we can attempt to infer on models of neuroimaging data, while allowing us to incorporate our prior belief about the brain and the neuroimaging equipment in the form of biophysically informed or regularising priors. It allows us to extract probabilistic information from the data, and to probabilistically combine information from multiple modalities. Bayes can also be used to not only compare and select between models of different complexity, but also to infer on data using committees of models. Finally, we mention some analysis scenarios where Bayesian methods are impractical, and briefly discuss some practical approaches that we have taken in these cases.",
+    "authors": [
+        {
+            "affiliation": "University of Oxford Centre for Functional MRI of the Brain, UK. woolrich@fmrib.ox.ac.uk",
+            "firstname": "Mark W",
+            "initials": "MW",
+            "lastname": "Woolrich"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Saad",
+            "initials": "S",
+            "lastname": "Jbabdi"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Brian",
+            "initials": "B",
+            "lastname": "Patenaude"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Michael",
+            "initials": "M",
+            "lastname": "Chappell"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Salima",
+            "initials": "S",
+            "lastname": "Makni"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Timothy",
+            "initials": "T",
+            "lastname": "Behrens"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Christian",
+            "initials": "C",
+            "lastname": "Beckmann"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mark",
+            "initials": "M",
+            "lastname": "Jenkinson"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Stephen M",
+            "initials": "SM",
+            "lastname": "Smith"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.neuroimage.2008.10.055",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-12-09",
+    "pubmed_id": "19059349",
+    "results": null,
+    "title": "Bayesian analysis of neuroimaging data in FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60975b0>"
+}{
+    "abstract": "In this study, we measured the effect of an acute treatment of citalopram on 5-hydroxytryptamine (5-HT) synthesis in a genetic rat model of depression, the Flinders Sensitive Line (FSL) rats, their counterparts, the Flinders Resistant Line (FRL) rats, and outbred Sprague-Dawley (SPD) rats, using the alpha-[(14)C]methyl-l-tryptophan (alpha-MTrp) autoradiographic method. A comparison of 5-HT synthesis in the FSL rats treated with citalopram (FSL-CTP) and those treated with saline (FSL-SAL) indicate that citalopram reduces global 5-HT synthesis in the FSL rats, as well as in all the brain areas investigated. The reduced synthesis was also observed in the dorsal raphe (DR) nucleus and the median raphe (MR) nucleus. The comparison of the synthesis between the citalopram-treated SPD rats (SPD-CTP) and the saline-treated SPD rats (SPD-SAL) revealed a global increase of 5-HT synthesis in the SPD-CTP group, as well as an increase in some terminal areas, but a reduction in the DR and the MR. In contrast to the reduction throughout the brain in the FSL rats, the FRL rats treated with citalopram (FRL-CTP), when compared to the saline group (FRL-SAL), showed a global increase of 5-HT synthesis, as well as in most of the terminal areas and in the DR and the MR. The reduction of 5-HT synthesis throughout the brain in the FSL rats is likely, in part, a result of reported supersensitivity of the 5-HT(1A) receptors. Comparing changes in the SPD, FRL, and FSL rats treated with citalopram to their respective controls (saline-treated rats), the FSL rats treated acutely with citalopram were the only rats that exhibited lower 5-HT synthesis rates in all of the limbic areas, the basal ganglia, and the neocortices. This may be related to the pathophysiological basis of depressive characteristics in FSL rats. The citalopram treatment produced unexpected results in the FRL rats: 5-HT synthesis was elevated not only in most of the terminal areas, but also in the cell body areas, the DR and MR. The increase of 5-HT synthesis throughout the brain in the FRL rats is likely, in part, a result of the reported subsensitivity of the 5-HT(1A) receptors, and possibly other sites through which 5-HT synthesis could be controlled (e.g., 5-HT(1B)). In addition differences in intracellular signaling could be at least in part responsible for these differences.",
+    "authors": [
+        {
+            "affiliation": "Cone Neurosurgical Research Laboratory, Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, 3801 University Street, Montreal, Quebec H3A 2B4, Canada.",
+            "firstname": "Kazuya",
+            "initials": "K",
+            "lastname": "Kanemaru"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Shu",
+            "initials": "S",
+            "lastname": "Hasegawa"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kyoko",
+            "initials": "K",
+            "lastname": "Nishi"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mirko",
+            "initials": "M",
+            "lastname": "Diksic"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.brainresbull.2008.07.003",
+    "journal": "Brain research bulletin",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-08-05",
+    "pubmed_id": "18674602\n7477438\n8080345\n17928105\n702171\n14530210\n11579128\n15617725\n309507\n2951611\n9932714\n16427159\n15670643\n8419553\n7988652\n7784957\n1515949\n16904299\n11901216\n17507113\n8915559\n10327898\n8720583\n7612159\n8931476\n2298829\n7907910\n15289275\n10100194\n9144233\n10217280\n8455816\n9586831\n15925699\n15178365\n1386257\n116286\n18358519\n10962259\n6891070\n2818573\n12865163\n11218075\n8220177\n17574706\n7790867\n7830055\n6258099\n15356201\n3244712\n12675923\n16600456\n10856609\n10591413\n18077069\n9375680",
+    "results": null,
+    "title": "Acute citalopram has different effects on regional 5-HT synthesis in FSL, FRL, and SDP rats: an autoradiographic evaluation.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6094d10>"
+}{
+    "abstract": "A significant amount of evidence has been accumulated to show that Toll-like receptors (TLRs) function as sensors for microbial invasion. However, little is known about how signalling triggered by TLRs leads to the phagocytosis of pathogens. This study was designed to determine whether stimulation of TLR2 mainly with the lipopeptide FSL-1 plays a role in the phagocytosis of pathogens by macrophages. FSL-1 enhanced the phagocytosis of Escherichia coli to a markedly greater extent than it did that of Staphylococcus aureus, but did not enhance the phagocytosis of latex beads. FSL-1 stimulation resulted in enhanced phagocytosis of bacteria by macrophages from TLR2(+/+) mice but not by those from TLR2(-/-) mice. Chinese hamster ovary cells stably expressing TLR2 failed to phagocytose these bacteria, but the cells expressing CD14 did. FSL-1 induced upregulation of the expression of phagocytic receptors, including MSR1, CD36, DC-SIGN and Dectin-1 in THP-1 cells. Human embryonic kidney 293 cells transfected with DC-SIGN and MSR1 phagocytosed these bacteria. These results suggest that the FSL-1-induced enhancement of phagocytosis of bacteria by macrophages may be explained partly by the upregulation of scavenger receptors and the C-type lectins through TLR2-mediated signalling pathways, and that TLR2 by itself does not function as a phagocytic receptor.",
+    "authors": [
+        {
+            "affiliation": "Laboratory of Oral Molecular Microbiology, Department of Oral Pathobiological Science, Hokkaido University Graduate School of Dental Medicine, Kita, Sapporo, Japan.",
+            "firstname": "Masako",
+            "initials": "M",
+            "lastname": "Mae"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mitsuhiro",
+            "initials": "M",
+            "lastname": "Iyori"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Motoaki",
+            "initials": "M",
+            "lastname": "Yasuda"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Haque Mohammad",
+            "initials": "HM",
+            "lastname": "Shamsul"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hideo",
+            "initials": "H",
+            "lastname": "Kataoka"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kazuto",
+            "initials": "K",
+            "lastname": "Kiura"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Akira",
+            "initials": "A",
+            "lastname": "Hasebe"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Yasunori",
+            "initials": "Y",
+            "lastname": "Totsuka"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ken-Ichiro",
+            "initials": "K",
+            "lastname": "Shibata"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1111/j.1574-695X.2007.00218.x",
+    "journal": "FEMS immunology and medical microbiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2007-02-24",
+    "pubmed_id": "17316370",
+    "results": null,
+    "title": "The diacylated lipopeptide FSL-1 enhances phagocytosis of bacteria by macrophages through a Toll-like receptor 2-mediated signalling pathway.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6090310>"
+}

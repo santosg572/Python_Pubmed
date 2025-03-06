@@ -1,0 +1,255 @@
+{
+    "abstract": "FMRI data are noisy, complicated to acquire, and typically go through many steps of processing before they are used in a study or clinical practice. Being able to visualize and understand the data from the start through the completion of processing, while being confident that each intermediate step was successful, is challenging. AFNI's ",
+    "authors": [
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, MD, United States.",
+            "firstname": "Richard C",
+            "initials": "RC",
+            "lastname": "Reynolds"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, MD, United States.",
+            "firstname": "Daniel R",
+            "initials": "DR",
+            "lastname": "Glen"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, MD, United States.",
+            "firstname": "Gang",
+            "initials": "G",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, MD, United States.",
+            "firstname": "Ziad S",
+            "initials": "ZS",
+            "lastname": "Saad"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, MD, United States.",
+            "firstname": "Robert W",
+            "initials": "RW",
+            "lastname": "Cox"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, MD, United States.",
+            "firstname": "Paul A",
+            "initials": "PA",
+            "lastname": "Taylor"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1162/imag_a_00347\n10.1016/j.neuron.2012.05.001\n10.1016/s1053-8119(03)00336-7\n10.1002/hbm.20158\n10.1016/j.neuroimage.2011.10.025\n10.1016/j.neuroimage.2007.04.042\n10.1073/pnas.0337747100\n10.3389/fnimg.2023.1072927\n10.1016/j.neuroimage.2006.02.048\n10.1002/mrm.1910340409\n10.1038/s41586-020-2314-9\n10.1002/hbm.25713\n10.1016/j.neuroimage.2016.12.018\n10.1016/j.neuroimage.2009.05.012\n10.1109/42.158935\n10.1016/j.neuroimage.2016.09.066\n10.1016/j.neuroimage.2023.120224\n10.52294/ApertureNeuro.2022.2.ZRJI8542\n10.1006/cbmr.1996.0014\n10.1089/brain.2016.0475\n10.48550/arXiv.1709.07471\n10.3389/conf.fninf.2013.09.00042\n10.1016/j.neuroimage.2010.06.010\n10.21105/joss.03669\n10.1073/pnas.1602413113\n10.1038/s41592-018-0235-4\n10.1073/pnas.200033797\n10.1016/s0896-6273(02)00569-x\n10.1016/j.neuroimage.2010.07.033\n10.3389/fnins.2022.854387\n10.1016/j.neuropsychologia.2018.12.023\n10.3389/fninf.2020.00018\n10.1002/1522-2594(200007)44:1<162::aid-mrm23>3.3.co;2-5\n10.1089/brain.2013.0210\n10.1016/j.neuroimage.2022.119424\n10.1016/j.mri.2019.07.017\n10.1038/sdata.2016.44\n10.1016/j.neuroimage.2019.116289\n10.1016/j.neuroimage.2013.05.116\n10.1016/j.tics.2009.10.011\n10.1002/hbm.25182\n10.1016/j.neuroimage.2009.11.044\n10.1016/j.mri.2015.06.010\n10.1006/nimg.2001.1054\n10.1002/mrm.27577\n10.1155/2013/935154\n10.1016/j.compbiomed.2020.103742\n10.1016/j.neuroimage.2010.04.246\n10.1016/j.neuroimage.2021.117997\n10.1016/j.neuroimage.2011.12.028\n10.1016/j.neuroimage.2008.10.065\n10.1016/j.neuroimage.2020.117519\n10.1016/j.neuron.2021.10.015\n10.1007/s00247-020-04875-y\n10.1016/j.neuroimage.2005.05.058\n10.1038/s41467-019-09230-w\n10.1016/j.neuroimage.2021.118274\n10.1038/sdata.2016.110\n10.1002/(sici)1522-2594(199907)42:1<87::aid-mrm13>3.0.co;2-o\n10.7554/elife.77599\n10.3389/fnins.2022.1073800\n10.1101/2020.09.28.306787\n10.1016/j.neuroimage.2008.09.037\n10.1109/isbi.2004.1398837\n10.1093/cercor/bhx179\n10.1016/j.neuroimage.2015.05.015\n10.1371/journal.pone.0185552\n10.1101/308643\n10.1101/2024.03.27.586976\n10.3389/fnins.2023.1205928\n10.1016/j.neuroimage.2023.120138\n10.3389/fnins.2023.1100544\n10.1002/hbm.25829\n10.1093/cercor/bhab181\n10.1089/brain.2012.0073\n10.1007/s12021-016-9299-4\n10.3389/fnsys.2010.00013",
+    "journal": "Imaging neuroscience (Cambridge, Mass.)",
+    "keywords": [
+        "FMRI",
+        "data visualization",
+        "processing",
+        "quality control",
+        "reproducibility",
+        "software"
+    ],
+    "methods": null,
+    "publication_date": "2024-11-22",
+    "pubmed_id": "39575179\n22632718\n14568458\n16035046\n22023741\n17560126\n12552093\n37554646\n16632379\n8524021\n32483374\n34773436\n27956209\n19446646\n18222873\n27729277\n37327955\n0\n8812068\n28398812\n20547229\n27357684\n30532080\n10984517\n11832223\n20656036\n35546886\n30610842\n32528270\n10893535\n24702246\n35781079\n31376477\n27326542\n31629827\n23747457\n20004608\n32845057\n19944768\n26117700\n11969330\n30394561\n24415902\n32421647\n20420926\n33789138\n22209809\n37214404\n19084070\n33227425\n34731649\n33211184\n16099178\n30899012\n34146709\n27922632\n10398954\n36444984\n36793774\n18976717\n28981612\n25987368\n28973000\n39257641\n37325035\n37116766\n37090794\n35305030\n34753176\n22642651\n27075850\n20577591",
+    "results": null,
+    "title": "Processing, evaluating, and understanding FMRI data with afni_proc.py.",
+    "xml": "<Element 'PubmedArticle' at 0x7dcbe7358590>"
+}{
+    "abstract": "FMRI data are noisy, complicated to acquire, and typically go through many steps of processing before they are used in a study or clinical practice. Being able to visualize and understand the data from the start through the completion of processing, while being confident that each intermediate step was successful, is challenging. AFNI's ",
+    "authors": [
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, USA.",
+            "firstname": "Richard C",
+            "initials": "RC",
+            "lastname": "Reynolds"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, USA.",
+            "firstname": "Daniel R",
+            "initials": "DR",
+            "lastname": "Glen"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, USA.",
+            "firstname": "Gang",
+            "initials": "G",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, USA.",
+            "firstname": "Ziad S",
+            "initials": "ZS",
+            "lastname": "Saad"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, USA.",
+            "firstname": "Robert W",
+            "initials": "RW",
+            "lastname": "Cox"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, NIH, Bethesda, USA.",
+            "firstname": "Paul A",
+            "initials": "PA",
+            "lastname": "Taylor"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.neuroimage.2016.12.018\n10.52294/2e179dbf-5e37-4338-a639-9ceb92b055ea\n10.3389/conf.fninf.2013.09.00042\n10.21105/joss.03669\n10.1016/j.neuropsychologia.2018.12.023\n10.3389/fninf.2020.00018\n10.1016/j.neuroimage.2019.116289\n10.1016/j.neuroimage.2013.05.116\n10.1155/2013/935154\n10.1038/sdata.2016.110\n10.3389/fnins.2022.1073800\n10.1101/2020.09.28.306787\n10.1016/j.neuroimage.2008.09.037\n10.1371/journal.pone.0185552\n10.1101/308643\n10.3389/fnins.2023.1205928\n10.1101/2024.03.27.586976\n10.5281/zenodo.5541689",
+    "journal": "ArXiv",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2024-10-14",
+    "pubmed_id": "39398207\n22632718\n16035046\n14568458\n22023741\n17560126\n12552093\n16632379\n8524021\n32483374\n34773436\n27956209\n18222873\n19446646\n27729277\n37327955\n8812068\n28398812\n20547229\n27357684\n30532080\n11832223\n20656036\n30610842\n35546886\n32528270\n10893535\n24702246\n35781079\n31376477\n27326542\n31629827\n23747457\n20004608\n32845057\n19944768\n26117700\n11969330\n30394561\n20420926\n24415902\n32421647\n33789138\n22209809\n19084070\n33227425\n34731649\n33211184\n16099178\n30899012\n34146709\n27922632\n10398954\n27510328\n36444984\n36793774\n18976717\n28981612\n25987368\n28973000\n37325035\n39257641\n37116766\n35305030\n34753176\n22642651\n20577591\n27075850",
+    "results": null,
+    "title": "Processing, evaluating and understanding FMRI data with afni_proc.py.",
+    "xml": "<Element 'PubmedArticle' at 0x7dcbe750eed0>"
+}{
+    "abstract": "Quality control (QC) assessment is a vital part of FMRI processing and analysis, and a typically underdiscussed aspect of reproducibility. This includes checking datasets at their very earliest stages (acquisition and conversion) through their processing steps (e.g., alignment and motion correction) to regression modeling (correct stimuli, no collinearity, valid fits, enough degrees of freedom, etc.) for each subject. There are a wide variety of features to verify throughout any single-subject processing pipeline, both quantitatively and qualitatively. We present several FMRI preprocessing QC features available in the AFNI toolbox, many of which are automatically generated by the pipeline-creation tool, ",
+    "authors": [
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, Bethesda, MD, United States.",
+            "firstname": "Paul A",
+            "initials": "PA",
+            "lastname": "Taylor"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, Bethesda, MD, United States.",
+            "firstname": "Daniel R",
+            "initials": "DR",
+            "lastname": "Glen"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, Bethesda, MD, United States.",
+            "firstname": "Gang",
+            "initials": "G",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, Bethesda, MD, United States.",
+            "firstname": "Robert W",
+            "initials": "RW",
+            "lastname": "Cox"
+        },
+        {
+            "affiliation": "Wellcome Centre for Integrative Neuroimaging, FMRIB, University of Oxford, Oxford, United Kingdom.",
+            "firstname": "Taylor",
+            "initials": "T",
+            "lastname": "Hanayik"
+        },
+        {
+            "affiliation": "Department of Psychology, University of South Carolina, Columbia, SC, United States.\nMcCausland Center for Brain Imaging, University of South Carolina, Columbia, SC, United States.",
+            "firstname": "Chris",
+            "initials": "C",
+            "lastname": "Rorden"
+        },
+        {
+            "affiliation": "Machine Learning Team, NIMH, NIH, Bethesda, MD, United States.",
+            "firstname": "Dylan M",
+            "initials": "DM",
+            "lastname": "Nielson"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, Bethesda, MD, United States.",
+            "firstname": "Justin K",
+            "initials": "JK",
+            "lastname": "Rajendra"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, Bethesda, MD, United States.",
+            "firstname": "Richard C",
+            "initials": "RC",
+            "lastname": "Reynolds"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2024 The Authors. Published under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.",
+    "doi": "10.1162/imag_a_00246\n10.1016/j.neuroimage.2017.10.034\n10.1016/j.neuron.2012.05.001\n10.1126/science.abb4588\n10.1016/s1053-8119(03)00336-7\n10.1016/j.neuroimage.2011.10.025\n10.3389/fnimg.2023.1072927\n10.1002/mrm.1910340409\n10.1073/pnas.0911855107\n10.1109/42.158935\n10.1002/hbm.24399\n10.1016/j.neuroimage.2016.09.066\n10.1006/cbmr.1996.0014\n10.1089/brain.2016.0475\n10.3389/conf.fninf.2013.09.00042\n10.3389/fnimg.2022.1070151\n10.21105/joss.03669\n10.1371/journal.pone.0184661\n10.1038/s41592-018-0235-4\n10.3389/fnimg.2023.1070274\n10.1073/pnas.200033797\n10.1016/j.neuroimage.2010.07.033\n10.1038/nn.4521\n10.1097/scs.0000000000003620\n10.3389/fninf.2020.00018\n10.1016/j.neuroimage.2019.116091\n10.5281/zenodo.8320937\n10.1002/hbm.25182\n10.1016/j.neuroimage.2022.119474\n10.1002/mrm.1910340111\n10.1016/j.neuroimage.2010.04.246\n10.1016/j.neuroimage.2021.117997\n10.1016/j.neuroimage.2011.12.028\n10.1016/j.neuroimage.2017.03.033\n10.3389/fnins.2023.1076824\n10.1016/j.neuroimage.2020.117620\n10.3389/fnins.2023.1069639\n10.1002/hbm.25756\n10.7554/elife.71774\n10.5281/zenodo.7038115\n10.1007/s00247-020-04875-y\n10.1016/j.neuroimage.2021.118174\n10.3389/fnins.2023.1092125\n10.1002/(SICI)1522-2594(199907)42:1<87::AID-MRM13>3.0.CO;2-O\n10.1016/j.neuroimage.2016.08.009\n10.3389/fnimg.2022.1073734\n10.1016/s1053-8119(03)00185-x\n10.3389/fnins.2022.1073800\n10.1016/j.neuroimage.2008.09.037\n10.1109/isbi.2004.1398837\n10.1089/brain.2013.0156\n10.1093/cercor/bhx179\n10.1016/j.neuroimage.2004.07.051\n10.1371/journal.pone.0185552\n10.1371/journal.pmed.1001779\n10.1101/308643\n10.3389/fnins.2023.1205928\n10.1016/j.neuroimage.2023.120138\n10.3389/fnins.2023.1100544\n10.1002/hbm.25829\n10.1089/brain.2012.0073\n10.3389/fnins.2023.1070413\n10.5334/jors.280\n10.1016/j.scib.2021.09.016\n10.3389/fnsys.2010.00013",
+    "journal": "Imaging neuroscience (Cambridge, Mass.)",
+    "keywords": [
+        "FMRI",
+        "artifacts",
+        "data visualization",
+        "processing",
+        "quality control",
+        "reproducibility"
+    ],
+    "methods": null,
+    "publication_date": "2024-09-11",
+    "pubmed_id": "39257641\n29079522\n22632718\n32732281\n14568458\n22023741\n37554646\n8524021\n20176931\n18222873\n30265768\n27729277\n8812068\n28398812\n37555150\n28945803\n30532080\n37554632\n10984517\n20656036\n28230837\n27437579\n32528270\n31415884\n32845057\n35842095\n7674900\n20420926\n33789138\n22209809\n28363836\n37214404\n33307224\n36895416\n34957633\n34658334\n33211184\n34000406\n37034165\n10398954\n27510328\n37555175\n12880830\n36793774\n18976717\n23705677\n28981612\n15501092\n28973000\n25826379\n37325035\n37116766\n37090794\n35305030\n22642651\n36816136\n36654202\n20577591",
+    "results": null,
+    "title": "A Set of FMRI Quality Control Tools in AFNI: Systematic, in-depth, and interactive QC with afni_proc.py and more.",
+    "xml": "<Element 'PubmedArticle' at 0x7dcbe7519120>"
+}{
+    "abstract": "Quality control (QC) assessment is a vital part of FMRI processing and analysis, and a typically under-discussed aspect of reproducibility. This includes checking datasets at their very earliest stages (acquisition and conversion) through their processing steps (e.g., alignment and motion correction) to regression modeling (correct stimuli, no collinearity, valid fits, enough degrees of freedom, etc.) for each subject. There are a wide variety of features to verify throughout any single subject processing pipeline, both quantitatively and qualitatively. We present several FMRI preprocessing QC features available in the AFNI toolbox, many of which are automatically generated by the pipeline-creation tool, ",
+    "authors": [
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, USA.",
+            "firstname": "Paul A",
+            "initials": "PA",
+            "lastname": "Taylor"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, USA.",
+            "firstname": "Daniel R",
+            "initials": "DR",
+            "lastname": "Glen"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, USA.",
+            "firstname": "Gang",
+            "initials": "G",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, USA.",
+            "firstname": "Robert W",
+            "initials": "RW",
+            "lastname": "Cox"
+        },
+        {
+            "affiliation": "Wellcome Centre for Integrative Neuroimaging, FMRIB, University of Oxford, UK.",
+            "firstname": "Taylor",
+            "initials": "T",
+            "lastname": "Hanayik"
+        },
+        {
+            "affiliation": "Department of Psychology, University of South Carolina, USA.\nMcCausland Center for Brain Imaging, University of South Carolina, USA.",
+            "firstname": "Chris",
+            "initials": "C",
+            "lastname": "Rorden"
+        },
+        {
+            "affiliation": "Machine Learning Team, NIMH, NIH, USA.",
+            "firstname": "Dylan M",
+            "initials": "DM",
+            "lastname": "Nielson"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, USA.",
+            "firstname": "Justin K",
+            "initials": "JK",
+            "lastname": "Rajendra"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH, NIH, USA.",
+            "firstname": "Richard C",
+            "initials": "RC",
+            "lastname": "Reynolds"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1101/2024.03.27.586976\n10.3389/fnimg.2023.1072927\n10.1016/j.neuroimage.2016.09.066\n10.3389/conf.fninf.2013.09.00042\n10.3389/fnimg.2022.1070151\n10.21105/joss.03669\n10.1371/journal.pone.0184661\n10.3389/fnimg.2023.1070274\n10.1038/nn.4521\n10.3389/fninf.2020.00018\n10.5281/zenodo.8320937\n10.1016/j.neuroimage.2010.04.246\n10.3389/fnins.2023.1076824\n10.3389/fnins.2023.1069639\n10.5281/zenodo.7038115\n10.3389/fnins.2023.1092125\n10.3389/fnimg.2022.1073734\n10.3389/fnins.2022.1073800\n10.1089/brain.2013.0156\n10.1016/j.neuroimage.2004.07.051\n10.1371/journal.pone.0185552\n10.1101/308643\n10.3389/fnins.2023.1205928\n10.1016/j.neuroimage.2023.120138\n10.3389/fnins.2023.1100544\n10.5334/jors.280\n10.3389/fnins.2023.1070413",
+    "journal": "bioRxiv : the preprint server for biology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2024-04-08",
+    "pubmed_id": "38585923\n29079522\n22632718\n32732281\n14568458\n22023741\n37554646\n8524021\n20176931\n18222873\n27729277\n30265768\n8812068\n28398812\n37555150\n28945803\n37554632\n10984517\n20656036\n28230837\n27437579\n32528270\n31415884\n32845057\n35842095\n7674900\n20420926\n33789138\n22209809\n28363836\n37214404\n33307224\n36895416\n34658334\n33211184\n34000406\n37034165\n27510328\n37555175\n12880830\n36793774\n39575179\n18976717\n23705677\n28981612\n15501092\n28973000\n25826379\n37325035\n37116766\n37090794\n35305030\n22642651\n36816136\n20577591\n36654202",
+    "results": null,
+    "title": "A Set of FMRI Quality Control Tools in AFNI: Systematic, in-depth and interactive QC with afni_proc.py and more.",
+    "xml": "<Element 'PubmedArticle' at 0x7dcbe7338ef0>"
+}

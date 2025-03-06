@@ -1,0 +1,52 @@
+{
+    "abstract": "Recent reports of inflated false-positive rates (FPRs) in FMRI group analysis tools by Eklund and associates in 2016 have become a large topic within (and outside) neuroimaging. They concluded that existing parametric methods for determining statistically significant clusters had greatly inflated FPRs (\"up to 70%,\" mainly due to the faulty assumption that the noise spatial autocorrelation function is Gaussian shaped and stationary), calling into question potentially \"countless\" previous results; in contrast, nonparametric methods, such as their approach, accurately reflected nominal 5% FPRs. They also stated that AFNI showed \"particularly high\" FPRs compared to other software, largely due to a bug in 3dClustSim. We comment on these points using their own results and figures and by repeating some of their simulations. Briefly, while parametric methods show some FPR inflation in those tests (and assumptions of Gaussian-shaped spatial smoothness also appear to be generally incorrect), their emphasis on reporting the single worst result from thousands of simulation cases greatly exaggerated the scale of the problem. Importantly, FPR statistics depends on \"task\" paradigm and voxelwise p value threshold; as such, we show how results of their study provide useful suggestions for FMRI study design and analysis, rather than simply a catastrophic downgrading of the field's earlier results. Regarding AFNI (which we maintain), 3dClustSim's bug effect was greatly overstated-their own results show that AFNI results were not \"particularly\" worse than others. We describe further updates in AFNI for characterizing spatial smoothness more appropriately (greatly reducing FPRs, although some remain >5%); in addition, we outline two newly implemented permutation/randomization-based approaches producing FPRs clustered much more tightly about 5% for voxelwise p\u2009\u2264\u20090.01.",
+    "authors": [
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH/NIH/DHHS , Bethesda, Maryland.",
+            "firstname": "Robert W",
+            "initials": "RW",
+            "lastname": "Cox"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH/NIH/DHHS , Bethesda, Maryland.",
+            "firstname": "Gang",
+            "initials": "G",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH/NIH/DHHS , Bethesda, Maryland.",
+            "firstname": "Daniel R",
+            "initials": "DR",
+            "lastname": "Glen"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH/NIH/DHHS , Bethesda, Maryland.",
+            "firstname": "Richard C",
+            "initials": "RC",
+            "lastname": "Reynolds"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH/NIH/DHHS , Bethesda, Maryland.",
+            "firstname": "Paul A",
+            "initials": "PA",
+            "lastname": "Taylor"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1089/brain.2016.0475\n10.1016/j.neuroimage.2016.09.066\n10.1016/j.neuroimage.2016.12.057",
+    "journal": "Brain connectivity",
+    "keywords": [
+        "FMRI",
+        "autocorrelation function",
+        "clusters",
+        "false-positive rates",
+        "thresholding"
+    ],
+    "methods": null,
+    "publication_date": "2017-04-12",
+    "pubmed_id": "28398812\n20176931\n23376789\n27729277\n27357684\n29091338\n20035017\n28039092\n20408186",
+    "results": null,
+    "title": "FMRI Clustering in AFNI: False-Positive Rates Redux.",
+    "xml": "<Element 'PubmedArticle' at 0x7dcbe74eb150>"
+}

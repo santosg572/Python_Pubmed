@@ -1,0 +1,391 @@
+{
+    "abstract": "FSL (the FMRIB Software Library) is a comprehensive library of analysis tools for functional, structural and diffusion MRI brain imaging data, written mainly by members of the Analysis Group, FMRIB, Oxford. For this NeuroImage special issue on \"20 years of fMRI\" we have been asked to write about the history, developments and current status of FSL. We also include some descriptions of parts of FSL that are not well covered in the existing literature. We hope that some of this content might be of interest to users of FSL, and also maybe to new research groups considering creating, releasing and supporting new software packages for brain image analysis.",
+    "authors": [
+        {
+            "affiliation": "FMRIB Centre, Nuffield Department of Clinical Neurosciences, University of Oxford, UK.",
+            "firstname": "Mark",
+            "initials": "M",
+            "lastname": "Jenkinson"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Christian F",
+            "initials": "CF",
+            "lastname": "Beckmann"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Timothy E J",
+            "initials": "TE",
+            "lastname": "Behrens"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mark W",
+            "initials": "MW",
+            "lastname": "Woolrich"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Stephen M",
+            "initials": "SM",
+            "lastname": "Smith"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2011 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neuroimage.2011.09.015",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2011-10-08",
+    "pubmed_id": "21979382",
+    "results": null,
+    "title": "FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e9aa20>"
+}{
+    "abstract": "The ability to modify/visualize biological surfaces, and then study the modified cell/virion in a range of in vitro and in vivo environments is essential to gaining further insight into the function of specific molecules or the entire entity. Studies of biological surface modification are generally limited to genetic engineering of the organism or the covalent attachment of chemical moieties to the cell surface(1,2). However these traditional techniques expose the cell to chemical reactants, or they require significant manipulation to achieve the desired outcome, making them cumbersome, and they may also inadvertently affect the viability/functionality of the modified cell. A simple method to harmlessly modify the surface of cells is required. Recently a new technology, KODE Technology has introduced a range of novel constructs consisting of three components: a functional head group (F), a spacer (S) and a lipid tail (L) and are known as Function-Spacer-Lipid or FSL constructs3. The spacer (S) is selected to provide a construct that is dispersible in water, yet will spontaneously and stably incorporate into a membrane. FSL construct functional moieties (F) so far include a range of saccharides including blood group-related determinants, sialic acids, hyaluronan polysaccharides, fluorophores, biotin, radiolabels, and a range of peptides(3-12). FSL constructs have been used in modifying embryos, spermatozoa, zebrafish, epithelial/endometrial cells, red blood cells, and virions to create quality controls systems and diagnostic panels, to modify cell adhesion/ interaction/ separation/ immobilization, and for in vitro and in vivo imaging of cells/virions(3-12). The process of modifying cells/virions is generic and extremely simple. The most common procedure is incubation of cells (in lipid free media) with a solution for FSL constructs for 1-2 hours at 37\u00b0C(4-10). During the incubation the FSL constructs spontaneously incorporate into the membrane, and the process is complete. Washing is optional. Cells modified by FSL constructs are known as kodecytes(6-9), while virions are kodevirions(10). FSL constructs as direct infusions and kodecytes/kodevirions have been used in experimental animal models(7,8,10). All kodecytes/kodevirions appear to retain their normal vitality and functionality while gaining the new function of the F moiety(7,8,10,11). The combination of dispersibility in biocompatible media, spontaneous incorporation into cell membranes, and apparent low toxicity, makes FSL constructs valuable research tools for the study of cells and virions.",
+    "authors": [
+        {
+            "affiliation": "Biotechnology Research Institute, AUT University and KODE Biotech Ltd.",
+            "firstname": "Deborah A",
+            "initials": "DA",
+            "lastname": "Blake"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Nicolai V",
+            "initials": "NV",
+            "lastname": "Bovin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Dan",
+            "initials": "D",
+            "lastname": "Bess"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Stephen M",
+            "initials": "SM",
+            "lastname": "Henry"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.3791/3289",
+    "journal": "Journal of visualized experiments : JoVE",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2011-08-19",
+    "pubmed_id": "21847082\n17607305\n19198568\n0\n17465953\n19680123\n21599675\n21303367\n19912581\n21703308\n20582467",
+    "results": null,
+    "title": "FSL constructs: a simple method for modifying cell/virion surfaces with a range of biological markers without affecting their viability.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e983b0>"
+}{
+    "abstract": "TLR ligands as Th1 inducers have been investigated as potential anti-tumour agents. However, few attempts have been made to investigate the anti-tumour activity of TLR ligands as Th2 inducers. This study, therefore, was carried out to determine whether the TLR2 ligand FSL-1 as a Th2 inducers affects the growth of a QRsP tumour, a fibrosarcoma derived from the C57BL/6 (TLR2(+/+)) mouse in vivo. Tumour volumes in TLR2(+/+) mice immunized with both FSL-1 and tumour-associated antigens were significantly smaller than those in control mice. Immunization with both FSL-1 and tumour-associated antigens increased the survival rate of TLR2(+/+) mice. However, surprisingly, immunization with FSL-1 alone significantly enhanced the growth of tumour. Both anti- and pro-tumour activities of FSL-1 were not observed in TLR2(-/-) mice. Immunization of both FSL-1 and tumour-associated antigens induced tumour-associated antigen-specific cytolytic T cells, antibody-dependent cell-mediated cytotoxicity of natural killer cells by production of the tumour-specific antibodies, tumour lysis by complement activation and reduction of the number of regulatory T cells in the draining lymph node. Immunization with FSL-1 alone increased the number of regulatory T cells in the draining lymph node, and in vivo administration of anti-CD25 antibody into mice abrogated the pro-tumour activity of FSL-1, suggesting that regulatory T cells are involved in the pro-tumour activity. This study demonstrated that FSL-1 exhibited TLR2-mediated anti- and pro-tumour activities when immunized with and without tumour-associated antigens, respectively.",
+    "authors": [
+        {
+            "affiliation": "Division of Oral Molecular Microbiology, Department of Oral Pathobiological Science, Hokkaido University Graduate School of Dental Medicine, Kita 13, Nishi 7, Kita-ku, Sapporo 060-8586, Japan.",
+            "firstname": "Kazuto",
+            "initials": "K",
+            "lastname": "Kiura"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Akira",
+            "initials": "A",
+            "lastname": "Hasebe"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ayumi",
+            "initials": "A",
+            "lastname": "Saeki"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Taku",
+            "initials": "T",
+            "lastname": "Segawa"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Futoshi",
+            "initials": "F",
+            "lastname": "Okada"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Haque Mohammad",
+            "initials": "HM",
+            "lastname": "Shamsul"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Makoto",
+            "initials": "M",
+            "lastname": "Ohtani"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Takeshi",
+            "initials": "T",
+            "lastname": "Into"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Nobuo",
+            "initials": "N",
+            "lastname": "Inoue"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Minoru",
+            "initials": "M",
+            "lastname": "Wakita"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ken-Ichiro",
+            "initials": "K",
+            "lastname": "Shibata"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2011 Elsevier GmbH. All rights reserved.",
+    "doi": "10.1016/j.imbio.2011.02.006",
+    "journal": "Immunobiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2011-04-19",
+    "pubmed_id": "21496943",
+    "results": null,
+    "title": "In vivo anti- and pro-tumour activities of the TLR2 ligand FSL-1.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6090fe0>"
+}{
+    "abstract": "Medical imaging has been transformed by a move from qualitative to quantitative approaches where image processing is used to enhance visual information and image analysis is used to derive structural and functional measurements. The ideal quantitative analysis methods are automatic and require no user intervention, and so-called image analysis pipelines exist for some applications. However, in the majority of cases automatic methods seldom live up to their name, may fail when prior assumptions are not met, and may not exist at all for new applications. The identification and careful use of well-known image processing and analysis techniques is a vital part of imaging and invaluable when problems arise with automatic methods. Here a number of key image analysis tasks in brain imaging are presented with particular reference to the freely available FMRIB Software Library.",
+    "authors": [
+        {
+            "affiliation": "King's College London, Institute of Psychiatry, Centre for Neuroimaging Sciences, London, UK. bill.crum@iop.kcl.ac.uk",
+            "firstname": "William R",
+            "initials": "WR",
+            "lastname": "Crum"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1007/978-1-61737-992-5_5",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2011-02-01",
+    "pubmed_id": "21279599",
+    "results": null,
+    "title": "Magnetic resonance brain image processing and arithmetic with FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6095760>"
+}{
+    "abstract": "Major depressive disorder (MDD) and diabetes mellitus type II (T2DM) are two of the major health challenges of our time. It has been shown that MDD and T2DM are highly co-morbid, and recent work has proposed a bi-directional connection between the diseases. The aim of the current study was to investigate the effect of a high-fat diet (HFD) on behavior and metabolism in a genetic rat model of depression, the Flinders Sensitive and Resistant Line (FSL/FRL) rats. Age and weight matched rats were fed a HFD or control diet for 10 weeks and subjected to behavioral testing and metabolic assessment. We found that HFD exacerbated the depressive-like behavior of the FSL rat in the Forced Swim Test (FST), a depression screening tool, although it did not affect the non-depressed FRL rat despite a higher caloric intake. Moreover, the depressive-like phenotype was associated with reduced anxiety and impairment in novel object recognition memory, while HFD consumption led to diminished object recognition memory as well. In both strains HFD increased insulin levels during an oral glucose tolerance test, although fasting blood glucose levels were only significantly increased by HFD in the FSL rat, suggesting a greater metabolic susceptibility in this rat strain. We conclude that compared with the FRL rat, the FSL rat is more susceptible to developing aberrant behaviors related to depression following metabolic stress induced by HFD. Further studies with a mechanistic focus could potentially lead to a better understanding of a possible pathophysiological link between T2DM and MDD.",
+    "authors": [
+        {
+            "affiliation": "Centre for Psychiatric Research, Aarhus University Hospital-Risskov, Risskov, Denmark.",
+            "firstname": "Anders",
+            "initials": "A",
+            "lastname": "Abildgaard"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Lasse",
+            "initials": "L",
+            "lastname": "Solskov"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Vallo",
+            "initials": "V",
+            "lastname": "Volke"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Brian H",
+            "initials": "BH",
+            "lastname": "Harvey"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Sten",
+            "initials": "S",
+            "lastname": "Lund"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gregers",
+            "initials": "G",
+            "lastname": "Wegener"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2010 Elsevier Ltd. All rights reserved.",
+    "doi": "10.1016/j.psyneuen.2010.09.004",
+    "journal": "Psychoneuroendocrinology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2010-10-05",
+    "pubmed_id": "20888697",
+    "results": null,
+    "title": "A high-fat diet exacerbates depressive-like behavior in the Flinders Sensitive Line (FSL) rat, a genetic model of depression.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6097790>"
+}{
+    "abstract": "Little is known of how Toll-like receptor (TLR) ligands are processed after recognition by TLRs. This study was therefore designed to investigate how the TLR2 ligand FSL-1 is processed in macrophages after recognition by TLR2. FSL-1 was internalized into the murine macrophage cell line, RAW264.7. Both chlorpromazine and methyl-beta-cyclodextrin, which inhibit clathrin-dependent endocytosis, reduced FSL-1 uptake by RAW264.7 cells in a dose-dependent manner but nystatin, which inhibits caveolae- and lipid raft-dependent endocytosis, did not. FSL-1 was co-localized with clathrin but not with TLR2 in the cytosol of RAW264.7 cells. These results suggest that internalization of FSL-1 is clathrin dependent. In addition, FSL-1 was internalized by peritoneal macrophages from TLR2-deficient mice. FSL-1 was internalized by human embryonic kidney 293 cells transfected with CD14 or CD36 but not by the non-transfected cells. Also, knockdown of CD14 or CD36 in the transfectants reduced FSL-1 uptake. In this study, we suggest that (i) FSL-1 is internalized into macrophages via a clathrin-dependent endocytic pathway, (ii) the FSL-1 uptake by macrophages occurs irrespective of the presence of TLR2, and (iii) CD14 and CD36 are responsible for the internalization of FSL-1.",
+    "authors": [
+        {
+            "affiliation": "Laboratory of Oral Molecular Microbiology, Department of Oral Pathobiological Science, Hokkaido University Graduate School of Dental Medicine, Japan.",
+            "firstname": "Haque M",
+            "initials": "HM",
+            "lastname": "Shamsul"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Akira",
+            "initials": "A",
+            "lastname": "Hasebe"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mitsuhiro",
+            "initials": "M",
+            "lastname": "Iyori"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Makoto",
+            "initials": "M",
+            "lastname": "Ohtani"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kazuto",
+            "initials": "K",
+            "lastname": "Kiura"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Diya",
+            "initials": "D",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Yasunori",
+            "initials": "Y",
+            "lastname": "Totsuka"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ken-ichiro",
+            "initials": "K",
+            "lastname": "Shibata"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1111/j.1365-2567.2009.03232.x",
+    "journal": "Immunology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2010-02-02",
+    "pubmed_id": "20113368\n16497588\n17223959\n10922424\n11518816\n17284172\n10338521\n11086096\n16420600\n16965351\n17316370\n17938187\n14500665\n14977973\n16819971\n15247273\n16848791\n14617356\n1739974\n8245121\n7615524\n10198050\n12183451\n10359788\n15146246\n8120091\n9490634\n15146245\n17889651\n12621426\n15998596\n17376169\n15690042\n15714590\n16920954\n16373361\n17283098\n16880211\n17466567\n16061696\n12130500\n7542010\n12045230\n16177110\n9166424\n16982924\n17283106\n16113677\n16497584\n8557340",
+    "results": null,
+    "title": "The Toll-like receptor 2 (TLR2) ligand FSL-1 is internalized via the clathrin-dependent endocytic pathway triggered by CD14 and CD36 but not by TLR2.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e606a840>"
+}{
+    "abstract": "The 5-hydroxytryptamine system is thought to play a crucial role in the pathophysiology of depression and represents the target for selective 5-HT reuptake inhibitors (SSRIs). Flinders Sensitive Line (FSL) and Flinders Resistant Line (FRL) rats were bred from Sprague-Dawley (SPD) rats to produce strains with increased (FSL) or decreased (FRL) sensitivity to the cholinesterase inhibitor. The FSL rats have been identified as a good model of depression. Many studies in normal rats showed that chronic treatments with SSRIs reduce the densities of SERT. The objective of the present investigation was to assess the influence of chronic fluoxetine treatment on SERT density (Bmax; fmol/mg) in the FSL rat model of depression, relative to that in the FRL rats and SPD rats. FSL, FRL and SPD rats were randomly assigned into groups receiving the vehicle or 10 mg/kg of fluoxetine i.p. for 14 days. Binding was assessed by incubating the brain sections in a buffer containing 20 pM of [(125)I]-RTI-55 [[(125)I](-)-2beta-carbomethoxy-3beta-(4-iodophenyl)tropane and 200 nM of GBR12935 [1-(2-(diphenylmethoxy)ethyl)-4-(3-phenylpropyl)piperazine]. The fluoxetine treatment reduced B(max) in all three rat strains when the saline and respective fluoxetine groups were compared (e.g., the FSL-SAL relative to FSL-FLX groups). Chronic fluoxetine treatment reduces the densities of SERT in the FSL rats to a larger extent than in the normal SPD control rats.",
+    "authors": [
+        {
+            "affiliation": "Department for Neurology and Neurosurgery, Cone Neurosurgical Research Laboratory and Montreal Neurological Institute, McGill University, Montreal, Quebec, Canada.",
+            "firstname": "Tomislav",
+            "initials": "T",
+            "lastname": "Kovacevi\u0107"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ivan",
+            "initials": "I",
+            "lastname": "Skelin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mirko",
+            "initials": "M",
+            "lastname": "Diksic"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "(c) 2009 Wiley-Liss, Inc.",
+    "doi": "10.1002/syn.20721",
+    "journal": "Synapse (New York, N.Y.)",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-11-20",
+    "pubmed_id": "19924693",
+    "results": null,
+    "title": "Chronic fluoxetine treatment has a larger effect on the density of a serotonin transporter in the Flinders Sensitive Line (FSL) rat model of depression than in normal rats.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a2b10>"
+}{
+    "abstract": "Stress engenders the precipitation and progression of affective disorders, while stress-related release of excitatory mediators is implicated in the degenerative pathology observed especially in the hippocampus of patients with severe depression. Nitric oxide (NO) release following stress-evoked N-methyl-d-aspartate (NMDA) receptor activation modulates neurotransmission, cellular memory and neuronal toxicity. We have investigated the Flinders rat (FSL/FRL), a genetic animal model of depression, regarding the response of the hippocampal nitrergic system following exposure to an escapable stress/inescapable stress (ES-IS) paradigm. Hippocampal tissue from naive FSL/FRL rats and those exposed to ES-IS were studied with respect to constitutive nitric oxide synthase (cNOS) activity and neuronal nitric oxide synthase (nNOS) protein levels, as well as transcript expression of upstream regulatory proteins in the NMDA-NO signalling pathway, including NMDAR1, nNOS, CAPON, PIN and PSD95. Within stress-naive animals, no differences in hippocampal cNOS activity and nNOS expression or PIN were evident in FSL and FRL rats, although transcripts for NMDAR1 and CAPON were increased in FSL rats. Within the group of ES-IS animals, we found an increase in total hippocampal cNOS activity, nNOS protein levels and mRNA expression in FSL vs. FRL rats, together with an increase in PSD95 transcripts, and a reduction in PIN. In conclusion, ES-IS enhanced hippocampal cNOS activity in FSL rats, but not FRL rats, confirming the NMDA-NO cascade as an important vulnerability factor in the depressive phenotype of the FSL rat.",
+    "authors": [
+        {
+            "affiliation": "Centre for Psychiatric Research, Aarhus University Hospital, Risskov, Denmark. wegener@dadlnet.dk",
+            "firstname": "Gregers",
+            "initials": "G",
+            "lastname": "Wegener"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Brian H",
+            "initials": "BH",
+            "lastname": "Harvey"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Birgit",
+            "initials": "B",
+            "lastname": "Bonefeld"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Heidi K",
+            "initials": "HK",
+            "lastname": "M\u00fcller"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Vallo",
+            "initials": "V",
+            "lastname": "Volke"
+        },
+        {
+            "affiliation": null,
+            "firstname": "David H",
+            "initials": "DH",
+            "lastname": "Overstreet"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Betina",
+            "initials": "B",
+            "lastname": "Elfving"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1017/S1461145709990241",
+    "journal": "The international journal of neuropsychopharmacology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-07-25",
+    "pubmed_id": "19627650",
+    "results": null,
+    "title": "Increased stress-evoked nitric oxide signalling in the Flinders sensitive line (FSL) rat: a genetic animal model of depression.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6080d10>"
+}

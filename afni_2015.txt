@@ -1,0 +1,58 @@
+{
+    "abstract": null,
+    "authors": [
+        {
+            "affiliation": "Warwick Manufacturing Group, University of Warwick Coventry, UK.",
+            "firstname": "Ruth",
+            "initials": "R",
+            "lastname": "Pauli"
+        },
+        {
+            "affiliation": "Warwick Manufacturing Group, University of Warwick Coventry, UK.",
+            "firstname": "Alexander",
+            "initials": "A",
+            "lastname": "Bowring"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, National Institutes of Health Bethesda, MD, USA.",
+            "firstname": "Richard",
+            "initials": "R",
+            "lastname": "Reynolds"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, National Institutes of Health Bethesda, MD, USA.",
+            "firstname": "Gang",
+            "initials": "G",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": "Warwick Manufacturing Group, University of WarwickCoventry, UK; Department of Statistics, University of WarwickCoventry, UK.",
+            "firstname": "Thomas E",
+            "initials": "TE",
+            "lastname": "Nichols"
+        },
+        {
+            "affiliation": "Warwick Manufacturing Group, University of Warwick Coventry, UK.",
+            "firstname": "Camille",
+            "initials": "C",
+            "lastname": "Maumet"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.3389/fninf.2016.00024\n10.1101/037044\n10.3389/fnins.2012.00149\n10.1006/cbmr.1996.0014\n10.1073/pnas.0602659103\n10.1038/sdata.2014.3\n10.1097/00004728-199803000-00032\n10.1016/j.neuroimage.2011.09.015\n10.1016/j.neuroimage.2013.05.094\n10.1101/041798\n10.3389/fninf.2013.00012\n10.1038/nn.3818\n10.3389/fninf.2012.00009\n10.1016/j.neuroimage.2013.05.041",
+    "journal": "Frontiers in neuroinformatics",
+    "keywords": [
+        "data sharing",
+        "fMRI analysis",
+        "functional MRI",
+        "neuroimaging",
+        "provenance"
+    ],
+    "methods": null,
+    "publication_date": "2016-07-28",
+    "pubmed_id": "27458367\n27423255\n23087605\n8812068\n16868087\n25977761\n9530404\n21979382\n23727024\n27922621\n23847528\n25349916\n22493576\n23684880",
+    "results": null,
+    "title": "Exploring fMRI Results Space: 31 Variants of an fMRI Analysis in AFNI, FSL, and SPM.",
+    "xml": "<Element 'PubmedArticle' at 0x7dcbe74d36f0>"
+}

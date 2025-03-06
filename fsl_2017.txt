@@ -1,0 +1,702 @@
+{
+    "abstract": "To compare the cross-sectional robustness of commonly used volumetric software and effects of lesion filling in multiple sclerosis (MS).\nNine MS patients (six females; age 38\u00b113 years, disease duration 7.3\u00b15.2 years) were scanned twice with repositioning on three MRI scanners (Siemens Aera 1.5T, Avanto 1.5T, Trio 3.0T) the same day. Volumetric T\nVariability in volumetrics was lower within than between scanners (CoV 0.17-0.96% vs. 0.65-5.0%, p<0.001). All software provided similarly robust segmentations of the brain volume on the same scanner (CoV 0.17-0.28%, p=0.076). Normalisation improved inter-scanner reproducibility in FreeSurfer and SPM-based methods, but the FSL-SIENAX scaling factor did not improve robustness. Generally, SPM-based methods produced the most consistent volumetrics, while FreeSurfer was more robust for WM volumes on different scanners. FreeSurfer had more robust normalised brain and GM volumes on different scanners than FSL-SIENAX (p=0.004). MS lesion filling changed the output of FSL-SIENAX, SPM and SPM-CAT but not FreeSurfer.\nConsistent use of the same scanner is essential and normalisation to the intracranial volume is recommended for multiple scanners. Based on robustness, SPM-based methods are particularly suitable for cross-sectional volumetry. FreeSurfer poses a suitable alternative with WM segmentations less sensitive to MS lesions.\n\u2022 The same scanner should be used for brain volumetry. If different scanners are used, the intracranial volume normalisation improves the FreeSurfer and SPM robustness (but not the FSL scaling factor). \u2022 FreeSurfer, FSL and SPM all provide robust measures of the whole brain volume on the same MRI scanner. SPM-based methods overall provide the most robust segmentations (except white matter segmentations on different scanners where FreeSurfer is more robust). \u2022 MS lesion filling with Lesion Segmentation Toolbox changes the output of FSL-SIENAX and SPM. FreeSurfer output is not affected by MS lesion filling since it already takes white matter hypointensities into account and is therefore particularly suitable for MS brain volumetry.",
+    "authors": [
+        {
+            "affiliation": "Division of Clinical Geriatrics, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden.\nDepartment of Radiology, The First Hospital of Jilin University, Changchun, China.",
+            "firstname": "Chunjie",
+            "initials": "C",
+            "lastname": "Guo"
+        },
+        {
+            "affiliation": "Division of Clinical Geriatrics, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden.",
+            "firstname": "Daniel",
+            "initials": "D",
+            "lastname": "Ferreira"
+        },
+        {
+            "affiliation": "Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden.\nDepartment of Neurology, Karolinska University Hospital, Stockholm, Sweden.",
+            "firstname": "Katarina",
+            "initials": "K",
+            "lastname": "Fink"
+        },
+        {
+            "affiliation": "Division of Clinical Geriatrics, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden.",
+            "firstname": "Eric",
+            "initials": "E",
+            "lastname": "Westman"
+        },
+        {
+            "affiliation": "Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden. tobias.granberg@ki.se.\nDivision of Neuroradiology, Department of Radiology, Karolinska University Hospital, 141 86, Stockholm, Sweden. tobias.granberg@ki.se.",
+            "firstname": "Tobias",
+            "initials": "T",
+            "lastname": "Granberg"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1007/s00330-018-5710-x\n10.1016/S1474-4422(17)30470-2\n10.1016/S1474-4422(15)00393-2\n10.1038/nrneurol.2015.194\n10.1038/nrneurol.2009.41\n10.1007/s00330-017-4921-x\n10.1002/jmri.22214\n10.1007/s00415-012-6762-5\n10.1016/j.neuroimage.2006.02.051\n10.1016/j.neuroimage.2009.02.010\n10.1016/j.neuroimage.2012.01.021\n10.1016/j.neuroimage.2005.02.018\n10.1002/ana.22366\n10.1212/WNL.0000000000000560\n10.1212/WNL.33.11.1444\n10.1016/j.jneuroim.2014.06.010\n10.1006/nimg.2002.1040\n10.1016/j.neuroimage.2012.03.074\n10.1016/j.neuroimage.2007.07.007\n10.1016/j.neuroimage.2011.11.032\n10.1111/ane.12667\n10.1212/WNL.0b013e3181e24136\n10.1016/j.neuroimage.2016.07.035\n10.3174/ajnr.A4665\n10.1007/s00330-011-2336-7\n10.1016/j.nicl.2015.10.012\n10.1016/j.neuroimage.2012.02.084",
+    "journal": "European radiology",
+    "keywords": [
+        "Brain",
+        "Imaging, three-dimensional",
+        "Magnetic resonance imaging",
+        "Multiple sclerosis",
+        "Reproducibility of results"
+    ],
+    "methods": null,
+    "publication_date": "2018-09-23",
+    "pubmed_id": "30242503\n29275977\n26822746\n26526531\n19488083\n28667482\n20362675\n20575080\n23263472\n16651008\n19233293\n22248573\n21979382\n15955494\n21387374\n24871874\n6685237\n24999245\n12482100\n22484407\n17761438\n22119648\n18537111\n27798694\n25505764\n26369511\n27558404\n20530323\n25904813\n27431758\n26759553\n26797137\n22113264\n22790248\n26740917\n22430496",
+    "results": "Variability in volumetrics was lower within than between scanners (CoV 0.17-0.96% vs. 0.65-5.0%, p<0.001). All software provided similarly robust segmentations of the brain volume on the same scanner (CoV 0.17-0.28%, p=0.076). Normalisation improved inter-scanner reproducibility in FreeSurfer and SPM-based methods, but the FSL-SIENAX scaling factor did not improve robustness. Generally, SPM-based methods produced the most consistent volumetrics, while FreeSurfer was more robust for WM volumes on different scanners. FreeSurfer had more robust normalised brain and GM volumes on different scanners than FSL-SIENAX (p=0.004). MS lesion filling changed the output of FSL-SIENAX, SPM and SPM-CAT but not FreeSurfer.",
+    "title": "Repeatability and reproducibility of FreeSurfer, FSL-SIENAX and SPM brain volumetric measurements and the effect of lesion filling in multiple sclerosis.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ebfba0>"
+}{
+    "abstract": "To investigate the feasibility, effectiveness, and reproducibility of femtosecond laser (FSL) technology in different corneal cuts.\nExperimental study at the Brandon Regional Health Centre.\nTwenty two Human Cadaver eyes donated for research and supplied by the eye bank of Manitoba university.\nIn this experimental study, the effectiveness and reproducibility of FSL were investigated in different corneal cuts. The corneas were divided into 5 groups: group I for penetrating keratoplasty; group II for anterior lamellar keratoplasty; group III for corneal pockets for inlays; group IV for intracorneal ring tunnels; and group V for corneal cross-linking pockets. Our primary endpoint was the repeatability of planned versus obtained thickness and diameter of the cuts with FSL. A secondary endpoint was the effectiveness and ease of dissection, rated from 0-4, with 4 being the easiest and 0 the most difficult to dissect.\nThere was a high correlation between planned and obtained thickness (r = 0.997, p < 0.001) and diameter (r = 0.998, p < 0.001). Both were statistically significant. Linear regression analyses showed that the obtained thickness of corneal cuts in micrometers was significantly predicted by the planned thickness of corneal cuts in micrometers (\u03b2 = 0.996, t = 56.47, p < 0.001). Likewise, the obtained diameter of corneal cuts in millimeters was significantly predicted by the planned diameter of corneal cuts in millimeters (\u03b2 = 0.971, t = 70.85, p < 0.001). The surgeons gave 15 out of a total of 22 corneas (68.2%) the maximum score for ease of dissection (Grade 4), where no adhesions were found and the dissection was smooth and steady. Five corneas out of a total of 22 (22.7%) were given a score of 3 of 4 where minor adhesions were found. Two corneas out of a total of 22 (9.1%) were given a score of 2 of 4 where >1 adhesion was found, with some difficulty in separating the cut cornea from the bed. No corneas were given grade 1 or grade 0. No significant differences were obtained for the ease of dissection among the 5 surgery types using Kruskal-Wallis H test (H [4] = 4.971, p > 0.05).\nThe measured corneal-cut geometry correlated well with laser settings in a variety of full- and partial-thickness FSL corneal patterns, including different depths and diameters. This reproducible efficacy and measurement accuracy of the planned versus obtained cuts could have a favourable result on a variety of corneal surgeries. It also yields a favourable ease of dissection of the cut lenticule from the stromal bed.",
+    "authors": [
+        {
+            "affiliation": "Ocular Microsurgery & Laser Centre, Brandon, Man.; Eye Consultant Centre, Dubai, United Arab Emirates. Electronic address: tarekan@yahoo.com.",
+            "firstname": "Tarek",
+            "initials": "T",
+            "lastname": "Ibrahim"
+        },
+        {
+            "affiliation": "Department of Psychology, Brandon University, Brandon, Man.",
+            "firstname": "Phillip",
+            "initials": "P",
+            "lastname": "Goernert"
+        },
+        {
+            "affiliation": "Ocular Microsurgery & Laser Centre, Brandon, Man.; Department of Ophthalmology, University of Manitoba, Winnipeg, Man.; Brandon Regional Health Centre, Prairie Mountain Health, Brandon, Man.",
+            "firstname": "Guillermo",
+            "initials": "G",
+            "lastname": "Rocha"
+        }
+    ],
+    "conclusions": "The measured corneal-cut geometry correlated well with laser settings in a variety of full- and partial-thickness FSL corneal patterns, including different depths and diameters. This reproducible efficacy and measurement accuracy of the planned versus obtained cuts could have a favourable result on a variety of corneal surgeries. It also yields a favourable ease of dissection of the cut lenticule from the stromal bed.",
+    "copyrights": "Copyright \u00a9 2018 Canadian Ophthalmological Society. Published by Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.jcjo.2017.11.005",
+    "journal": "Canadian journal of ophthalmology. Journal canadien d'ophtalmologie",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2018-08-19",
+    "pubmed_id": "30119784",
+    "results": "There was a high correlation between planned and obtained thickness (r = 0.997, p < 0.001) and diameter (r = 0.998, p < 0.001). Both were statistically significant. Linear regression analyses showed that the obtained thickness of corneal cuts in micrometers was significantly predicted by the planned thickness of corneal cuts in micrometers (\u03b2 = 0.996, t = 56.47, p < 0.001). Likewise, the obtained diameter of corneal cuts in millimeters was significantly predicted by the planned diameter of corneal cuts in millimeters (\u03b2 = 0.971, t = 70.85, p < 0.001). The surgeons gave 15 out of a total of 22 corneas (68.2%) the maximum score for ease of dissection (Grade 4), where no adhesions were found and the dissection was smooth and steady. Five corneas out of a total of 22 (22.7%) were given a score of 3 of 4 where minor adhesions were found. Two corneas out of a total of 22 (9.1%) were given a score of 2 of 4 where >1 adhesion was found, with some difficulty in separating the cut cornea from the bed. No corneas were given grade 1 or grade 0. No significant differences were obtained for the ease of dissection among the 5 surgery types using Kruskal-Wallis H test (H [4] = 4.971, p > 0.05).",
+    "title": "Femto-second laser (FSL) techniques and consistency in corneal surgery: experimental study.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6093510>"
+}{
+    "abstract": "Measurements of brain volume loss (BVL) in individual patients are currently discussed controversially. One concern is the impact of short-term biological noise, like hydration status.\nThree publicly available reliability MRI datasets with scan intervals of days to weeks were used. An additional cohort of 60 early relapsing multiple sclerosis (MS) patients with MRI follow-ups was analyzed to test whether after 1\u00a0year pathological BVL is detectable in a relevant fraction of MS patients. BVL was determined using SIENA/FSL. Results deviating from zero in the reliability datasets were considered as within-patient fluctuation (WPF) consisting of the intrinsic measurement error as well as the short-term biological fluctuations of brain volumes. We provide an approach to interpret BVL measurements in individual patients taking the WPF into account.\nThe estimated standard deviation of BVL measurements from the pooled reliability datasets was 0.28%. For a BVL measurement of x% per year in an individual patient, the true BVL lies with an error probability of 5% in the interval x%\u2009\u00b1\u2009(1.96\u2009\u00d7\u20090.28)/(scan interval in years)%. To allow a BVL per year of at least 0.4% to be identified after 1\u00a0year, the measured BVL needs to exceed 0.94%. The median BVL per year in the MS patient cohort was 0.44%. In 11 out of 60 MS patients (18%) we found a BVL per year equal or greater than 0.94%.\nThe estimated WPF may be helpful when interpreting BVL results on an individual patient level in diseases such as MS.",
+    "authors": [
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland. roland.opfer@jung-diagnostics.de.\nJung Diagnostics GmbH, Hamburg, Germany. roland.opfer@jung-diagnostics.de.",
+            "firstname": "Roland",
+            "initials": "R",
+            "lastname": "Opfer"
+        },
+        {
+            "affiliation": "Jung Diagnostics GmbH, Hamburg, Germany.",
+            "firstname": "Ann-Christin",
+            "initials": "AC",
+            "lastname": "Ostwaldt"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland.",
+            "firstname": "Christine",
+            "initials": "C",
+            "lastname": "Walker-Egger"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland.\nDepartment of Information Technology and Electrical Engineering, Swiss Federal Institute of Technology, Zurich, Switzerland.",
+            "firstname": "Praveena",
+            "initials": "P",
+            "lastname": "Manogaran"
+        },
+        {
+            "affiliation": "Biostatistics Unit, Department of Health Sciences, University of Genoa, Genoa, Italy.",
+            "firstname": "Maria Pia",
+            "initials": "MP",
+            "lastname": "Sormani"
+        },
+        {
+            "affiliation": "Department of Medicine, Surgery and Neuroscience, University of Siena, Siena, Italy.",
+            "firstname": "Nicola",
+            "initials": "N",
+            "lastname": "De Stefano"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland.",
+            "firstname": "Sven",
+            "initials": "S",
+            "lastname": "Schippling"
+        }
+    ],
+    "conclusions": "The estimated WPF may be helpful when interpreting BVL results on an individual patient level in diseases such as MS.",
+    "copyrights": null,
+    "doi": "10.1007/s00415-018-8825-8",
+    "journal": "Journal of neurology",
+    "keywords": [
+        "Brain atrophy",
+        "MRI",
+        "Multiple sclerosis",
+        "Reliability",
+        "SIENA"
+    ],
+    "methods": null,
+    "publication_date": "2018-03-20",
+    "pubmed_id": "29549466\n25904813\n25089020\n17537648\n26195051\n28054131\n25379428\n27335096\n25977792\n26723849\n25632085\n21326603\n22484407\n27688944\n12482100\n29407463\n28247239\n27431758\n27335098\n19201002\n15699394\n22104089\n17714011",
+    "results": "The estimated standard deviation of BVL measurements from the pooled reliability datasets was 0.28%. For a BVL measurement of x% per year in an individual patient, the true BVL lies with an error probability of 5% in the interval x%\u2009\u00b1\u2009(1.96\u2009\u00d7\u20090.28)/(scan interval in years)%. To allow a BVL per year of at least 0.4% to be identified after 1\u00a0year, the measured BVL needs to exceed 0.94%. The median BVL per year in the MS patient cohort was 0.44%. In 11 out of 60 MS patients (18%) we found a BVL per year equal or greater than 0.94%.",
+    "title": "Within-patient fluctuation of brain volume estimates from short-term repeated MRI measurements using SIENA/FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6090400>"
+}{
+    "abstract": null,
+    "authors": [
+        {
+            "affiliation": "McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada; Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada.",
+            "firstname": "Dorothee",
+            "initials": "D",
+            "lastname": "Schoemaker"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA; Charit\u00e9, Berlin, Germany.",
+            "firstname": "Claudia",
+            "initials": "C",
+            "lastname": "Buss"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA.",
+            "firstname": "Kevin",
+            "initials": "K",
+            "lastname": "Head"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA.",
+            "firstname": "Curt A",
+            "initials": "CA",
+            "lastname": "Sandman"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA; University of Denver, CO, USA.",
+            "firstname": "Elysia P",
+            "initials": "EP",
+            "lastname": "Davis"
+        },
+        {
+            "affiliation": "Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada; Biomedical Engineering Department, McGill University, Montreal, QC, Canada.",
+            "firstname": "M Mallar",
+            "initials": "MM",
+            "lastname": "Chakravarty"
+        },
+        {
+            "affiliation": "McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada.",
+            "firstname": "Serge",
+            "initials": "S",
+            "lastname": "Gauthier"
+        },
+        {
+            "affiliation": "McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada; Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada. Electronic address: jens.pruessner@mcgill.ca.",
+            "firstname": "Jens C",
+            "initials": "JC",
+            "lastname": "Pruessner"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.neuroimage.2018.02.009",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2018-02-25",
+    "pubmed_id": "29477029",
+    "results": null,
+    "title": "Corrigendum to \"Hippocampus and amygdala volumes from magnetic resonance images in children: Assessing accuracy of FreeSurfer and FSL against manual segmentation\"[NeuroImage 129 (2016) 1-14].",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a09f0>"
+}{
+    "abstract": "Brain volume loss (BVL) has gained increasing interest for monitoring tissue damage in neurodegenerative diseases including multiple sclerosis (MS). In this longitudinal study, 117 healthy participants (age range 37.3-82.6\u00a0years) received at least 2 magnetic resonance imaging examinations. BVL (in %) was determined with the Structural Image Evaluation using Normalisation of Atrophy/FMRIB Software Library and annualized. Mean BVL per year was 0.15%, 0.30%, 0.46%, and 0.61% at ages 45, 55, 65, and 75 years, respectively. The corresponding BVL per year values of the age-dependent 95th percentiles were 0.52%, 0.77%, 1.05% and 1.45%. Pathological BVL can be assumed if an individual BVL per year exceeds these thresholds for a given age. The mean BVL per year determined in this longitudinal study was consistent with results from a cross-sectional study that was published recently. The cut-off for a pathological BVL per year at the age of 45 years (0.52%) was consistent with the cut-off suggested previously to distinguish between physiological and pathological BVL in MS patients. Different cut-off values, however, need to be considered when interpreting BVL assessed in cohorts of higher ages.",
+    "authors": [
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland; Jung diagnostics GmbH, Hamburg, Germany. Electronic address: roland.opfer@jung-diagnostics.de.",
+            "firstname": "Roland",
+            "initials": "R",
+            "lastname": "Opfer"
+        },
+        {
+            "affiliation": "Jung diagnostics GmbH, Hamburg, Germany.",
+            "firstname": "Ann-Christin",
+            "initials": "AC",
+            "lastname": "Ostwaldt"
+        },
+        {
+            "affiliation": "Biostatistics Unit, Department of Health Sciences, University of Genoa, Genoa, Italy.",
+            "firstname": "Maria Pia",
+            "initials": "MP",
+            "lastname": "Sormani"
+        },
+        {
+            "affiliation": "Medical Prevention Center Hamburg (MPCH), Hamburg, Germany.",
+            "firstname": "Carola",
+            "initials": "C",
+            "lastname": "Gocke"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland.",
+            "firstname": "Christine",
+            "initials": "C",
+            "lastname": "Walker-Egger"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland; Department of Information Technology and Electrical Engineering, Swiss Federal Institute of Technology, Zurich, Switzerland.",
+            "firstname": "Praveena",
+            "initials": "P",
+            "lastname": "Manogaran"
+        },
+        {
+            "affiliation": "Department of Medicine, Surgery and Neuroscience, University of Siena, Siena, Italy.",
+            "firstname": "Nicola",
+            "initials": "N",
+            "lastname": "De Stefano"
+        },
+        {
+            "affiliation": "Neuroimmunology and Multiple Sclerosis Research, Department of Neurology, University Hospital Zurich and University of Zurich, Zurich, Switzerland.",
+            "firstname": "Sven",
+            "initials": "S",
+            "lastname": "Schippling"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2017 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neurobiolaging.2017.12.024",
+    "journal": "Neurobiology of aging",
+    "keywords": [
+        "Aging",
+        "Brain atrophy",
+        "Brain volume loss",
+        "Cutoff",
+        "Multiple sclerosis",
+        "SIENA"
+    ],
+    "methods": null,
+    "publication_date": "2018-02-07",
+    "pubmed_id": "29407463",
+    "results": null,
+    "title": "Estimates of age-dependent cutoffs for pathological brain volume loss using SIENA/FSL-a longitudinal brain volumetry study in healthy adults.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a3ce0>"
+}{
+    "abstract": "Risks of radiation exposure from nuclear incidents and cancer radiotherapy are undeniable realities. These dangers urgently compel the development of agents for ameliorating radiation-induced injuries. Biologic pathways mediated by myeloid differentiation primary response gene 88 (MyD88), the common adaptor for toll-like receptor (TLR) and Interleukin-1 receptor signaling, are critical for radioprotection. Treating with agonists prior to radiation enhances survival by activating TLR signaling, whereas radiomitigating TLR-activating therapeutics given after exposure are less defined. We examine the radiomitigation capability of TLR agonists and identify one that is superior for its efficacy and reduced toxic consequences compared to other tested agonists. We demonstrate that the synthetic TLR2/6 ligand Fibroblast-stimulating lipopeptide (FSL-1) substantially prolongs survival in both male and female mice when administered 24\u2009hours after radiation and shows MyD88-dependent function. FSL-1 treatment results in accelerated hematopoiesis in bone marrow, spleen and periphery, and augments systemic levels of hematopoiesis-stimulating factors. The ability of FSL-1 to stimulate hematopoiesis is critical, as hematopoietic dysfunction results from a range of ionizing radiation doses. The efficacy of a single FSL-1 dose for alleviating radiation injury while protecting against adverse effects reveals a viable radiation countermeasures agent.",
+    "authors": [
+        {
+            "affiliation": "Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC, USA.",
+            "firstname": "Cathryn J",
+            "initials": "CJ",
+            "lastname": "Kurkjian"
+        },
+        {
+            "affiliation": "Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC, USA.",
+            "firstname": "Hao",
+            "initials": "H",
+            "lastname": "Guo"
+        },
+        {
+            "affiliation": "Department of Pathology and Laboratory Medicine, University of North Carolina, Chapel Hill, NC, USA.",
+            "firstname": "Nathan D",
+            "initials": "ND",
+            "lastname": "Montgomery"
+        },
+        {
+            "affiliation": "Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC, USA.\nOral Biology Curriculum, School of Dentistry, University of North Carolina, Chapel Hill, NC, USA.",
+            "firstname": "Ning",
+            "initials": "N",
+            "lastname": "Cheng"
+        },
+        {
+            "affiliation": "Department of Radiology, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.\nBiomedical Imaging Research Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.",
+            "firstname": "Hong",
+            "initials": "H",
+            "lastname": "Yuan"
+        },
+        {
+            "affiliation": "Biomedical Imaging Research Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.",
+            "firstname": "Joseph R",
+            "initials": "JR",
+            "lastname": "Merrill"
+        },
+        {
+            "affiliation": "Duke Human Vaccine Institute, Duke University, Durham, NC, USA.",
+            "firstname": "Gregory D",
+            "initials": "GD",
+            "lastname": "Sempowski"
+        },
+        {
+            "affiliation": "Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC, USA.",
+            "firstname": "W June",
+            "initials": "WJ",
+            "lastname": "Brickey"
+        },
+        {
+            "affiliation": "Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC, USA. jpyting@gmail.com.\nDepartment of Genetics, University of North Carolina, Chapel Hill, NC, USA. jpyting@gmail.com.",
+            "firstname": "Jenny P-Y",
+            "initials": "JP",
+            "lastname": "Ting"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1038/s41598-017-17729-9\n10.1517/14712598.2015.986453\n10.1097/HP.0000000000000279\n10.1097/HP.0b013e3181bbc4df\n10.1101/cshperspect.a008250\n10.1016/j.cytogfr.2014.07.011\n10.1016/j.immuni.2006.04.008\n10.1111/j.1365-2141.2007.06802.x\n10.1038/leu.2014.68\n10.1186/s12866-015-0578-2\n10.3109/09553002.2012.652723\n10.1126/science.1154986\n10.4049/jimmunol.180.12.8280\n10.1016/j.mrgentox.2014.09.001\n10.1136/gutjnl-2011-300367\n10.1269/jrr.10098\n10.1371/journal.pone.0066586\n10.1667/RR2657.1\n10.1016/j.ijrobp.2011.05.055\n10.1038/srep13004\n10.1371/journal.pone.0033044\n10.1189/jlb.0413209\n10.7314/APJCP.2012.13.9.4763\n10.1124/jpet.112.196071\n10.1093/jrr/rru040\n10.1186/1743-422X-6-195\n10.1111/j.1574-695X.2005.00002.x\n10.1111/j.1574-695X.2007.00218.x\n10.1016/j.immuni.2009.09.018\n10.1038/cddis.2013.161\n10.7205/MILMED.169.3.194\n10.7205/MILMED-D-10-00115\n10.1097/HP.0b013e3182667309\n10.1016/j.intimp.2009.08.012\n10.1097/HP.0000000000000094\n10.1089/scd.2012.0128\n10.1038/jid.2012.288\n10.1016/j.imbio.2015.06.015\n10.1016/j.intimp.2015.10.007\n10.1016/S0360-3016(98)00093-5\n10.1126/science.2420009\n10.1016/j.bbmt.2011.07.003\n10.1200/JCO.2003.03.114\n10.1038/sj.bmt.1702423",
+    "journal": "Scientific reports",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2017-12-13",
+    "pubmed_id": "29230065\n25416452\n25905522\n20445403\n23209149\n25131807\n16782035\n17897294\n24518205\n26502905\n22248128\n18403709\n18523294\n25440907\n22027478\n22104272\n23805241\n22175300\n22000579\n26268450\n22479357\n24532644\n23167416\n22837010\n24927726\n19903337\n16420600\n17316370\n19931471\n23722538\n15080238\n21265303\n22929467\n19716438\n24776912\n22827607\n22931928\n26143228\n26462591\n21353720\n9652847\n19363221\n3264199\n2420009\n3494094\n21745453\n12663705\n10849533\n10887102\n23561934",
+    "results": null,
+    "title": "The Toll-Like Receptor 2/6 Agonist, FSL-1 Lipopeptide, Therapeutically Mitigates Acute Radiation Syndrome.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6094220>"
+}{
+    "abstract": "Segmentation of human brain structures is crucial for the volumetric quantification of brain disease. Advances in algorithmic approaches have led to automated techniques that save time compared to interactive methods. Recently, the utility and accuracy of template library fusion algorithms, such as Local MAP PSTAPLE (PSTAPLE), have been demonstrated but there is little guidance regarding its reproducibility compared to single template-based algorithms such as FreeSurfer and FSL-FIRST.\nEight repeated magnetic resonance imagings of 20 subjects were segmented using FreeSurfer, FSL-FIRST, and PSTAPLE. We reported the reproducibility of segmentation-derived volume measurements for brain structures and calculated sample size estimates for detecting hypothetical rates of tissue atrophy given the observed variances.\nPSTAPLE had the most reproducible volume measurements for hippocampus, putamen, thalamus, caudate, pallidum, amygdala, Accumbens area, and cortical regions. FreeSurfer was most reproducible for brainstem. PSTAPLE was the most accurate algorithm in terms of several metrics include Dice's coefficient. The sample size estimates showed that a study utilizing PSTAPLE would require tens to hundreds less subjects than the other algorithms for detecting atrophy rates typically observed in brain disease.\nPSTAPLE is a useful tool for automatic human brain segmentation due to its precision and accuracy, which enable the detection of the size of the effect typically reported for neurological disorders with a substantially reduced sample size, in comparison to the other tools we assessed. This enables randomized controlled trials to be executed with reduced cost and duration, in turn, facilitating the assessment of new therapeutic interventions.",
+    "authors": [
+        {
+            "affiliation": "Computational Radiology Laboratory, Department of Radiology, Boston Children's Hospital, and Harvard Medical School, Boston, MA.",
+            "firstname": "Clemente",
+            "initials": "C",
+            "lastname": "Velasco-Annis"
+        },
+        {
+            "affiliation": "Computational Radiology Laboratory, Department of Radiology, Boston Children's Hospital, and Harvard Medical School, Boston, MA.",
+            "firstname": "Alireza",
+            "initials": "A",
+            "lastname": "Akhondi-Asl"
+        },
+        {
+            "affiliation": "Computational Radiology Laboratory, Department of Radiology, Boston Children's Hospital, and Harvard Medical School, Boston, MA.",
+            "firstname": "Aymeric",
+            "initials": "A",
+            "lastname": "Stamm"
+        },
+        {
+            "affiliation": "Computational Radiology Laboratory, Department of Radiology, Boston Children's Hospital, and Harvard Medical School, Boston, MA.",
+            "firstname": "Simon K",
+            "initials": "SK",
+            "lastname": "Warfield"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2017 by the American Society of Neuroimaging.",
+    "doi": "10.1111/jon.12483",
+    "journal": "Journal of neuroimaging : official journal of the American Society of Neuroimaging",
+    "keywords": [
+        "FSL",
+        "FreeSurfer",
+        "MRI",
+        "STAPLE",
+        "brain",
+        "segmentation"
+    ],
+    "methods": null,
+    "publication_date": "2017-11-15",
+    "pubmed_id": "29134725",
+    "results": "PSTAPLE had the most reproducible volume measurements for hippocampus, putamen, thalamus, caudate, pallidum, amygdala, Accumbens area, and cortical regions. FreeSurfer was most reproducible for brainstem. PSTAPLE was the most accurate algorithm in terms of several metrics include Dice's coefficient. The sample size estimates showed that a study utilizing PSTAPLE would require tens to hundreds less subjects than the other algorithms for detecting atrophy rates typically observed in brain disease.",
+    "title": "Reproducibility of Brain MRI Segmentation Algorithms: Empirical Comparison of Local MAP PSTAPLE, FreeSurfer, and FSL-FIRST.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a6d40>"
+}{
+    "abstract": "The aim of this study was to investigate the use of one magnetic resonance image-processing tool, FSL, in its ability to perform automated segmentation of computed tomographic images of the brain.\nHead computed tomography (CT) images were brain extracted and segmented using the FSL tools BET and FAST, respectively. The products of segmentation were analyzed by histogram. The impact of image intensity inhomogeneity correction was investigated using simulated bias fields, 14 routine head CT scans, and selected illustrative clinical cases.\nFSL FAST performs direct segmentation of head CT images, permitting quantitation of gray and white matter densities and volumes, achieving a more complete segmentation than masking methods. \"Bias field correction\" reduced the covariance of image signal intensities of the total brain and gray matter images (P < 0.01). Correction is larger when the effects of beam hardening and radiation scatter are larger, resulting in improved segmentation.\nFSL FAST enables direct segmentation of head CT images.",
+    "authors": [
+        {
+            "affiliation": null,
+            "firstname": "Keith A",
+            "initials": "KA",
+            "lastname": "Cauley"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Joe",
+            "initials": "J",
+            "lastname": "Och"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Patrick J",
+            "initials": "PJ",
+            "lastname": "Yorks"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Samuel W",
+            "initials": "SW",
+            "lastname": "Fielden"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1097/RCT.0000000000000660",
+    "journal": "Journal of computer assisted tomography",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2017-08-09",
+    "pubmed_id": "28786900",
+    "results": "FSL FAST performs direct segmentation of head CT images, permitting quantitation of gray and white matter densities and volumes, achieving a more complete segmentation than masking methods. \"Bias field correction\" reduced the covariance of image signal intensities of the total brain and gray matter images (P < 0.01). Correction is larger when the effects of beam hardening and radiation scatter are larger, resulting in improved segmentation.",
+    "title": "Automated Segmentation of Head Computed Tomography Images Using FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a49f0>"
+}{
+    "abstract": "MRI-based hippocampus volume is a core clinical biomarker for identification of Alzheimer's disease (AD).\nTo assess robustness of automatic hippocampus volumetry with the freely available FSL-FIRST software with respect to short-term repeat and across field strength imaging. FSL-FIRST hippocampus volume (FIRST-HV) was also evaluated as enrichment biomarker for mild cognitive impairment (MCI) trials.\nRobustness of FIRST-HV was assessed in 51 healthy controls (HC), 74 MCI subjects, and 28 patients with AD dementia from ADNI1, each with two pairs of back-to-back scans, one at 1.5T one at 3T. Enrichment performance was tested in a second sample of 287 ADNI MCI subjects.\nFSL-FIRST worked properly in all four scans in 147 out of 153 subjects of the first sample (49 HC, 72 MCI, 26 AD). In these subjects, FIRST-HV did not differ between the first and the second scan within an imaging session, neither at 1.5T nor at 3T (p\u22650.302). FIRST-HV was on average 0.78% larger at 3T compared to 1.5T (p\u200a=\u200a0.012). The variance of the FIRST-HV difference was larger in the inter-field strength setting than in the intra-scanner settings (p\u200a<\u200a0.0005). Computer simulations suggested that the additional variability encountered in the inter-field strength scenario does not cause a relevant degradation of FIRST-HV's prognostic performance in MCI. FIRST-HV based enrichment resulted in considerably increased effect size of the 2-years change of cognitive measures.\nThe impact of intra-scanner test-retest and inter-field strength variability of FIRST-HV on clinical tasks is negligible. In addition, FIRST-HV is useful for enrichment in clinical MCI trials.",
+    "authors": [
+        {
+            "affiliation": "AXA Research Fund and UPMC Chair, Sorbonne Universit\u00e9s, Universit\u00e9 Pierre et Marie Curie (UPMC) Paris 06, Inserm, CNRS, Institut du Cerveau et de la Moelle \u00c9pini\u00e8re (ICM), D\u00e9partement de Neurologie, Institut de la M\u00e9moire et de la Maladie d'Alzheimer (IM2A), H\u00f4pital Piti\u00e9-Salp\u00eatri\u00e8re, Boulevard de l'h\u00f4pital, F-75013, Paris, France.\nIRCCS Centro San Giovanni di Dio, Brescia, Italy.",
+            "firstname": "Enrica",
+            "initials": "E",
+            "lastname": "Cavedo"
+        },
+        {
+            "affiliation": "Department of Nuclear Medicine, Charit\u00e9- Universit\u00e4tsmedizin Berlin, Berlin, Germany.\nJung diagnostics GmbH, Hamburg, Germany.",
+            "firstname": "Per",
+            "initials": "P",
+            "lastname": "Suppa"
+        },
+        {
+            "affiliation": "Department of Nuclear Medicine, Charit\u00e9- Universit\u00e4tsmedizin Berlin, Berlin, Germany.",
+            "firstname": "Catharina",
+            "initials": "C",
+            "lastname": "Lange"
+        },
+        {
+            "affiliation": "Jung diagnostics GmbH, Hamburg, Germany.",
+            "firstname": "Roland",
+            "initials": "R",
+            "lastname": "Opfer"
+        },
+        {
+            "affiliation": "AXA Research Fund and UPMC Chair, Sorbonne Universit\u00e9s, Universit\u00e9 Pierre et Marie Curie (UPMC) Paris 06, Inserm, CNRS, Institut du Cerveau et de la Moelle \u00c9pini\u00e8re (ICM), D\u00e9partement de Neurologie, Institut de la M\u00e9moire et de la Maladie d'Alzheimer (IM2A), H\u00f4pital Piti\u00e9-Salp\u00eatri\u00e8re, Boulevard de l'h\u00f4pital, F-75013, Paris, France.",
+            "firstname": "Simone",
+            "initials": "S",
+            "lastname": "Lista"
+        },
+        {
+            "affiliation": "IRCCS Centro San Giovanni di Dio, Brescia, Italy.",
+            "firstname": "Samantha",
+            "initials": "S",
+            "lastname": "Galluzzi"
+        },
+        {
+            "affiliation": "Eli Lilly and Company, Indianapolis, IN, USA.",
+            "firstname": "Adam J",
+            "initials": "AJ",
+            "lastname": "Schwarz"
+        },
+        {
+            "affiliation": "Jung diagnostics GmbH, Hamburg, Germany.",
+            "firstname": "Lothar",
+            "initials": "L",
+            "lastname": "Spies"
+        },
+        {
+            "affiliation": "Department of Nuclear Medicine, Charit\u00e9- Universit\u00e4tsmedizin Berlin, Berlin, Germany.\nDepartment of Radiology and Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
+            "firstname": "Ralph",
+            "initials": "R",
+            "lastname": "Buchert"
+        },
+        {
+            "affiliation": "AXA Research Fund and UPMC Chair, Sorbonne Universit\u00e9s, Universit\u00e9 Pierre et Marie Curie (UPMC) Paris 06, Inserm, CNRS, Institut du Cerveau et de la Moelle \u00c9pini\u00e8re (ICM), D\u00e9partement de Neurologie, Institut de la M\u00e9moire et de la Maladie d'Alzheimer (IM2A), H\u00f4pital Piti\u00e9-Salp\u00eatri\u00e8re, Boulevard de l'h\u00f4pital, F-75013, Paris, France.",
+            "firstname": "Harald",
+            "initials": "H",
+            "lastname": "Hampel"
+        },
+        {
+            "affiliation": null,
+            "firstname": null,
+            "initials": null,
+            "lastname": null
+        },
+        {
+            "affiliation": null,
+            "firstname": null,
+            "initials": null,
+            "lastname": null
+        }
+    ],
+    "conclusions": "The impact of intra-scanner test-retest and inter-field strength variability of FIRST-HV on clinical tasks is negligible. In addition, FIRST-HV is useful for enrichment in clinical MCI trials.",
+    "copyrights": null,
+    "doi": "10.3233/JAD-161108",
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "keywords": [
+        "Alzheimer\u2019s disease",
+        "FSL-FIRST",
+        "clinical trials",
+        "hippocampus",
+        "mild cognitive impairment",
+        "reproducibility",
+        "test/retest"
+    ],
+    "methods": null,
+    "publication_date": "2017-08-05",
+    "pubmed_id": "28777748",
+    "results": "FSL-FIRST worked properly in all four scans in 147 out of 153 subjects of the first sample (49 HC, 72 MCI, 26 AD). In these subjects, FIRST-HV did not differ between the first and the second scan within an imaging session, neither at 1.5T nor at 3T (p\u22650.302). FIRST-HV was on average 0.78% larger at 3T compared to 1.5T (p\u200a=\u200a0.012). The variance of the FIRST-HV difference was larger in the inter-field strength setting than in the intra-scanner settings (p\u200a<\u200a0.0005). Computer simulations suggested that the additional variability encountered in the inter-field strength scenario does not cause a relevant degradation of FIRST-HV's prognostic performance in MCI. FIRST-HV based enrichment resulted in considerably increased effect size of the 2-years change of cognitive measures.",
+    "title": "Fully Automatic MRI-Based Hippocampus Volumetry Using FSL-FIRST: Intra-Scanner Test-Retest Stability, Inter-Field Strength Variability, and Performance as Enrichment Biomarker for Clinical Trials Using Prodromal Target Populations at Risk for Alzheimer's Disease.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5eaa020>"
+}{
+    "abstract": "Although several methods have been developed to automatically delineate subcortical gray matter structures from MR images, the accuracy of these algorithms has not been comprehensively examined. Most of earlier studies focused primarily on the hippocampus. Here, we assessed the accuracy of two widely used non-commercial programs (FSL-FIRST and Freesurfer) for segmenting the caudate and putamen. T1-weighted 1\u2009mm",
+    "authors": [
+        {
+            "affiliation": "MTA-PTE Clinical Neuroscience MR Research Group, Pecs, 7623, Hungary.\nPecs Diagnostic Centre, Pecs, 7623, Hungary.\nDepartment of Neurosurgery, University of Pecs, Medical School, Pecs, 7623, Hungary.",
+            "firstname": "Gabor",
+            "initials": "G",
+            "lastname": "Perlaki"
+        },
+        {
+            "affiliation": "Department of Neurology, University of Pecs, Medical School, Pecs, 7623, Hungary.",
+            "firstname": "Reka",
+            "initials": "R",
+            "lastname": "Horvath"
+        },
+        {
+            "affiliation": "Pecs Diagnostic Centre, Pecs, 7623, Hungary.\nMTA-PTE Neurobiology of Stress Research Group, Pecs, 7624, Hungary.",
+            "firstname": "Szilvia Anett",
+            "initials": "SA",
+            "lastname": "Nagy"
+        },
+        {
+            "affiliation": "Department of Radiology, University of Pecs, Medical School, Pecs, 7624, Hungary.",
+            "firstname": "Peter",
+            "initials": "P",
+            "lastname": "Bogner"
+        },
+        {
+            "affiliation": "MTA-PTE Clinical Neuroscience MR Research Group, Pecs, 7623, Hungary.\nPecs Diagnostic Centre, Pecs, 7623, Hungary.\nDepartment of Neurosurgery, University of Pecs, Medical School, Pecs, 7623, Hungary.",
+            "firstname": "Tamas",
+            "initials": "T",
+            "lastname": "Doczi"
+        },
+        {
+            "affiliation": "MTA-PTE Clinical Neuroscience MR Research Group, Pecs, 7623, Hungary.\nDepartment of Neurology, University of Pecs, Medical School, Pecs, 7623, Hungary.\nCentre for Neuroscience, University of P\u00e9cs, P\u00e9cs, 7623, Hungary.",
+            "firstname": "Jozsef",
+            "initials": "J",
+            "lastname": "Janszky"
+        },
+        {
+            "affiliation": "MTA-PTE Clinical Neuroscience MR Research Group, Pecs, 7623, Hungary. gergo.orsi@gmail.com.\nPecs Diagnostic Centre, Pecs, 7623, Hungary. gergo.orsi@gmail.com.\nDepartment of Neurosurgery, University of Pecs, Medical School, Pecs, 7623, Hungary. gergo.orsi@gmail.com.",
+            "firstname": "Gergely",
+            "initials": "G",
+            "lastname": "Orsi"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1038/s41598-017-02584-5\n10.1007/s11682-011-9131-6\n10.1007/s11682-011-9119-2\n10.1002/jmri.23910\n10.1016/j.neuroimage.2012.06.043\n10.1016/j.neuroimage.2009.01.036\n10.1093/scan/nsr027\n10.1179/1476830514Y.0000000109\n10.1111/j.1528-1167.2008.01679.x\n10.1016/j.neuroimage.2009.10.056\n10.1148/radiol.12112638\n10.1007/s00234-008-0383-9\n10.1017/S0033291715000707\n10.1007/s00234-010-0830-2\n10.1002/mds.26306\n10.1016/j.parkreldis.2016.06.001\n10.1016/j.yebeh.2016.04.019\n10.1002/hbm.22473\n10.1371/journal.pone.0005265\n10.1016/j.neuroimage.2011.02.046\n10.1016/S0896-6273(02)00569-X\n10.1016/j.neuroimage.2010.12.071\n10.1002/jmri.22473\n10.1002/jmri.24966\n10.1016/j.neuroimage.2008.12.033\n10.1111/j.1528-1167.2009.02243.x\n10.1016/j.neuroimage.2014.01.058\n10.1016/j.neurobiolaging.2013.05.017\n10.1016/S0140-6736(07)60111-1\n10.1192/bjp.bp.108.055046\n10.1093/brain/awn278\n10.1016/j.ejrad.2013.03.012\n10.1016/j.jns.2012.01.032\n10.1111/j.1600-0447.2011.01786.x\n10.1016/j.jpsychires.2015.06.002\n10.1016/0925-4927(95)02729-H\n10.1002/hbm.22068\n10.1016/j.neuroimage.2010.03.033\n10.1016/j.neuroimage.2011.06.080\n10.1371/journal.pone.0038234\n10.1016/j.neuroimage.2004.07.016",
+    "journal": "Scientific reports",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2017-05-27",
+    "pubmed_id": "28546533\n21717131\n21523563\n23150470\n11498423\n22750568\n19457386\n21551226\n24524629\n18503555\n19874902\n22723496\n18414838\n25936409\n21212942\n26230515\n27290659\n27232377\n24532539\n19370155\n21352927\n11832223\n21195778\n21563239\n26140584\n19162198\n19682030\n24521851\n23820588\n17240289\n19880927\n19022861\n23664648\n22349356\n22118249\n26228406\n8748466\n22815187\n20338250\n21835253\n22675527\n15501102\n20162602",
+    "results": null,
+    "title": "Comparison of accuracy between FSL's FIRST and Freesurfer for caudate nucleus and putamen segmentation.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5f0a700>"
+}{
+    "abstract": "Accurate and robust segmentation of subcortical gray matter (SGM) nuclei is required in many neuroimaging applications. FMRIB's Integrated Registration and Segmentation Tool (FIRST) is one of the most popular software tools for automated subcortical segmentation based on T",
+    "authors": [
+        {
+            "affiliation": "Medical Physics Group, Institute of Diagnostic and Interventional Radiology, Jena University Hospital - Friedrich Schiller University Jena, Jena, Germany. Electronic address: xiang.feng@med.uni-jena.de.",
+            "firstname": "Xiang",
+            "initials": "X",
+            "lastname": "Feng"
+        },
+        {
+            "affiliation": "Medical Physics Group, Institute of Diagnostic and Interventional Radiology, Jena University Hospital - Friedrich Schiller University Jena, Jena, Germany; Section of Experimental Neurology, Department of Neurology, Essen University Hospital, Essen, Germany; Erwin L. Hahn Institute for Magnetic Resonance Imaging, University Duisburg-Essen, Essen, Germany.",
+            "firstname": "Andreas",
+            "initials": "A",
+            "lastname": "Deistung"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Dept. of Neurology, Jacobs School of Medicine and Biomedical Sciences, State University of New York at Buffalo, Buffalo, NY, United States.",
+            "firstname": "Michael G",
+            "initials": "MG",
+            "lastname": "Dwyer"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Dept. of Neurology, Jacobs School of Medicine and Biomedical Sciences, State University of New York at Buffalo, Buffalo, NY, United States.",
+            "firstname": "Jesper",
+            "initials": "J",
+            "lastname": "Hagemeier"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Dept. of Neurology, Jacobs School of Medicine and Biomedical Sciences, State University of New York at Buffalo, Buffalo, NY, United States.",
+            "firstname": "Paul",
+            "initials": "P",
+            "lastname": "Polak"
+        },
+        {
+            "affiliation": "UNATI, CEA DRF/I2BM, INSERM, Universit\u00e9 Paris-Sud, Universit\u00e9 Paris-Saclay, NeuroSpin Center, Gif/Yvette, France.",
+            "firstname": "Jessica",
+            "initials": "J",
+            "lastname": "Lebenberg"
+        },
+        {
+            "affiliation": "Inserm/CEA/Universit\u00e9 Paris Sud/CNRS, CEA/I2BM/SHFJ, Laboratoire IMIV, Orsay, France.",
+            "firstname": "Fr\u00e9d\u00e9rique",
+            "initials": "F",
+            "lastname": "Frouin"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Dept. of Neurology, Jacobs School of Medicine and Biomedical Sciences, State University of New York at Buffalo, Buffalo, NY, United States; MRI Molecular and Translational Imaging Center, Buffalo CTRC, State University of New York at Buffalo, Buffalo, NY, United States.",
+            "firstname": "Robert",
+            "initials": "R",
+            "lastname": "Zivadinov"
+        },
+        {
+            "affiliation": "Medical Physics Group, Institute of Diagnostic and Interventional Radiology, Jena University Hospital - Friedrich Schiller University Jena, Jena, Germany; Center of Medical Optics and Photonics, Friedrich Schiller University Jena, Germany; Michael Stifel Center for Data-driven and Simulation Science Jena, Friedrich Schiller University Jena, Germany.",
+            "firstname": "J\u00fcrgen R",
+            "initials": "JR",
+            "lastname": "Reichenbach"
+        },
+        {
+            "affiliation": "Buffalo Neuroimaging Analysis Center, Dept. of Neurology, Jacobs School of Medicine and Biomedical Sciences, State University of New York at Buffalo, Buffalo, NY, United States; MRI Molecular and Translational Imaging Center, Buffalo CTRC, State University of New York at Buffalo, Buffalo, NY, United States.",
+            "firstname": "Ferdinand",
+            "initials": "F",
+            "lastname": "Schweser"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2017 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.mri.2017.02.002",
+    "journal": "Magnetic resonance imaging",
+    "keywords": [
+        "Brain",
+        "FIRST",
+        "MRI",
+        "Quantitative susceptibility mapping",
+        "Segmentation",
+        "Subcortical gray matter"
+    ],
+    "methods": null,
+    "publication_date": "2017-02-12",
+    "pubmed_id": "28188873\n11832223\n15501102\n21352927\n24567717\n22846656\n23721902\n23300797\n23533539\n22563322\n21820063\n22360313\n26923010\n20162602\n22815187\n16178017\n10563615\n14981176\n24179861\n9343592\n20656036\n25610766\n11805245\n12135961\n16426992\n20483380\n21224002\n23036448\n26702760\n27434134\n25267705\n24938830\n12482100\n20378467\n2266841\n18096412\n17846656\n21040794\n21671269\n22659482\n11293691\n9344825\n20851191\n19195496\n15376593\n22167532\n22665506\n23769915\n25784852\n22863654\n25980643\n26477650\n24038837\n26216277\n15971174\n25270052",
+    "results": null,
+    "title": "An improved FSL-FIRST pipeline for subcortical gray matter segmentation to study abnormal brain anatomy using quantitative susceptibility mapping (QSM).",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e9ab60>"
+}{
+    "abstract": "The effect of T1 signal on FSL voxel-based morphometry modulated GM density and FreeSurfer cortical thickness is explored. The techniques rely on different analyses, but both are commonly used to detect spatial changes in GM. Standard pipelines show FSL voxel-based morphometry is sensitive to T1 signal alterations within a physiologic range, and results can appear discordant between FSL voxel-based morphometry and FreeSurfer cortical thickness. Care should be taken in extrapolating results to the effect on brain volume.",
+    "authors": [
+        {
+            "affiliation": "From the Center for Advanced Imaging Innovation and Research (CAI2R), Department of Radiology, and Bernard and Irene Schwartz Center for Biomedical Imaging, Department of Radiology, New York University School of Medicine, New York, New York.",
+            "firstname": "S",
+            "initials": "S",
+            "lastname": "Chung"
+        },
+        {
+            "affiliation": "From the Center for Advanced Imaging Innovation and Research (CAI2R), Department of Radiology, and Bernard and Irene Schwartz Center for Biomedical Imaging, Department of Radiology, New York University School of Medicine, New York, New York.",
+            "firstname": "X",
+            "initials": "X",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "From the Center for Advanced Imaging Innovation and Research (CAI2R), Department of Radiology, and Bernard and Irene Schwartz Center for Biomedical Imaging, Department of Radiology, New York University School of Medicine, New York, New York. yvonne.lui@nyumc.org.",
+            "firstname": "Y W",
+            "initials": "YW",
+            "lastname": "Lui"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2017 by American Journal of Neuroradiology.",
+    "doi": "10.3174/ajnr.A5053\n10.1006/nimg.2001.0786\n10.1006/nimg.1998.0395\n10.1016/j.neuroimage.2009.06.043\n10.1016/j.neuroimage.2009.12.028\n10.1023/A:1007963824710\n10.1002/hbm.21339\n10.1148/radiol.13122542",
+    "journal": "AJNR. American journal of neuroradiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2016-12-31",
+    "pubmed_id": "28034997\n11525331\n9931268\n19559801\n20006715\n21769992\n23481161",
+    "results": null,
+    "title": "Influence of T1-Weighted Signal Intensity on FSL Voxel-Based Morphometry and FreeSurfer Cortical Thickness.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ee51c0>"
+}

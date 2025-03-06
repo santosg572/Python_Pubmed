@@ -1,0 +1,27 @@
+{
+    "abstract": "This article describes a hybrid method to threshold functional magnetic resonance imaging (FMRI) group statistical maps derived from voxel-wise second-level statistical analyses. The proposed \"Equitable Thresholding and Clustering\" (ETAC) approach seeks to reduce the dependence of clustering results on arbitrary parameter values by using multiple subtests, each equivalent to a standard FMRI clustering analysis, to make decisions about which groups of voxels are potentially significant. The union of these subtest results decides which voxels are accepted. The approach adjusts the cluster-thresholding parameter of each subtest in an equitable way, so that the individual false-positive rates (FPRs) are balanced across subtests to achieve a desired final FPR (e.g., 5%). ETAC utilizes resampling methods to estimate the FPR and thus does not rely on parametric assumptions about the spatial correlation of FMRI noise. The approach was validated with pseudotask timings in resting-state brain data. In addition, a task FMRI data collection was used to compare ETACs true positive detection power versus a standard cluster detection method, demonstrating that ETAC is able to detect true results and control false positives while reducing reliance on arbitrary analysis parameters.",
+    "authors": [
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, Bethesda, Maryland.",
+            "firstname": "Robert W",
+            "initials": "RW",
+            "lastname": "Cox"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1089/brain.2019.0666",
+    "journal": "Brain connectivity",
+    "keywords": [
+        "FMRI",
+        "clustering",
+        "false-positive rates",
+        "group analysis"
+    ],
+    "methods": null,
+    "publication_date": "2019-05-23",
+    "pubmed_id": "31115252\n20176931\n23376789\n8812068\n28420798\n28398812\n27357684\n29091338\n24578041\n27922632\n18805493",
+    "results": null,
+    "title": "Equitable Thresholding and Clustering: A Novel Method for Functional Magnetic Resonance Imaging Clustering in AFNI.",
+    "xml": "<Element 'PubmedArticle' at 0x7dcbe74ebe20>"
+}

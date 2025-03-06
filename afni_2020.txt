@@ -1,0 +1,55 @@
+{
+    "abstract": "Knowing the difference between left and right is generally assumed throughout the brain MRI research community. However, we note widespread occurrences of left-right orientation errors in MRI open database repositories where volumes have contained systematic left-right flips between subject EPIs and anatomicals, due to having incorrect or missing file header information. Here we present a simple method in AFNI for determining the consistency of left and right within a pair of acquired volumes for a particular subject; the presence of EPI-anatomical inconsistency, for example, is a sign that dataset header information likely requires correction. The method contains both a quantitative evaluation as well as a visualizable verification. We test the functionality using publicly available datasets. Left-right flipping is not immediately obvious in most cases, so we also present visualization methods for looking at this problem (and other potential problems), using examples from both FMRI and DTI datasets.",
+    "authors": [
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH/NIH/DHHS, Bethesda, MD, United States.",
+            "firstname": "Daniel R",
+            "initials": "DR",
+            "lastname": "Glen"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH/NIH/DHHS, Bethesda, MD, United States.",
+            "firstname": "Paul A",
+            "initials": "PA",
+            "lastname": "Taylor"
+        },
+        {
+            "affiliation": "Rotman Research Institute at Baycrest, Toronto, ON, Canada.\nDepartment of Psychology, University of Toronto, Toronto, ON, Canada.",
+            "firstname": "Bradley R",
+            "initials": "BR",
+            "lastname": "Buchsbaum"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH/NIH/DHHS, Bethesda, MD, United States.",
+            "firstname": "Robert W",
+            "initials": "RW",
+            "lastname": "Cox"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, NIMH/NIH/DHHS, Bethesda, MD, United States.",
+            "firstname": "Richard C",
+            "initials": "RC",
+            "lastname": "Reynolds"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2020 Glen, Taylor, Buchsbaum, Cox and Reynolds.",
+    "doi": "10.3389/fninf.2020.00018\n10.1016/j.jopan.2005.02.001\n10.1006/cbmr.1996.0014\n10.1038/mp.2013.78\n10.1177/2058460118794727\n10.1016/j.neuroimage.2012.10.076\n10.1038/sdata.2016.44\n10.1007/s10278-014-9738-4\n10.1016/j.neuron.2018.08.039\n10.3389/fninf.2013.00012\n10.1016/j.neuroimage.2008.09.037\n10.2214/AJR.08.1778\n10.1038/nrn1009",
+    "journal": "Frontiers in neuroinformatics",
+    "keywords": [
+        "DICOM",
+        "DTI",
+        "EPI (echo planar imaging)",
+        "Nifti",
+        "T1-weighted brain image",
+        "asymmetry",
+        "fMRI",
+        "symmetry"
+    ],
+    "methods": null,
+    "publication_date": "2020-06-13",
+    "pubmed_id": "32528270\n12691358\n20176931\n8812068\n23774715\n30181912\n23128074\n27326542\n25273506\n30269990\n23847528\n18976717\n19380530\n12511860",
+    "results": null,
+    "title": "Beware (Surprisingly Common) Left-Right Flips in Your MRI Data: An Efficient and Robust Method to Check MRI Dataset Consistency Using AFNI.",
+    "xml": "<Element 'PubmedArticle' at 0x7dcbe74ba480>"
+}

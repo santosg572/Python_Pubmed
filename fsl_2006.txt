@@ -1,0 +1,349 @@
+{
+    "abstract": "A significant amount of evidence has been accumulated to show that Toll-like receptors (TLRs) function as sensors for microbial invasion. However, little is known about how signalling triggered by TLRs leads to the phagocytosis of pathogens. This study was designed to determine whether stimulation of TLR2 mainly with the lipopeptide FSL-1 plays a role in the phagocytosis of pathogens by macrophages. FSL-1 enhanced the phagocytosis of Escherichia coli to a markedly greater extent than it did that of Staphylococcus aureus, but did not enhance the phagocytosis of latex beads. FSL-1 stimulation resulted in enhanced phagocytosis of bacteria by macrophages from TLR2(+/+) mice but not by those from TLR2(-/-) mice. Chinese hamster ovary cells stably expressing TLR2 failed to phagocytose these bacteria, but the cells expressing CD14 did. FSL-1 induced upregulation of the expression of phagocytic receptors, including MSR1, CD36, DC-SIGN and Dectin-1 in THP-1 cells. Human embryonic kidney 293 cells transfected with DC-SIGN and MSR1 phagocytosed these bacteria. These results suggest that the FSL-1-induced enhancement of phagocytosis of bacteria by macrophages may be explained partly by the upregulation of scavenger receptors and the C-type lectins through TLR2-mediated signalling pathways, and that TLR2 by itself does not function as a phagocytic receptor.",
+    "authors": [
+        {
+            "affiliation": "Laboratory of Oral Molecular Microbiology, Department of Oral Pathobiological Science, Hokkaido University Graduate School of Dental Medicine, Kita, Sapporo, Japan.",
+            "firstname": "Masako",
+            "initials": "M",
+            "lastname": "Mae"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mitsuhiro",
+            "initials": "M",
+            "lastname": "Iyori"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Motoaki",
+            "initials": "M",
+            "lastname": "Yasuda"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Haque Mohammad",
+            "initials": "HM",
+            "lastname": "Shamsul"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hideo",
+            "initials": "H",
+            "lastname": "Kataoka"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kazuto",
+            "initials": "K",
+            "lastname": "Kiura"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Akira",
+            "initials": "A",
+            "lastname": "Hasebe"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Yasunori",
+            "initials": "Y",
+            "lastname": "Totsuka"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ken-Ichiro",
+            "initials": "K",
+            "lastname": "Shibata"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1111/j.1574-695X.2007.00218.x",
+    "journal": "FEMS immunology and medical microbiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2007-02-24",
+    "pubmed_id": "17316370",
+    "results": null,
+    "title": "The diacylated lipopeptide FSL-1 enhances phagocytosis of bacteria by macrophages through a Toll-like receptor 2-mediated signalling pathway.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6047740>"
+}{
+    "abstract": "The diacylated lipopeptide FSL-1 enhanced the generation of IgG antibodies in TLR2(+/+) mice, but not in TLR2(-/-) mice, when administered together with hen egg lysozyme as an antigen. Escherichia coli lipopolysaccharide enhanced the generation of antigen-specific antibodies in both TLR2(-/-) and TLR2(+/+) mice. In TLR2(+/+) mice, the level of enhancement due to FSL-1 was similar to that caused by lipopolysaccharide. Analysis of the IgG antibodies subclass demonstrated that the level of Th2-type IgG1 antibodies was higher than that of Th1-type IgG2a antibodies. Both FSL-1 and lipopolysaccharide induced production of IL-10 and IL-6 by splenocytes from TLR2(+/+) mice. Lipopolysaccharide also induced production of these cytokines by splenocytes from TLR2(-/-) mice, but FSL-1 did not. Neither FSL-1 nor lipopolysaccharide induced IL-12p70 production by splenocytes from either type of mice. FSL-1 upregulated B7.2 expression in B220(+) cells from TLR2(+/+) mice but not those from TLR2(-/-) mice, whereas lipopolysaccharide upregulated B7.2 expression in B220(+) cells from both types of mice. FSL-1 and, to a lesser extent, lipopolysaccharide activated mitogen-activated protein kinases in splenocytes. FSL-1 and, to a lesser extent, lipopolysaccharide induced the expression of c-Fos, which is known to be involved in Th2-type responses, in splenocytes. Thus, this study demonstrated that FSL-1 possessed TLR2-mediated Th2-type responses in vivo.",
+    "authors": [
+        {
+            "affiliation": "Department of Oral Pathobiological Science, Hokkaido University Graduate School of Dental Medicine, Sapporo, Japan.",
+            "firstname": "Kazuto",
+            "initials": "K",
+            "lastname": "Kiura"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hideo",
+            "initials": "H",
+            "lastname": "Kataoka"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Motoaki",
+            "initials": "M",
+            "lastname": "Yasuda"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Nobuo",
+            "initials": "N",
+            "lastname": "Inoue"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ken-ichiro",
+            "initials": "K",
+            "lastname": "Shibata"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1111/j.1574-695X.2006.00119.x",
+    "journal": "FEMS immunology and medical microbiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2006-09-13",
+    "pubmed_id": "16965351",
+    "results": null,
+    "title": "The diacylated lipopeptide FSL-1 induces TLR2-mediated Th2 responses.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60771f0>"
+}{
+    "abstract": "This article presents results obtained from applying various tools from FSL (FMRIB Software Library) to data from the repetition priming experiment used for the HBM'05 Functional Image Analysis Contest. We present analyses from the model-based General Linear Model (GLM) tool (FEAT) and from the model-free independent component analysis tool (MELODIC). We also discuss the application of tools for the correction of image distortions prior to the statistical analysis and the utility of recent advances in functional magnetic resonance imaging (FMRI) time series modeling and inference such as the use of optimal constrained HRF basis function modeling and mixture modeling inference. The combination of hemodynamic response function (HRF) and mixture modeling, in particular, revealed that both sentence content and speaker voice priming effects occurred bilaterally along the length of the superior temporal sulcus (STS). These results suggest that both are processed in a single underlying system without any significant asymmetries for content vs. voice processing.",
+    "authors": [
+        {
+            "affiliation": "Oxford Centre for Functional Magnetic Resonance Imaging of the Brain (FMRIB), University of Oxford, Oxford, UK. beckmann@fmrib.ox.ac.uk",
+            "firstname": "Christian F",
+            "initials": "CF",
+            "lastname": "Beckmann"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mark",
+            "initials": "M",
+            "lastname": "Jenkinson"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mark W",
+            "initials": "MW",
+            "lastname": "Woolrich"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Timothy E J",
+            "initials": "TE",
+            "lastname": "Behrens"
+        },
+        {
+            "affiliation": null,
+            "firstname": "David E",
+            "initials": "DE",
+            "lastname": "Flitney"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Joseph T",
+            "initials": "JT",
+            "lastname": "Devlin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Stephen M",
+            "initials": "SM",
+            "lastname": "Smith"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1002/hbm.20246",
+    "journal": "Human brain mapping",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2006-03-28",
+    "pubmed_id": "16565953\n14964560\n15734364\n14568475\n16087444\n14600506\n10659849\n15601518\n12690058\n11426233\n16565949\n8942962\n10860788\n9882086\n11584306\n12509838\n12377157\n7674900\n9673671\n10329291\n12391568\n15501092\n15654698\n11967545\n11707093\n15050594\n15050595\n15638182\n1400644",
+    "results": null,
+    "title": "Applying FSL to the FIAC data: model-based and model-free analysis of voice and sentence repetition priming.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6074860>"
+}{
+    "abstract": "Granulocyte-macrophage colony-stimulating factor-differentiated bone marrow-derived dendritic cells were stimulated with the synthetic lipopeptide S-(2,3-bispalmitoyloxypropyl)-CGDPKHSPKSF (FSL-1) or the Escherichia coli lipopolysaccharide. FSL-1 induced the production of TNF-alpha and IL-12 by C57BL/6-derived bone marrow-derived dendritic cells but not by bone marrow-derived dendritic cells from Toll-like receptor 2-deficient (TLR2(-/-)) mice. Lipopolysaccharide induced the production of TNF-alpha and IL-12 by bone marrow-derived dendritic cells derived from either type of mice. FSL-1 did not induce production of IL-10 by bone marrow-derived dendritic cells from either type of mice, whereas lipopolysaccharide induced small amounts of IL-10 by bone marrow-derived dendritic cells from both types of mice. The upregulation by FSL-1 of the expression of CD80, CD86 and the MHC class II molecule IA(b) was dose- and time-dependent on the surfaces of C57BL/6-derived bone marrow-derived dendritic cells but not on the surface of TLR2(-/-)-derived bone marrow-derived dendritic cells. Lipopolysaccharide upregulated the expression of these molecules on the surfaces of bone marrow-derived dendritic cells from both types of mice. The expression of CD11c on the surfaces of C57BL/6-derived bone marrow-derived dendritic cells was upregulated by stimulation with both FSL-1 and lipopolysaccharide up to 12 h; thereafter, the expression was downregulated. The results suggest that FSL-1 can accelerate maturation of bone marrow-derived dendritic cells and this FSL-1 activity is mediated by TLR2.",
+    "authors": [
+        {
+            "affiliation": "Department of Oral Pathobiological Science, Hokkaido University Graduate School of Dental Medicine, Nidhi 7, Kita 13, Kita-ku, Sapporo 060-8586, Japan.",
+            "firstname": "Kazuto",
+            "initials": "K",
+            "lastname": "Kiura"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hideo",
+            "initials": "H",
+            "lastname": "Kataoka"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Takashi",
+            "initials": "T",
+            "lastname": "Nakata"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Takeshi",
+            "initials": "T",
+            "lastname": "Into"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Motoaki",
+            "initials": "M",
+            "lastname": "Yasuda"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Shizuo",
+            "initials": "S",
+            "lastname": "Akira"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Nobuo",
+            "initials": "N",
+            "lastname": "Inoue"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ken-ichiro",
+            "initials": "K",
+            "lastname": "Shibata"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1111/j.1574-695X.2005.00002.x",
+    "journal": "FEMS immunology and medical microbiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2006-01-20",
+    "pubmed_id": "16420600",
+    "results": null,
+    "title": "The synthetic analogue of mycoplasmal lipoprotein FSL-1 induces dendritic cell maturation through Toll-like receptor 2.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e605ec00>"
+}{
+    "abstract": "Animal models have been used in understanding the neuro-biological basis of depression and predicting successful treatment strategies. The current study focused on two genetic models of depression, the Flinder's Sensitive Line (FSL) and Wister-Kyoto (WKY). Our laboratory showed depressive symptomatology in pre-pubertal WKY and FSL rats, and the current study focused on the strains' anxiety-like traits. Since human depression-anxiety comorbidity is very common at young ages, it is essential to establish whether FSL and WKY pre-pubertal rats also exhibit such comorbidity. In addition, the effect of different rearing environments was studied using a mild chronic-stress condition (limiting available bedding between post-natal days 2-9). Two well-validated tests of anxiety, the open-field and elevated plus-maze, were used on 40-day-old pups. FSL pups exhibited lower anxiety-like behavior when compared to controls, in traditional open-field and plus-maze measures. A different pattern was observed in the WKY strain, which exhibited heightened anxiety-like behaviours in the FSL strain and affecting WKY's body-weight. Overall, the findings indicate differential expression of anxiety in pre-pubertal rats belonging to the 'depressed' strains, suggesting that these strains may be suitable for modelling different sub-groups of depression at young ages.",
+    "authors": [
+        {
+            "affiliation": "Department of Psychology, Gonda (Goldschmied) Multidisciplinary Brain Research Center, Bar-Ilan University, Ramat-Gan 52900, Israel.",
+            "firstname": "Y",
+            "initials": "Y",
+            "lastname": "Braw"
+        },
+        {
+            "affiliation": null,
+            "firstname": "O",
+            "initials": "O",
+            "lastname": "Malkesman"
+        },
+        {
+            "affiliation": null,
+            "firstname": "M",
+            "initials": "M",
+            "lastname": "Dagan"
+        },
+        {
+            "affiliation": null,
+            "firstname": "A",
+            "initials": "A",
+            "lastname": "Bercovich"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Y",
+            "initials": "Y",
+            "lastname": "Lavi-Avnon"
+        },
+        {
+            "affiliation": null,
+            "firstname": "M",
+            "initials": "M",
+            "lastname": "Schroeder"
+        },
+        {
+            "affiliation": null,
+            "firstname": "D H",
+            "initials": "DH",
+            "lastname": "Overstreet"
+        },
+        {
+            "affiliation": null,
+            "firstname": "A",
+            "initials": "A",
+            "lastname": "Weller"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.bbr.2005.09.013",
+    "journal": "Behavioural brain research",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2005-11-08",
+    "pubmed_id": "16271773",
+    "results": null,
+    "title": "Anxiety-like behaviors in pre-pubertal rats of the Flinders Sensitive Line (FSL) and Wistar-Kyoto (WKY) animal models of depression.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6094c70>"
+}{
+    "abstract": "Macrophage-activating lipopeptide-2 (MALP-2) from Mycoplasma fermentans has been identified as a pathogen-associated molecular pattern of Mycoplasmas that causes activation of the innate immune system through the activation of the heterodimeric Toll-like receptors (TLRs)-2 and -6. The aim of this study was to characterize the ability of MALP-2 and a synthetic analog fibroblast-stimulating lipopeptide-1 (FSL-1; represents the NH2-terminal sequence of a lipoprotein from M. salivarium) to act as exogenous pyrogens, to induce formation of cytokines (endogenous pyrogens), and to cause sickness behavior, such as depressed motor activity, anorexia, and adipsia. For this purpose, body temperature, activity, food intake, and water intake were recorded for 3 days by use of telemetry devices in several groups of rats treated with MALP-2/FSL-1 or the respective control solutions. Intraperitoneal injections of FSL-1 caused fever at doses of 10 or 100 microg/kg, which was preceded by a pronounced phase of hypothermia in response to a dose of 1,000 microg/kg. The maximal fever (a peak of 1.5 degrees C above baseline) was caused by the 100 microg/kg dose with almost identical responses to both MALP-2 and FSL-1. Fever was accompanied by pronounced rises of the proinflammatory cytokines TNF and IL-6 in plasma. Treatment with the TLR-2 and -6 agonists further induced a dose-dependent manifestation of anorexia and adipsia, as well as a reduction of motor activity. We could thus demonstrate that activation of TLR-2 and -6 can induce systemic inflammation in rats accompanied by the classical signs of brain-controlled illness responses.",
+    "authors": [
+        {
+            "affiliation": "Institut f\u00fcr Veterin\u00e4r-Physiologie, Justus-Liebig-Universit\u00e4t Giessen, Frankfurter Strasse 100, D-35392 Giessen, Germany. Thomas.Huebschle@vetmed.uni-giessen.de",
+            "firstname": "Thomas",
+            "initials": "T",
+            "lastname": "H\u00fcbschle"
+        },
+        {
+            "affiliation": null,
+            "firstname": "J\u00f6rg",
+            "initials": "J",
+            "lastname": "M\u00fctze"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Peter F",
+            "initials": "PF",
+            "lastname": "M\u00fchlradt"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Stefan",
+            "initials": "S",
+            "lastname": "Korte"
+        },
+        {
+            "affiliation": null,
+            "firstname": "R\u00fcdiger",
+            "initials": "R",
+            "lastname": "Gerstberger"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Joachim",
+            "initials": "J",
+            "lastname": "Roth"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1152/ajpregu.00579.2005",
+    "journal": "American journal of physiology. Regulatory, integrative and comparative physiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2005-09-13",
+    "pubmed_id": "16154916",
+    "results": null,
+    "title": "Pyrexia, anorexia, adipsia, and depressed motor activity in rats during systemic inflammation induced by the Toll-like receptors-2 and -6 agonists MALP-2 and FSL-1.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6097ec0>"
+}

@@ -1,0 +1,342 @@
+{
+    "abstract": "The demonstration that humans can learn to modulate their own brain activity based on feedback of neurophysiological signals opened up exciting opportunities for fundamental and applied neuroscience. Although EEG-based neurofeedback has been long employed both in experimental and clinical investigation, functional MRI (fMRI)-based neurofeedback emerged as a promising method, given its superior spatial resolution and ability to gauge deep cortical and subcortical brain regions. In combination with improved computational approaches, such as pattern recognition analysis (e.g., Support Vector Machines, SVM), fMRI neurofeedback and brain decoding represent key innovations in the field of neuromodulation and functional plasticity. Expansion in this field and its applications critically depend on the existence of freely available, integrated and user-friendly tools for the neuroimaging research community. Here, we introduce FRIEND, a graphic-oriented user-friendly interface package for fMRI neurofeedback and real-time multivoxel pattern decoding. The package integrates routines for image preprocessing in real-time, ROI-based feedback (single-ROI BOLD level and functional connectivity) and brain decoding-based feedback using SVM. FRIEND delivers an intuitive graphic interface with flexible processing pipelines involving optimized procedures embedding widely validated packages, such as FSL and libSVM. In addition, a user-defined visual neurofeedback module allows users to easily design and run fMRI neurofeedback experiments using ROI-based or multivariate classification approaches. FRIEND is open-source and free for non-commercial use. Processing tutorials and extensive documentation are available.",
+    "authors": [
+        {
+            "affiliation": "Cognitive and Behavioral Neuroscience Unit and Neuroinformatics Workgroup, D'Or Institute for Research and Education (IDOR), Rio de Janeiro, Brazil ; Center of Mathematics, Computation and Cognition, Universidade Federal do ABC, Santo Andr\u00e9, Brazil.",
+            "firstname": "Jo\u00e3o R",
+            "initials": "JR",
+            "lastname": "Sato"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Rodrigo",
+            "initials": "R",
+            "lastname": "Basilio"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Fernando F",
+            "initials": "FF",
+            "lastname": "Paiva"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Griselda J",
+            "initials": "GJ",
+            "lastname": "Garrido"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ivanei E",
+            "initials": "IE",
+            "lastname": "Bramati"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Patricia",
+            "initials": "P",
+            "lastname": "Bado"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Fernanda",
+            "initials": "F",
+            "lastname": "Tovar-Moll"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Roland",
+            "initials": "R",
+            "lastname": "Zahn"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jorge",
+            "initials": "J",
+            "lastname": "Moll"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1371/journal.pone.0081658\n10.1146/annurev.ps.29.020178.002105\n10.1016/S0074-7742(09)86008-X\n10.1007/s10804-005-7029-5\n10.1046/j.1528-1157.2001.22200.x\n10.1007/BF01712768\n10.1016/S1388-2457(02)00057-3\n10.1016/j.cub.2012.05.022\n10.1371/journal.pone.0027554\n10.1002/mrm.1910330213\n10.1073/pnas.0505210102\n10.1002/hbm.20326\n10.1097/00001756-200403010-00029\n10.1016/S1053-8119(03)00004-1\n10.1016/S1053-8119(03)00145-9\n10.1038/nature06713\n10.1126/science.1152876\n10.1016/j.neuron.2009.09.006\n10.1016/j.neuroimage.2010.06.052\n10.1016/j.neuroimage.2010.08.007\n10.1126/science.1212003\n10.1038/nrn2218\n10.1002/hbm.21427\n10.1016/j.neuroimage.2009.01.032\n10.1016/j.neuroimage.2012.03.016\n10.1016/j.neuroimage.2011.09.015\n10.1371/journal.pone.0024522\n10.1006/nimg.2002.1132\n10.1006/nimg.2001.0931\n10.1016/j.neuroimage.2005.06.070\n10.1016/j.neuroimage.2008.06.024\n10.1016/j.neuroimage.2007.01.018\n10.1016/j.neuroimage.2011.10.018\n10.1016/j.neuroimage.2006.02.004\n10.1177/1545968311418345\n10.1371/journal.pone.0038115\n10.1001/archgenpsychiatry.2012.135\n10.1016/j.cub.2006.11.072\n10.1016/j.neuron.2011.11.001\n10.1002/hbm.20569\n10.1038/nrn2414\n10.1016/j.neuroimage.2011.10.009",
+    "journal": "PloS one",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2013-12-07",
+    "pubmed_id": "24312569\n341785\n19607994\n11442161\n7786929\n12048038\n22748322\n22096594\n7707914\n16352728\n17133383\n15094517\n12667853\n12880789\n18322462\n18511683\n19778517\n20600972\n20692351\n22158821\n17704814\n22021045\n19457392\n22425670\n21979382\n21931738\n12377157\n11707093\n18252602\n16275139\n18644242\n17336094\n22019881\n16571375\n21903976\n22675513\n22638494\n17291759\n22153367\n18412113\n18714327\n22019880",
+    "results": null,
+    "title": "Real-time fMRI pattern decoding and neurofeedback using FRIEND: an FSL-integrated BCI toolbox.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e609b010>"
+}{
+    "abstract": "One-electron reductases that reduce nitro compounds in hypoxic human tumour cells are poorly characterized, but are important for targeting hypoxia with nitroaromatic prodrugs. Fluorogenic probes with defined reductase profiles are needed to interrogate the activity of these enzymes in intact cells. In the present paper, we report a 6-nitroquinolone ester (FSL-61) as a fluorogenic probe for POR (NADPH:cytochrome P450 oxidoreductase) activity under hypoxia, and demonstrate its suitability of monitoring POR by flow cytometry. Reduction of FSL-61 by purified recombinant human POR generated the corresponding hydroxylamine, which was non-fluorescent, but was reduced further to the fluorescent amine in cells. Hydrolysis of the ester side chain facilitated cellular entrapment, enabling detection of heterogeneous POR expression in mixed populations of cells. In addition to POR, forced expression of three other diflavin reductases [MTRR (methionine synthase reductase), NDOR1 (NADPH-dependent diflavin oxidoreductase 1) and NOS2A (nitric oxide synthase 2A)] or NADPH:adrenoredoxin oxidoreductase in HCT116 cells significantly increased hypoxic activation of FSL-61. This reductase profile is similar to that for the dinitrobenzamide prodrug PR-104A under hypoxia, and fluorogenic metabolism of FSL-61 correlated significantly with PR-104A activation in a panel of 22 human tumour cell lines. The present study thus demonstrates the utility of FSL-61 for rapid and non-destructive interrogation of the activity of one-electron reductases in hypoxic cells at the single-cell level.",
+    "authors": [
+        {
+            "affiliation": "Auckland Cancer Society Research Centre, Faculty of Medical and Health Sciences, University of Auckland, 2013 Auckland, New Zealand.",
+            "firstname": "Jiechuang",
+            "initials": "J",
+            "lastname": "Su"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Christopher P",
+            "initials": "CP",
+            "lastname": "Guise"
+        },
+        {
+            "affiliation": null,
+            "firstname": "William R",
+            "initials": "WR",
+            "lastname": "Wilson"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1042/BJ20121695",
+    "journal": "The Biochemical journal",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2013-03-14",
+    "pubmed_id": "23480813",
+    "results": null,
+    "title": "FSL-61 is a 6-nitroquinolone fluorogenic probe for one-electron reductases in hypoxic cells.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60462f0>"
+}{
+    "abstract": "TLR6 forms a heterodimer with TLR2 and TLR4. While proinflammatory roles of TLR2 and TLR4 are well documented, the role of TLR6 in inflammation is poorly understood. In order to understand mechanisms of action of TLR6 in inflammatory responses, we investigated the effects of FSL-1, the TLR6 ligand, on expression of chemokine CCL2 and cytokine IL-1\u03b2 and determined cellular factors involved in FSL-1-mediated expression of CCL2 and IL-1\u03b2 in mononuclear cells. Exposure of human monocytic leukemia THP-1 cells to FSL-1 resulted not only in enhanced secretion of CCL2 and IL-1\u03b2, but also profound induction of their gene transcripts. Expression of CCL2 was abrogated by treatment with OxPAPC, a TLR-2/4 inhibitor, while treatment with OxPAPC resulted in partially inhibited expression of IL-1\u03b2. Treatment with FSL-1 resulted in enhanced phosphorylation of Akt and mitogen-activated protein kinases and activation of protein kinase C. Treatment with pharmacological inhibitors, including SB202190, SP6001250, U0126, Akt inhibitor IV, LY294002, GF109203X, and RO318220 resulted in significantly attenuated FSL-1-mediated upregulation of CCL2 and IL-1\u03b2. Our results indicate that activation of TLR6 will trigger inflammatory responses by upregulating expression of CCL2 and IL-1\u03b2 via TLR-2/4, protein kinase C, PI3K-Akt, and mitogen-activated protein kinases.",
+    "authors": [
+        {
+            "affiliation": "Department of Pharmacology, School of Medicine, Pusan National University, Yangsan 626-870, Korea. ; Department of Neurosurgery, School of Medicine, Konkuk University, Chungju 380-704, Korea.",
+            "firstname": "Keunsoo",
+            "initials": "K",
+            "lastname": "Won"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Sun-Mi",
+            "initials": "SM",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Sae-A",
+            "initials": "SA",
+            "lastname": "Lee"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Byung-Yong",
+            "initials": "BY",
+            "lastname": "Rhim"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Seong-Kug",
+            "initials": "SK",
+            "lastname": "Eo"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Koanhoi",
+            "initials": "K",
+            "lastname": "Kim"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.4196/kjpp.2012.16.6.447",
+    "journal": "The Korean journal of physiology & pharmacology : official journal of the Korean Physiological Society and the Korean Society of Pharmacology",
+    "keywords": [
+        "Chemokine",
+        "FSL-1",
+        "Monocytes/macrophages",
+        "TLR6"
+    ],
+    "methods": null,
+    "publication_date": "2012-12-29",
+    "pubmed_id": "23271927\n10539867\n20937873\n16497588\n15249654\n16211093\n18056480\n20037584\n15661917\n12065499\n18669888\n15119830\n12362224\n1843454\n10079097\n2033251\n11983917\n12615675\n15353494\n19967052\n21884686\n17827709\n22783258\n9005852\n12094235\n12586735\n16410796\n21463602\n17117477\n15567069\n16959900\n16330529\n8904648",
+    "results": null,
+    "title": "Multiple Signaling Molecules are Involved in Expression of CCL2 and IL-1\u03b2 in Response to FSL-1, a Toll-Like Receptor 6 Agonist, in Macrophages.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6091df0>"
+}{
+    "abstract": "Brain atrophy studies often use FSL-BET (Brain Extraction Tool) as the first step of image processing. Default BET does not always give satisfactory results on 3DT1 MR images, which negatively impacts atrophy measurements. Finding the right alternative BET settings can be a difficult and time-consuming task, which can introduce unwanted variability.\nTo systematically analyze the performance of BET in images of MS patients by varying its parameters and options combinations, and quantitatively comparing its results to a manual gold standard.\nImages from 159 MS patients were selected from different MAGNIMS consortium centers, and 16 different 3DT1 acquisition protocols at 1.5 T or 3T. Before running BET, one of three pre-processing pipelines was applied: (1) no pre-processing, (2) removal of neck slices, or (3) additional N3 inhomogeneity correction. Then BET was applied, systematically varying the fractional intensity threshold (the \"f\" parameter) and with either one of the main BET options (\"B\" - bias field correction and neck cleanup, \"R\" - robust brain center estimation, or \"S\" - eye and optic nerve cleanup) or none. For comparison, intracranial cavity masks were manually created for all image volumes. FSL-FAST (FMRIB's Automated Segmentation Tool) tissue-type segmentation was run on all BET output images and on the image volumes masked with the manual intracranial cavity masks (thus creating the gold-standard tissue masks). The resulting brain tissue masks were quantitatively compared to the gold standard using Dice overlap coefficient (DOC). Normalized brain volumes (NBV) were calculated with SIENAX. NBV values obtained using for SIENAX other BET settings than default were compared to gold standard NBV with the paired t-test.\nThe parameter/preprocessing/options combinations resulted in 20,988 BET runs. The median DOC for default BET (f=0.5, g=0) was 0.913 (range 0.321-0.977) across all 159 native scans. For all acquisition protocols, brain extraction was substantially improved for lower values of \"f\" than the default value. Using native images, optimum BET performance was observed for f=0.2 with option \"B\", giving median DOC=0.979 (range 0.867-0.994). Using neck removal before BET, optimum BET performance was observed for f=0.1 with option \"B\", giving median DOC 0.983 (range 0.844-0.996). Using the above BET-options for SIENAX instead of default, the NBV values obtained from images after neck removal with f=0.1 and option \"B\" did not differ statistically from NBV values obtained with gold-standard.\nAlthough default BET performs reasonably well on most 3DT1 images of MS patients, the performance can be improved substantially. The removal of the neck slices, either externally or within BET, has a marked positive effect on the brain extraction quality. BET option \"B\" with f=0.1 after removal of the neck slices seems to work best for all acquisition protocols.",
+    "authors": [
+        {
+            "affiliation": "Department of Radiology, VU University Medical Center, Amsterdam, The Netherlands. v.popescu@vumc.nl",
+            "firstname": "V",
+            "initials": "V",
+            "lastname": "Popescu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "M",
+            "initials": "M",
+            "lastname": "Battaglini"
+        },
+        {
+            "affiliation": null,
+            "firstname": "W S",
+            "initials": "WS",
+            "lastname": "Hoogstrate"
+        },
+        {
+            "affiliation": null,
+            "firstname": "S C J",
+            "initials": "SC",
+            "lastname": "Verfaillie"
+        },
+        {
+            "affiliation": null,
+            "firstname": "I C",
+            "initials": "IC",
+            "lastname": "Sluimer"
+        },
+        {
+            "affiliation": null,
+            "firstname": "R A",
+            "initials": "RA",
+            "lastname": "van Schijndel"
+        },
+        {
+            "affiliation": null,
+            "firstname": "B W",
+            "initials": "BW",
+            "lastname": "van Dijk"
+        },
+        {
+            "affiliation": null,
+            "firstname": "K S",
+            "initials": "KS",
+            "lastname": "Cover"
+        },
+        {
+            "affiliation": null,
+            "firstname": "D L",
+            "initials": "DL",
+            "lastname": "Knol"
+        },
+        {
+            "affiliation": null,
+            "firstname": "M",
+            "initials": "M",
+            "lastname": "Jenkinson"
+        },
+        {
+            "affiliation": null,
+            "firstname": "F",
+            "initials": "F",
+            "lastname": "Barkhof"
+        },
+        {
+            "affiliation": null,
+            "firstname": "N",
+            "initials": "N",
+            "lastname": "de Stefano"
+        },
+        {
+            "affiliation": null,
+            "firstname": "H",
+            "initials": "H",
+            "lastname": "Vrenken"
+        },
+        {
+            "affiliation": null,
+            "firstname": null,
+            "initials": null,
+            "lastname": null
+        }
+    ],
+    "conclusions": "Although default BET performs reasonably well on most 3DT1 images of MS patients, the performance can be improved substantially. The removal of the neck slices, either externally or within BET, has a marked positive effect on the brain extraction quality. BET option \"B\" with f=0.1 after removal of the neck slices seems to work best for all acquisition protocols.",
+    "copyrights": "Copyright \u00a9 2012 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neuroimage.2012.03.074",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2012-04-10",
+    "pubmed_id": "22484407",
+    "results": "The parameter/preprocessing/options combinations resulted in 20,988 BET runs. The median DOC for default BET (f=0.5, g=0) was 0.913 (range 0.321-0.977) across all 159 native scans. For all acquisition protocols, brain extraction was substantially improved for lower values of \"f\" than the default value. Using native images, optimum BET performance was observed for f=0.2 with option \"B\", giving median DOC=0.979 (range 0.867-0.994). Using neck removal before BET, optimum BET performance was observed for f=0.1 with option \"B\", giving median DOC 0.983 (range 0.844-0.996). Using the above BET-options for SIENAX instead of default, the NBV values obtained from images after neck removal with f=0.1 and option \"B\" did not differ statistically from NBV values obtained with gold-standard.",
+    "title": "Optimizing parameter choice for FSL-Brain Extraction Tool (BET) on 3D T1 images in multiple sclerosis.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6096660>"
+}{
+    "abstract": "The bacterial genus Listeria contains both saprotrophic and facultative pathogenic species. A small genome size has been suggested to be associated with the loss of pathogenic potential of L. welshimeri and L. seeligeri. In this paper we present data on the genome of L. monocytogenes strain FSL J1-208, a representative of phylogenetic lineage IV. Although this strain was isolated from a clinical case in a caprine host and has no decreased invasiveness in human intestinal epithelial cells, our analyses show that this strain has one of the smallest Listeria chromosomes reported to date (2.78 Mb). The chromosome contains 2,772 protein-coding genes, including well-characterized virulence-associated genes, such as inlA, inlB, and inlC and the full prfA gene cluster. The small genome size is mainly caused by the absence of prophages in the genome of L. monocytogenes FSL J1-208, and further analyses showed that the total size of prophage-related regions is highly correlated to chromosome size in the genus Listeria. L. monocytogenes FSL J1-208 carries a unique type of plasmid of approximately 80 kbp that does not carry genes annotated as being involved in resistance to antibiotics or heavy metals. The accessory genes in this plasmid belong to the internalin family, a family of virulence-associated proteins, and therefore this is the first report of a potential virulence plasmid in the genus Listeria.",
+    "authors": [
+        {
+            "affiliation": "Cornell University, Department of Food Science, Ithaca, New York, USA. hcd5@cornell.edu",
+            "firstname": "Henk C",
+            "initials": "HC",
+            "lastname": "den Bakker"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Barbara M",
+            "initials": "BM",
+            "lastname": "Bowen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Lorraine D",
+            "initials": "LD",
+            "lastname": "Rodriguez-Rivera"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Martin",
+            "initials": "M",
+            "lastname": "Wiedmann"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1128/AEM.06969-11",
+    "journal": "Applied and environmental microbiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2012-01-17",
+    "pubmed_id": "22247147\n20435676\n18261238\n16788202\n17764999\n11829065\n15231754\n19451630\n10673425\n14503714\n20656873\n21126366\n15318951\n6323313\n11679669\n11322701\n15466521\n20525638\n16757050\n16936040\n11320113\n18372315\n12566566\n20824078\n19151094\n18238785\n9553802\n20552020\n11893328\n20577742\n16332872\n20453120\n19014550\n20144225\n2498876\n18397919\n20332804\n7496516\n17408741\n16514149\n219433\n11120685\n17339362\n19087207\n17406277\n16928733\n21602330\n20061480\n16754859\n16542435\n15262937\n18931295\n20501037\n10434977\n18349386",
+    "results": null,
+    "title": "FSL J1-208, a virulent uncommon phylogenetic lineage IV Listeria monocytogenes strain with a small chromosome size and a putative virulence plasmid carrying internalin-like genes.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6081760>"
+}{
+    "abstract": "FSL (the FMRIB Software Library) is a comprehensive library of analysis tools for functional, structural and diffusion MRI brain imaging data, written mainly by members of the Analysis Group, FMRIB, Oxford. For this NeuroImage special issue on \"20 years of fMRI\" we have been asked to write about the history, developments and current status of FSL. We also include some descriptions of parts of FSL that are not well covered in the existing literature. We hope that some of this content might be of interest to users of FSL, and also maybe to new research groups considering creating, releasing and supporting new software packages for brain image analysis.",
+    "authors": [
+        {
+            "affiliation": "FMRIB Centre, Nuffield Department of Clinical Neurosciences, University of Oxford, UK.",
+            "firstname": "Mark",
+            "initials": "M",
+            "lastname": "Jenkinson"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Christian F",
+            "initials": "CF",
+            "lastname": "Beckmann"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Timothy E J",
+            "initials": "TE",
+            "lastname": "Behrens"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mark W",
+            "initials": "MW",
+            "lastname": "Woolrich"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Stephen M",
+            "initials": "SM",
+            "lastname": "Smith"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2011 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neuroimage.2011.09.015",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2011-10-08",
+    "pubmed_id": "21979382",
+    "results": null,
+    "title": "FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a1ad0>"
+}

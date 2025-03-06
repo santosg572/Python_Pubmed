@@ -1,0 +1,748 @@
+{
+    "abstract": "The effect of T1 signal on FSL voxel-based morphometry modulated GM density and FreeSurfer cortical thickness is explored. The techniques rely on different analyses, but both are commonly used to detect spatial changes in GM. Standard pipelines show FSL voxel-based morphometry is sensitive to T1 signal alterations within a physiologic range, and results can appear discordant between FSL voxel-based morphometry and FreeSurfer cortical thickness. Care should be taken in extrapolating results to the effect on brain volume.",
+    "authors": [
+        {
+            "affiliation": "From the Center for Advanced Imaging Innovation and Research (CAI2R), Department of Radiology, and Bernard and Irene Schwartz Center for Biomedical Imaging, Department of Radiology, New York University School of Medicine, New York, New York.",
+            "firstname": "S",
+            "initials": "S",
+            "lastname": "Chung"
+        },
+        {
+            "affiliation": "From the Center for Advanced Imaging Innovation and Research (CAI2R), Department of Radiology, and Bernard and Irene Schwartz Center for Biomedical Imaging, Department of Radiology, New York University School of Medicine, New York, New York.",
+            "firstname": "X",
+            "initials": "X",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "From the Center for Advanced Imaging Innovation and Research (CAI2R), Department of Radiology, and Bernard and Irene Schwartz Center for Biomedical Imaging, Department of Radiology, New York University School of Medicine, New York, New York. yvonne.lui@nyumc.org.",
+            "firstname": "Y W",
+            "initials": "YW",
+            "lastname": "Lui"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2017 by American Journal of Neuroradiology.",
+    "doi": "10.3174/ajnr.A5053\n10.1006/nimg.2001.0786\n10.1006/nimg.1998.0395\n10.1016/j.neuroimage.2009.06.043\n10.1016/j.neuroimage.2009.12.028\n10.1023/A:1007963824710\n10.1002/hbm.21339\n10.1148/radiol.13122542",
+    "journal": "AJNR. American journal of neuroradiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2016-12-31",
+    "pubmed_id": "28034997\n11525331\n9931268\n19559801\n20006715\n21769992\n23481161",
+    "results": null,
+    "title": "Influence of T1-Weighted Signal Intensity on FSL Voxel-Based Morphometry and FreeSurfer Cortical Thickness.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6093e70>"
+}{
+    "abstract": "Accurate extraction of cardiac fiber orientation from diffusion tensor imaging is important for determining heart structure and function. However, the acquisition of magnetic resonance (MR) diffusion tensor images is costly and time consuming. By comparison, cardiac ultrasound imaging is rapid and relatively inexpensive, but it lacks the capability to directly measure fiber orientations. In order to create a detailed heart model from ultrasound data, a three-dimensional (3D) diffusion tensor imaging (DTI) with known fiber orientations can be registered to an ultrasound volume through a geometric mask. After registration, the cardiac orientations from the template DTI can be mapped to the heart using a deformable transformation field. This process depends heavily on accurate fiber orientation extraction from the DTI. In this study, we use the FMRIB Software Library (FSL) to determine cardiac fiber orientations in diffusion weighted images. For the registration between ultrasound and MRI volumes, we achieved an average Dice similarity coefficient (DSC) of 81.6\u00b12.1%. For the estimation of fiber orientations from the proposed method, we achieved an acute angle error (AAE) of 22.7\u00b13.1\u00b0 as compared to the direct measurements from DTI. This work provides a new approach to generate cardiac fiber orientation that may be used for many cardiac applications.",
+    "authors": [
+        {
+            "affiliation": "Department of Nuclear and Radiological Engineering, George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA.",
+            "firstname": "James",
+            "initials": "J",
+            "lastname": "Dormer"
+        },
+        {
+            "affiliation": "Department of Radiology and Imaging Sciences, Emory University, Atlanta, GA.",
+            "firstname": "Xulei",
+            "initials": "X",
+            "lastname": "Qin"
+        },
+        {
+            "affiliation": "Department of Pediatrics, Emory University, Atlanta, GA.",
+            "firstname": "Ming",
+            "initials": "M",
+            "lastname": "Shen"
+        },
+        {
+            "affiliation": "Yerkes National Primate Research Center, Emory University, Atlanta, GA.",
+            "firstname": "Silun",
+            "initials": "S",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "Yerkes National Primate Research Center, Emory University, Atlanta, GA.",
+            "firstname": "Xiaodong",
+            "initials": "X",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": "Department of Pediatrics, Emory University, Atlanta, GA.",
+            "firstname": "Rong",
+            "initials": "R",
+            "lastname": "Jiang"
+        },
+        {
+            "affiliation": "Department of Pediatrics, Emory University, Atlanta, GA.",
+            "firstname": "Mary B",
+            "initials": "MB",
+            "lastname": "Wagner"
+        },
+        {
+            "affiliation": "Department of Radiology and Imaging Sciences, Emory University, Atlanta, GA; Department of Biomedical Engineering, Emory University and Georgia Institute of Technology, Atlanta, GA.",
+            "firstname": "Baowei",
+            "initials": "B",
+            "lastname": "Fei"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1117/12.2217296",
+    "journal": "Proceedings of SPIE--the International Society for Optical Engineering",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2016-09-24",
+    "pubmed_id": "27660384\n22481815\n21920797\n22271833\n23982300\n9843833\n22254646\n12063284\n16940196\n26127045\n25328641\n24957945\n24392208\n11293691\n14587019\n22334356\n26412926\n18979814\n11700739",
+    "results": null,
+    "title": "Determining Cardiac Fiber Orientation Using FSL and Registered Ultrasound/DTI volumes.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a26b0>"
+}{
+    "abstract": "Repetitive Magnetic Stimulation (rTMS) has appeared to be a potential non-invasive antidepressant method, which implies non-convulsive focal stimulation of the brain through a time varying magnetic field. The antidepressant potential of rTMS has been supported by animal studies showing a number of interesting similarities between magnetic stimulation and electroconvulsive stimulation (ECS). Despite these positive results, this method still contains many unknown issues. Importantly, there are fundamental uncertainties concerning the optimal combination of stimulus parameters (frequency, intensity, duration, and number of pulses) to obtain an antidepressant effect. Therefore, the present study aimed to qualify the choice of rTMS stimulus frequency in a well-validated genetic animal model of depression, the FSL/FRL rats. We compared the antidepressant effect of low frequency, high frequency rTMS and ECS to sham treatment in FRL and FSL rats using 6 parallel groups. We used the Forced Swim Test and the Open Field Test to screen the depression-like state in rats. We found that both the high frequency and the low frequency rTMS resulted in a significant antidepressant effect. However, this effect was inferior to the effect of ECS. The low frequency and high frequency groups, which received the same total impulse load and stimulus intensity, did not differ with respect to antidepressant efficacy in this study. In conclusion, this study provides robust evidence that both rTMS interventions are efficacious, although not as efficient as ECS.",
+    "authors": [
+        {
+            "affiliation": "Translational Neuropsyciatry Unit, Department of Clinical Medicine, Aarhus University, Denmark.",
+            "firstname": "Marie Louise",
+            "initials": "ML",
+            "lastname": "Hesselberg"
+        },
+        {
+            "affiliation": "Translational Neuropsyciatry Unit, Department of Clinical Medicine, Aarhus University, Denmark; Centre for Pharmaceutical Excellence, School of Pharmacy, North West University, Potchefstroom, South Africa. Electronic address: wegener@clin.au.dk.",
+            "firstname": "Gregers",
+            "initials": "G",
+            "lastname": "Wegener"
+        },
+        {
+            "affiliation": "Department Q, Aarhus University Hospital, Risskov, Denmark.",
+            "firstname": "Poul Erik",
+            "initials": "PE",
+            "lastname": "Buchholtz"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2016 Elsevier B.V. All rights reserved.",
+    "doi": "10.1016/j.bbr.2016.07.037",
+    "journal": "Behavioural brain research",
+    "keywords": [
+        "Animal model",
+        "Depression",
+        "FSL/FRL rats",
+        "Forced swim test",
+        "rTMS"
+    ],
+    "methods": null,
+    "publication_date": "2016-07-31",
+    "pubmed_id": "27473004",
+    "results": null,
+    "title": "Antidepressant efficacy of high and low frequency transcranial magnetic stimulation in the FSL/FRL genetic rat model of depression.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6097dd0>"
+}{
+    "abstract": null,
+    "authors": [
+        {
+            "affiliation": "Warwick Manufacturing Group, University of Warwick Coventry, UK.",
+            "firstname": "Ruth",
+            "initials": "R",
+            "lastname": "Pauli"
+        },
+        {
+            "affiliation": "Warwick Manufacturing Group, University of Warwick Coventry, UK.",
+            "firstname": "Alexander",
+            "initials": "A",
+            "lastname": "Bowring"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, National Institutes of Health Bethesda, MD, USA.",
+            "firstname": "Richard",
+            "initials": "R",
+            "lastname": "Reynolds"
+        },
+        {
+            "affiliation": "Scientific and Statistical Computing Core, National Institute of Mental Health, National Institutes of Health Bethesda, MD, USA.",
+            "firstname": "Gang",
+            "initials": "G",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": "Warwick Manufacturing Group, University of WarwickCoventry, UK; Department of Statistics, University of WarwickCoventry, UK.",
+            "firstname": "Thomas E",
+            "initials": "TE",
+            "lastname": "Nichols"
+        },
+        {
+            "affiliation": "Warwick Manufacturing Group, University of Warwick Coventry, UK.",
+            "firstname": "Camille",
+            "initials": "C",
+            "lastname": "Maumet"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.3389/fninf.2016.00024\n10.1101/037044\n10.3389/fnins.2012.00149\n10.1006/cbmr.1996.0014\n10.1073/pnas.0602659103\n10.1038/sdata.2014.3\n10.1097/00004728-199803000-00032\n10.1016/j.neuroimage.2011.09.015\n10.1016/j.neuroimage.2013.05.094\n10.1101/041798\n10.3389/fninf.2013.00012\n10.1038/nn.3818\n10.3389/fninf.2012.00009\n10.1016/j.neuroimage.2013.05.041",
+    "journal": "Frontiers in neuroinformatics",
+    "keywords": [
+        "data sharing",
+        "fMRI analysis",
+        "functional MRI",
+        "neuroimaging",
+        "provenance"
+    ],
+    "methods": null,
+    "publication_date": "2016-07-28",
+    "pubmed_id": "27458367\n27423255\n23087605\n8812068\n16868087\n25977761\n9530404\n21979382\n23727024\n27922621\n23847528\n25349916\n22493576\n23684880",
+    "results": null,
+    "title": "Exploring fMRI Results Space: 31 Variants of an fMRI Analysis in AFNI, FSL, and SPM.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6094a40>"
+}{
+    "abstract": "We present the package ",
+    "authors": [
+        {
+            "affiliation": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21231, USA, jmuschel@jhsph.edu.",
+            "firstname": "John",
+            "initials": "J",
+            "lastname": "Muschelli"
+        },
+        {
+            "affiliation": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21231, USA.",
+            "firstname": "Elizabeth",
+            "initials": "E",
+            "lastname": "Sweeney"
+        },
+        {
+            "affiliation": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21231, USA, mlindqui@jhsph.edu.",
+            "firstname": "Martin",
+            "initials": "M",
+            "lastname": "Lindquist"
+        },
+        {
+            "affiliation": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21231, USA, ccrainic@jhsph.edu.",
+            "firstname": "Ciprian",
+            "initials": "C",
+            "lastname": "Crainiceanu"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": null,
+    "journal": "The R journal",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2016-06-23",
+    "pubmed_id": "27330830\n15955494\n20851191\n22796459\n8812068\n24200484\n25233361\n22248573\n21897815\n17354756\n9184886\n11516708\n12377157\n21979382\n20338898\n22484407\n9617910\n12391568\n22766673\n20378467\n11293691",
+    "results": null,
+    "title": "fslr: Connecting the FSL Software with R.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e609ba10>"
+}{
+    "abstract": "The purpose of this study is to assess the reproducibility of hippocampal atrophy rate measurements of commonly used fully-automated algorithms in Alzheimer disease (AD). The reproducibility of hippocampal atrophy rate for FSL/FIRST, AdaBoost, FreeSurfer, MAPS independently and MAPS combined with the boundary shift integral (MAPS-HBSI) were calculated. Back-to-back (BTB) 3D T1-weighted MPRAGE MRI from the Alzheimer's Disease Neuroimaging Initiative (ADNI1) study at baseline and year one were used. Analysis on 3 groups of subjects was performed - 562 subjects at 1.5T, a 75 subject group that also had manual segmentation and 111 subjects at 3T. A simple and novel statistical test based on the binomial distribution was used that handled outlying data points robustly. Median hippocampal atrophy rates were -1.1%/year for healthy controls, -3.0%/year for mildly cognitively impaired and -5.1%/year for AD subjects. The best reproducibility was observed for MAPS-HBSI (1.3%), while the other methods tested had reproducibilities at least 50% higher at 1.5T and 3T which was statistically significant. For a clinical trial, MAPS-HBSI should require less than half the subjects of the other methods tested. All methods had good accuracy versus manual segmentation. The MAPS-HBSI method has substantially better reproducibility than the other methods considered.",
+    "authors": [
+        {
+            "affiliation": "VU University Medical Center, Amsterdam, Netherlands. Electronic address: keith@kscover.ca.",
+            "firstname": "Keith S",
+            "initials": "KS",
+            "lastname": "Cover"
+        },
+        {
+            "affiliation": "VU University Medical Center, Amsterdam, Netherlands.",
+            "firstname": "Ronald A",
+            "initials": "RA",
+            "lastname": "van Schijndel"
+        },
+        {
+            "affiliation": "VU University Medical Center, Amsterdam, Netherlands.",
+            "firstname": "Adriaan",
+            "initials": "A",
+            "lastname": "Versteeg"
+        },
+        {
+            "affiliation": "UCL Institute of Neurology, London, United Kingdom.",
+            "firstname": "Kelvin K",
+            "initials": "KK",
+            "lastname": "Leung"
+        },
+        {
+            "affiliation": "VU University Medical Center, Amsterdam, Netherlands.",
+            "firstname": "Emma R",
+            "initials": "ER",
+            "lastname": "Mulder"
+        },
+        {
+            "affiliation": "VU University Medical Center, Amsterdam, Netherlands.",
+            "firstname": "Remko A",
+            "initials": "RA",
+            "lastname": "Jong"
+        },
+        {
+            "affiliation": "VU University Medical Center, Amsterdam, Netherlands.",
+            "firstname": "Peter J",
+            "initials": "PJ",
+            "lastname": "Visser"
+        },
+        {
+            "affiliation": "IRCCS San Giovanni di Dio Fatebenefratelli, Italy.",
+            "firstname": "Alberto",
+            "initials": "A",
+            "lastname": "Redolfi"
+        },
+        {
+            "affiliation": "MAAT, Archamps, France.",
+            "firstname": "Jerome",
+            "initials": "J",
+            "lastname": "Revillard"
+        },
+        {
+            "affiliation": "MAAT, Archamps, France.",
+            "firstname": "Baptiste",
+            "initials": "B",
+            "lastname": "Grenier"
+        },
+        {
+            "affiliation": "MAAT, Archamps, France.",
+            "firstname": "David",
+            "initials": "D",
+            "lastname": "Manset"
+        },
+        {
+            "affiliation": "Karolinska Institutet, Sweden.",
+            "firstname": "Soheil",
+            "initials": "S",
+            "lastname": "Damangir"
+        },
+        {
+            "affiliation": "IRCCS San Giovanni di Dio Fatebenefratelli, Italy.",
+            "firstname": "Paolo",
+            "initials": "P",
+            "lastname": "Bosco"
+        },
+        {
+            "affiliation": "VU University Medical Center, Amsterdam, Netherlands.",
+            "firstname": "Hugo",
+            "initials": "H",
+            "lastname": "Vrenken"
+        },
+        {
+            "affiliation": "VU University Medical Center, Amsterdam, Netherlands.",
+            "firstname": "Bob W",
+            "initials": "BW",
+            "lastname": "van Dijk"
+        },
+        {
+            "affiliation": "IRCCS San Giovanni di Dio Fatebenefratelli, Italy; University Hospitals and University of Geneva, Switzerland.",
+            "firstname": "Giovanni B",
+            "initials": "GB",
+            "lastname": "Frisoni"
+        },
+        {
+            "affiliation": "VU University Medical Center, Amsterdam, Netherlands.",
+            "firstname": "Frederik",
+            "initials": "F",
+            "lastname": "Barkhof"
+        },
+        {
+            "affiliation": null,
+            "firstname": null,
+            "initials": null,
+            "lastname": null
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2016 Elsevier Ireland Ltd. All rights reserved.",
+    "doi": "10.1016/j.pscychresns.2016.04.006",
+    "journal": "Psychiatry research. Neuroimaging",
+    "keywords": [
+        "Alzheimer disease",
+        "Atrophy",
+        "Automatic segmentation",
+        "Boundary shift integral",
+        "Hippocampus",
+        "Magnetic resonance imaging",
+        "Manual segmentation",
+        "Mild cognitive impairment"
+    ],
+    "methods": null,
+    "publication_date": "2016-05-15",
+    "pubmed_id": "27179313",
+    "results": null,
+    "title": "Reproducibility of hippocampal atrophy rates measured with manual, FreeSurfer, AdaBoost, FSL/FIRST and the MAPS-HBSI methods in Alzheimer's disease.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ebc680>"
+}{
+    "abstract": "MRI-based hippocampus volume, a core feasible biomarker of Alzheimer's disease (AD), is not yet widely used in clinical patient care, partly due to lack of validation of software tools for hippocampal volumetry that are compatible with routine workflow. Here, we evaluate fully-automated and computationally efficient hippocampal volumetry with FSL-FIRST for prediction of AD dementia (ADD) in subjects with amnestic mild cognitive impairment (aMCI) from phase 1 of the Alzheimer's Disease Neuroimaging Initiative. Receiver operating characteristic analysis of FSL-FIRST hippocampal volume (corrected for head size and age) revealed an area under the curve of 0.79, 0.70, and 0.70 for prediction of aMCI-to-ADD conversion within 12, 24, or 36 months, respectively. Thus, FSL-FIRST provides about the same power for prediction of progression to ADD in aMCI as other volumetry methods.",
+    "authors": [
+        {
+            "affiliation": "Department of Nuclear Medicine, Charit\u00e9, Berlin, Germany.\nJung diagnostics GmbH, Hamburg, Germany.",
+            "firstname": "Per",
+            "initials": "P",
+            "lastname": "Suppa"
+        },
+        {
+            "affiliation": "Universit\u00e9 Pierre et Marie Curie, Institut de la M\u00e9moire et de la Maladie d'Alzheimer & INSERM U1127, Institut du Cerveau et de la Moelle \u00e9pini\u00e8re (ICM), D\u00e9partement de Neurologie, H\u00f4pital de la Piti\u00e9-Salp\u00e9tri\u00e8re, Paris, France.",
+            "firstname": "Harald",
+            "initials": "H",
+            "lastname": "Hampel"
+        },
+        {
+            "affiliation": "Jung diagnostics GmbH, Hamburg, Germany.",
+            "firstname": "Timo",
+            "initials": "T",
+            "lastname": "Kepp"
+        },
+        {
+            "affiliation": "Department of Nuclear Medicine, Charit\u00e9, Berlin, Germany.",
+            "firstname": "Catharina",
+            "initials": "C",
+            "lastname": "Lange"
+        },
+        {
+            "affiliation": "Jung diagnostics GmbH, Hamburg, Germany.",
+            "firstname": "Lothar",
+            "initials": "L",
+            "lastname": "Spies"
+        },
+        {
+            "affiliation": "Center for Stroke Research Berlin, Charit\u00e9, Berlin, Germany.",
+            "firstname": "Jochen B",
+            "initials": "JB",
+            "lastname": "Fiebach"
+        },
+        {
+            "affiliation": "Universit\u00e9 Pierre et Marie Curie, Institut de la M\u00e9moire et de la Maladie d'Alzheimer & INSERM U1127, Institut du Cerveau et de la Moelle \u00e9pini\u00e8re (ICM), D\u00e9partement de Neurologie, H\u00f4pital de la Piti\u00e9-Salp\u00e9tri\u00e8re, Paris, France.",
+            "firstname": "Bruno",
+            "initials": "B",
+            "lastname": "Dubois"
+        },
+        {
+            "affiliation": "Department of Nuclear Medicine, Charit\u00e9, Berlin, Germany.",
+            "firstname": "Ralph",
+            "initials": "R",
+            "lastname": "Buchert"
+        },
+        {
+            "affiliation": null,
+            "firstname": null,
+            "initials": null,
+            "lastname": null
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.3233/JAD-150804",
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "keywords": [
+        "ADNI",
+        "Alzheimer\u2019s disease",
+        "FSL-FIRST",
+        "aMCI-to-Alzheimer\u2019s disease dementia conversion",
+        "amnestic mild cognitive impairment",
+        "fully-automated",
+        "hippocampal volumetry",
+        "magnetic resonance imaging",
+        "model-based segmentation",
+        "prediction"
+    ],
+    "methods": null,
+    "publication_date": "2016-03-01",
+    "pubmed_id": "26923010",
+    "results": null,
+    "title": "Performance of Hippocampus Volumetry with FSL-FIRST for Prediction of Alzheimer's Disease Dementia in at Risk Subjects with Amnestic Mild Cognitive Impairment.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5eb0180>"
+}{
+    "abstract": "T2 Lesion Volume (T2LV) has been an important biomarker for multiple sclerosis (MS). Current methods available to quantify lesions from MR images generally require manual adjustments or multiple images with different contrasts. Further, implementations are often not easily or openly accessible.\nWe created a fully unsupervised, single T2 FLAIR image T2LV quantification package based on the popular open-source imaging toolkit FSL.\nBy scripting various processing tools in FSL, we developed an image processing pipeline that distinguishes normal brain tissue from CSF and lesions. We validated our method by hierarchical multiple regression (HMR) with a preliminary study to see if our T2LVs correlate with clinical disability measures in MS when controlled for other variables.\nPearson correlations between T2LV and Expanded Disability Status Scale (EDSS: r = 0.344, P = 0.013), Six-Minute Walk (6MW: r = -0.513, P = 0.000), Timed 25-Foot Walk (T25FW: r = -0.438, P = .000), and Symbol Digit Modalities Test (SDMT: r = -0.499, P = 0.000) were all significant. Partial correlations controlling for age were significant between T2LV and 6MW (r = -0.433, P = 0.002), T25FW (r = -0.392, P = 0.004), and SDMT (r = -0.450, P = 0.001). In HMR, T2LV explained significant additional variance in 6MW (R(2) change = 0.082, P = 0.020), after controlling for confounding variables such as age, white matter volume (WMV), and gray matter volume (GMV).\nOur T2LV quantification software produces T2LVs from a single FLAIR image that correlate with physical disability in MS and is freely available as open-source software.",
+    "authors": [
+        {
+            "affiliation": "Department of Bioengineering University of Illinois at Urbana-Champaign UrbanaIllinois; Beckman Institute for Advanced Science and Technology University of Illinois at Urbana-Champaign Urbana Illinois.",
+            "firstname": "Nathan C",
+            "initials": "NC",
+            "lastname": "Wetter"
+        },
+        {
+            "affiliation": "Department of Kinesiology and Community Health University of Illinois at Urbana-Champaign Urbana Illinois.",
+            "firstname": "Elizabeth A",
+            "initials": "EA",
+            "lastname": "Hubbard"
+        },
+        {
+            "affiliation": "Department of Kinesiology and Community Health University of Illinois at Urbana-Champaign Urbana Illinois.",
+            "firstname": "Robert W",
+            "initials": "RW",
+            "lastname": "Motl"
+        },
+        {
+            "affiliation": "Department of Bioengineering University of Illinois at Urbana-Champaign UrbanaIllinois; Beckman Institute for Advanced Science and Technology University of Illinois at Urbana-Champaign Urbana Illinois.",
+            "firstname": "Bradley P",
+            "initials": "BP",
+            "lastname": "Sutton"
+        }
+    ],
+    "conclusions": "Our T2LV quantification software produces T2LVs from a single FLAIR image that correlate with physical disability in MS and is freely available as open-source software.",
+    "copyrights": null,
+    "doi": "10.1002/brb3.440",
+    "journal": "Brain and behavior",
+    "keywords": [
+        "Atrophy",
+        "T2 lesions",
+        "magnetic resonance imaging",
+        "multiple sclerosis",
+        "outcome measurement"
+    ],
+    "methods": null,
+    "publication_date": "2016-02-09",
+    "pubmed_id": "26855828\n21720932\n16981607\n11371748\n20710012\n11901002\n21447024\n22159052\n9489530\n17942508\n19249634\n19353226\n12111967\n16932551\n23535489\n11516708\n12377157\n23812283\n6685237\n22179659\n8891052\n10551218\n24582342\n20054006\n21584674\n21945386\n24588665\n21387374\n12391568\n12482100\n15501092\n23743084\n21177320\n18558855\n11293691",
+    "results": "Pearson correlations between T2LV and Expanded Disability Status Scale (EDSS: r = 0.344, P = 0.013), Six-Minute Walk (6MW: r = -0.513, P = 0.000), Timed 25-Foot Walk (T25FW: r = -0.438, P = .000), and Symbol Digit Modalities Test (SDMT: r = -0.499, P = 0.000) were all significant. Partial correlations controlling for age were significant between T2LV and 6MW (r = -0.433, P = 0.002), T25FW (r = -0.392, P = 0.004), and SDMT (r = -0.450, P = 0.001). In HMR, T2LV explained significant additional variance in 6MW (R(2) change = 0.082, P = 0.020), after controlling for confounding variables such as age, white matter volume (WMV), and gray matter volume (GMV).",
+    "title": "Fully automated open-source lesion mapping of T2-FLAIR images with FSL correlates with clinical disability in MS.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6080f90>"
+}{
+    "abstract": "The volumetric quantification of brain structures is of great interest in pediatric populations because it allows the investigation of different factors influencing neurodevelopment. FreeSurfer and FSL both provide frequently used packages for automatic segmentation of brain structures. In this study, we examined the accuracy and consistency of those two automated protocols relative to manual segmentation, commonly considered as the \"gold standard\" technique, for estimating hippocampus and amygdala volumes in a sample of preadolescent children aged between 6 to 11 years. The volumes obtained with FreeSurfer and FSL-FIRST were evaluated and compared with manual segmentations with respect to volume difference, spatial agreement and between- and within-method correlations. Results highlighted a tendency for both automated techniques to overestimate hippocampus and amygdala volumes, in comparison to manual segmentation. This was more pronounced when using FreeSurfer than FSL-FIRST and, for both techniques, the overestimation was more marked for the amygdala than the hippocampus. Pearson correlations support moderate associations between manual tracing and FreeSurfer for hippocampus (right r=0.69, p<0.001; left r=0.77, p<0.001) and amygdala (right r=0.61, p<0.001; left r=0.67, p<0.001) volumes. Correlation coefficients between manual segmentation and FSL-FIRST were statistically significant (right hippocampus r=0.59, p<0.001; left hippocampus r=0.51, p<0.001; right amygdala r=0.35, p<0.001; left amygdala r=0.31, p<0.001) but were significantly weaker, for all investigated structures. When computing intraclass correlation coefficients between manual tracing and automatic segmentation, all comparisons, except for left hippocampus volume estimated with FreeSurfer, failed to reach 0.70. When looking at each method separately, correlations between left and right hemispheric volumes showed strong associations between bilateral hippocampus and bilateral amygdala volumes when assessed using manual segmentation or FreeSurfer. These correlations were significantly weaker when volumes were assessed with FSL-FIRST. Finally, Bland-Altman plots suggest that the difference between manual and automatic segmentation might be influenced by the volume of the structure, because smaller volumes were associated with larger volume differences between techniques. These results demonstrate that, at least in a pediatric population, the agreement between amygdala and hippocampus volumes obtained with automated FSL-FIRST and FreeSurfer protocols and those obtained with manual segmentation is not strong. Visual inspection by an informed individual and, if necessary, manual correction of automated segmentation outputs are important to ensure validity of volumetric results and interpretation of related findings.",
+    "authors": [
+        {
+            "affiliation": "McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada; Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada.",
+            "firstname": "Dorothee",
+            "initials": "D",
+            "lastname": "Schoemaker"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA; Charit\u00e9, Berlin, Germany.",
+            "firstname": "Claudia",
+            "initials": "C",
+            "lastname": "Buss"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA.",
+            "firstname": "Kevin",
+            "initials": "K",
+            "lastname": "Head"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA.",
+            "firstname": "Curt A",
+            "initials": "CA",
+            "lastname": "Sandman"
+        },
+        {
+            "affiliation": "University of California at Irvine, CA, USA; University of Denver, CO, USA.",
+            "firstname": "Elysia P",
+            "initials": "EP",
+            "lastname": "Davis"
+        },
+        {
+            "affiliation": "Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada; Biomedical Engineering Department, McGill University, Montreal, QC, Canada.",
+            "firstname": "M Mallar",
+            "initials": "MM",
+            "lastname": "Chakravarty"
+        },
+        {
+            "affiliation": "McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada.",
+            "firstname": "Serge",
+            "initials": "S",
+            "lastname": "Gauthier"
+        },
+        {
+            "affiliation": "McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada; Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada.",
+            "firstname": "Jens C",
+            "initials": "JC",
+            "lastname": "Pruessner"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2016 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neuroimage.2016.01.038",
+    "journal": "NeuroImage",
+    "keywords": [
+        "Amygdala",
+        "FSL-FIRST",
+        "FreeSurfer",
+        "Hippocampus",
+        "Pediatric population",
+        "Segmentation techniques"
+    ],
+    "methods": null,
+    "publication_date": "2016-01-30",
+    "pubmed_id": "26824403\n7990957\n20353827\n12124914\n8708010\n2868172\n11481158\n15850726\n22529357\n15644983\n25504933\n19370155\n8126267\n23611262\n11244481\n14643096\n21563239\n11832223\n9010004\n25195638\n16826559\n11522264\n2353093\n8750317\n14674957\n10401504\n17907247\n23773912\n17123834\n11691695\n13677303\n19162198\n20162602\n22815187\n19682030\n21352927\n21352927\n19002191\n24784800\n10769253\n12427684\n10599482\n10812035\n24474784\n19261422\n20153146\n20454594\n18839484\n9617910\n17532465\n1594723\n12418936\n18414838\n12732221\n17161752\n1513464\n18446827",
+    "results": null,
+    "title": "Hippocampus and amygdala volumes from magnetic resonance images in children: Assessing accuracy of FreeSurfer and FSL against manual segmentation.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e9a750>"
+}{
+    "abstract": "Toll-like receptors (TLR) are a family of pattern recognition receptors that sense microbial associated molecular patterns (MAMP) such as microbial membrane components and nucleic acids of bacterial origin. Polymorphonuclear neutrophils (PMN) are the first cell of the innate immune system to arrive at the site of infection or injury and elicit oxidative and non-oxidative microbicidal mechanisms. Observations in human and mouse suggest that TLR ligands can induce direct responses in PMN. So far, there is no information of the effect of synthetic TLR ligands on the response of bovine PMN. The objective of this study was to evaluate the functional response of bovine PMN incubated with four synthetic TLR ligands: ultrapure LPS (TLR4), Pam(3)CSK(4) (TLR2/1), HKLM (TLR2) and FSL-1 (TLR2/6). The results show that all the ligands increment cells size as identified by changes in the FSC-SSC as part of the flow cytometric analysis. Interestingly, only Pam(3)CSK(4) consistently induced a calcium influx, increased ROS production and secretion of gelatinase granules, whereas no response was seen using other ligands. Furthermore, exposure of bovine PMN to ultrapure LPS, Pam(3)CSK(4), HKLM or FSL-1 for 24 hours did not impact on apoptosis of these cells. Our data provide evidence for a selective response of bovine PMNs to TLR ligands.",
+    "authors": [
+        {
+            "affiliation": "Laboratory of Inflammation Pharmacology, Institute of Pharmacology and Morphophysiology, Faculty of Veterinary Science, Universidad Austral de Chile, Valdivia, Chile. Electronic address: ivanconejeros@uach.cl.",
+            "firstname": "Iv\u00e1n",
+            "initials": "I",
+            "lastname": "Conejeros"
+        },
+        {
+            "affiliation": "Department of Pathology and Pathogen Biology, Royal Veterinary College, Hawkshead Lane, Hatfield AL9 7TA, UK.",
+            "firstname": "Amanda J",
+            "initials": "AJ",
+            "lastname": "Gibson"
+        },
+        {
+            "affiliation": "Department of Pathology and Pathogen Biology, Royal Veterinary College, Hawkshead Lane, Hatfield AL9 7TA, UK.",
+            "firstname": "Dirk",
+            "initials": "D",
+            "lastname": "Werling"
+        },
+        {
+            "affiliation": "Institute of Parasitology, Justus Liebig University Giessen, Schubertstr. 81, BFS, 35392 Giessen, Germany.",
+            "firstname": "Tamara",
+            "initials": "T",
+            "lastname": "Mu\u00f1oz-Caro"
+        },
+        {
+            "affiliation": "Institute of Parasitology, Justus Liebig University Giessen, Schubertstr. 81, BFS, 35392 Giessen, Germany.",
+            "firstname": "Carlos",
+            "initials": "C",
+            "lastname": "Hermosilla"
+        },
+        {
+            "affiliation": "Institute of Parasitology, Justus Liebig University Giessen, Schubertstr. 81, BFS, 35392 Giessen, Germany.",
+            "firstname": "Anja",
+            "initials": "A",
+            "lastname": "Taubert"
+        },
+        {
+            "affiliation": "Laboratory of Inflammation Pharmacology, Institute of Pharmacology and Morphophysiology, Faculty of Veterinary Science, Universidad Austral de Chile, Valdivia, Chile.",
+            "firstname": "Rafael A",
+            "initials": "RA",
+            "lastname": "Burgos"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2015 Elsevier Ltd. All rights reserved.",
+    "doi": "10.1016/j.dci.2015.05.012",
+    "journal": "Developmental and comparative immunology",
+    "keywords": [
+        "Bovine",
+        "Innate immunity",
+        "PMN",
+        "ROS",
+        "Toll-like receptors"
+    ],
+    "methods": null,
+    "publication_date": "2015-06-01",
+    "pubmed_id": "26026246",
+    "results": null,
+    "title": "Effect of the synthetic Toll-like receptor ligands LPS, Pam3CSK4, HKLM and FSL-1 in the function of bovine polymorphonuclear neutrophils.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5edb6a0>"
+}{
+    "abstract": "Modeling depression in animals is based on the observation of behaviors interpreted as analog to human symptoms. Typical tests used in experimental depression research are designed to evoke an either-or outcome. It is known that explorative and coping strategies are relevant for depression, however these aspects are generally not considered in animal behavioral testing. Here we investigate the Flinders Sensitive Line (FSL), a rat model of depression, compared to the Sprague-Dawley (SD) rat in three independent tests where the animals are allowed to express a more extensive behavioral repertoire. The multivariate concentric square field\u2122 (MCSF) and the novel cage tests evoke exploratory behaviors in a novel environment and the home cage change test evokes social behaviors in the re-establishment of a social hierarchy. In the MCSF test, FSL rats exhibited less exploratory drive and more risk-assessment behavior compared to SD rats. When re-exposed to the arena, FSL, but not SD rats, increased their exploratory behavior compared to the first trial and displayed risk-assessment behavior to the same extent as SD rats. Thus, the behavior of FSL rats was more similar to that of SDs when the rats were familiar with the arena. In the novel cage test FSL rats exhibited a reactive coping style, consistent with the reduced exploration observed in the MCSF. Reactive coping is associated with less aggressive behavior. Accordingly, FSL rats displayed less aggressive behavior in the home cage change test. Taken together, our data show that FSL rats express altered exploratory behavior and reactive coping style. Reduced interest is a core symptom of depression, and individuals with a reactive coping style are more vulnerable to the disease. Our results support the use of FSL rats as an animal model of depression and increase our understanding of the FSL rat beyond the behavioral dimensions targeted by the traditional depression-related tests.",
+    "authors": [
+        {
+            "affiliation": "Department of Neuroscience, Karolinska Institutet Stockholm, Sweden.",
+            "firstname": "Salvatore",
+            "initials": "S",
+            "lastname": "Magara"
+        },
+        {
+            "affiliation": "Department of Neuroscience, Karolinska Institutet Stockholm, Sweden.",
+            "firstname": "Sarah",
+            "initials": "S",
+            "lastname": "Holst"
+        },
+        {
+            "affiliation": "Department of Pharmaceutical Biosciences, Uppsala University Uppsala, Sweden.",
+            "firstname": "Stina",
+            "initials": "S",
+            "lastname": "Lundberg"
+        },
+        {
+            "affiliation": "Department of Pharmaceutical Biosciences, Uppsala University Uppsala, Sweden.",
+            "firstname": "Erika",
+            "initials": "E",
+            "lastname": "Roman"
+        },
+        {
+            "affiliation": "Department of Neuroscience, Karolinska Institutet Stockholm, Sweden.",
+            "firstname": "Maria",
+            "initials": "M",
+            "lastname": "Lindskog"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.3389/fnbeh.2015.00089\n10.1016/j.psyneuen.2010.09.004\n10.1038/nmeth.1698\n10.1007/BF01923336\n10.1016/0014-2999(94)90800-1\n10.1146/annurev.ps.39.020188.000355\n10.1016/S0149-7634(05)80068-5\n10.1016/0278-5846(89)90105-X\n10.1007/BF01066170\n10.1016/j.jad.2014.08.006\n10.1186/1741-7015-11-126\n10.1038/nprot.2006.19\n10.1037/0735-7036.97.3.249\n10.1016/S0166-4328(89)80102-0\n10.1093/ijnp/pyv032\n10.1016/0031-9384(90)90022-V\n10.1038/mp.2012.10\n10.1037/0033-2909.127.1.45\n10.1007/s002130050367\n10.1080/15374416.2012.711708\n10.1016/S0022-3956(98)00036-3\n10.1038/sj.npp.1300506\n10.4088/PCC.v03n0609\n10.1016/S0376-6357(97)00055-7\n10.1038/sj.mp.4001979\n10.1016/j.neuroscience.2011.07.077\n10.1016/j.neubiorev.2011.02.003\n10.1159/000105485\n10.1016/S0149-7634(99)00026-3\n10.1016/0301-0082(80)90024-6\n10.1021/es102448b\n10.1016/j.bbr.2006.11.022\n10.1016/j.physbeh.2007.08.006\n10.1016/j.bbr.2005.10.020\n10.4236/jbbs.2013.34035\n10.1016/j.psychres.2008.03.024\n10.1016/j.bbr.2012.08.040\n10.1038/nn.2647\n10.3758/BF03200814\n10.1016/0006-3223(86)90007-7\n10.1016/S0149-7634(05)80230-1\n10.1016/j.ejphar.2004.04.010\n10.1124/pr.111.005397\n10.3389/fnbeh.2014.00236\n10.1016/j.bbr.2009.08.020\n10.1016/j.bbr.2007.06.009\n10.1111/j.1369-1600.2011.00327.x\n10.1016/0361-9230(91)90019-G\n10.1007/BF02244871\n10.1086/422893\n10.1046/j.1365-2826.1997.t01-1-00571.x\n10.1016/0741-8329(93)90046-Q\n10.1007/s00213-004-2005-5\n10.1046/j.1365-2826.2003.00986.x",
+    "journal": "Frontiers in behavioral neuroscience",
+    "keywords": [
+        "behavioral profiling",
+        "coping style",
+        "home cage change test",
+        "multivariate concentric square field (MCSF) test",
+        "novel cage test",
+        "risk assessment",
+        "risk taking",
+        "social behavior"
+    ],
+    "methods": null,
+    "publication_date": "2015-05-09",
+    "pubmed_id": "25954168\n20888697\n21984997\n1936199\n7705440\n2894198\n2287482\n2694228\n2757595\n25154536\n23672542\n17406222\n6617152\n2789700\n25762718\n2388951\n22371047\n11271756\n9335077\n22900513\n10094237\n15213704\n15014592\n24896854\n17389901\n21839808\n21316391\n17914253\n10580307\n7005965\n21049924\n17141886\n17888463\n16356558\n19450884\n22982068\n20877280\n11029818\n3942800\n8455816\n15178365\n23319547\n25076877\n19703494\n17688955\n21521426\n25538777\n2049612\n7862931\n15529965\n9089467\n8095393\n15448978\n12588514",
+    "results": null,
+    "title": "Altered explorative strategies and reactive coping style in the FSL rat model of depression.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ecbf60>"
+}{
+    "abstract": "Because our previous study showed disparate voxel based morphometry (VBM) results between SPM and FSL softwares in the brain of amyotrophic lateral sclerosis patients with frontotemporal dementia (ALS-FTD), we investigated which VBM results may more represent atrophy by comparing with Freesurfer's cortical volume and thickness measures.\nMRI at 1.5 T was obtained during routine clinical imaging of ALS-FTD patients (n\u2009=\u200918) and in unaffected neurologic controls (n\u2009=\u200915). Gray matter (GM) VBM analysis was carried out using FSL and SPM. Cortical thickness and volume analysis was performed using Freesurfer.\nGM volume was significantly (p\u2009<\u20090.05) reduced in both motor and extra motor regions in ALS- FTD when compared to unaffected neurologic controls in FSL and Freesurfer but not in SPM. Dice similarity index for cortical GM volume changes between FSL and Freesurfer was 0.30 for motor and 0.31 for non-motor regions as opposed to 0 (motor) and 0.02 (non-motor) between SPM and Freesurfer.\nGM volume changes using FSL showed similar pattern with Freesurfer cortical volume and thickness changes in contrast to SPM results. Our results suggest that, at least for our dataset, VBM results obtained using FSL software should be considered as more representative of GM atrophy.",
+    "authors": [
+        {
+            "affiliation": "Department of Electrical and Electronics Engineering, Birla Institute of Technology and Science, Pilani, 500078, Hyderabad Campus, India. venkatnrp78@gmail.com.\nDepartment of Biomedical Engineering, ND2, Lerner Research Institute, Cleveland Clinic, Cleveland, OH, 44195, USA. venkatnrp78@gmail.com.",
+            "firstname": "Venkateswaran",
+            "initials": "V",
+            "lastname": "Rajagopalan"
+        },
+        {
+            "affiliation": "Neuromuscular Center, Department of Neurology, S90, Neurological Institute, Cleveland Clinic, 9500 Euclid Avenue, Cleveland, OH, 44195, USA. pioroe@ccf.org.\nDepartment of Neurosciences, Lerner Research Institute, Cleveland Clinic, Cleveland, OH, 44195, USA. pioroe@ccf.org.",
+            "firstname": "Erik P",
+            "initials": "EP",
+            "lastname": "Pioro"
+        }
+    ],
+    "conclusions": "GM volume changes using FSL showed similar pattern with Freesurfer cortical volume and thickness changes in contrast to SPM results. Our results suggest that, at least for our dataset, VBM results obtained using FSL software should be considered as more representative of GM atrophy.",
+    "copyrights": null,
+    "doi": "10.1186/s12883-015-0274-8\n10.1006/nimg.2000.0582\n10.1212/01.wnl.0000167602.38643.29\n10.3174/ajnr.A0684\n10.1007/s00415-005-0646-x\n10.1212/WNL.57.9.1571\n10.1016/j.neuroimage.2011.05.053\n10.1016/j.neuroimage.2008.12.037\n10.1016/j.neuroimage.2004.07.051\n10.1006/nimg.2001.0786\n10.1002/hbm.10062\n10.1016/j.neuroimage.2012.03.074\n10.1109/42.906424\n10.1016/S1361-8415(01)00036-6\n10.1006/nimg.2002.1132\n10.1016/j.neuroimage.2007.07.007\n10.1016/j.neuroimage.2004.03.032\n10.1016/S0896-6273(02)00569-X\n10.1006/nimg.1998.0396\n10.1073/pnas.200033797\n10.1016/S1076-6332(03)00671-8\n10.1016/j.neuroimage.2010.01.091\n10.1118/1.4898125\n10.1136/jnnp-2011-300909",
+    "journal": "BMC neurology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2015-04-17",
+    "pubmed_id": "25879588\n10860804\n16009889\n17296989\n15739047\n11706094\n24470336\n21640841\n19195496\n15501092\n11525331\n12391568\n22484407\n11293691\n11516708\n12377157\n17761438\n15219578\n11832223\n9931269\n10984517\n14974593\n20123029\n25370628\n21965521",
+    "results": "GM volume was significantly (p\u2009<\u20090.05) reduced in both motor and extra motor regions in ALS- FTD when compared to unaffected neurologic controls in FSL and Freesurfer but not in SPM. Dice similarity index for cortical GM volume changes between FSL and Freesurfer was 0.30 for motor and 0.31 for non-motor regions as opposed to 0 (motor) and 0.02 (non-motor) between SPM and Freesurfer.",
+    "title": "Disparate voxel based morphometry (VBM) results between SPM and FSL softwares in ALS patients with frontotemporal dementia: which VBM results to consider?",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ef14e0>"
+}{
+    "abstract": "Oxidative stress (OS) is common in inflammatory conditions and may be important in atopic dermatitis (AD) etiology. The aim of this project was to study the involvement of oxidation in FSL-1 (deacylated lipoprotein)-triggered signaling pathways leading to AD-typical cytokine expression in HaCaT keratinocytes. HaCaT keratinocytes, pretreated with the inhibitor to OS N-acetylcysteine (NAC), were exposed to FSL-1, a stimulator of AD-related cytokines. Cytokines expression was studied by real time polymerase chain reaction (PCR); nuclear factor-kappa B (NF-\u03baB) and p38 mitogen activated protein kinase (MAPK) activities were studied by western blotting; and the oxidative state of cells was determined by the dichlorofluorescein (DCF) assay. We found that endogenous OS in keratinocytes appeared 4 h after FSL-1 administration. OS activated NF-\u03baB, but not p38 MAPK, and the inhibition of OS reduced FSL-1 induced interleukin (IL) 33, thymic stromal lymphopoietin (TSLP) and TNF\u03b1 mRNA expression. We conclude that FSL-1 triggers an OS reaction in HaCaT keratinocytes, which is probably a secondary event affecting the expression of specific AD typical cytokines, possibly through the NF-\u03baB pathways. This role of OS in the inflammatory response in AD is worth further investigating.",
+    "authors": [
+        {
+            "affiliation": "Department of Anatomy and Cell Biology, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, 9649, Haifa, Israel, ifat.koren@gmail.com.",
+            "firstname": "I",
+            "initials": "I",
+            "lastname": "Koren Carmi"
+        },
+        {
+            "affiliation": null,
+            "firstname": "R",
+            "initials": "R",
+            "lastname": "Haj"
+        },
+        {
+            "affiliation": null,
+            "firstname": "H",
+            "initials": "H",
+            "lastname": "Yehuda"
+        },
+        {
+            "affiliation": null,
+            "firstname": "S",
+            "initials": "S",
+            "lastname": "Tamir"
+        },
+        {
+            "affiliation": null,
+            "firstname": "A Z",
+            "initials": "AZ",
+            "lastname": "Reznick"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1007/5584_2014_98",
+    "journal": "Advances in experimental medicine and biology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2014-12-17",
+    "pubmed_id": "25510360",
+    "results": null,
+    "title": "The role of oxidation in FSL-1 induced signaling pathways of an atopic dermatitis model in HaCaT keratinocytes.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5eff420>"
+}

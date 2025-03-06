@@ -1,0 +1,432 @@
+{
+    "abstract": "TLR6 forms a heterodimer with TLR2 and TLR4. While proinflammatory roles of TLR2 and TLR4 are well documented, the role of TLR6 in inflammation is poorly understood. In order to understand mechanisms of action of TLR6 in inflammatory responses, we investigated the effects of FSL-1, the TLR6 ligand, on expression of chemokine CCL2 and cytokine IL-1\u03b2 and determined cellular factors involved in FSL-1-mediated expression of CCL2 and IL-1\u03b2 in mononuclear cells. Exposure of human monocytic leukemia THP-1 cells to FSL-1 resulted not only in enhanced secretion of CCL2 and IL-1\u03b2, but also profound induction of their gene transcripts. Expression of CCL2 was abrogated by treatment with OxPAPC, a TLR-2/4 inhibitor, while treatment with OxPAPC resulted in partially inhibited expression of IL-1\u03b2. Treatment with FSL-1 resulted in enhanced phosphorylation of Akt and mitogen-activated protein kinases and activation of protein kinase C. Treatment with pharmacological inhibitors, including SB202190, SP6001250, U0126, Akt inhibitor IV, LY294002, GF109203X, and RO318220 resulted in significantly attenuated FSL-1-mediated upregulation of CCL2 and IL-1\u03b2. Our results indicate that activation of TLR6 will trigger inflammatory responses by upregulating expression of CCL2 and IL-1\u03b2 via TLR-2/4, protein kinase C, PI3K-Akt, and mitogen-activated protein kinases.",
+    "authors": [
+        {
+            "affiliation": "Department of Pharmacology, School of Medicine, Pusan National University, Yangsan 626-870, Korea. ; Department of Neurosurgery, School of Medicine, Konkuk University, Chungju 380-704, Korea.",
+            "firstname": "Keunsoo",
+            "initials": "K",
+            "lastname": "Won"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Sun-Mi",
+            "initials": "SM",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Sae-A",
+            "initials": "SA",
+            "lastname": "Lee"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Byung-Yong",
+            "initials": "BY",
+            "lastname": "Rhim"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Seong-Kug",
+            "initials": "SK",
+            "lastname": "Eo"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Koanhoi",
+            "initials": "K",
+            "lastname": "Kim"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.4196/kjpp.2012.16.6.447",
+    "journal": "The Korean journal of physiology & pharmacology : official journal of the Korean Physiological Society and the Korean Society of Pharmacology",
+    "keywords": [
+        "Chemokine",
+        "FSL-1",
+        "Monocytes/macrophages",
+        "TLR6"
+    ],
+    "methods": null,
+    "publication_date": "2012-12-29",
+    "pubmed_id": "23271927\n10539867\n20937873\n16497588\n15249654\n16211093\n18056480\n20037584\n15661917\n12065499\n18669888\n15119830\n12362224\n1843454\n10079097\n2033251\n11983917\n12615675\n15353494\n19967052\n21884686\n17827709\n22783258\n9005852\n12094235\n12586735\n16410796\n21463602\n17117477\n15567069\n16959900\n16330529\n8904648",
+    "results": null,
+    "title": "Multiple Signaling Molecules are Involved in Expression of CCL2 and IL-1\u03b2 in Response to FSL-1, a Toll-Like Receptor 6 Agonist, in Macrophages.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a7f60>"
+}{
+    "abstract": "Brain atrophy studies often use FSL-BET (Brain Extraction Tool) as the first step of image processing. Default BET does not always give satisfactory results on 3DT1 MR images, which negatively impacts atrophy measurements. Finding the right alternative BET settings can be a difficult and time-consuming task, which can introduce unwanted variability.\nTo systematically analyze the performance of BET in images of MS patients by varying its parameters and options combinations, and quantitatively comparing its results to a manual gold standard.\nImages from 159 MS patients were selected from different MAGNIMS consortium centers, and 16 different 3DT1 acquisition protocols at 1.5 T or 3T. Before running BET, one of three pre-processing pipelines was applied: (1) no pre-processing, (2) removal of neck slices, or (3) additional N3 inhomogeneity correction. Then BET was applied, systematically varying the fractional intensity threshold (the \"f\" parameter) and with either one of the main BET options (\"B\" - bias field correction and neck cleanup, \"R\" - robust brain center estimation, or \"S\" - eye and optic nerve cleanup) or none. For comparison, intracranial cavity masks were manually created for all image volumes. FSL-FAST (FMRIB's Automated Segmentation Tool) tissue-type segmentation was run on all BET output images and on the image volumes masked with the manual intracranial cavity masks (thus creating the gold-standard tissue masks). The resulting brain tissue masks were quantitatively compared to the gold standard using Dice overlap coefficient (DOC). Normalized brain volumes (NBV) were calculated with SIENAX. NBV values obtained using for SIENAX other BET settings than default were compared to gold standard NBV with the paired t-test.\nThe parameter/preprocessing/options combinations resulted in 20,988 BET runs. The median DOC for default BET (f=0.5, g=0) was 0.913 (range 0.321-0.977) across all 159 native scans. For all acquisition protocols, brain extraction was substantially improved for lower values of \"f\" than the default value. Using native images, optimum BET performance was observed for f=0.2 with option \"B\", giving median DOC=0.979 (range 0.867-0.994). Using neck removal before BET, optimum BET performance was observed for f=0.1 with option \"B\", giving median DOC 0.983 (range 0.844-0.996). Using the above BET-options for SIENAX instead of default, the NBV values obtained from images after neck removal with f=0.1 and option \"B\" did not differ statistically from NBV values obtained with gold-standard.\nAlthough default BET performs reasonably well on most 3DT1 images of MS patients, the performance can be improved substantially. The removal of the neck slices, either externally or within BET, has a marked positive effect on the brain extraction quality. BET option \"B\" with f=0.1 after removal of the neck slices seems to work best for all acquisition protocols.",
+    "authors": [
+        {
+            "affiliation": "Department of Radiology, VU University Medical Center, Amsterdam, The Netherlands. v.popescu@vumc.nl",
+            "firstname": "V",
+            "initials": "V",
+            "lastname": "Popescu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "M",
+            "initials": "M",
+            "lastname": "Battaglini"
+        },
+        {
+            "affiliation": null,
+            "firstname": "W S",
+            "initials": "WS",
+            "lastname": "Hoogstrate"
+        },
+        {
+            "affiliation": null,
+            "firstname": "S C J",
+            "initials": "SC",
+            "lastname": "Verfaillie"
+        },
+        {
+            "affiliation": null,
+            "firstname": "I C",
+            "initials": "IC",
+            "lastname": "Sluimer"
+        },
+        {
+            "affiliation": null,
+            "firstname": "R A",
+            "initials": "RA",
+            "lastname": "van Schijndel"
+        },
+        {
+            "affiliation": null,
+            "firstname": "B W",
+            "initials": "BW",
+            "lastname": "van Dijk"
+        },
+        {
+            "affiliation": null,
+            "firstname": "K S",
+            "initials": "KS",
+            "lastname": "Cover"
+        },
+        {
+            "affiliation": null,
+            "firstname": "D L",
+            "initials": "DL",
+            "lastname": "Knol"
+        },
+        {
+            "affiliation": null,
+            "firstname": "M",
+            "initials": "M",
+            "lastname": "Jenkinson"
+        },
+        {
+            "affiliation": null,
+            "firstname": "F",
+            "initials": "F",
+            "lastname": "Barkhof"
+        },
+        {
+            "affiliation": null,
+            "firstname": "N",
+            "initials": "N",
+            "lastname": "de Stefano"
+        },
+        {
+            "affiliation": null,
+            "firstname": "H",
+            "initials": "H",
+            "lastname": "Vrenken"
+        },
+        {
+            "affiliation": null,
+            "firstname": null,
+            "initials": null,
+            "lastname": null
+        }
+    ],
+    "conclusions": "Although default BET performs reasonably well on most 3DT1 images of MS patients, the performance can be improved substantially. The removal of the neck slices, either externally or within BET, has a marked positive effect on the brain extraction quality. BET option \"B\" with f=0.1 after removal of the neck slices seems to work best for all acquisition protocols.",
+    "copyrights": "Copyright \u00a9 2012 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neuroimage.2012.03.074",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2012-04-10",
+    "pubmed_id": "22484407",
+    "results": "The parameter/preprocessing/options combinations resulted in 20,988 BET runs. The median DOC for default BET (f=0.5, g=0) was 0.913 (range 0.321-0.977) across all 159 native scans. For all acquisition protocols, brain extraction was substantially improved for lower values of \"f\" than the default value. Using native images, optimum BET performance was observed for f=0.2 with option \"B\", giving median DOC=0.979 (range 0.867-0.994). Using neck removal before BET, optimum BET performance was observed for f=0.1 with option \"B\", giving median DOC 0.983 (range 0.844-0.996). Using the above BET-options for SIENAX instead of default, the NBV values obtained from images after neck removal with f=0.1 and option \"B\" did not differ statistically from NBV values obtained with gold-standard.",
+    "title": "Optimizing parameter choice for FSL-Brain Extraction Tool (BET) on 3D T1 images in multiple sclerosis.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6097f60>"
+}{
+    "abstract": "The bacterial genus Listeria contains both saprotrophic and facultative pathogenic species. A small genome size has been suggested to be associated with the loss of pathogenic potential of L. welshimeri and L. seeligeri. In this paper we present data on the genome of L. monocytogenes strain FSL J1-208, a representative of phylogenetic lineage IV. Although this strain was isolated from a clinical case in a caprine host and has no decreased invasiveness in human intestinal epithelial cells, our analyses show that this strain has one of the smallest Listeria chromosomes reported to date (2.78 Mb). The chromosome contains 2,772 protein-coding genes, including well-characterized virulence-associated genes, such as inlA, inlB, and inlC and the full prfA gene cluster. The small genome size is mainly caused by the absence of prophages in the genome of L. monocytogenes FSL J1-208, and further analyses showed that the total size of prophage-related regions is highly correlated to chromosome size in the genus Listeria. L. monocytogenes FSL J1-208 carries a unique type of plasmid of approximately 80 kbp that does not carry genes annotated as being involved in resistance to antibiotics or heavy metals. The accessory genes in this plasmid belong to the internalin family, a family of virulence-associated proteins, and therefore this is the first report of a potential virulence plasmid in the genus Listeria.",
+    "authors": [
+        {
+            "affiliation": "Cornell University, Department of Food Science, Ithaca, New York, USA. hcd5@cornell.edu",
+            "firstname": "Henk C",
+            "initials": "HC",
+            "lastname": "den Bakker"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Barbara M",
+            "initials": "BM",
+            "lastname": "Bowen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Lorraine D",
+            "initials": "LD",
+            "lastname": "Rodriguez-Rivera"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Martin",
+            "initials": "M",
+            "lastname": "Wiedmann"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1128/AEM.06969-11",
+    "journal": "Applied and environmental microbiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2012-01-17",
+    "pubmed_id": "22247147\n20435676\n18261238\n16788202\n17764999\n11829065\n15231754\n19451630\n10673425\n14503714\n20656873\n21126366\n15318951\n6323313\n11679669\n11322701\n15466521\n20525638\n16757050\n16936040\n11320113\n18372315\n12566566\n20824078\n19151094\n18238785\n9553802\n20552020\n11893328\n20577742\n16332872\n20453120\n19014550\n20144225\n2498876\n18397919\n20332804\n7496516\n17408741\n16514149\n219433\n11120685\n17339362\n19087207\n17406277\n16928733\n21602330\n20061480\n16754859\n16542435\n15262937\n18931295\n20501037\n10434977\n18349386",
+    "results": null,
+    "title": "FSL J1-208, a virulent uncommon phylogenetic lineage IV Listeria monocytogenes strain with a small chromosome size and a putative virulence plasmid carrying internalin-like genes.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6091e90>"
+}{
+    "abstract": "FSL (the FMRIB Software Library) is a comprehensive library of analysis tools for functional, structural and diffusion MRI brain imaging data, written mainly by members of the Analysis Group, FMRIB, Oxford. For this NeuroImage special issue on \"20 years of fMRI\" we have been asked to write about the history, developments and current status of FSL. We also include some descriptions of parts of FSL that are not well covered in the existing literature. We hope that some of this content might be of interest to users of FSL, and also maybe to new research groups considering creating, releasing and supporting new software packages for brain image analysis.",
+    "authors": [
+        {
+            "affiliation": "FMRIB Centre, Nuffield Department of Clinical Neurosciences, University of Oxford, UK.",
+            "firstname": "Mark",
+            "initials": "M",
+            "lastname": "Jenkinson"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Christian F",
+            "initials": "CF",
+            "lastname": "Beckmann"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Timothy E J",
+            "initials": "TE",
+            "lastname": "Behrens"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mark W",
+            "initials": "MW",
+            "lastname": "Woolrich"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Stephen M",
+            "initials": "SM",
+            "lastname": "Smith"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2011 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neuroimage.2011.09.015",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2011-10-08",
+    "pubmed_id": "21979382",
+    "results": null,
+    "title": "FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ea8360>"
+}{
+    "abstract": "The ability to modify/visualize biological surfaces, and then study the modified cell/virion in a range of in vitro and in vivo environments is essential to gaining further insight into the function of specific molecules or the entire entity. Studies of biological surface modification are generally limited to genetic engineering of the organism or the covalent attachment of chemical moieties to the cell surface(1,2). However these traditional techniques expose the cell to chemical reactants, or they require significant manipulation to achieve the desired outcome, making them cumbersome, and they may also inadvertently affect the viability/functionality of the modified cell. A simple method to harmlessly modify the surface of cells is required. Recently a new technology, KODE Technology has introduced a range of novel constructs consisting of three components: a functional head group (F), a spacer (S) and a lipid tail (L) and are known as Function-Spacer-Lipid or FSL constructs3. The spacer (S) is selected to provide a construct that is dispersible in water, yet will spontaneously and stably incorporate into a membrane. FSL construct functional moieties (F) so far include a range of saccharides including blood group-related determinants, sialic acids, hyaluronan polysaccharides, fluorophores, biotin, radiolabels, and a range of peptides(3-12). FSL constructs have been used in modifying embryos, spermatozoa, zebrafish, epithelial/endometrial cells, red blood cells, and virions to create quality controls systems and diagnostic panels, to modify cell adhesion/ interaction/ separation/ immobilization, and for in vitro and in vivo imaging of cells/virions(3-12). The process of modifying cells/virions is generic and extremely simple. The most common procedure is incubation of cells (in lipid free media) with a solution for FSL constructs for 1-2 hours at 37\u00b0C(4-10). During the incubation the FSL constructs spontaneously incorporate into the membrane, and the process is complete. Washing is optional. Cells modified by FSL constructs are known as kodecytes(6-9), while virions are kodevirions(10). FSL constructs as direct infusions and kodecytes/kodevirions have been used in experimental animal models(7,8,10). All kodecytes/kodevirions appear to retain their normal vitality and functionality while gaining the new function of the F moiety(7,8,10,11). The combination of dispersibility in biocompatible media, spontaneous incorporation into cell membranes, and apparent low toxicity, makes FSL constructs valuable research tools for the study of cells and virions.",
+    "authors": [
+        {
+            "affiliation": "Biotechnology Research Institute, AUT University and KODE Biotech Ltd.",
+            "firstname": "Deborah A",
+            "initials": "DA",
+            "lastname": "Blake"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Nicolai V",
+            "initials": "NV",
+            "lastname": "Bovin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Dan",
+            "initials": "D",
+            "lastname": "Bess"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Stephen M",
+            "initials": "SM",
+            "lastname": "Henry"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.3791/3289",
+    "journal": "Journal of visualized experiments : JoVE",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2011-08-19",
+    "pubmed_id": "21847082\n17607305\n19198568\n0\n17465953\n19680123\n21599675\n21303367\n19912581\n21703308\n20582467",
+    "results": null,
+    "title": "FSL constructs: a simple method for modifying cell/virion surfaces with a range of biological markers without affecting their viability.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e9b4c0>"
+}{
+    "abstract": "TLR ligands as Th1 inducers have been investigated as potential anti-tumour agents. However, few attempts have been made to investigate the anti-tumour activity of TLR ligands as Th2 inducers. This study, therefore, was carried out to determine whether the TLR2 ligand FSL-1 as a Th2 inducers affects the growth of a QRsP tumour, a fibrosarcoma derived from the C57BL/6 (TLR2(+/+)) mouse in vivo. Tumour volumes in TLR2(+/+) mice immunized with both FSL-1 and tumour-associated antigens were significantly smaller than those in control mice. Immunization with both FSL-1 and tumour-associated antigens increased the survival rate of TLR2(+/+) mice. However, surprisingly, immunization with FSL-1 alone significantly enhanced the growth of tumour. Both anti- and pro-tumour activities of FSL-1 were not observed in TLR2(-/-) mice. Immunization of both FSL-1 and tumour-associated antigens induced tumour-associated antigen-specific cytolytic T cells, antibody-dependent cell-mediated cytotoxicity of natural killer cells by production of the tumour-specific antibodies, tumour lysis by complement activation and reduction of the number of regulatory T cells in the draining lymph node. Immunization with FSL-1 alone increased the number of regulatory T cells in the draining lymph node, and in vivo administration of anti-CD25 antibody into mice abrogated the pro-tumour activity of FSL-1, suggesting that regulatory T cells are involved in the pro-tumour activity. This study demonstrated that FSL-1 exhibited TLR2-mediated anti- and pro-tumour activities when immunized with and without tumour-associated antigens, respectively.",
+    "authors": [
+        {
+            "affiliation": "Division of Oral Molecular Microbiology, Department of Oral Pathobiological Science, Hokkaido University Graduate School of Dental Medicine, Kita 13, Nishi 7, Kita-ku, Sapporo 060-8586, Japan.",
+            "firstname": "Kazuto",
+            "initials": "K",
+            "lastname": "Kiura"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Akira",
+            "initials": "A",
+            "lastname": "Hasebe"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ayumi",
+            "initials": "A",
+            "lastname": "Saeki"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Taku",
+            "initials": "T",
+            "lastname": "Segawa"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Futoshi",
+            "initials": "F",
+            "lastname": "Okada"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Haque Mohammad",
+            "initials": "HM",
+            "lastname": "Shamsul"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Makoto",
+            "initials": "M",
+            "lastname": "Ohtani"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Takeshi",
+            "initials": "T",
+            "lastname": "Into"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Nobuo",
+            "initials": "N",
+            "lastname": "Inoue"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Minoru",
+            "initials": "M",
+            "lastname": "Wakita"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ken-Ichiro",
+            "initials": "K",
+            "lastname": "Shibata"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2011 Elsevier GmbH. All rights reserved.",
+    "doi": "10.1016/j.imbio.2011.02.006",
+    "journal": "Immunobiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2011-04-19",
+    "pubmed_id": "21496943",
+    "results": null,
+    "title": "In vivo anti- and pro-tumour activities of the TLR2 ligand FSL-1.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a1760>"
+}{
+    "abstract": "Medical imaging has been transformed by a move from qualitative to quantitative approaches where image processing is used to enhance visual information and image analysis is used to derive structural and functional measurements. The ideal quantitative analysis methods are automatic and require no user intervention, and so-called image analysis pipelines exist for some applications. However, in the majority of cases automatic methods seldom live up to their name, may fail when prior assumptions are not met, and may not exist at all for new applications. The identification and careful use of well-known image processing and analysis techniques is a vital part of imaging and invaluable when problems arise with automatic methods. Here a number of key image analysis tasks in brain imaging are presented with particular reference to the freely available FMRIB Software Library.",
+    "authors": [
+        {
+            "affiliation": "King's College London, Institute of Psychiatry, Centre for Neuroimaging Sciences, London, UK. bill.crum@iop.kcl.ac.uk",
+            "firstname": "William R",
+            "initials": "WR",
+            "lastname": "Crum"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1007/978-1-61737-992-5_5",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2011-02-01",
+    "pubmed_id": "21279599",
+    "results": null,
+    "title": "Magnetic resonance brain image processing and arithmetic with FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6099ee0>"
+}{
+    "abstract": "Major depressive disorder (MDD) and diabetes mellitus type II (T2DM) are two of the major health challenges of our time. It has been shown that MDD and T2DM are highly co-morbid, and recent work has proposed a bi-directional connection between the diseases. The aim of the current study was to investigate the effect of a high-fat diet (HFD) on behavior and metabolism in a genetic rat model of depression, the Flinders Sensitive and Resistant Line (FSL/FRL) rats. Age and weight matched rats were fed a HFD or control diet for 10 weeks and subjected to behavioral testing and metabolic assessment. We found that HFD exacerbated the depressive-like behavior of the FSL rat in the Forced Swim Test (FST), a depression screening tool, although it did not affect the non-depressed FRL rat despite a higher caloric intake. Moreover, the depressive-like phenotype was associated with reduced anxiety and impairment in novel object recognition memory, while HFD consumption led to diminished object recognition memory as well. In both strains HFD increased insulin levels during an oral glucose tolerance test, although fasting blood glucose levels were only significantly increased by HFD in the FSL rat, suggesting a greater metabolic susceptibility in this rat strain. We conclude that compared with the FRL rat, the FSL rat is more susceptible to developing aberrant behaviors related to depression following metabolic stress induced by HFD. Further studies with a mechanistic focus could potentially lead to a better understanding of a possible pathophysiological link between T2DM and MDD.",
+    "authors": [
+        {
+            "affiliation": "Centre for Psychiatric Research, Aarhus University Hospital-Risskov, Risskov, Denmark.",
+            "firstname": "Anders",
+            "initials": "A",
+            "lastname": "Abildgaard"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Lasse",
+            "initials": "L",
+            "lastname": "Solskov"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Vallo",
+            "initials": "V",
+            "lastname": "Volke"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Brian H",
+            "initials": "BH",
+            "lastname": "Harvey"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Sten",
+            "initials": "S",
+            "lastname": "Lund"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gregers",
+            "initials": "G",
+            "lastname": "Wegener"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2010 Elsevier Ltd. All rights reserved.",
+    "doi": "10.1016/j.psyneuen.2010.09.004",
+    "journal": "Psychoneuroendocrinology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2010-10-05",
+    "pubmed_id": "20888697",
+    "results": null,
+    "title": "A high-fat diet exacerbates depressive-like behavior in the Flinders Sensitive Line (FSL) rat, a genetic model of depression.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e609b970>"
+}

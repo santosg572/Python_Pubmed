@@ -1,0 +1,554 @@
+{
+    "abstract": "We present the package ",
+    "authors": [
+        {
+            "affiliation": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21231, USA, jmuschel@jhsph.edu.",
+            "firstname": "John",
+            "initials": "J",
+            "lastname": "Muschelli"
+        },
+        {
+            "affiliation": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21231, USA.",
+            "firstname": "Elizabeth",
+            "initials": "E",
+            "lastname": "Sweeney"
+        },
+        {
+            "affiliation": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21231, USA, mlindqui@jhsph.edu.",
+            "firstname": "Martin",
+            "initials": "M",
+            "lastname": "Lindquist"
+        },
+        {
+            "affiliation": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21231, USA, ccrainic@jhsph.edu.",
+            "firstname": "Ciprian",
+            "initials": "C",
+            "lastname": "Crainiceanu"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": null,
+    "journal": "The R journal",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2016-06-23",
+    "pubmed_id": "27330830\n15955494\n20851191\n22796459\n8812068\n24200484\n25233361\n22248573\n21897815\n17354756\n9184886\n11516708\n12377157\n21979382\n20338898\n22484407\n9617910\n12391568\n22766673\n20378467\n11293691",
+    "results": null,
+    "title": "fslr: Connecting the FSL Software with R.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6080900>"
+}{
+    "abstract": "Toll-like receptors (TLR) are a family of pattern recognition receptors that sense microbial associated molecular patterns (MAMP) such as microbial membrane components and nucleic acids of bacterial origin. Polymorphonuclear neutrophils (PMN) are the first cell of the innate immune system to arrive at the site of infection or injury and elicit oxidative and non-oxidative microbicidal mechanisms. Observations in human and mouse suggest that TLR ligands can induce direct responses in PMN. So far, there is no information of the effect of synthetic TLR ligands on the response of bovine PMN. The objective of this study was to evaluate the functional response of bovine PMN incubated with four synthetic TLR ligands: ultrapure LPS (TLR4), Pam(3)CSK(4) (TLR2/1), HKLM (TLR2) and FSL-1 (TLR2/6). The results show that all the ligands increment cells size as identified by changes in the FSC-SSC as part of the flow cytometric analysis. Interestingly, only Pam(3)CSK(4) consistently induced a calcium influx, increased ROS production and secretion of gelatinase granules, whereas no response was seen using other ligands. Furthermore, exposure of bovine PMN to ultrapure LPS, Pam(3)CSK(4), HKLM or FSL-1 for 24 hours did not impact on apoptosis of these cells. Our data provide evidence for a selective response of bovine PMNs to TLR ligands.",
+    "authors": [
+        {
+            "affiliation": "Laboratory of Inflammation Pharmacology, Institute of Pharmacology and Morphophysiology, Faculty of Veterinary Science, Universidad Austral de Chile, Valdivia, Chile. Electronic address: ivanconejeros@uach.cl.",
+            "firstname": "Iv\u00e1n",
+            "initials": "I",
+            "lastname": "Conejeros"
+        },
+        {
+            "affiliation": "Department of Pathology and Pathogen Biology, Royal Veterinary College, Hawkshead Lane, Hatfield AL9 7TA, UK.",
+            "firstname": "Amanda J",
+            "initials": "AJ",
+            "lastname": "Gibson"
+        },
+        {
+            "affiliation": "Department of Pathology and Pathogen Biology, Royal Veterinary College, Hawkshead Lane, Hatfield AL9 7TA, UK.",
+            "firstname": "Dirk",
+            "initials": "D",
+            "lastname": "Werling"
+        },
+        {
+            "affiliation": "Institute of Parasitology, Justus Liebig University Giessen, Schubertstr. 81, BFS, 35392 Giessen, Germany.",
+            "firstname": "Tamara",
+            "initials": "T",
+            "lastname": "Mu\u00f1oz-Caro"
+        },
+        {
+            "affiliation": "Institute of Parasitology, Justus Liebig University Giessen, Schubertstr. 81, BFS, 35392 Giessen, Germany.",
+            "firstname": "Carlos",
+            "initials": "C",
+            "lastname": "Hermosilla"
+        },
+        {
+            "affiliation": "Institute of Parasitology, Justus Liebig University Giessen, Schubertstr. 81, BFS, 35392 Giessen, Germany.",
+            "firstname": "Anja",
+            "initials": "A",
+            "lastname": "Taubert"
+        },
+        {
+            "affiliation": "Laboratory of Inflammation Pharmacology, Institute of Pharmacology and Morphophysiology, Faculty of Veterinary Science, Universidad Austral de Chile, Valdivia, Chile.",
+            "firstname": "Rafael A",
+            "initials": "RA",
+            "lastname": "Burgos"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2015 Elsevier Ltd. All rights reserved.",
+    "doi": "10.1016/j.dci.2015.05.012",
+    "journal": "Developmental and comparative immunology",
+    "keywords": [
+        "Bovine",
+        "Innate immunity",
+        "PMN",
+        "ROS",
+        "Toll-like receptors"
+    ],
+    "methods": null,
+    "publication_date": "2015-06-01",
+    "pubmed_id": "26026246",
+    "results": null,
+    "title": "Effect of the synthetic Toll-like receptor ligands LPS, Pam3CSK4, HKLM and FSL-1 in the function of bovine polymorphonuclear neutrophils.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e609be70>"
+}{
+    "abstract": "Modeling depression in animals is based on the observation of behaviors interpreted as analog to human symptoms. Typical tests used in experimental depression research are designed to evoke an either-or outcome. It is known that explorative and coping strategies are relevant for depression, however these aspects are generally not considered in animal behavioral testing. Here we investigate the Flinders Sensitive Line (FSL), a rat model of depression, compared to the Sprague-Dawley (SD) rat in three independent tests where the animals are allowed to express a more extensive behavioral repertoire. The multivariate concentric square field\u2122 (MCSF) and the novel cage tests evoke exploratory behaviors in a novel environment and the home cage change test evokes social behaviors in the re-establishment of a social hierarchy. In the MCSF test, FSL rats exhibited less exploratory drive and more risk-assessment behavior compared to SD rats. When re-exposed to the arena, FSL, but not SD rats, increased their exploratory behavior compared to the first trial and displayed risk-assessment behavior to the same extent as SD rats. Thus, the behavior of FSL rats was more similar to that of SDs when the rats were familiar with the arena. In the novel cage test FSL rats exhibited a reactive coping style, consistent with the reduced exploration observed in the MCSF. Reactive coping is associated with less aggressive behavior. Accordingly, FSL rats displayed less aggressive behavior in the home cage change test. Taken together, our data show that FSL rats express altered exploratory behavior and reactive coping style. Reduced interest is a core symptom of depression, and individuals with a reactive coping style are more vulnerable to the disease. Our results support the use of FSL rats as an animal model of depression and increase our understanding of the FSL rat beyond the behavioral dimensions targeted by the traditional depression-related tests.",
+    "authors": [
+        {
+            "affiliation": "Department of Neuroscience, Karolinska Institutet Stockholm, Sweden.",
+            "firstname": "Salvatore",
+            "initials": "S",
+            "lastname": "Magara"
+        },
+        {
+            "affiliation": "Department of Neuroscience, Karolinska Institutet Stockholm, Sweden.",
+            "firstname": "Sarah",
+            "initials": "S",
+            "lastname": "Holst"
+        },
+        {
+            "affiliation": "Department of Pharmaceutical Biosciences, Uppsala University Uppsala, Sweden.",
+            "firstname": "Stina",
+            "initials": "S",
+            "lastname": "Lundberg"
+        },
+        {
+            "affiliation": "Department of Pharmaceutical Biosciences, Uppsala University Uppsala, Sweden.",
+            "firstname": "Erika",
+            "initials": "E",
+            "lastname": "Roman"
+        },
+        {
+            "affiliation": "Department of Neuroscience, Karolinska Institutet Stockholm, Sweden.",
+            "firstname": "Maria",
+            "initials": "M",
+            "lastname": "Lindskog"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.3389/fnbeh.2015.00089\n10.1016/j.psyneuen.2010.09.004\n10.1038/nmeth.1698\n10.1007/BF01923336\n10.1016/0014-2999(94)90800-1\n10.1146/annurev.ps.39.020188.000355\n10.1016/S0149-7634(05)80068-5\n10.1016/0278-5846(89)90105-X\n10.1007/BF01066170\n10.1016/j.jad.2014.08.006\n10.1186/1741-7015-11-126\n10.1038/nprot.2006.19\n10.1037/0735-7036.97.3.249\n10.1016/S0166-4328(89)80102-0\n10.1093/ijnp/pyv032\n10.1016/0031-9384(90)90022-V\n10.1038/mp.2012.10\n10.1037/0033-2909.127.1.45\n10.1007/s002130050367\n10.1080/15374416.2012.711708\n10.1016/S0022-3956(98)00036-3\n10.1038/sj.npp.1300506\n10.4088/PCC.v03n0609\n10.1016/S0376-6357(97)00055-7\n10.1038/sj.mp.4001979\n10.1016/j.neuroscience.2011.07.077\n10.1016/j.neubiorev.2011.02.003\n10.1159/000105485\n10.1016/S0149-7634(99)00026-3\n10.1016/0301-0082(80)90024-6\n10.1021/es102448b\n10.1016/j.bbr.2006.11.022\n10.1016/j.physbeh.2007.08.006\n10.1016/j.bbr.2005.10.020\n10.4236/jbbs.2013.34035\n10.1016/j.psychres.2008.03.024\n10.1016/j.bbr.2012.08.040\n10.1038/nn.2647\n10.3758/BF03200814\n10.1016/0006-3223(86)90007-7\n10.1016/S0149-7634(05)80230-1\n10.1016/j.ejphar.2004.04.010\n10.1124/pr.111.005397\n10.3389/fnbeh.2014.00236\n10.1016/j.bbr.2009.08.020\n10.1016/j.bbr.2007.06.009\n10.1111/j.1369-1600.2011.00327.x\n10.1016/0361-9230(91)90019-G\n10.1007/BF02244871\n10.1086/422893\n10.1046/j.1365-2826.1997.t01-1-00571.x\n10.1016/0741-8329(93)90046-Q\n10.1007/s00213-004-2005-5\n10.1046/j.1365-2826.2003.00986.x",
+    "journal": "Frontiers in behavioral neuroscience",
+    "keywords": [
+        "behavioral profiling",
+        "coping style",
+        "home cage change test",
+        "multivariate concentric square field (MCSF) test",
+        "novel cage test",
+        "risk assessment",
+        "risk taking",
+        "social behavior"
+    ],
+    "methods": null,
+    "publication_date": "2015-05-09",
+    "pubmed_id": "25954168\n20888697\n21984997\n1936199\n7705440\n2894198\n2287482\n2694228\n2757595\n25154536\n23672542\n17406222\n6617152\n2789700\n25762718\n2388951\n22371047\n11271756\n9335077\n22900513\n10094237\n15213704\n15014592\n24896854\n17389901\n21839808\n21316391\n17914253\n10580307\n7005965\n21049924\n17141886\n17888463\n16356558\n19450884\n22982068\n20877280\n11029818\n3942800\n8455816\n15178365\n23319547\n25076877\n19703494\n17688955\n21521426\n25538777\n2049612\n7862931\n15529965\n9089467\n8095393\n15448978\n12588514",
+    "results": null,
+    "title": "Altered explorative strategies and reactive coping style in the FSL rat model of depression.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e9acf0>"
+}{
+    "abstract": "Because our previous study showed disparate voxel based morphometry (VBM) results between SPM and FSL softwares in the brain of amyotrophic lateral sclerosis patients with frontotemporal dementia (ALS-FTD), we investigated which VBM results may more represent atrophy by comparing with Freesurfer's cortical volume and thickness measures.\nMRI at 1.5 T was obtained during routine clinical imaging of ALS-FTD patients (n\u2009=\u200918) and in unaffected neurologic controls (n\u2009=\u200915). Gray matter (GM) VBM analysis was carried out using FSL and SPM. Cortical thickness and volume analysis was performed using Freesurfer.\nGM volume was significantly (p\u2009<\u20090.05) reduced in both motor and extra motor regions in ALS- FTD when compared to unaffected neurologic controls in FSL and Freesurfer but not in SPM. Dice similarity index for cortical GM volume changes between FSL and Freesurfer was 0.30 for motor and 0.31 for non-motor regions as opposed to 0 (motor) and 0.02 (non-motor) between SPM and Freesurfer.\nGM volume changes using FSL showed similar pattern with Freesurfer cortical volume and thickness changes in contrast to SPM results. Our results suggest that, at least for our dataset, VBM results obtained using FSL software should be considered as more representative of GM atrophy.",
+    "authors": [
+        {
+            "affiliation": "Department of Electrical and Electronics Engineering, Birla Institute of Technology and Science, Pilani, 500078, Hyderabad Campus, India. venkatnrp78@gmail.com.\nDepartment of Biomedical Engineering, ND2, Lerner Research Institute, Cleveland Clinic, Cleveland, OH, 44195, USA. venkatnrp78@gmail.com.",
+            "firstname": "Venkateswaran",
+            "initials": "V",
+            "lastname": "Rajagopalan"
+        },
+        {
+            "affiliation": "Neuromuscular Center, Department of Neurology, S90, Neurological Institute, Cleveland Clinic, 9500 Euclid Avenue, Cleveland, OH, 44195, USA. pioroe@ccf.org.\nDepartment of Neurosciences, Lerner Research Institute, Cleveland Clinic, Cleveland, OH, 44195, USA. pioroe@ccf.org.",
+            "firstname": "Erik P",
+            "initials": "EP",
+            "lastname": "Pioro"
+        }
+    ],
+    "conclusions": "GM volume changes using FSL showed similar pattern with Freesurfer cortical volume and thickness changes in contrast to SPM results. Our results suggest that, at least for our dataset, VBM results obtained using FSL software should be considered as more representative of GM atrophy.",
+    "copyrights": null,
+    "doi": "10.1186/s12883-015-0274-8\n10.1006/nimg.2000.0582\n10.1212/01.wnl.0000167602.38643.29\n10.3174/ajnr.A0684\n10.1007/s00415-005-0646-x\n10.1212/WNL.57.9.1571\n10.1016/j.neuroimage.2011.05.053\n10.1016/j.neuroimage.2008.12.037\n10.1016/j.neuroimage.2004.07.051\n10.1006/nimg.2001.0786\n10.1002/hbm.10062\n10.1016/j.neuroimage.2012.03.074\n10.1109/42.906424\n10.1016/S1361-8415(01)00036-6\n10.1006/nimg.2002.1132\n10.1016/j.neuroimage.2007.07.007\n10.1016/j.neuroimage.2004.03.032\n10.1016/S0896-6273(02)00569-X\n10.1006/nimg.1998.0396\n10.1073/pnas.200033797\n10.1016/S1076-6332(03)00671-8\n10.1016/j.neuroimage.2010.01.091\n10.1118/1.4898125\n10.1136/jnnp-2011-300909",
+    "journal": "BMC neurology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2015-04-17",
+    "pubmed_id": "25879588\n10860804\n16009889\n17296989\n15739047\n11706094\n24470336\n21640841\n19195496\n15501092\n11525331\n12391568\n22484407\n11293691\n11516708\n12377157\n17761438\n15219578\n11832223\n9931269\n10984517\n14974593\n20123029\n25370628\n21965521",
+    "results": "GM volume was significantly (p\u2009<\u20090.05) reduced in both motor and extra motor regions in ALS- FTD when compared to unaffected neurologic controls in FSL and Freesurfer but not in SPM. Dice similarity index for cortical GM volume changes between FSL and Freesurfer was 0.30 for motor and 0.31 for non-motor regions as opposed to 0 (motor) and 0.02 (non-motor) between SPM and Freesurfer.",
+    "title": "Disparate voxel based morphometry (VBM) results between SPM and FSL softwares in ALS patients with frontotemporal dementia: which VBM results to consider?",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a6d40>"
+}{
+    "abstract": "We investigated the question of whether cholesterol catabolite can influence expression of inflammatory cytokines via Toll-like receptors (TLR) in monocytic cells. Treatment of THP-1 monocytic cells with 27-hydroxycholesterol (27OHChol) resulted in induction of gene transcription of TLR6 and elevated level of cell surface TLR6. Addition of FSL-1, a TLR6 agonist, to 27OHChol-treated cells resulted in transcription of the IL-1\u03b1 gene and enhanced secretion of the corresponding gene product. However, cholesterol did not affect TLR6 expression, and addition of FSL-1 to cholesterol-treated cells did not induce expression of IL-1\u03b1. Using pharmacological inhibitors, we investigated molecular mechanisms underlying the expression of TLR6 and IL-1\u03b1. Treatment with Akt inhibitor IV or U0126 resulted in significantly attenuated expression of TLR6 and IL-1\u03b1 induced by 27OHChol and 27OHChol plus FSL-1, respectively. In addition, treatment with LY294002, SB202190, or SP600125 resulted in significantly attenuated secretion of IL-1\u03b1. These results indicate that 27OHChol can induce inflammation by augmentation of TLR6-mediated production of IL-1\u03b1 in monocytic cells via multiple signaling pathways.",
+    "authors": [
+        {
+            "affiliation": "Department of Pharmacology, Pusan National University School of Medicine, Yangsan, 626-870, Korea.",
+            "firstname": "Weon",
+            "initials": "W",
+            "lastname": "Heo"
+        },
+        {
+            "affiliation": "Department of Pharmacology, Pusan National University School of Medicine, Yangsan, 626-870, Korea.",
+            "firstname": "Sun-Mi",
+            "initials": "SM",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": "College of Veterinary Medicine and Bio-Safety Research Institute, Chonbuk National University, Iksan, 570-752, Korea.",
+            "firstname": "Seong-Kug",
+            "initials": "SK",
+            "lastname": "Eo"
+        },
+        {
+            "affiliation": "Department of Pharmacology, Pusan National University School of Medicine, Yangsan, 626-870, Korea.",
+            "firstname": "Byung-Yong",
+            "initials": "BY",
+            "lastname": "Rhim"
+        },
+        {
+            "affiliation": "Department of Pharmacology, Pusan National University School of Medicine, Yangsan, 626-870, Korea.",
+            "firstname": "Koanhoi",
+            "initials": "K",
+            "lastname": "Kim"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.4196/kjpp.2014.18.6.475",
+    "journal": "The Korean journal of physiology & pharmacology : official journal of the Korean Physiological Society and the Korean Society of Pharmacology",
+    "keywords": [
+        "27-Hydroxycholesterol",
+        "Interleukin-1",
+        "Monocytes/macrophages",
+        "TLR-6"
+    ],
+    "methods": null,
+    "publication_date": "2015-01-20",
+    "pubmed_id": "25598661\n19302047\n12147202\n19752225\n8630372\n10428293\n15353494\n21616434\n16410796\n22822027\n10617772\n9920502\n11697115\n15739183\n24370436\n24269812\n16604541\n23271927\n16198162\n18056480\n20037584\n17466590\n17363965\n14977973\n21978918\n7766691\n16461893\n17117477\n11457834\n12586735\n8162590",
+    "results": null,
+    "title": "FSL-1, a Toll-like Receptor 2/6 Agonist, Induces Expression of Interleukin-1\u03b1 in the Presence of 27-hydroxycholesterol.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ea9d00>"
+}{
+    "abstract": "Oxidative stress (OS) is common in inflammatory conditions and may be important in atopic dermatitis (AD) etiology. The aim of this project was to study the involvement of oxidation in FSL-1 (deacylated lipoprotein)-triggered signaling pathways leading to AD-typical cytokine expression in HaCaT keratinocytes. HaCaT keratinocytes, pretreated with the inhibitor to OS N-acetylcysteine (NAC), were exposed to FSL-1, a stimulator of AD-related cytokines. Cytokines expression was studied by real time polymerase chain reaction (PCR); nuclear factor-kappa B (NF-\u03baB) and p38 mitogen activated protein kinase (MAPK) activities were studied by western blotting; and the oxidative state of cells was determined by the dichlorofluorescein (DCF) assay. We found that endogenous OS in keratinocytes appeared 4 h after FSL-1 administration. OS activated NF-\u03baB, but not p38 MAPK, and the inhibition of OS reduced FSL-1 induced interleukin (IL) 33, thymic stromal lymphopoietin (TSLP) and TNF\u03b1 mRNA expression. We conclude that FSL-1 triggers an OS reaction in HaCaT keratinocytes, which is probably a secondary event affecting the expression of specific AD typical cytokines, possibly through the NF-\u03baB pathways. This role of OS in the inflammatory response in AD is worth further investigating.",
+    "authors": [
+        {
+            "affiliation": "Department of Anatomy and Cell Biology, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, 9649, Haifa, Israel, ifat.koren@gmail.com.",
+            "firstname": "I",
+            "initials": "I",
+            "lastname": "Koren Carmi"
+        },
+        {
+            "affiliation": null,
+            "firstname": "R",
+            "initials": "R",
+            "lastname": "Haj"
+        },
+        {
+            "affiliation": null,
+            "firstname": "H",
+            "initials": "H",
+            "lastname": "Yehuda"
+        },
+        {
+            "affiliation": null,
+            "firstname": "S",
+            "initials": "S",
+            "lastname": "Tamir"
+        },
+        {
+            "affiliation": null,
+            "firstname": "A Z",
+            "initials": "AZ",
+            "lastname": "Reznick"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1007/5584_2014_98",
+    "journal": "Advances in experimental medicine and biology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2014-12-17",
+    "pubmed_id": "25510360",
+    "results": null,
+    "title": "The role of oxidation in FSL-1 induced signaling pathways of an atopic dermatitis model in HaCaT keratinocytes.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a1490>"
+}{
+    "abstract": "Accurate brain tissue segmentation from magnetic resonance (MR) images is an important step in analysis of cerebral images. There are software packages which are used for brain segmentation. These packages usually contain a set of skull stripping, intensity non-uniformity (bias) correction and segmentation routines. Thus, assessment of the quality of the segmented gray matter (GM), white matter (WM) and cerebrospinal fluid (CSF) is needed for the neuroimaging applications.\nIn this paper, performance evaluation of three widely used brain segmentation software packages SPM8, FSL and Brainsuite is presented. Segmentation with SPM8 has been performed in three frameworks: i) default segmentation, ii) SPM8 New-segmentation and iii) modified version using hidden Markov random field as implemented in SPM8-VBM toolbox.\nThe accuracy of the segmented GM, WM and CSF and the robustness of the tools against changes of image quality has been assessed using Brainweb simulated MR images and IBSR real MR images. The calculated similarity between the segmented tissues using different tools and corresponding ground truth shows variations in segmentation results.\nA few studies has investigated GM, WM and CSF segmentation. In these studies, the skull stripping and bias correction are performed separately and they just evaluated the segmentation. Thus, in this study, assessment of complete segmentation framework consisting of pre-processing and segmentation of these packages is performed. The obtained results can assist the users in choosing an appropriate segmentation software package for the neuroimaging application of interest.",
+    "authors": [
+        {
+            "affiliation": "Department of Electrical and Electronics Engineering, Shiraz University of Technology, Shiraz, Iran.",
+            "firstname": "K",
+            "initials": "K",
+            "lastname": "Kazemi"
+        },
+        {
+            "affiliation": "Department of Electrical and Electronics Engineering, Shiraz University of Technology, Shiraz, Iran.",
+            "firstname": "N",
+            "initials": "N",
+            "lastname": "Noorizadeh"
+        }
+    ],
+    "conclusions": "A few studies has investigated GM, WM and CSF segmentation. In these studies, the skull stripping and bias correction are performed separately and they just evaluated the segmentation. Thus, in this study, assessment of complete segmentation framework consisting of pre-processing and segmentation of these packages is performed. The obtained results can assist the users in choosing an appropriate segmentation software package for the neuroimaging application of interest.",
+    "copyrights": null,
+    "doi": null,
+    "journal": "Journal of biomedical physics & engineering",
+    "keywords": [
+        "Brain",
+        "Brainsuite",
+        "FSL",
+        "MRI",
+        "SPM",
+        "Segmentation"
+    ],
+    "methods": null,
+    "publication_date": "2014-12-17",
+    "pubmed_id": "25505764\n8413011\n9533587\n12956262\n18215925\n18784040\n22728688\n20230858\n15955494\n12472266\n10628949\n17260863\n18276467\n15501092\n12045000\n19163571\n18537111\n16463385\n16350916\n11293691",
+    "results": "The accuracy of the segmented GM, WM and CSF and the robustness of the tools against changes of image quality has been assessed using Brainweb simulated MR images and IBSR real MR images. The calculated similarity between the segmented tissues using different tools and corresponding ground truth shows variations in segmentation results.",
+    "title": "Quantitative Comparison of SPM, FSL, and Brainsuite for Brain MR Image Segmentation.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6092610>"
+}{
+    "abstract": "Diffusion imaging is a unique noninvasive tool to detect brain white matter trajectory and integrity in vivo. However, this technique suffers from spatial distortion and signal pileup or dropout originating from local susceptibility gradients and eddy currents. Although there are several methods to mitigate these problems, most techniques can be applicable either to susceptibility or eddy-current induced distortion alone with a few exceptions. The present study compared the correction efficiency of FSL tools, \"eddy_correct\" and the combination of \"eddy\" and \"topup\" in terms of diffusion-derived fractional anisotropy (FA). The brain diffusion images were acquired from 10 healthy subjects using 30 and 60 directions encoding schemes based on the electrostatic repulsive forces. For the 30 directions encoding, 2 sets of diffusion images were acquired with the same parameters, except for the phase-encode blips which had opposing polarities along the anteroposterior direction. For the 60 directions encoding, non-diffusion-weighted and diffusion-weighted images were obtained with forward phase-encoding blips and non-diffusion-weighted images with the same parameter, except for the phase-encode blips, which had opposing polarities. FA images without and with distortion correction were compared in a voxel-wise manner with tract-based spatial statistics. We showed that images corrected with eddy and topup possessed higher FA values than images uncorrected and corrected with eddy_correct with trilinear (FSL default setting) or spline interpolation in most white matter skeletons, using both encoding schemes. Furthermore, the 60 directions encoding scheme was superior as measured by increased FA values to the 30 directions encoding scheme, despite comparable acquisition time. This study supports the combination of eddy and topup as a superior correction tool in diffusion imaging rather than the eddy_correct tool, especially with trilinear interpolation, using 60 directions encoding scheme.",
+    "authors": [
+        {
+            "affiliation": "Department of Radiology, Nihon University School of Medicine, Tokyo, Japan.",
+            "firstname": "Haruyasu",
+            "initials": "H",
+            "lastname": "Yamada"
+        },
+        {
+            "affiliation": "Department of Radiology, Nihon University School of Medicine, Tokyo, Japan.",
+            "firstname": "Osamu",
+            "initials": "O",
+            "lastname": "Abe"
+        },
+        {
+            "affiliation": "Department of Radiology, Nihon University School of Medicine, Tokyo, Japan.",
+            "firstname": "Takashi",
+            "initials": "T",
+            "lastname": "Shizukuishi"
+        },
+        {
+            "affiliation": "Department of Radiology, Nihon University School of Medicine, Tokyo, Japan.",
+            "firstname": "Junko",
+            "initials": "J",
+            "lastname": "Kikuta"
+        },
+        {
+            "affiliation": "Department of Oral Diagnostic Sciences, Nihon University School of Dentistry, Tokyo, Japan.",
+            "firstname": "Takahiro",
+            "initials": "T",
+            "lastname": "Shinozaki"
+        },
+        {
+            "affiliation": "Department of Oral Diagnostic Sciences, Nihon University School of Dentistry, Tokyo, Japan.",
+            "firstname": "Ko",
+            "initials": "K",
+            "lastname": "Dezawa"
+        },
+        {
+            "affiliation": "Department of Radiological Technology, Nihon University Itabashi Hospital, Tokyo, Japan.",
+            "firstname": "Akira",
+            "initials": "A",
+            "lastname": "Nagano"
+        },
+        {
+            "affiliation": "Department of Radiological Technology, Nihon University Itabashi Hospital, Tokyo, Japan.",
+            "firstname": "Masayuki",
+            "initials": "M",
+            "lastname": "Matsuda"
+        },
+        {
+            "affiliation": "Department of Radiology, Nihon University School of Medicine, Tokyo, Japan.",
+            "firstname": "Hiroki",
+            "initials": "H",
+            "lastname": "Haradome"
+        },
+        {
+            "affiliation": "Department of Oral Diagnostic Sciences, Nihon University School of Dentistry, Tokyo, Japan.",
+            "firstname": "Yoshiki",
+            "initials": "Y",
+            "lastname": "Imamura"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1371/journal.pone.0112411",
+    "journal": "PloS one",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2014-11-19",
+    "pubmed_id": "25405472\n12778119\n9178246\n12111941\n14568458\n20665782\n19944768\n11969328\n12270226\n14705050\n17024663\n19608366\n20574966\n12509835\n23674437\n20143387\n15501092\n23668970\n23702418\n15065255\n15921931\n19161198\n16624579\n12353272",
+    "results": null,
+    "title": "Efficacy of distortion correction on diffusion imaging: comparison of FSL eddy and eddy_correct using 30 and 60 directions diffusion encoding.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e88770>"
+}{
+    "abstract": "Matrix metalloproteinase-9 (MMP-9) is known to be implicated in the pathogenesis of many inflammatory disorders. FSL-1 (fibroblast-stimulating lipopeptide-1) induces cytokine production by monocytes/macrophages. However, it is unclear whether FSL-1 is also able to induce MMP-9 production. Herein, we determined whether FSL-1 could induce MMP-9 production, and if so, which signal transduction pathway(s) were involved.\nMMP-9 expression was assessed with real-time qPCR and ELISA. Signaling pathways were studied by using THP1-XBlue\u2122 cells, THP1-XBlue\u2122-defMyD cells, anti-TLR2 mAb and pharmacological inhibitors. Phospho and total proteins were determined by Western blotting.\nFSL-1 induces MMP-9 expression (P<0.001) at both mRNA and protein levels in human monocytic THP-1 cells. Elevated activity (P<0.001) of NF-\u03baB/AP-1 was also observed in FSL-1-treated THP-1 cells. FSL-1-induced MMP-9 secretion was markedly suppressed either by neutralizing anti-TLR-2 antibody or by inhibiting clathrin-dependent endocytosis. Furthermore, MyD88(-/-) THP-1 cells did not express MMP-9 in response to FSL-1 treatment. By small interfering RNA-mediated knockdown, we also show that FSL-1-induced up-regulation of MMP-9 requires MyD88. Pre-treatment of THP-1 cells with inhibitors of JNK (SP600125), MEK/ERK (U0126; PD98056; XMD 8-92), p38 MAPK (SB203580) and NF-\u03baB (BAY11-7085, Triptolide, Resveratrol) significantly suppressed (P<0.05) MMP-9 gene expression and NF-\u03baB/AP-1 transcription factors activity.\nThese findings provide the first evidence that FSL-1 induces TLR-2-dependent MMP-9 gene expression which requires the recruitment of MyD88 and leads to activation of MEK1/2 /ERK 1/2, MEK5/ERK5, JNK, p38 MAPK and NF-\u03baB/AP-1.",
+    "authors": [
+        {
+            "affiliation": "Immunology & Innovative Cell therapy Unit, Dasman Diabetes Institute, Kuwait, Kuwait.",
+            "firstname": "Rasheed",
+            "initials": "R",
+            "lastname": "Ahmad"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Puthiyaveetil Kochumon",
+            "initials": "PK",
+            "lastname": "Shihab"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Sara",
+            "initials": "S",
+            "lastname": "Jasem"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kazem",
+            "initials": "K",
+            "lastname": "Behbehani"
+        }
+    ],
+    "conclusions": "These findings provide the first evidence that FSL-1 induces TLR-2-dependent MMP-9 gene expression which requires the recruitment of MyD88 and leads to activation of MEK1/2 /ERK 1/2, MEK5/ERK5, JNK, p38 MAPK and NF-\u03baB/AP-1.",
+    "copyrights": null,
+    "doi": "10.1159/000366310",
+    "journal": "Cellular physiology and biochemistry : international journal of experimental cellular physiology, biochemistry, and pharmacology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2014-09-10",
+    "pubmed_id": "25200491",
+    "results": "FSL-1 induces MMP-9 expression (P<0.001) at both mRNA and protein levels in human monocytic THP-1 cells. Elevated activity (P<0.001) of NF-\u03baB/AP-1 was also observed in FSL-1-treated THP-1 cells. FSL-1-induced MMP-9 secretion was markedly suppressed either by neutralizing anti-TLR-2 antibody or by inhibiting clathrin-dependent endocytosis. Furthermore, MyD88(-/-) THP-1 cells did not express MMP-9 in response to FSL-1 treatment. By small interfering RNA-mediated knockdown, we also show that FSL-1-induced up-regulation of MMP-9 requires MyD88. Pre-treatment of THP-1 cells with inhibitors of JNK (SP600125), MEK/ERK (U0126; PD98056; XMD 8-92), p38 MAPK (SB203580) and NF-\u03baB (BAY11-7085, Triptolide, Resveratrol) significantly suppressed (P<0.05) MMP-9 gene expression and NF-\u03baB/AP-1 transcription factors activity.",
+    "title": "FSL-1 induces MMP-9 production through TLR-2 and NF-\u03baB /AP-1 signaling pathways in monocytic THP-1 cells.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5eb1df0>"
+}{
+    "abstract": "The back-to-back (BTB) acquisition of MP-RAGE MRI scans of the Alzheimer\u05f3s Disease Neuroimaging Initiative (ADNI1) provides an excellent data set with which to check the reproducibility of brain atrophy measures. As part of ADNI1, 131 subjects received BTB MP-RAGEs at multiple time points and two field strengths of 3T and 1.5 T. As a result, high quality data from 200 subject-visit-pairs was available to compare the reproducibility of brain atrophies measured with FSL/SIENA over 12 to 18 month intervals at both 3T and 1.5 T. Although several publications have reported on the differing performance of brain atrophy measures at 3T and 1.5 T, no formal comparison of reproducibility has been published to date. Another goal was to check whether tuning SIENA options, including -B, -S, -R and the fractional intensity threshold (f) had a significant impact on the reproducibility. The BTB reproducibility for SIENA was quantified by the 50th percentile of the absolute value of the difference in the percentage brain volume change (PBVC) for the BTB MP-RAGES. At both 3T and 1.5 T the SIENA option combination of \"-B f=0.2\", which is different from the default values of f=0.5, yielded the best reproducibility as measured by the 50th percentile yielding 0.28 (0.23-0.39)% and 0.26 (0.20-0.32)%. These results demonstrated that in general 3T had no advantage over 1.5 T for the whole brain atrophy measure - at least for SIENA. While 3T MRI is superior to 1.5 T for many types of measurements, and thus worth the additional cost, brain atrophy measurement does not seem to be one of them.",
+    "authors": [
+        {
+            "affiliation": "Department of Physics and Medical Technology, VU University medical center, Amsterdam, The Netherlands. Electronic address: Keith@kscover.ca.",
+            "firstname": "Keith S",
+            "initials": "KS",
+            "lastname": "Cover"
+        },
+        {
+            "affiliation": "Department of Radiology, VU University medical center, Amsterdam, The Netherlands.",
+            "firstname": "Ronald A",
+            "initials": "RA",
+            "lastname": "van Schijndel"
+        },
+        {
+            "affiliation": "Department of Radiology, VU University medical center, Amsterdam, The Netherlands.",
+            "firstname": "Veronica",
+            "initials": "V",
+            "lastname": "Popescu"
+        },
+        {
+            "affiliation": "Department of Physics and Medical Technology, VU University medical center, Amsterdam, The Netherlands.",
+            "firstname": "Bob W",
+            "initials": "BW",
+            "lastname": "van Dijk"
+        },
+        {
+            "affiliation": "Laboratory of Epidemiology & Neuroimaging, IRCCS San Giovanni di Dio Fatebenefratelli, Via Pilastroni 4, 25125 Brescia, Italy.",
+            "firstname": "Alberto",
+            "initials": "A",
+            "lastname": "Redolfi"
+        },
+        {
+            "affiliation": "Department of Epidemiology and Biostatistics, VU University medical center, Amsterdam, The Netherlands.",
+            "firstname": "Dirk L",
+            "initials": "DL",
+            "lastname": "Knol"
+        },
+        {
+            "affiliation": "Laboratory of Epidemiology & Neuroimaging, IRCCS San Giovanni di Dio Fatebenefratelli, Via Pilastroni 4, 25125 Brescia, Italy.",
+            "firstname": "Giovanni B",
+            "initials": "GB",
+            "lastname": "Frisoni"
+        },
+        {
+            "affiliation": "Department of Radiology, VU University medical center, Amsterdam, The Netherlands; MS Center Amsterdam and Alzheimer Center, VU University medical center, Amsterdam, The Netherlands.",
+            "firstname": "Frederik",
+            "initials": "F",
+            "lastname": "Barkhof"
+        },
+        {
+            "affiliation": "Department of Physics and Medical Technology, VU University medical center, Amsterdam, The Netherlands; Department of Radiology, VU University medical center, Amsterdam, The Netherlands; MS Center Amsterdam and Alzheimer Center, VU University medical center, Amsterdam, The Netherlands.",
+            "firstname": "Hugo",
+            "initials": "H",
+            "lastname": "Vrenken"
+        },
+        {
+            "affiliation": null,
+            "firstname": null,
+            "initials": null,
+            "lastname": null
+        },
+        {
+            "affiliation": null,
+            "firstname": null,
+            "initials": null,
+            "lastname": null
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2014 Elsevier Ireland Ltd. All rights reserved.",
+    "doi": "10.1016/j.pscychresns.2014.07.002",
+    "journal": "Psychiatry research",
+    "keywords": [
+        "Alzheimer\u05f3s",
+        "Back-to-back",
+        "Brain atrophy",
+        "FSL",
+        "Reproducibility\u05f3"
+    ],
+    "methods": null,
+    "publication_date": "2014-08-05",
+    "pubmed_id": "25089020",
+    "results": null,
+    "title": "The SIENA/FSL whole brain atrophy algorithm is no more reproducible at 3T than 1.5 T for Alzheimer's disease.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ebcf90>"
+}{
+    "abstract": "Toll-like receptors (TLRs) 2 and 5 induce inflammation via the adapter proteins myeloid differentiation factor 88 (MyD88) and TNFR-associated factor 6 (TRAF6) and the transcription factor nuclear factor-kappa B (NF-\u03baB). The aims of this study were to determine the effects of the TLR5 ligand flagellin and the TLR2 ligand FSL-1 on pro-inflammatory and pro-labour mediators in human fetal membranes and myometrium, and to establish whether their actions are dependent on MyD88, TRAF6 and NF-\u03baB.\nTissue explants were performed to determine the effect of flagellin and FSL-1 on pro-labour mediators in fetal membranes and myometrium. siRNA knockdown was performed in primary amnion and myometrium cells to determine the role of MyD88, TRAF6 and NF-\u03baB.\nFlagellin and FSL-1 increased pro-inflammatory cytokines (IL-6 and IL-8), MMP-9 expression and activity, and COX-2 expression and prostaglandin release. siRNA knockdown of TLR2 decreased FSL-1 induced production of IL-6, IL-8, COX-2, prostaglandins and MMP-9; similarly, siRNA knockdown of TLR5 decreased flagellin induced production of these pro-labour mediators. The effects of flagellin and FSL-1 are mediated by MyD88 and TRAF6, as siRNA knockdown of MyD88 and TRAF6 decreased flagellin and FSL-1 induced pro-labour mediators. Additionally, the effects of flagellin and FSL-1 are mediated via NF-\u03baB, as flagellin and FSL-1 increased NF-\u03baB transcriptional activity, and the NF-\u03baB inhibitor BAY 11-7082 attenuated flagellin and FSL-1 induced expression and secretion of pro-labour mediators.\nTLR2 engagement by the synthetic lipoprotein FSL-1 and TLR5 engagement by bacterial flagellin enhances pro-inflammatory and pro-labour mediators in human fetal membranes and myometrium via MyD88/TRAF6/NF-\u03baB.",
+    "authors": [
+        {
+            "affiliation": "Obstetrics, Nutrition and Endocrinology Group, Department of Obstetrics and Gynaecology, University of Melbourne, Heidelberg, Vic., Australia; Mercy Perinatal Research Centre, Mercy Hospital for Women, Heidelberg, Vic, Australia.",
+            "firstname": "Ratana",
+            "initials": "R",
+            "lastname": "Lim"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gillian",
+            "initials": "G",
+            "lastname": "Barker"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Martha",
+            "initials": "M",
+            "lastname": "Lappas"
+        }
+    ],
+    "conclusions": "TLR2 engagement by the synthetic lipoprotein FSL-1 and TLR5 engagement by bacterial flagellin enhances pro-inflammatory and pro-labour mediators in human fetal membranes and myometrium via MyD88/TRAF6/NF-\u03baB.",
+    "copyrights": "\u00a9 2014 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.",
+    "doi": "10.1111/aji.12229",
+    "journal": "American journal of reproductive immunology (New York, N.Y. : 1989)",
+    "keywords": [
+        "Foetal membranes",
+        "MyD88",
+        "NFkappa B",
+        "TLR2",
+        "TLR5",
+        "myometrium"
+    ],
+    "methods": null,
+    "publication_date": "2014-03-19",
+    "pubmed_id": "24635133",
+    "results": "Flagellin and FSL-1 increased pro-inflammatory cytokines (IL-6 and IL-8), MMP-9 expression and activity, and COX-2 expression and prostaglandin release. siRNA knockdown of TLR2 decreased FSL-1 induced production of IL-6, IL-8, COX-2, prostaglandins and MMP-9; similarly, siRNA knockdown of TLR5 decreased flagellin induced production of these pro-labour mediators. The effects of flagellin and FSL-1 are mediated by MyD88 and TRAF6, as siRNA knockdown of MyD88 and TRAF6 decreased flagellin and FSL-1 induced pro-labour mediators. Additionally, the effects of flagellin and FSL-1 are mediated via NF-\u03baB, as flagellin and FSL-1 increased NF-\u03baB transcriptional activity, and the NF-\u03baB inhibitor BAY 11-7082 attenuated flagellin and FSL-1 induced expression and secretion of pro-labour mediators.",
+    "title": "The TLR2 ligand FSL-1 and the TLR5 ligand Flagellin mediate pro-inflammatory and pro-labour response via MyD88/TRAF6/NF-\u03baB-dependent signalling.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ecccc0>"
+}

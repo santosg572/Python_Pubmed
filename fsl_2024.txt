@@ -1,0 +1,448 @@
+{
+    "abstract": "We present MMORF-FSL's MultiMOdal Registration Framework-a newly released nonlinear image registration tool designed primarily for application to magnetic resonance imaging (MRI) images of the brain. MMORF is capable of simultaneously optimising both displacement and rotational transformations within a single registration framework by leveraging rich information from multiple scalar and tensor modalities. The regularisation employed in MMORF promotes local rigidity in the deformation, and we have previously demonstrated how this effectively controls both shape and size distortion, leading to more biologically plausible warps. The performance of MMORF is benchmarked against three established nonlinear registration methods-FNIRT, ANTs, and DR-TAMAS-across four domains: FreeSurfer label overlap, diffusion tensor imaging (DTI) similarity, task-fMRI cluster mass, and distortion. The evaluation is based on 100 unrelated subjects from the Human Connectome Project (HCP) dataset registered to the Oxford-MultiModal-1 (OMM-1) multimodal template via either the T1w contrast alone or in combination with a DTI/DTI-derived contrast. Results show that MMORF is the most consistently high-performing method across all domains-both in terms of accuracy and levels of distortion. MMORF is available as part of FSL, and its inputs and outputs are fully compatible with existing workflows. We believe that MMORF will be a valuable tool for the neuroimaging community, regardless of the domain of any downstream analysis, providing state-of-the-art registration performance that integrates into the rich and widely adopted suite of analysis tools in FSL.",
+    "authors": [
+        {
+            "affiliation": "Wellcome Centre for Integrative Neuroimaging, FMRIB, Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, United Kingdom.",
+            "firstname": "Frederik J",
+            "initials": "FJ",
+            "lastname": "Lange"
+        },
+        {
+            "affiliation": "Wellcome Centre for Integrative Neuroimaging, FMRIB, Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, United Kingdom.",
+            "firstname": "Christoph",
+            "initials": "C",
+            "lastname": "Arthofer"
+        },
+        {
+            "affiliation": "Department of Neuroradiology, University of Heidelberg, Heidelberg, Germany.",
+            "firstname": "Andreas",
+            "initials": "A",
+            "lastname": "Bartsch"
+        },
+        {
+            "affiliation": "Wellcome Centre for Integrative Neuroimaging, FMRIB, Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, United Kingdom.",
+            "firstname": "Gwena\u00eblle",
+            "initials": "G",
+            "lastname": "Douaud"
+        },
+        {
+            "affiliation": "Wellcome Centre for Integrative Neuroimaging, FMRIB, Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, United Kingdom.",
+            "firstname": "Paul",
+            "initials": "P",
+            "lastname": "McCarthy"
+        },
+        {
+            "affiliation": "Wellcome Centre for Integrative Neuroimaging, FMRIB, Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, United Kingdom.",
+            "firstname": "Stephen M",
+            "initials": "SM",
+            "lastname": "Smith"
+        },
+        {
+            "affiliation": "Wellcome Centre for Integrative Neuroimaging, FMRIB, Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, United Kingdom.",
+            "firstname": "Jesper L R",
+            "initials": "JLR",
+            "lastname": "Andersson"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1162/imag_a_00100\n10.12688/wellcomeopenres.15191.2\n10.1101/646802\n10.1016/j.neuroimage.2015.10.019\n10.1101/2023.11.30.569378\n10.1002/%28SICI%291097-0193%28200004%299%3A4%3C212%3A%3AAID-HBM3%3E3.0.CO%3B2-%23\n10.1002/(SICI)1097-0193(200004)9:4<212::AID-HBM3>3.0.CO;2-#\n10.1016/j.media.2007.06.004\n10.3389/fninf.2014.00044\n10.1016/j.neuroimage.2009.09.062\n10.1016/s0734-189x(89)80014-3\n10.1109/cvpr.2018.00964\n10.1016/j.neuroimage.2013.05.033\n10.1023/b:visi.0000043755.93987.aa\n10.1007/3-540-63046-5_2\n10.1007/BFb0046964\n10.1007/3-540-48714-X_17\n10.1073/pnas.1801582115\n10.1016/j.neuroimage.2010.06.010\n10.1109/icpr.1994.576361\n10.1016/j.neuroimage.2021.118543\n10.1016/j.neuroimage.2013.04.127\n10.1109/TMI.2021.3116879\n10.1198/0003130042836\n10.1016/j.neuroimage.2016.02.066\n10.1016/j.neuroimage.2008.12.037\n10.1016/j.neuroimage.2020.116962\n10.1038/nn.4393\n10.1016/s0893-6080(05)80056-5\n10.1007/b98874\n10.1109/TMI.2014.2330355\n10.1016/j.neuroimage.2017.10.037\n10.1109/TMI.2011.2163944\n10.1093/cercor/bhab285\n10.1016/j.neuroimage.2021.118113\n10.1109/sfcs.1998.743449\n10.1023/a:1007996332012\n10.1007/s10851-008-0129-7\n10.1109/78.193220\n10.1109/78.193221\n10.1016/j.neuroimage.2013.05.041\n10.1016/j.neuroimage.2012.02.018\n10.1016/j.neuroimage.2014.01.060\n10.1109/TMI.2009.2025654\n10.1109/TMI.2021.3139507",
+    "journal": "Imaging neuroscience (Cambridge, Mass.)",
+    "keywords": [
+        "FSL",
+        "multimodal",
+        "nonlinear",
+        "registration",
+        "volumetric"
+    ],
+    "methods": null,
+    "publication_date": "2024-12-23",
+    "pubmed_id": "39712347\n10918328\n11700739\n31069261\n14568458\n26481672\n17761438\n10334905\n10770230\n10860804\n17659998\n24817849\n19818860\n23684877\n17896591\n28991744\n29925602\n20547229\n17698497\n34508893\n11832223\n15501102\n23668970\n12482086\n34587005\n36147449\n26931817\n12377157\n21979382\n11516708\n15501084\n19195496\n32497785\n27643430\n9339500\n19818524\n24951685\n21316463\n29100940\n21827972\n12872948\n34518890\n33940143\n23684880\n22366334\n17354645\n31542711\n24530839\n19556193\n34968177\n16899392",
+    "results": null,
+    "title": "MMORF-FSL's MultiMOdal Registration Framework.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5e983b0>"
+}{
+    "abstract": "Subcortical volumes are a promising source of biomarkers and features in biosignatures, and automated methods facilitate extracting them in large, phenotypically rich datasets. However, while extensive research has verified that the automated methods produce volumes that are similar to those generated by expert annotation; the consistency of methods with each other is understudied. Using data from the UK Biobank, we compare the estimates of subcortical volumes produced by two popular software suites: FSL and FreeSurfer. Although most subcortical volumes exhibit good to excellent consistency across the methods, the tools produce diverging estimates of amygdalar volume. Through simulation, we show that this poor consistency can lead to conflicting results, where one but not the other tool suggests statistical significance, or where both tools suggest a significant relationship but in opposite directions. Considering these issues, we discuss several ways in which care should be taken when reporting on relationships involving amygdalar volume.",
+    "authors": [
+        {
+            "affiliation": "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA.",
+            "firstname": "Patrick",
+            "initials": "P",
+            "lastname": "Sadil"
+        },
+        {
+            "affiliation": "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA.",
+            "firstname": "Martin A",
+            "initials": "MA",
+            "lastname": "Lindquist"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2024 The Author(s). Human Brain Mapping published by Wiley Periodicals LLC.",
+    "doi": "10.1002/hbm.70027\n10.1109/TMI.2013.2266258\n10.1016/j.neuroimage.2017.10.034\n10.1016/j.media.2023.102789\n10.1016/j.pscychresns.2018.12.005\n10.1016/j.neuroimage.2010.03.033\n10.1002/jmri.22473\n10.1177/0284185120963919\n10.1016/j.neuroimage.2012.01.021\n10.1016/j.neuroimage.2021.118751\n10.1002/jmri.10163\n10.3389/fdata.2021.577164\n10.3389/fnagi.2022.818871\n10.1016/j.neuroimage.2011.11.040\n10.1016/j.neuroimage.2009.10.056\n10.1177/0333102416678624\n10.1186/s12868-020-00585-1\n10.1093/biostatistics/kxn014\n10.1038/s41586-022-04492-9\n10.5281/ZENODO.1997626\n10.1002/brb3.759\n10.1016/j.neuroimage.2008.12.033\n10.1002/hbm.20973\n10.1016/j.neuroimage.2014.01.058\n10.1002/hbm.22068\n10.1111/j.1528-1167.2009.02243.x\n10.1016/j.neuroimage.2011.02.046\n10.1038/s41598-017-02584-5\n10.1097/CHI.0b013e318185d299\n10.1016/j.pscychresns.2009.06.001\n10.1016/j.pscychresns.2012.02.012\n10.1016/j.pscychresns.2009.10.011\n10.1016/j.neuroimage.2016.01.038\n10.1177/0972753121990175\n10.1177/1745691616658637\n10.1097/EDE.0b013e3181e5b06a\n10.1038/sj.npp.1300399\n10.1007/s00234-008-0383-9\n10.1093/brain/aww100\n10.1002/hbm.22473\n10.1371/journal.pone.0146913\n10.1016/j.dcn.2021.101028",
+    "journal": "Human brain mapping",
+    "keywords": [
+        "MRI",
+        "amygdala"
+    ],
+    "methods": null,
+    "publication_date": "2024-11-27",
+    "pubmed_id": "39600154\n23744673\n29079522\n36857946\n7315877\n30554129\n20338250\n21563239\n33121264\n22248573\n34848299\n12205587\n34723175\n35707703\n22155377\n19874902\n27919022\n32887546\n18550565\n35296861\n28948069\n19162198\n20162602\n24521851\n22815187\n19682030\n21352927\n21352927\n28546533\n18827720\n19914045\n22507760\n20153146\n26824403\n34733059\n27694465\n20699681\n14970831\n18414838\n27190016\n24532539\n26812647\n34749182",
+    "results": null,
+    "title": "Comparing automated subcortical volume estimation methods; amygdala volumes estimated by FSL and FreeSurfer have poor consistency.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e6093c90>"
+}{
+    "abstract": "Fluoxetine is present in breast milk, yet it is unclear to what extent it, or its active metabolite, norfluoxetine, reaches the brain of the infant and what the effects of such exposure on neurobiological processes are. We therefore aimed to quantify the concentration of passively administered fluoxetine and norfluoxetine in the whole brains of exposed Flinders sensitive line (FSL) offspring and establish their influence on serotonergic function and redox status.\nAdult FSL dams received fluoxetine (10\u00a0mg/kg/day), or placebo for fourteen days, beginning on postpartum day 04. Offspring were passively exposed to fluoxetine until postnatal day 18 and euthanized on postnatal day 22. Whole brain fluoxetine, norfluoxetine, serotonin (5-HT), 5-hydroxyindoleacetic acid (5-HIAA), and reduced (GSH) and oxidized glutathione (GSSG) concentrations were measured via liquid chromatography-mass spectrometry (LC-MS) analysis.\nWhole-brain serotonin and 5-hydroxyindoleacetic acid concentrations, and serotonin turnover (5-HIAA/5-HT) were comparable between strains. Treatment-na\u00efve FSL rats had lower GSH and higher GSSG whole-brain concentrations, relative to FRL controls, and an overall decreased GSH/GSSG ratio. Passively administered fluoxetine resulted in undetectable whole-brain concentrations, while norfluoxetine averaged 41.28\u2009\u00b1\u20096.47 ng/g. Serotonin turnover of FSL rats was unaffected by passively administered fluoxetine, while redox status (GSH/GSSG) was decreased.\nOur findings confirm that passively administered fluoxetine reaches the infant brain in the form of norfluoxetine and may manipulate processes of oxidative stress regulation. Further studies into the long-term bio-behavioural effects are however needed to effectively inform breast feeding mothers on the safety of antidepressant-use.",
+    "authors": [
+        {
+            "affiliation": "Centre of Excellence for Pharmaceutical Sciences, Faculty of Health Sciences, North-West University, Hoffman Street, Potchefstroom, 2531, South Africa. Stephan.steyn@nwu.ac.za.",
+            "firstname": "Stephan F",
+            "initials": "SF",
+            "lastname": "Steyn"
+        },
+        {
+            "affiliation": "Centre of Excellence for Pharmaceutical Sciences, Faculty of Health Sciences, North-West University, Hoffman Street, Potchefstroom, 2531, South Africa.",
+            "firstname": "Malie",
+            "initials": "M",
+            "lastname": "Rheeders"
+        },
+        {
+            "affiliation": "Centre of Excellence for Pharmaceutical Sciences, Faculty of Health Sciences, North-West University, Hoffman Street, Potchefstroom, 2531, South Africa.",
+            "firstname": "Francois P",
+            "initials": "FP",
+            "lastname": "Viljoen"
+        },
+        {
+            "affiliation": "Centre of Excellence for Pharmaceutical Sciences, Faculty of Health Sciences, North-West University, Hoffman Street, Potchefstroom, 2531, South Africa.",
+            "firstname": "Linda",
+            "initials": "L",
+            "lastname": "Brand"
+        }
+    ],
+    "conclusions": "Our findings confirm that passively administered fluoxetine reaches the infant brain in the form of norfluoxetine and may manipulate processes of oxidative stress regulation. Further studies into the long-term bio-behavioural effects are however needed to effectively inform breast feeding mothers on the safety of antidepressant-use.",
+    "copyrights": "\u00a9 2024. The Author(s).",
+    "doi": "10.1186/s40360-024-00775-1\n10.1016/j.jad.2020.07.081\n10.1111/jocn.16121\n10.1016/j.jpsychires.2018.08.001\n10.1176/appi.ajp.161.9.1548\n10.1056/NEJM199810223391706\n10.3390/children8070609\n10.1001/jamapsychiatry.2017.4363\n10.4088/JCP.v65n0914\n10.1016/j.jad.2013.09.019\n10.1001/jama.2015.2276\n10.1186/s12916-018-1193-5\n10.1097/CHI.0b013e3181676595\n10.3389/fnins.2018.00386\n10.3389/fphys.2016.00313\n10.1007/s10863-014-9584-6\n10.1016/j.jns.2012.05.030\n10.1016/j.neubiorev.2021.05.001\n10.1124/pr.111.005397\n10.1002/cbin.11123\n10.1016/j.neuropharm.2017.09.017\n10.1016/j.lfs.2021.119916\n10.1016/0892-0362(92)90004-T\n10.1016/j.pneurobio.2009.03.003\n10.1016/j.neuroscience.2007.06.031\n10.1016/j.neubiorev.2015.01.018\n10.3892/ol.2012.931\n10.1016/j.bcp.2007.01.028\n10.1007/BF02244004\n10.1176/appi.ajp.161.6.1066\n10.1016/S0009-9236(02)17634-X\n10.4088/JCP.v65n0911\n10.1542/peds.2004-0420\n10.1111/j.1365-2125.2005.02538.x\n10.1002/j.1552-4604.1996.tb04150.x\n10.1542/peds.112.5.e425\n10.1016/S0006-3223(01)01197-0\n10.1016/j.neuint.2022.105454\n10.1016/j.bbr.2019.112246\n10.1007/s10930-019-09834-7",
+    "journal": "BMC pharmacology & toxicology",
+    "keywords": [
+        "Breast milk",
+        "Flinders sensitive line",
+        "Norfluoxetine",
+        "Redox state",
+        "Serotonin turnover"
+    ],
+    "methods": null,
+    "publication_date": "2024-08-17",
+    "pubmed_id": "39152503\n32736186\n34750904\n30114665\n15337641\n9780342\n34356588\n29387878\n15367053\n24139299\n33580709\n25988466\n30415641\n18356760\n29928190\n27536244\n25262287\n22669122\n34000348\n23319547\n37969008\n30811083\n28964735\n34480936\n1522830\n19545781\n37592838\n17919828\n25625874\n35854107\n37322065\n23205122\n17316571\n2320712\n15169695\n12709723\n15367050\n15687451\n16433870\n8932542\n14595087\n11720696\n36462683\n31539576\n31004256",
+    "results": "Whole-brain serotonin and 5-hydroxyindoleacetic acid concentrations, and serotonin turnover (5-HIAA/5-HT) were comparable between strains. Treatment-na\u00efve FSL rats had lower GSH and higher GSSG whole-brain concentrations, relative to FRL controls, and an overall decreased GSH/GSSG ratio. Passively administered fluoxetine resulted in undetectable whole-brain concentrations, while norfluoxetine averaged 41.28\u2009\u00b1\u20096.47 ng/g. Serotonin turnover of FSL rats was unaffected by passively administered fluoxetine, while redox status (GSH/GSSG) was decreased.",
+    "title": "Passively administered fluoxetine reaches the juvenile brain of FSL rats and reduces antioxidant defences, without altering serotonin turnover.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a5620>"
+}{
+    "abstract": "Bioacoustic event detection is a demanding endeavor involving recognizing and classifying the sounds animals make in their natural habitats. Traditional supervised learning requires a large amount of labeled data, which are hard to come by in bioacoustics. This paper presents a few-shot learning (FSL) method incorporating transductive inference and data augmentation to address the issues of too few labeled events and small volumes of recordings. Here, transductive inference iteratively alters class prototypes and feature extractors to seize essential patterns, whereas data augmentation applies SpecAugment on Mel spectrogram features to augment training data. The proposed approach is evaluated by using the Detecting and Classifying Acoustic Scenes and Events (DCASE) 2022 and 2021 datasets. Extensive experimental results demonstrate that all components of the proposed method achieve significant F-score improvements of 27% and 10%, for the DCASE-2022 and DCASE-2021 datasets, respectively, compared to recent advanced approaches. Moreover, our method is helpful in FSL tasks because it effectively adapts to sounds from various animal species, recordings, and durations.",
+    "authors": [
+        {
+            "affiliation": "Department of Electrical, Electronics and Computer Engineering, University of Ulsan, Ulsan 44610, Republic of Korea.",
+            "firstname": "Nouman",
+            "initials": "N",
+            "lastname": "Ijaz"
+        },
+        {
+            "affiliation": "School of Electronics and Information Engineering, South China University of Technology, Guangzhou 510641, China.\nFaculty of Computer Sciences, Department of Computer Science, ILMA University, Karachi City 74900, Pakistan.",
+            "firstname": "Farhad",
+            "initials": "F",
+            "lastname": "Banoori"
+        },
+        {
+            "affiliation": "Department of Electrical, Electronics and Computer Engineering, University of Ulsan, Ulsan 44610, Republic of Korea.",
+            "firstname": "Insoo",
+            "initials": "I",
+            "lastname": "Koo"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.3390/bioengineering11070685\n10.1016/j.ecocom.2020.100847\n10.1038/s41597-020-00725-6\n10.3390/app122312046\n10.1177/10775463231206229\n10.1016/j.apacoust.2019.107020\n10.1038/s41598-021-96446-w\n10.1109/TASLP.2017.2690575\n10.1002/ett.4817\n10.1109/MSP.2021.3090678\n10.1007/s10462-020-09932-4\n10.1109/LSENS.2024.3363021\n10.1109/LSP.2018.2878620\n10.3390/bioengineering11060586\n10.1016/j.ecoinf.2023.102258\n10.3390/a15050147\n10.1109/TPAMI.2023.3312125\n10.1644/08-MAMM-A-359R.1\n10.7717/peerj-cs.223\n10.1111/2041-210X.13103\n10.1098/rspb.2017.1508\n10.3390/app6060162",
+    "journal": "Bioengineering (Basel, Switzerland)",
+    "keywords": [
+        "bioacoustics event detection",
+        "data augmentation",
+        "few-shot learning (FSL)",
+        "transductive inference"
+    ],
+    "methods": null,
+    "publication_date": "2024-07-27",
+    "pubmed_id": "39061767\n33177516\n34429468\n38927822\n37669193\n33816876\n29187625",
+    "results": null,
+    "title": "Reshaping Bioacoustics Event Detection: Leveraging Few-Shot Learning (FSL) with Transductive Inference and Data Augmentation.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ecf330>"
+}{
+    "abstract": "Subcortical volumes are a promising source of biomarkers and features in biosignatures, and automated methods facilitate extracting them in large, phenotypically rich datasets. However, while extensive research has verified that the automated methods produce volumes that are similar to those generated by expert annotation, the consistency of methods with each other is understudied. Using data from the UK Biobank, we compare the estimates of subcortical volumes produced by two popular software suites: FSL and FreeSurfer. Although most subcortical volumes exhibit good to excellent consistency across the methods, the tools produce diverging estimates of amygdalar volume. Through simulation, we show that this poor consistency can lead to conflicting results, where one but not the other tool suggests statistical significance, or where both tools suggest a significant relationship but in opposite directions. Considering these issues, we discuss several ways in which care should be taken when reporting on relationships involving amygdalar volume.",
+    "authors": [
+        {
+            "affiliation": "Johns Hopkins Bloomberg School of Public Health.",
+            "firstname": "Patrick",
+            "initials": "P",
+            "lastname": "Sadil"
+        },
+        {
+            "affiliation": "Johns Hopkins Bloomberg School of Public Health.",
+            "firstname": "Martin A",
+            "initials": "MA",
+            "lastname": "Lindquist"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1101/2024.03.07.583900\n10.1109/TMI.2013.2266258\n10.1016/j.neuroimage.2017.10.034\n10.1016/j.neuroimage.2020.117002\n10.1016/j.neuroimage.2010.06.025\n10.18637/jss.v067.i01\n10.1016/j.media.2023.102789\n10.1016/j.pscychresns.2018.12.005\n10.1016/j.neuroimage.2010.03.033\n10.1002/jmri.22473\n10.1177/0284185120963919\n10.1016/j.neuroimage.2012.01.021\n10.1111/1467-985X.00164\n10.1007/s12021-021-09520-z\n10.1016/j.neuroimage.2021.118751\n10.1002/jmri.10163\n10.3389/fdata.2021.577164\n10.3389/fnagi.2022.818871\n10.1016/j.neuroimage.2011.11.040\n10.1016/j.neuroimage.2009.10.056\n10.1177/0333102416678624\n10.1186/s12868-020-00585-1\n10.1093/biostatistics/kxn014\n10.1038/s41586-022-04492-9\n10.1016/0925-4927(93)90016-B\n10.5281/ZENODO.1997626\n10.1037/1082-989X.1.1.30\n10.1002/brb3.759\n10.1016/j.neuroimage.2008.12.033\n10.1002/hbm.20973\n10.1016/j.neuroimage.2014.01.058\n10.1002/hbm.22068\n10.1111/j.1528-1167.2009.02243.x\n10.1016/j.neuroimage.2011.02.046\n10.1038/s41598-017-02584-5\n10.1097/CHI.0b013e318185d299\n10.1016/j.pscychresns.2009.06.001\n10.1016/j.pscychresns.2012.02.012\n10.1016/j.neuroimage.2016.01.038\n10.1177/0972753121990175\n10.1177/1745691616658637\n10.1097/EDE.0b013e3181e5b06a\n10.1038/sj.npp.1300399\n10.1016/j.pscychresns.2009.10.011\n10.1007/s00234-008-0383-9\n10.1093/brain/aww100\n10.3389/fnagi.2014.00264\n10.1002/hbm.22473\n10.1371/journal.pone.0146913\n10.1016/j.dcn.2021.101028",
+    "journal": "bioRxiv : the preprint server for biology",
+    "keywords": [
+        "Amygdala",
+        "MRI"
+    ],
+    "methods": null,
+    "publication_date": "2024-07-15",
+    "pubmed_id": "39005462\n23744673\n29079522\n32502668\n20600995\n36857946\n7315877\n30554129\n20338250\n21563239\n33121264\n22248573\n33783668\n34848299\n12205587\n34723175\n35707703\n22155377\n19874902\n27919022\n32887546\n18550565\n35296861\n8378488\n28948069\n19162198\n20162602\n24521851\n22815187\n19682030\n21352927\n21352927\n28546533\n18827720\n19914045\n22507760\n26824403\n34733059\n27694465\n20699681\n14970831\n20153146\n18414838\n27190016\n25339897\n24532539\n26812647\n34749182",
+    "results": null,
+    "title": "Comparing Automated Subcortical Volume Estimation Methods; Amygdala Volumes Estimated by FSL and FreeSurfer Have Poor Consistency.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5ebd300>"
+}{
+    "abstract": "One factor for the lacking integration of the middle ear stapes footplate prosthesis or the missing healing of stapes footplate fractures could be the known osteogenic inactivity. In contrast, it was recently demonstrated that titanium prostheses with an applied collagen matrix and immobilised growth factors stimulate osteoblastic activation and differentiation on the stapes footplate. Regarding those findings, the aim of this study was to evaluate the potential of bone regeneration including bone remodeling in the middle ear. Ten one-year-old female merino sheep underwent a middle ear surgery without implantation of middle ear prostheses or any other component for activating bone formation. Post-operatively, four fluorochromes (tetracycline, alizarin complexion, calcein green and xylenol orange) were administered by subcutaneous injection at different time points after surgery (1\u00a0day: tetracycline, 7\u00a0days: alizarin, 14\u00a0days: calcein, 28\u00a0days: xylenol). After 12\u00a0weeks, the temporal bones including the lateral skull base were extracted and histologically analyzed. Fluorescence microscopy analysis of the entire stapes with the oval niche, but in particular stapes footplate and the Crura stapedis revealed evidence of new bone formation. Calcein was detected in all and xylenol in 60% of the animals. In contrast, tetracycline and alizarin could only be verified in two animals. The authors were able to demonstrate the osseoregenerative potential of the middle ear, in particular of the stapes footplate, using fluorescence sequence labelling.",
+    "authors": [
+        {
+            "affiliation": "Department of Otorhinolaryngology Head and Neck Surgery, Faculty of Medicine (and University Hospital) Carl Gustav Carus, Technische Universit\u00e4t Dresden, Fetscherstrasse 74, 01307, Dresden, Germany. max.kemper@uniklinikum-dresden.de.",
+            "firstname": "Max",
+            "initials": "M",
+            "lastname": "Kemper"
+        },
+        {
+            "affiliation": "Department of Otorhinolaryngology Head and Neck Surgery, Faculty of Medicine (and University Hospital) Carl Gustav Carus, Technische Universit\u00e4t Dresden, Fetscherstrasse 74, 01307, Dresden, Germany.",
+            "firstname": "Anne",
+            "initials": "A",
+            "lastname": "Kluge"
+        },
+        {
+            "affiliation": "Department of Audiology and Phoniatrics, Charit\u00e9 - University Medicine Berlin, Berlin, Germany.",
+            "firstname": "Michael",
+            "initials": "M",
+            "lastname": "Ney"
+        },
+        {
+            "affiliation": "Department of Otorhinolaryngology Head and Neck Surgery, Faculty of Medicine (and University Hospital) Carl Gustav Carus, Technische Universit\u00e4t Dresden, Fetscherstrasse 74, 01307, Dresden, Germany.",
+            "firstname": "Thomas",
+            "initials": "T",
+            "lastname": "Beleites"
+        },
+        {
+            "affiliation": "Department of Otorhinolaryngology Head and Neck Surgery, Faculty of Medicine (and University Hospital) Carl Gustav Carus, Technische Universit\u00e4t Dresden, Fetscherstrasse 74, 01307, Dresden, Germany.",
+            "firstname": "Ines",
+            "initials": "I",
+            "lastname": "Zeidler-Rentzsch"
+        },
+        {
+            "affiliation": "Department of Orthodontics, Faculty of Medicine (and University Hospital) Carl Gustav Carus, Technische Universit\u00e4t Dresden, Fetscherstrasse 74, 01307, Dresden, Germany.",
+            "firstname": "Christiane",
+            "initials": "C",
+            "lastname": "Keil"
+        },
+        {
+            "affiliation": "Department of Otorhinolaryngology Head and Neck Surgery, Faculty of Medicine (and University Hospital) Carl Gustav Carus, Technische Universit\u00e4t Dresden, Fetscherstrasse 74, 01307, Dresden, Germany.",
+            "firstname": "Thomas",
+            "initials": "T",
+            "lastname": "Zahnert"
+        },
+        {
+            "affiliation": "Department of Otorhinolaryngology Head and Neck Surgery, Faculty of Medicine (and University Hospital) Carl Gustav Carus, Technische Universit\u00e4t Dresden, Fetscherstrasse 74, 01307, Dresden, Germany.",
+            "firstname": "Marcus",
+            "initials": "M",
+            "lastname": "Neudert"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2024. The Author(s).",
+    "doi": "10.1038/s41598-024-57630-w\n10.1055/s-2004-814447\n10.1017/S0022215108002545\n10.1055/s-0029-1231047\n10.1097/MAO.0b013e3182267e3b\n10.1007/s10162-007-0094-7\n10.1007/s10162-009-0202-y\n10.1002/ar.23457\n10.1007/s00106-002-0761-2\n10.1097/01.mao.0000178118.38667.9b\n10.1177/009127006100100503\n10.1007/BF02058664\n10.1016/j.bone.2003.09.011\n10.1016/j.bone.2004.03.011\n10.1002/jor.20795\n10.1016/j.joms.2011.10.018\n10.1111/jre.12508\n10.1055/s-2008-1040301\n10.1016/j.msec.2014.10.033\n10.1007/s00784-017-2050-1\n10.1055/s-2000-15918\n10.1089/ten.teb.2009.0503\n10.1111/j.1600-0714.1982.tb00172.x\n10.1002/jbm.a.10363\n10.1111/clr.12035\n10.1007/BF00459905\n10.1017/S0022215100095876\n10.1177/000348940010900106\n10.1053/tvjl.2001.0642\n10.1007/s00774-006-0724-x\n10.1186/1471-2474-7-67\n10.1016/j.biomaterials.2007.06.023\n10.1111/j.1469-7580.2006.00660.x",
+    "journal": "Scientific reports",
+    "keywords": [
+        "Bone formation",
+        "Fluorochrome sequence labelling",
+        "Mammalian middle ear",
+        "Osseoregenerative process",
+        "Stapes footplate"
+    ],
+    "methods": null,
+    "publication_date": "2024-03-26",
+    "pubmed_id": "38528064\n15257494\n18485257\n19639531\n21730881\n17828428\n20066460\n7844003\n27500982\n5857205\n5403273\n7325511\n6218255\n3513486\n12474124\n16015150\n12438861\n13895540\n4894738\n14751565\n15207750\n18988260\n22265165\n29044523\n2596155\n20400793\n25491974\n28101680\n8386153\n7569375\n3410757\n19857045\n6809919\n12522808\n22998494\n6644167\n10651409\n12090765\n17187191\n16911787\n17644173\n17229289",
+    "results": null,
+    "title": "Visualization of bone formation in sheep's middle ear by using fluorochrome sequential labelling (FSL).",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e609bb00>"
+}{
+    "abstract": "Delayed therapeutic responses and limited efficacy are the main challenges of existing antidepressant drugs, thereby incentivizing the search for new potential treatments. Cannabidiol (CBD), non-psychotomimetic component of cannabis, has shown promising antidepressant effects in different rodent models, but its mechanism of action remains unclear. Herein, we investigated the antidepressant-like effects of repeated CBD treatment on behavior, neuroplasticity markers and lipidomic profile in the prefrontal cortex (PFC) of Flinders Sensitive Line (FSL), a genetic animal model of depression, and their control counterparts Flinders Resistant Line (FRL) rats. Male FSL animals were treated with CBD (10\u00a0mg/kg; i.p.) or vehicle (7 days) followed by Open Field Test (OFT) and the Forced Swimming Test (FST). The PFC was analyzed by a) western blotting to assess markers of synaptic plasticity and cannabinoid signaling in synaptosome and cytosolic fractions; b) mass spectrometry-based lipidomics to investigate endocannabinoid levels (eCB). CBD attenuated the increased immobility observed in FSL, compared to FRL in FST, without changing the locomotor behavior in the OFT. In synaptosomes, CBD increased ERK1, mGluR5, and Synaptophysin, but failed to reverse the reduced CB1 and CB2 levels in FSL rats. In the cytosolic fraction, CBD increased ERK2 and decreased mGluR5 expression in FSL rats. Surprisingly, there were no significant changes in eCB levels in response to CBD treatment. These findings suggest that CBD effects in FSL animals are associated with changes in synaptic plasticity markers involving mGluR5, ERK1, ERK2, and synaptophysin signaling in the PFC, without increasing the levels of endocannabinoids in this brain region.",
+    "authors": [
+        {
+            "affiliation": "Department of Biomedicine, Aarhus University, Aarhus, Denmark.",
+            "firstname": "Luana Barreto",
+            "initials": "LB",
+            "lastname": "Domingos"
+        },
+        {
+            "affiliation": "Translational Neuropsychiatry Unit, Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.",
+            "firstname": "Heidi Kaastrup",
+            "initials": "HK",
+            "lastname": "M\u00fcller"
+        },
+        {
+            "affiliation": "Department of Biomedicine, Aarhus University, Aarhus, Denmark.",
+            "firstname": "Nicole Rodrigues",
+            "initials": "NR",
+            "lastname": "da Silva"
+        },
+        {
+            "affiliation": "Laboratory of Biochemistry, Department of Biological Applications and Technology, School of Health Sciences, University of Ioannina, Greece; Biomedical Research Institute, Foundation for Research and Technology-Hellas, Ioannina, Greece.",
+            "firstname": "Michaela D",
+            "initials": "MD",
+            "lastname": "Filiou"
+        },
+        {
+            "affiliation": "Department of Biomedicine, Aarhus University, Aarhus, Denmark.",
+            "firstname": "Anders Lade",
+            "initials": "AL",
+            "lastname": "Nielsen"
+        },
+        {
+            "affiliation": "School of Medicine of Ribeir\u00e3o Preto (FMRP), University of S\u00e3o Paulo (USP), Brazil.",
+            "firstname": "Francisco Silveira",
+            "initials": "FS",
+            "lastname": "Guimar\u00e3es"
+        },
+        {
+            "affiliation": "Translational Neuropsychiatry Unit, Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.",
+            "firstname": "Gregers",
+            "initials": "G",
+            "lastname": "Wegener"
+        },
+        {
+            "affiliation": "Department of Biomedicine, Aarhus University, Aarhus, Denmark. Electronic address: sjoca@biomed.au.dk.",
+            "firstname": "S\u00e2mia",
+            "initials": "S",
+            "lastname": "Joca"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2024. Published by Elsevier Ltd.",
+    "doi": "10.1016/j.neuropharm.2024.109870",
+    "journal": "Neuropharmacology",
+    "keywords": [
+        "Cannabidiol",
+        "Endocannabinoids",
+        "Flinders sensitive line",
+        "Lipidome",
+        "Neuroplasticity",
+        "Synaptosome"
+    ],
+    "methods": null,
+    "publication_date": "2024-02-25",
+    "pubmed_id": "38401791",
+    "results": null,
+    "title": "Repeated cannabidiol treatment affects neuroplasticity and endocannabinoid signaling in the prefrontal cortex of the Flinders Sensitive Line (FSL) rat model of depression.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5edeca0>"
+}{
+    "abstract": "In the current geopolitical climate there is an unmet need to identify and develop prophylactic radiation countermeasures, particularly to ensure the well-being of warfighters and first responders that may be required to perform on radiation-contaminated fields for operational or rescue missions. Currently, no countermeasures have been approved by the U.S. FDA for prophylactic administration. Here we report on the efficacious nature of FSL-1 (toll-like receptor 2/6 agonist) and the protection from acute radiation syndrome (ARS) in a murine total-body irradiation (TBI) model. A single dose of FSL-1 was administered subcutaneously in mice. The safety of the compound was assessed in non-irradiated animals, the efficacy of the compound was assessed in animals exposed to TBI in the AFRRI Co-60 facility, the dose of FSL-1 was optimized, and common hematological parameters [complete blood cell (CBC), cytokines, and bone marrow progenitor cells] were assessed. Animals were monitored up to 60 days after exposure and radiation-induced damage was evaluated. FSL-1 was shown to be non-toxic when administered to non-irradiated mice at doses up to 3 mg/kg. The window of efficacy was determined to be 24 h prior to 24 h after TBI. FSL-1 administration resulted in significantly increased survival when administered either 24 h prior to or 24 h after exposure to supralethal doses of TBI. The optimal dose of FSL-1 administration was determined to be 1.5 mg/kg when administered prior to irradiation. Finally, FSL-1 protected the hematopoietic system (recovery of CBC and bone marrow CFU). Taken together, the effects of increased survival and accelerated recovery of hematological parameters suggests that FSL-1 should be developed as a novel radiation countermeasure for soldiers and civilians, which can be used either before or after irradiation in the aftermath of a radiological or nuclear event.",
+    "authors": [
+        {
+            "affiliation": "Armed Forces Radiobiology Research Institute, Uniformed Services University of the Health Sciences, Bethesda, Maryland 20889.",
+            "firstname": "Gregory P",
+            "initials": "GP",
+            "lastname": "Holmes-Hampton"
+        },
+        {
+            "affiliation": "Armed Forces Radiobiology Research Institute, Uniformed Services University of the Health Sciences, Bethesda, Maryland 20889.",
+            "firstname": "Vidya P",
+            "initials": "VP",
+            "lastname": "Kumar"
+        },
+        {
+            "affiliation": "Armed Forces Radiobiology Research Institute, Uniformed Services University of the Health Sciences, Bethesda, Maryland 20889.",
+            "firstname": "Kaylee",
+            "initials": "K",
+            "lastname": "Valenzia"
+        },
+        {
+            "affiliation": "Armed Forces Radiobiology Research Institute, Uniformed Services University of the Health Sciences, Bethesda, Maryland 20889.",
+            "firstname": "Sanchita P",
+            "initials": "SP",
+            "lastname": "Ghosh"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a92024 by Radiation Research Society. All rights of reproduction in any form reserved.",
+    "doi": "10.1667/RADE-23-00142.1",
+    "journal": "Radiation research",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2024-02-19",
+    "pubmed_id": "38373011",
+    "results": null,
+    "title": "FSL-1: A Synthetic Peptide Increases Survival in a Murine Model of Hematopoietic Acute Radiation Syndrome.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e5efca40>"
+}{
+    "abstract": "We aimed to validate the estimation of the brain parenchymal fraction (BPF) in patients with multiple sclerosis (MS) using synthetic magnetic resonance imaging (SyMRI) by comparison with software tools of the FMRIB Software Library (FSL). In addition to a cross-sectional method comparison, longitudinal volume changes were assessed to further elucidate the suitability of SyMRI for quantification of disease-specific changes.\nMRI data from 216 patients with MS and 28 control participants were included for volume estimation by SyMRI and FSL-SIENAX. Moreover, longitudinal data from 35 patients with MS were used to compare registration-based percentage brain volume changes estimated using FSL-SIENA to difference-based calculations of volume changes using SyMRI.\nWe observed strong correlations of estimated brain volumes between the two methods. While SyMRI overestimated grey matter and BPF compared to FSL-SIENAX, indicating a systematic bias, there was excellent agreement according to intra-class correlation coefficients for grey matter and good agreement for BPF and white matter. Bland-Altman plots suggested that the inter-method differences in BPF were smaller in patients with brain atrophy compared to those without atrophy. Longitudinal analyses revealed a tendency for higher atrophy rates for SyMRI than for SIENA, but SyMRI had a robust correlation and a good agreement with SIENA.\nIn summary, BPF based on data from SyMRI and FSL-SIENAX is not directly transferable because an overestimation and higher variability of SyMRI values were observed. However, the consistency and correlations between the two methods were satisfactory, and SyMRI was suitable to quantify disease-specific atrophy in MS.",
+    "authors": [
+        {
+            "affiliation": "Institute of Neuroradiology, St. Josef Hospital, Ruhr-University Bochum, Gudrunstrasse 56, 44791, Bochum, Germany.",
+            "firstname": "Ilyas",
+            "initials": "I",
+            "lastname": "Yazici"
+        },
+        {
+            "affiliation": "Institute of Neuroradiology, St. Josef Hospital, Ruhr-University Bochum, Gudrunstrasse 56, 44791, Bochum, Germany.",
+            "firstname": "Britta",
+            "initials": "B",
+            "lastname": "Krieger"
+        },
+        {
+            "affiliation": "Institute of Neuroradiology, St. Josef Hospital, Ruhr-University Bochum, Gudrunstrasse 56, 44791, Bochum, Germany.",
+            "firstname": "Barbara",
+            "initials": "B",
+            "lastname": "Bellenberg"
+        },
+        {
+            "affiliation": "Department of Neurology, St. Josef Hospital, Ruhr-University Bochum, Gudrunstr. 56, 44791, Bochum, Germany.",
+            "firstname": "Theodoros",
+            "initials": "T",
+            "lastname": "Ladopoulos"
+        },
+        {
+            "affiliation": "Department of Neurology, St. Josef Hospital, Ruhr-University Bochum, Gudrunstr. 56, 44791, Bochum, Germany.",
+            "firstname": "Ralf",
+            "initials": "R",
+            "lastname": "Gold"
+        },
+        {
+            "affiliation": "Department of Neurology, St. Josef Hospital, Ruhr-University Bochum, Gudrunstr. 56, 44791, Bochum, Germany.",
+            "firstname": "Ruth",
+            "initials": "R",
+            "lastname": "Schneider"
+        },
+        {
+            "affiliation": "Institute of Neuroradiology, St. Josef Hospital, Ruhr-University Bochum, Gudrunstrasse 56, 44791, Bochum, Germany. carsten.lukas@rub.de.\nDepartment of Neurology, St. Josef Hospital, Ruhr-University Bochum, Gudrunstr. 56, 44791, Bochum, Germany. carsten.lukas@rub.de.",
+            "firstname": "Carsten",
+            "initials": "C",
+            "lastname": "Lukas"
+        }
+    ],
+    "conclusions": "In summary, BPF based on data from SyMRI and FSL-SIENAX is not directly transferable because an overestimation and higher variability of SyMRI values were observed. However, the consistency and correlations between the two methods were satisfactory, and SyMRI was suitable to quantify disease-specific atrophy in MS.",
+    "copyrights": "\u00a9 2023. The Author(s).",
+    "doi": "10.1007/s00234-023-03264-0\n10.1016/S1474-4422(18)30443-5\n10.17219/acem/94137\n10.1093/brain/awh126\n10.1016/j.neuroimage.2008.04.173\n10.4414/smw.2013.13887\n10.1177/1352458515616701\n10.1177/13524585211008760\n10.1212/WNL.0000000000003542\n10.3389/fninf.2016.00030\n10.3174/ajnr.A5398\n10.1007/s00234-021-02824-6\n10.1097/RLI.0000000000000720\n10.3389/fnagi.2021.638731\n10.3174/ajnr.A4665\n10.1136/jnnp-2014-309903\n10.1177/1352458515593405\n10.1111/jon.12625\n10.1212/WNL.0000000000011241\n10.1212/WNL.0b013e3181e24136\n10.1016/S1474-4422(17)30470-2\n10.1212/WNL.33.11.1444\n10.4103/sja.SJA_543_18\n10.1002/mrm.21165\n10.1002/mrm.21635\n10.1007/s00330-011-2336-7\n10.1016/j.neuroimage.2012.03.074\n10.1097/00004728-200105000-00022\n10.1006/nimg.2002.1040\n10.1016/j.neuroimage.2004.07.051\n10.1002/hbm.10062\n10.1016/s1361-8415(01)00036-6\n10.1016/s1053-8119(02)91132-8\n10.1109/42.906424\n10.1007/s00234-021-02779-8\n10.1037/1040-3590.6.4.284\n10.1016/j.neurad.2017.10.002\n10.1007/s00234-019-02241-w\n10.3174/ajnr.A3107\n10.1097/RLI.0000000000000744",
+    "journal": "Neuroradiology",
+    "keywords": [
+        "Brain parenchymal fraction",
+        "MRI",
+        "Multiple sclerosis",
+        "SIENAX",
+        "SyMRI"
+    ],
+    "methods": null,
+    "publication_date": "2023-12-19",
+    "pubmed_id": "38110539\n30679040\n30729761\n14998914\n18501636\n24264439\n26585439\n33870797\n9400851\n27986875\n27512372\n28982788\n34611716\n32858581\n33912023\n26797137\n25904813\n26163072\n31074192\n33262230\n20530323\n29275977\n6685237\n30930717\n17326183\n18666127\n22113264\n22484407\n11351200\n12482100\n15501092\n12391568\n11516708\n12377157\n11293691\n34382095\n29132939\n31209528\n22790248\n33273376",
+    "results": "We observed strong correlations of estimated brain volumes between the two methods. While SyMRI overestimated grey matter and BPF compared to FSL-SIENAX, indicating a systematic bias, there was excellent agreement according to intra-class correlation coefficients for grey matter and good agreement for BPF and white matter. Bland-Altman plots suggested that the inter-method differences in BPF were smaller in patients with brain atrophy compared to those without atrophy. Longitudinal analyses revealed a tendency for higher atrophy rates for SyMRI than for SIENA, but SyMRI had a robust correlation and a good agreement with SIENA.",
+    "title": "Automatic estimation of brain parenchymal fraction in patients with multple sclerosis: a comparison between synthetic MRI and an established automated brain segmentation software based on FSL.",
+    "xml": "<Element 'PubmedArticle' at 0x7ee7e60a1f30>"
+}
