@@ -1,0 +1,1 @@
+    "title": "Functional imaging analysis contest (FIAC) analysis according to AFNI and SUMA.",

@@ -1,0 +1,976 @@
+{
+    "abstract": "Constructing materials that possess both catalytic properties and surface plasmonic active structures presents an essential requirement in the field of ",
+    "authors": [
+        {
+            "affiliation": "College of Chemistry and Chemical Engineering, Central South University, Changsha 410083, Hunan, China.",
+            "firstname": "Yujun",
+            "initials": "Y",
+            "lastname": "Cheng"
+        },
+        {
+            "affiliation": "College of Chemistry and Chemical Engineering, Central South University, Changsha 410083, Hunan, China.",
+            "firstname": "Jianping",
+            "initials": "J",
+            "lastname": "Guan"
+        },
+        {
+            "affiliation": "College of Chemistry and Chemical Engineering, Central South University, Changsha 410083, Hunan, China.",
+            "firstname": "Zhipeng",
+            "initials": "Z",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": "College of Chemistry and Chemical Engineering, Central South University, Changsha 410083, Hunan, China.",
+            "firstname": "Ruili",
+            "initials": "R",
+            "lastname": "Li"
+        },
+        {
+            "affiliation": "College of Chemistry and Chemical Engineering, Central South University, Changsha 410083, Hunan, China.",
+            "firstname": "Yao",
+            "initials": "Y",
+            "lastname": "Yao"
+        },
+        {
+            "affiliation": "College of Chemistry and Chemical Engineering, Central South University, Changsha 410083, Hunan, China.",
+            "firstname": "Xiaotong",
+            "initials": "X",
+            "lastname": "Sun"
+        },
+        {
+            "affiliation": "College of Chemistry and Chemical Engineering, Central South University, Changsha 410083, Hunan, China.",
+            "firstname": "Qi",
+            "initials": "Q",
+            "lastname": "Liu"
+        },
+        {
+            "affiliation": "College of Chemistry and Chemical Engineering, Central South University, Changsha 410083, Hunan, China.\nXiangjiang Laboratory, Changsha 410083, Hunan, China.",
+            "firstname": "Xiaoqing",
+            "initials": "X",
+            "lastname": "Chen"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1021/acs.analchem.4c03670",
+    "journal": "Analytical chemistry",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2025-03-04",
+    "pubmed_id": "40032529",
+    "results": null,
+    "title": "",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fa8bec0>"
+}{
+    "abstract": "Cancer remains a major global health challenge, with significant disparities in access to advanced diagnostic and prognostic technologies, especially in resource-constrained settings. Existing medical treatments and devices for cancer diagnosis are often prohibitively expensive, limiting their reach and impact. Pathologists' scarcity exacerbates cancer diagnosis accuracy, elevating mortality risks. To address these critical issues, this study presents OVision - a low cost, deep learning-powered framework developed to assist in histopathological diagnosis. The key objective is to leverage the portable, low-power computing Raspberry Pi. By designing standalone devices that eliminate the need for internet connectivity and high-end infrastructure, we can dramatically reduce costs while maintaining accuracy. As a proof of concept, the study demonstrated the viability of this framework through a compact, self-contained device capable of accurately detecting ovarian cancer subtypes with 95% accuracy, on par with traditional methods, while costing a small fraction of the price. This portable, off-grid solution has immense potential to improve access to precision cancer diagnostics, especially in underserved regions of the world that lack the resources to deploy expensive, infrastructure-heavy medical technologies. In addition, by classifying each tile, the tool can provide percentages of each histologic subtype detected within the slide. This capability enhances the diagnostic precision, offering a detailed overview of the heterogeneity within each tissue sample, helps in understanding the complexity of histologic subtypes and tailoring personalized treatment plans. In conclusion, this work proposes a transformative model for developing affordable, accessible medical devices that can bring advanced healthcare benefits to all, laying the foundation for a more equitable, inclusive future of precision medicine.",
+    "authors": [
+        {
+            "affiliation": "Archbishop Mitty High School, San Jose, CA, USA. samaira@coderbunnyz.com.\nMachine Learning (High School Lab Member) at OrsulicLab, David Geffen School of Medicine at the University of California, Los Angeles (UCLA), Los Angeles, USA. samaira@coderbunnyz.com.",
+            "firstname": "Samaira",
+            "initials": "S",
+            "lastname": "Mehta"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2025. The Author(s).",
+    "doi": "10.1038/s41598-025-91914-z",
+    "journal": "Scientific reports",
+    "keywords": [
+        "Cancer",
+        "Deep learning",
+        "Diagnostics",
+        "Histopathology",
+        "Ovarian cancer",
+        "Precision medicine",
+        "Raspberry Pi"
+    ],
+    "methods": null,
+    "publication_date": "2025-03-01",
+    "pubmed_id": "40021723\n33538338\n35440716\n38423553\n37296828\n37238188\n30275936\n27563488\n35213215\n30115962\n19053170\n20505499\n39081243\n36065012\n28549410\n29572387\n38463880\n38298445\n34297202\n35757602\n38371888\n35965569",
+    "results": null,
+    "title": "OVision A raspberry Pi powered portable low cost medical device framework for cancer diagnosis.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fa89620>"
+}{
+    "abstract": "Raspberry leaf (RL; \nTo evaluate the (poly)phenolic content of six RL samples from different geographical locations and to explore the impact of brewing duration on the levels of phenolic compounds available for absorption following consumption.\nA total of 52 polyphenolic constituents were investigated in the RL samples using Liquid Chromatography-Mass Spectrometry (LC-MS), and RL tea samples were analysed for ellagitannins, flavonoids, and phenolic acids. Tea samples were extracted using 80:20 (\nRaspberry leaf (RL) samples from six geographical sources were analysed, with 37 compounds identified in methanol and 37 in water out of the 52 targeted compounds, with only 7 compounds not detected in either methanol or water extracts. The analysis indicated that the total measured polyphenol content across the six samples from various sources ranged between 358.66 and 601.65 mg/100 g (\nRL contains a relatively high level of polyphenols, particularly ellagic acid; thus, its consumption may contribute to the daily intake of these health-beneficial non-nutrient components.",
+    "authors": [
+        {
+            "affiliation": "Department of Food and Nutritional Sciences, School of Chemistry, Food and Pharmacy, University of Reading, Reading RG6 6DZ, UK.\nFood Science and Nutrition Department, Faculty of Science, Taif University, Taif 26571, Saudi Arabia.",
+            "firstname": "Hind Mesfer S",
+            "initials": "HMS",
+            "lastname": "Alkhudaydi"
+        },
+        {
+            "affiliation": "Department of Food and Nutritional Sciences, School of Chemistry, Food and Pharmacy, University of Reading, Reading RG6 6DZ, UK.",
+            "firstname": "Esther Njeri",
+            "initials": "EN",
+            "lastname": "Muriuki"
+        },
+        {
+            "affiliation": "Department of Food and Nutritional Sciences, School of Chemistry, Food and Pharmacy, University of Reading, Reading RG6 6DZ, UK.",
+            "firstname": "Jeremy P E",
+            "initials": "JPE",
+            "lastname": "Spencer"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.3390/molecules30040970\n10.3390/nu16183168\n10.3945/ajcn.110.000075\n10.3390/biom14020221\n10.3390/separations9090262\n10.7150/ijbs.90982\n10.1016/j.smrv.2023.101844\n10.1051/matecconf/202133307013\n10.3233/NHA-230204\n10.1016/j.clnu.2019.03.041\n10.1007/s00394-016-1188-y\n10.3390/plants11091211\n10.3390/foods11081169\n10.3390/molecules28176321\n10.3390/nu12020463\n10.1038/s41598-021-82207-2\n10.3390/app12030990\n10.1002/ptr.5124\n10.3390/molecules26020327\n10.3390/app122211783\n10.1007/BF02975114\n10.1556/AAlim.2008.0012\n10.1016/j.foodchem.2016.09.145\n10.3390/antiox8080274\n10.1016/j.indcrop.2016.04.052\n10.3390/antiox11101961\n10.3390/horticulturae9050556\n10.1016/j.fbio.2019.100438\n10.1186/1472-6882-14-480\n10.1039/C6FO01343K\n10.1016/j.foodchem.2020.128149\n10.21273/HORTSCI.45.11.1587\n10.3390/antiox5020017\n10.1016/j.jnutbio.2018.02.005\n10.1021/acs.jafc.9b02293\n10.1111/ijfs.15083\n10.1016/j.foodchem.2021.129056\n10.1590/fst.35518\n10.1590/fst.27418\n10.3233/JBR-190474\n10.1016/j.jep.2013.08.031\n10.1186/s12906-021-03230-4\n10.1016/S1031-170X(99)80008-7\n10.1016/S1526-9523(01)00095-2\n10.1177/1933719109359703\n10.1016/j.ctcp.2010.09.002\n10.3390/nu15143206\n10.2478/cipms-2022-0040\n10.1021/jf020562x\n10.1016/j.phytochem.2005.01.009\n10.1002/jsfa.885\n10.1016/j.canlet.2005.05.018\n10.3390/antiox8100458\n10.1021/jf203052j\n10.1055/s-2006-949785\n10.1016/j.scienta.2022.111349\n10.3390/ijms242015228\n10.1007/s11099-007-0029-x\n10.1016/j.foodres.2022.111110\n10.1002/jsfa.903\n10.4236/fns.2014.511117\n10.1002/jsfa.3000\n10.1007/s10311-006-0068-8\n10.1021/jf070344+\n10.21273/HORTTECH.16.3.0449\n10.1186/s40643-021-00465-4\n10.3390/app12042107\n10.1007/s11356-024-34637-4\n10.1016/S0963-9969(98)00070-2\n10.1016/S0924-2244(99)00023-0\n10.1016/j.lwt.2011.03.014\n10.1111/j.1365-2621.2007.01590.x\n10.1016/j.jfoodeng.2005.06.061\n10.1007/s11947-009-0306-8\n10.1021/jf304116s\n10.1007/s11130-004-0049-7\n10.1080/10942912.2014.983605\n10.1002/mnfr.200600173\n10.1016/j.phrs.2011.02.007\n10.1016/S0308-8146(99)00179-X\n10.1093/ajcn/81.1.223S\n10.3390/molecules21030338\n10.1038/ejcn.2010.221\n10.3390/ijms151018508\n10.1039/C5FO01101A\n10.1007/s00394-017-1400-8\n10.1016/j.jand.2014.11.001\n10.1016/j.lwt.2023.114763\n10.1016/j.jff.2014.12.010\n10.1039/D0FO03119D\n10.4103/2229-5186.79345",
+    "journal": "Molecules (Basel, Switzerland)",
+    "keywords": [
+        "LC-MS",
+        "polyphenolic profile",
+        "principal component analysis",
+        "raspberry leaf"
+    ],
+    "methods": null,
+    "publication_date": "2025-02-26",
+    "pubmed_id": "40005280\n39339768\n21068351\n38397458\n38385077\n37659249\n31014775\n26951205\n35567211\n35454756\n37687149\n32059465\n33547351\n24458977\n33435253\n15595412\n14714861\n27855899\n31382647\n36290690\n25496130\n28134947\n33039745\n27258314\n29525607\n31240933\n33476922\n23994468\n33563275\n10754818\n11370690\n20220111\n21742280\n37513625\n12381111\n16153405\n16039042\n31591360\n22098480\n37894909\n35400402\n17590007\n38650270\n39126585\n23205662\n15678717\n17195249\n21371557\n15640485\n26978340\n21045839\n25318054\n26593388\n28283823\n25578927\n33537693\n35836012",
+    "results": "Raspberry leaf (RL) samples from six geographical sources were analysed, with 37 compounds identified in methanol and 37 in water out of the 52 targeted compounds, with only 7 compounds not detected in either methanol or water extracts. The analysis indicated that the total measured polyphenol content across the six samples from various sources ranged between 358.66 and 601.65 mg/100 g (",
+    "title": "Determination of the Polyphenol Composition of Raspberry Leaf Using LC-MS/MS.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fac08b0>"
+}{
+    "abstract": "This study addresses the limitations of linear mapping in two-dimensional gimbal control for moving target tracking, which results in significant control errors and slow response times. To overcome these issues, we propose a nonlinear mapping control method that enhances the success rate of light source target tracking systems. Using Raspberry Pi 4B and OpenCV, the control system performs real-time recognition of rectangular frames and laser spot images. The tracking system, which includes an OpenMV H7 Plus camera, captures and processes the laser spot path. Both systems are connected to an STM32F407ZGT6 microcontroller to drive a 42-step stepper motor with precise control. By adjusting the parameter c of the nonlinear mapping curve, we optimize the\u00a0system's\u00a0performance, balancing the response speed and stability. Our results show a significant improvement in control accuracy, with a miss rate of 3.3%, an average error rate of 0.188% at 1.25 m, and a 100% success rate in target tracking. The proposed nonlinear mapping control method offers substantial advancements in real-time tracking and control systems, demonstrating its potential for broader application in intelligent control fields.",
+    "authors": [
+        {
+            "affiliation": "School of Electronic Information and Engineering, Yibin University, Yibin, China.",
+            "firstname": "Guiyu",
+            "initials": "G",
+            "lastname": "Zhou"
+        },
+        {
+            "affiliation": "School of Electronic Information and Engineering, Yibin University, Yibin, China.\nShanghai Judong Semiconductor Company Limited, Shanghai, China.",
+            "firstname": "Bo",
+            "initials": "B",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": "School of of Mechanical and electrical engineering, Yibin University, Yibin, China.",
+            "firstname": "Qinghao",
+            "initials": "Q",
+            "lastname": "Li"
+        },
+        {
+            "affiliation": "School of Business English (Yibin Campus), Chengdu International Studies University, Yibin, China.",
+            "firstname": "Qin",
+            "initials": "Q",
+            "lastname": "Zhao"
+        },
+        {
+            "affiliation": "School of Mathematics and Physics, Yibin University, Yibin, China.",
+            "firstname": "Shengyao",
+            "initials": "S",
+            "lastname": "Zhang"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright: \u00a9 2025 Zhou et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+    "doi": "10.1371/journal.pone.0319071\n10.3390/s22020474\n10.1109/taes.2022.3199196\n10.1109/ACCESS.2023.3292302\n10.1109/access.2024.3378580\n10.3390/s24113349\n10.1155/2021/6184756\n10.1007/s11042-022-13515-6\n10.1007/s41062-021-00718-3\n10.1007/s13369-022-06738-0\n10.1002/qre.3522\n10.1016/j.eswa.2023.120492\n10.1007/s00371-022-02702-z\n10.1080/00949655.2024.2363410\n10.1016/j.ymssp.2019.106548\n10.1016/j.tust.2020.103677\n10.1016/j.mlwa.2021.100134\n10.1007/s00170-021-08551-9\n10.3390/rs14163885\n10.1140/epjs/s11734-021-00207-9\n10.1061/9780784483053.053\n10.1049/iet-ipr.2019.0960\n10.1007/s00371-021-02286-0\n10.1016/j.cosrev.2020.100310\n10.1109/access.2024.3363233\n10.3390/rs13040653\n10.1016/j.aej.2024.06.101\n10.1016/j.cogr.2021.06.001\n10.1016/j.matpr.2020.12.177\n10.1016/j.rcim.2021.102133\n10.1109/access.2020.3031326\n10.1016/j.ijepes.2020.106752\n10.1016/j.compag.2022.107116\n10.1016/j.cma.2021.113818\n10.1016/j.eswa.2024.124626\n10.1007/s11119-024-10152-x\n10.1007/s11229-020-02978-5\n10.1109/TVCG.2021.3114783\n10.1016/j.optlaseng.2019.105831\n10.3390/s24123792",
+    "journal": "PloS one",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2025-02-25",
+    "pubmed_id": "39999188\n35062435\n38894139\n35492958\n34596541\n38931576",
+    "results": null,
+    "title": "Optimizing success rate with Nonlinear Mapping Control in a high-performance raspberry Pi-based light source target tracking system.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2f7358a0>"
+}{
+    "abstract": "Theranostic nanoparticles like polymer conjugated gold nanoparticles are at the cutting edge of cancer therapy, offering an integrated platform for simultaneous diagnosis and treatment. In this study, we report a nanoconjugate (P2AuNPs) by combining doxorubicin (DOX) tethered polymeric prodrug based bicontinuous nanoparticles (P2NPs), developed recently by us, with gold nanoparticles (AuNPs). The AuNPs were generated by in situ reduction of HAuCl",
+    "authors": [
+        {
+            "affiliation": "Department of Chemistry, Indian Institute of Technology Kharagpur, West Bengal 721302, India.",
+            "firstname": "Juthi",
+            "initials": "J",
+            "lastname": "Pal"
+        },
+        {
+            "affiliation": "Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata, Mohanpur, Nadia 741 246 West Bengal, India.",
+            "firstname": "Afruja",
+            "initials": "A",
+            "lastname": "Khan"
+        },
+        {
+            "affiliation": "Department of Chemistry, Indian Institute of Technology Kharagpur, West Bengal 721302, India.",
+            "firstname": "Pousali",
+            "initials": "P",
+            "lastname": "Samanta"
+        },
+        {
+            "affiliation": "Department of Chemistry, Indian Institute of Technology Kharagpur, West Bengal 721302, India.",
+            "firstname": "Manisha",
+            "initials": "M",
+            "lastname": "Khamrai"
+        },
+        {
+            "affiliation": "Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata, Mohanpur, Nadia 741 246 West Bengal, India. Electronic address: amallick@iiserkol.ac.in.",
+            "firstname": "Amirul Islam",
+            "initials": "AI",
+            "lastname": "Mallick"
+        },
+        {
+            "affiliation": "Department of Chemistry, Indian Institute of Technology Kharagpur, West Bengal 721302, India. Electronic address: dibakar@chem.iitkgp.ac.in.",
+            "firstname": "Dibakar",
+            "initials": "D",
+            "lastname": "Dhara"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2025 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.jcis.2025.02.108",
+    "journal": "Journal of colloid and interface science",
+    "keywords": [
+        "Anti-cancer",
+        "Doxorubicin",
+        "Fluorescence",
+        "Nanomedicine",
+        "Real-time monitoring",
+        "Stimuli-sensitive",
+        "Surface energy transfer"
+    ],
+    "methods": null,
+    "publication_date": "2025-02-23",
+    "pubmed_id": "39986010",
+    "results": null,
+    "title": "Raspberry-like gold nano-conjugates of block copolymer prodrug based bicontinuous nanoparticles for cancer theranostics.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2f22acf0>"
+}{
+    "abstract": "Based on a non-targeted metabolomic approach, a comprehensive analysis of the metabolic profiles of two raspberry cultivars, Selina (TSM) and Tulameen (CSM), was conducted to explore the potential for further processing of these two varieties. A total of 752 metabolites were identified in both raspberry varieties, with 375 metabolites detected in negative ion mode and additional metabolites identified in positive ion mode. The total number of differential metabolites between TSM and CSM was 62, with orthogonal partial least squares discriminant analysis (OPLS-DA) revealing that the main differential metabolites between the two varieties were phenolic compounds, organic acids, and alkaloids. KEGG pathway analysis identified the top three significantly different metabolic pathways as biosynthesis of amino acids; valine, leucine, and isoleucine biosynthesis; and alanine, aspartate, and glutamate metabolism. In conclusion, this study comprehensively analyzed the metabolic characteristics of TSM and CSM raspberry varieties, providing valuable insights and revealing their potential application prospects. Compared to previous studies, this research provides new insights into the metabolic differences between TSM and CSM cultivars, specifically highlighting newly identified metabolites that were not reported before. These findings include novel differences in phenolic compounds and alkaloids, which play important roles in plant stress response and have potential health benefits. This enhances our understanding of the unique properties of each cultivar and underscores the biological functions of the newly identified metabolites, contributing to the broader field of functional food development.",
+    "authors": [
+        {
+            "affiliation": "College of Life Engineering, Shenyang Institute of Technology, Fushun, China. yuna20210628@163.com.",
+            "firstname": "Yihao",
+            "initials": "Y",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "Liaoning Provincial Center for Disease Control and Prevention, Shenyang, China.",
+            "firstname": "Xiaoou",
+            "initials": "X",
+            "lastname": "Han"
+        },
+        {
+            "affiliation": "College of Life Engineering, Shenyang Institute of Technology, Fushun, China. yuna20210628@163.com.",
+            "firstname": "Jiaqing",
+            "initials": "J",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "College of Life Engineering, Shenyang Institute of Technology, Fushun, China. yuna20210628@163.com.",
+            "firstname": "Hongling",
+            "initials": "H",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "College of Life Engineering, Shenyang Institute of Technology, Fushun, China. yuna20210628@163.com.",
+            "firstname": "Rong",
+            "initials": "R",
+            "lastname": "Yan"
+        },
+        {
+            "affiliation": "College of Life Engineering, Shenyang Institute of Technology, Fushun, China. yuna20210628@163.com.",
+            "firstname": "Na",
+            "initials": "N",
+            "lastname": "Yu"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1039/d4ay01988a",
+    "journal": "Analytical methods : advancing methods and applications",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2025-02-14",
+    "pubmed_id": "39949318",
+    "results": null,
+    "title": "Comparative metabolomic in-depth exploration of red raspberry: new insights into changes in phytochemicals between different breeds.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2f228810>"
+}{
+    "abstract": "Alzheimer's disease (AD) is the most common form of dementia. H. pylori infection and overweight have been implicated in AD via the gut-brain axis (GBA). This study aimed to determine whether supplementation of BRBs has a meaningful effect on H. pylori infection, overweight, and AD development in a clinical trial setting. We conducted a randomized placebo-controlled clinical trial in patients with mild clinical dementia who also had H. pylori infection and were overweight. The study was conducted over 10 weeks, consisting of an 8-week intervention period (25\u2009g powder of black raspberries, BRBs, or placebo twice daily, morning and evening) and a 2-week follow-up. The primary outcomes were changes in Clinical Dementia Rating (CDR), Urea Breath Test (UBT), and Body Mass Index (BMI). Consumption of BRBs improved cognitive functions (p\u2009<\u20090.00001), compared to the placebo group (p\u2009>\u20090.05). Besides, BRBs ingestion decreased H. pylori infection and BMI (p\u2009<\u20090.00001 and p\u2009<\u20090.05 respectively) while the placebo group stayed statistically the same (p\u2009=\u20090.98 and p\u2009=\u20090.25 respectively). BRBs significantly decreased inflammatory markers, improved oxidative index, and adiponectin (p\u2009<\u20090.05) compared to the placebo group, while adenosine monophosphate-activated protein kinase (AMPK) and leptin did not significantly change. BRBs modulated the abundance of several fecal probiotics, particularly, Akkermansia muciniphila. Our results provided that BRBs suppressed H. pylori infection, decreased BMI, and rebalanced the gut microbiome, which could improve cognitive functions in mild dementia patients. Longer and larger randomized clinical trials of BRB interventions targeting H. pylori infection, overweight, or mild dementia are warranted to confirm the results from this pilot trial. Trial Registration: ClinicalTrials.gov identifier: NCT05680532.",
+    "authors": [
+        {
+            "affiliation": "Department of Nutrition, Chung Shan Medical University, Taichung, Taiwan.\nFaculty of Agricultural Technology, Widya Mandala Surabaya Catholic University, Surabaya, Indonesia.",
+            "firstname": "Yohanes",
+            "initials": "Y",
+            "lastname": "Tandoro"
+        },
+        {
+            "affiliation": "Department of Chinese Medicine, Taichung Hospital Ministry of Health and Welfare, Taichung, Taiwan.",
+            "firstname": "Hui-Fang",
+            "initials": "HF",
+            "lastname": "Chiu"
+        },
+        {
+            "affiliation": "Department of Nutrition, Chung Shan Medical University, Taichung, Taiwan.",
+            "firstname": "Chei-Ling",
+            "initials": "CL",
+            "lastname": "Tan"
+        },
+        {
+            "affiliation": "School of Medicine, Chung Shan Medical University, Taichung, Taiwan.\nDepartment of Psychiatry, Chung Shan Medical University Hospital, Taichung, Taiwan.",
+            "firstname": "Ming-Hong",
+            "initials": "MH",
+            "lastname": "Hsieh"
+        },
+        {
+            "affiliation": "Department of Pediatrics, Medical College of Wisconsin, Milwaukee, WI, USA.",
+            "firstname": "Yi-Wen",
+            "initials": "YW",
+            "lastname": "Huang"
+        },
+        {
+            "affiliation": "Department of Hematology and Hematopoietic Cell Transplantation, Comprehensive Cancer Center, City of Hope National Medical Center, Duarte, CA, USA.",
+            "firstname": "Jianhua",
+            "initials": "J",
+            "lastname": "Yu"
+        },
+        {
+            "affiliation": "Department of Medicine, Medical College of Wisconsin, Milwaukee, WI, USA.",
+            "firstname": "Li-Shu",
+            "initials": "LS",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "Department of Medical Research, Chung Shan Medical University Hospital, Taichung, Taiwan.\nDepartment of Microbiology and Immunology, Chung Shan Medical University, Taichung, Taiwan.",
+            "firstname": "Chi-Ho",
+            "initials": "CH",
+            "lastname": "Chan"
+        },
+        {
+            "affiliation": "Department of Nutrition, Chung Shan Medical University, Taichung, Taiwan. wck@csmu.edu.tw.",
+            "firstname": "Chin-Kun",
+            "initials": "CK",
+            "lastname": "Wang"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2025. The Author(s).",
+    "doi": "10.1038/s41538-024-00356-w",
+    "journal": "NPJ science of food",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2025-02-13",
+    "pubmed_id": "39939643\n30497964\n33667416\n11218379\n30939800\n35084993\n15207062\n35255456\n34571840\n32918343\n25792098\n19585947\n31072403\n28937799\n34308385\n32647653\n21098643\n24067901\n19139022\n28861089\n17237808\n15759043\n22248188\n8418474\n34245759\n26269668\n32438689\n20203603\n29903615\n33169684\n29230419\n27566465\n30535609\n32829453\n28035935\n31460832\n21753171\n34356766\n35052613\n28012316\n31868664\n19854735\n19584499\n30416539\n31599433\n35874661\n33717063\n25845659\n25080446\n36694591\n35740109\n31540270\n35047301\n37110506\n38360862\n35641786\n36827280\n26401592\n32550048",
+    "results": null,
+    "title": "Black raspberry supplementation on overweight and Helicobacter pylori infected mild dementia patients a pilot study.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2f1b12b0>"
+}{
+    "abstract": "1. Further-processed poultry products, such as chicken nuggets, are susceptible to rapid lipid oxidation and microbial spoilage. Natural ingredients from various plants or fruits may contribute to improving the quality and extending the shelf life of meat products. In the present study, the use of encapsulated raspberry powder (ERP; control, 0.5%, 1.0%) in chicken nugget production with and without phosphate (0.0%, 0.3%) and its effects on chemical composition, lipid oxidation, microbial quality and shelf life were examined.2. Phosphate and ERP had effects on chemical composition and a",
+    "authors": [
+        {
+            "affiliation": "Faculty of Agriculture, Department of Food Engineering, Eski\u015fehir Osmangazi University, Eski\u015fehir, Turkey.",
+            "firstname": "H",
+            "initials": "H",
+            "lastname": "Arslan"
+        },
+        {
+            "affiliation": "Faculty of Agriculture, Department of Food Engineering, Atat\u00fcrk University, Erzurum, Turkey.",
+            "firstname": "M I",
+            "initials": "MI",
+            "lastname": "Aksu"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1080/00071668.2025.2453992",
+    "journal": "British poultry science",
+    "keywords": [
+        "Nugget",
+        "microbial quality",
+        "oxidation",
+        "phosphate",
+        "raspberry"
+    ],
+    "methods": null,
+    "publication_date": "2025-02-10",
+    "pubmed_id": "39927849",
+    "results": null,
+    "title": "Combined effects of encapsulated raspberry powder and phosphate on the lipid oxidation, microbiological properties and shelf life of modified atmosphere packaged chicken nuggets during chilled storage.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fd054e0>"
+}{
+    "abstract": "Cultivated raspberries (Rubus idaeus L.) most commonly bear small, red, highly aromatic fruits. Their colour is derived predominantly from anthocyanins, water soluble polyphenolic pigments, but as well as red forms, there exist cultivars that display yellow- and apricot-coloured fruits. In this investigation, we used a multi-omics approach to elucidate the genetic basis of the apricot fruit colour in raspberry. Using metabolomics, we quantified anthocyanins in red and apricot raspberry fruits and demonstrated that, in contrast to red-fruited raspberries, fruits of the apricot cultivar 'Varnes' contain low concentrations of only a small number of anthocyanin compounds. By performing RNASeq, we revealed differential expression patterns in the apricot-fruited 'Varnes' for genes in the anthocyanin biosynthesis pathway and following whole genome sequencing using long-read Oxford Nanopore Technologies sequencing, we identified a CACTA-like transposable element (TE) in the second exon of the Anthocyanidin synthase (Ans) gene that caused a truncated predicted ANS protein. PCR confirmed the presence in heterozygous form of the transposon in an unrelated, red-fruited cultivar 'Veten', indicating apricot fruit colour is recessive to red and that it may be widespread in raspberry germplasm, potentially explaining why apricot forms appear at regular intervals in modern raspberry breeding populations.",
+    "authors": [
+        {
+            "affiliation": "NIAB, Cambridge, United Kingdom.",
+            "firstname": "Daniel James",
+            "initials": "DJ",
+            "lastname": "Sargent"
+        },
+        {
+            "affiliation": "Department of Agriculture, Food, Environment and Forestry, University of Florence, Florence, Italy.",
+            "firstname": "Matteo",
+            "initials": "M",
+            "lastname": "Buti"
+        },
+        {
+            "affiliation": "Department of Food Quality and Nutrition, Fondazione Edmund Mach, Centro Ricerca e Innovazione, San Michele all'Adige, Trentino, Italy.",
+            "firstname": "Stefan",
+            "initials": "S",
+            "lastname": "Martens"
+        },
+        {
+            "affiliation": "Department of Agriculture Food and Environment, University of Pisa, Pisa, Italy.",
+            "firstname": "Claudio",
+            "initials": "C",
+            "lastname": "Pugliesi"
+        },
+        {
+            "affiliation": "NOFIMA AS, Norwegian Institute of Food Fisheries and Aquaculture Research, \u00c5s, Norway.",
+            "firstname": "Kjersti",
+            "initials": "K",
+            "lastname": "Aaby"
+        },
+        {
+            "affiliation": "Njos Fruit and Berry Centre, Leikanger, Norway.",
+            "firstname": "Dag",
+            "initials": "D",
+            "lastname": "R\u00f8en"
+        },
+        {
+            "affiliation": "NIAB, Cambridge, United Kingdom.",
+            "firstname": "Chandra Bhan",
+            "initials": "CB",
+            "lastname": "Yadav"
+        },
+        {
+            "affiliation": "NIAB, Cambridge, United Kingdom.",
+            "firstname": "Felicidad",
+            "initials": "F",
+            "lastname": "Fern\u00e1ndez Fern\u00e1ndez"
+        },
+        {
+            "affiliation": "Graminor Breeding Ltd., Ridabu, Norway.\nDepartment of Plant Sciences, Norwegian University of Life Sciences, \u00c5s, Norway.",
+            "firstname": "Muath",
+            "initials": "M",
+            "lastname": "Alsheikh"
+        },
+        {
+            "affiliation": "Division of Biotechnology and Plant Health, Norwegian Institute of Bioeconomy Research, \u00c5s, Norway.",
+            "firstname": "Jahn",
+            "initials": "J",
+            "lastname": "Davik"
+        },
+        {
+            "affiliation": "NIAB, Cambridge, United Kingdom.",
+            "firstname": "R Jordan",
+            "initials": "RJ",
+            "lastname": "Price"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright: \u00a9 2025 Sargent et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+    "doi": "10.1371/journal.pone.0318692\n10.1016/j.jbiotec.2022.11.009\n10.1021/jf049450r\n10.1007/s00253-022-11835-z\n10.1371/journal.pone.0144356\n10.1105/tpc.105.033506\n10.1007/s00438-014-0973-7\n10.1093/plphys/kiab143\n10.1534/genetics.108.094672\n10.1002/j.1460-2075.1986.tb04292.x\n10.1046/j.1365-313x.1998.00098.x\n10.1073/pnas.96.26.15330\n10.1104/pp.102.015743\n10.1093/gbe/evq080\n10.1007/978-1-62703-568-2_13\n10.1186/s13100-022-00265-3\n10.3389/fpls.2016.01892\n10.1371/journal.pone.0265096\n10.1371/journal.pone.0285756\n10.1094/PHYTO-01-18-0016-R\n10.1038/s41587-019-0201-4\n10.1093/bioinformatics/btt656\n10.1093/bioinformatics/btp616\n10.1093/bioinformatics/btp352\n10.1093/bioinformatics/bty149\n10.1371/journal.pcbi.1009078\n10.1093/bioinformatics/btz041\n10.1093/gigascience/giab008\n10.1093/bioinformatics/btaa025\n10.1093/bioinformatics/bty191\n10.1101/gr.214270.116\n10.1038/nmeth.1923\n10.1371/journal.pone.0112963\n10.1073/pnas.1921046117\n10.1186/s13059-022-02823-7\n10.1093/bioinformatics/btv351\n10.1093/bioinformatics/btad121\n10.1093/nar/gks1067\n10.1186/s13059-019-1905-y\n10.1007/978-1-0716-1036-7_1\n10.1371/journal.pone.0009490\n10.1093/nar/gky1000\n10.1111/tpj.15037\n10.1534/genetics.109.107904\n10.1016/S0379-4172(06)60109-1\n10.1261/rna.070136.118\n10.1016/s0969-2126(01)00695-5",
+    "journal": "PloS one",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2025-02-03",
+    "pubmed_id": "39899506\n24799233\n36414125\n15453684\n35171341\n29882778\n17573033\n26636322\n16141454\n25515665\n33768232\n18791222\n15957213\n9681025\n10611384\n12746511\n21127169\n23918429\n35379321\n28066458\n35294470\n37192177\n29869956\n23654237\n33946792\n24695404\n31375807\n24227677\n19910308\n19505943\n19114008\n29547981\n34153026\n30668829\n33590861\n33397900\n31971576\n34717540\n29750242\n28100585\n22388286\n25409509\n32300014\n36522651\n26059717\n38866550\n36883694\n23161676\n31843001\n33289883\n20224823\n38613393\n10547847\n30357347\n33098166\n22947320\n19897750\n19055742\n16980122\n30655309\n11796114",
+    "results": null,
+    "title": "A CACTA-like transposon in the Anthocyanidin synthase 1 (Ans-1) gene is responsible for apricot fruit colour in the raspberry (Rubus idaeus) cultivar 'Varnes'.",
+    "xml": "<Element 'PubmedArticle' at 0x772c300d6610>"
+}{
+    "abstract": "In this study, the changes in the physicochemical properties, color stability, and amino acid composition of cemen paste (CP) produced by adjusting to different pH levels (3.0, 4.0, 5.0, and 6.0) and enriched with different amounts (0%, 3%, 4% and 5%) of encapsulated raspberry powders (ERP) during 120 days of storage at 2.0\u2009\u00b1\u20090.5\u00a0\u00b0C were investigated. ERP had an important potential for use as a food ingredient with its bioactive components (total phenolic content (TPC), anthocyanin and ascorbic acid), antioxidant activity and high redness values. Essential and non-essential amino acid composition, moisture content, pH, lightness (\nThe online version contains supplementary material available at 10.1007/s13197-024-06029-6.",
+    "authors": [
+        {
+            "affiliation": "Faculty of Agriculture, Department of Food Engineering, Atat\u00fcrk University, Erzurum, 25100 T\u00fcrkiye.",
+            "firstname": "Muhammet Irfan",
+            "initials": "MI",
+            "lastname": "Aksu"
+        },
+        {
+            "affiliation": "Faculty of Agriculture, Department of Dairy Technology, Ankara University, Ankara, 06170 T\u00fcrkiye.",
+            "firstname": "Nevzat",
+            "initials": "N",
+            "lastname": "Konar"
+        },
+        {
+            "affiliation": "Faculty of Agriculture, Department of Food Engineering, Ordu University, Ordu, 52200 T\u00fcrkiye.",
+            "firstname": "Emre",
+            "initials": "E",
+            "lastname": "Turan"
+        },
+        {
+            "affiliation": "D\u00d6HLER Food, \u0130stanbul, Turkey.",
+            "firstname": "Faruk",
+            "initials": "F",
+            "lastname": "Tamt\u00fcrk"
+        },
+        {
+            "affiliation": "D\u00d6HLER Food, \u0130stanbul, Turkey.",
+            "firstname": "Arda",
+            "initials": "A",
+            "lastname": "Serpen"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 The Author(s) 2024.",
+    "doi": "10.1007/s13197-024-06029-6",
+    "journal": "Journal of food science and technology",
+    "keywords": [
+        "Amino acid composition",
+        "Bioactive compounds",
+        "Cemen paste",
+        "Color",
+        "Encapsulated raspberry powder",
+        "pH"
+    ],
+    "methods": null,
+    "publication_date": "2025-01-27",
+    "pubmed_id": "39868395\n38994664\n35250054\n27857537\n28316467\n35078014\n36516591\n29387375\n8660627\n25246942\n26213069\n21254071\n28460905\n32724633\n21535813\n39431192\n36290690\n16385975\n34445149\n38611356\n10381194\n32378207\n23836596",
+    "results": null,
+    "title": "Properties of encapsulated raspberry powder and its efficacy for improving the color stability and amino acid composition of past\u0131rma cemen pastes with different pH during long term cold-storage.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2f288770>"
+}{
+    "abstract": "In this study, biodegradable and active films based on sodium alginate incorporated with different concentrations of oils (25% and 50%) from fruit seeds were developed for potential applications in food packaging. The ultraviolet and visible (UV-VIS) spectra of raspberry seed oil (RSO) and black currant seed oil (BCSO) indicated differences in bioactive compounds, such as tocopherols, phenolic compounds, carotenoids, chlorophyll, and oxidative status (amounts of dienes, trienes, and tetraenes) of active components added to alginate films. The study encompassed the color, structure, and thermal stability analysis of sodium alginate films incorporated with RSO and BCSO and their mixtures. The color of alginate films before and after the addition of oils from both fruit seeds was evaluated by measuring color coordinates in the CIELab color space: L* (lightness), a* (red-green), and b* (yellow-blue). The lightness values ranged between 94.21 and 95.08, and the redness values varied from -2.20 to -2.65, slightly decreasing for the films enriched with oils. In contrast, yellowness values ranged between 2.93 and 5.80 for the obtained active materials, significantly increasing compared to the control alginate film (L* = 95.48, a* = -1.92, and b* = -0.14). Changes in the structure and morphology of the alginate films after incorporating bioactive-rich oils were observed using scanning electron microscopy (SEM). Films with RSO and oil mixtures had more developed surfaces than films with BCSO. Moreover, the cross-sections of the films with RSO showed holes evenly distributed inside the films, indicating traces of volatile compounds. Thermal decomposition of the alginate films loaded with oils showed five separate stages (to 125 \u00b0C, 125-300 \u00b0C, 310-410 \u00b0C, 410-510 \u00b0C, and 750-1000 \u00b0C, respectively) related to the oil and surfactant decomposition. The shape of the thermogravimetric curves did not depend on the oil type. The added oils reduced the efficiency of alginate decomposition in the first stage. The obtained results showed that new functional and thermally stable food packaging films based on sodium alginate with a visual appearance acceptable to consumers could be produced by utilizing oils from fruit seed residues.",
+    "authors": [
+        {
+            "affiliation": "Department of Biomedical and Polymer Chemistry, Faculty of Chemistry, Nicolaus Copernicus University in Toru\u0144, Gagarina 7, 87-100 Toru\u0144, Poland.",
+            "firstname": "Jolanta",
+            "initials": "J",
+            "lastname": "Kowalonek"
+        },
+        {
+            "affiliation": "Department of Biomedical and Polymer Chemistry, Faculty of Chemistry, Nicolaus Copernicus University in Toru\u0144, Gagarina 7, 87-100 Toru\u0144, Poland.",
+            "firstname": "Bogna",
+            "initials": "B",
+            "lastname": "\u0141ukomska"
+        },
+        {
+            "affiliation": "Department of Analytical Chemistry and Applied Spectroscopy, Faculty of Chemistry, Nicolaus Copernicus University in Toru\u0144, Gagarina 7, 87-100 Toru\u0144, Poland.",
+            "firstname": "Aleksandra",
+            "initials": "A",
+            "lastname": "Szyd\u0142owska-Czerniak"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.3390/molecules30020245\n10.1007/s00289-021-03767-x\n10.1016/j.ijbiomac.2024.130765\n10.1016/j.ijbiomac.2018.04.014\n10.1002/pat.6042\n10.1016/j.ijbiomac.2023.127257\n10.1021/acsfoodscitech.4c00009\n10.3390/app14072936\n10.1016/j.foodhyd.2024.110806\n10.1016/j.fufo.2024.100508\n10.1016/j.colsurfb.2024.114313\n10.1007/s44187-024-00117-4\n10.1016/j.foodchem.2024.141081\n10.1002/masy.202000278\n10.3390/app14177669\n10.1016/j.ifset.2017.11.013\n10.1007/s11694-024-02472-3\n10.1155/2015/659541\n10.1016/S0308-8146(99)00260-5\n10.1021/jf0006729\n10.1155/2018/6046074\n10.1002/ejlt.201400014\n10.1021/jf902161k\n10.1016/j.ijbiomac.2024.135441\n10.1016/j.ijbiomac.2024.130949\n10.1016/j.ijbiomac.2024.130001\n10.1016/j.lwt.2020.109952\n10.3390/molecules29092012\n10.1002/ejlt.200700262\n10.1016/j.jfca.2023.105723\n10.3390/cosmetics11050153\n10.1016/j.ijbiomac.2023.124207\n10.3390/coatings13101716\n10.1002/pts.2558\n10.1016/j.ijbiomac.2021.03.159\n10.26850/1678-4618eqj.v29.2.2004.p57-63\n10.1016/j.egypro.2017.12.552\n10.1007/s13399-022-02526-w\n10.1021/ac60137a031\n10.1038/s41598-021-96199-6\n10.1111/jfs.12828",
+    "journal": "Molecules (Basel, Switzerland)",
+    "keywords": [
+        "alginate film",
+        "bioactive-rich oils",
+        "optical properties",
+        "structure",
+        "thermal stability"
+    ],
+    "methods": null,
+    "publication_date": "2025-01-25",
+    "pubmed_id": "39860115\n38462119\n29627470\n37802450\n39418822\n39243627\n11170598\n19928765\n39260631\n38508545\n38340915\n38731511\n36990416\n33781817\n34426591",
+    "results": null,
+    "title": "Color, Structure, and Thermal Stability of Alginate Films with Raspberry and/or Black Currant Seed Oils.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fc831a0>"
+}{
+    "abstract": "Red raspberry (Rubus idaeus L.) is a renowned fruit plant with significant medicinal value. Its nuclear genome and chloroplast genome (plastome) have been reported, while there is a lack of genetic information on its mitogenome. We sequenced and assembled the complete mitogenome of R. idaeus, and conducted a series of genetic investigations comparing it with the nuclear and chloroplast genomes, so as to better gain a comprehensive understanding of the species' genetic background.\nThe mitogenome is represented by one circular chromosome of 438,947\u00a0bp. Twenty-four core genes, nine variable genes, 26 tRNAs, and three rRNAs were annotated. A total of 52 SSRs and 38 tandem repeat sequences were identified. 533 pairs of dispersed repeats were detected, among which three pairs were found to have mediated the homologous recombination, resulting in one major conformation and seven minor conformations. Furthermore, 52 homologous sequences between the mitogenome and plastome were identified, including six complete protein-coding genes and 12 tRNA genes. We also detected 828 homologous fragments between the nuclear genome and mitogenome, including one trnM-CAU gene.\nIn this study, we presented the mitogenome of R. idaeus for the first time based on data obtained from Illumina and Oxford Nanopore sequencing platforms. Key characteristics of the mitogenome were examined, including its gene composition, repetitive elements, and homologous DNA fragments. Additionally, we identified multiple recombination events in the mitogenome mediated by repetitive sequences The high-quality and well-annotated mitogenome for the known fruit red raspberry will provide essential genetic information for species classification, evolution analysis, and even genetic improvement in Rubus in the future.",
+    "authors": [
+        {
+            "affiliation": "CAS Key Laboratory of Plant Germplasm Enhancement and Specialty Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nCenter of Conservation Biology, Core Botanical Gardens, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nUniversity of Chinese Academy of Sciences, Beijing, 100049, China.",
+            "firstname": "Huajie",
+            "initials": "H",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": "Dabie Mountain Laboratory, College of Tea and Food Science, Xinyang Normal University, Xinyang, Henan, 464000, China.",
+            "firstname": "Minghui",
+            "initials": "M",
+            "lastname": "Yan"
+        },
+        {
+            "affiliation": "CAS Key Laboratory of Plant Germplasm Enhancement and Specialty Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nCenter of Conservation Biology, Core Botanical Gardens, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nUniversity of Chinese Academy of Sciences, Beijing, 100049, China.",
+            "firstname": "Lijuan",
+            "initials": "L",
+            "lastname": "Li"
+        },
+        {
+            "affiliation": "CAS Key Laboratory of Plant Germplasm Enhancement and Specialty Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nCenter of Conservation Biology, Core Botanical Gardens, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nUniversity of Chinese Academy of Sciences, Beijing, 100049, China.",
+            "firstname": "Zhuo",
+            "initials": "Z",
+            "lastname": "Jiang"
+        },
+        {
+            "affiliation": "CAS Key Laboratory of Plant Germplasm Enhancement and Specialty Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nCenter of Conservation Biology, Core Botanical Gardens, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nUniversity of Chinese Academy of Sciences, Beijing, 100049, China.",
+            "firstname": "Ye",
+            "initials": "Y",
+            "lastname": "Xiong"
+        },
+        {
+            "affiliation": "School of Horticulture and Gardening, Yangtze University, Jingzhou, Hubei, 434025, China.",
+            "firstname": "Yusheng",
+            "initials": "Y",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": "CAS Key Laboratory of Plant Germplasm Enhancement and Specialty Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nCenter of Conservation Biology, Core Botanical Gardens, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nUniversity of Chinese Academy of Sciences, Beijing, 100049, China.",
+            "firstname": "Caleb Onoja",
+            "initials": "CO",
+            "lastname": "Akogwu"
+        },
+        {
+            "affiliation": "CAS Key Laboratory of Plant Germplasm Enhancement and Specialty Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nCenter of Conservation Biology, Core Botanical Gardens, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nUniversity of Chinese Academy of Sciences, Beijing, 100049, China.",
+            "firstname": "Olutayo Mary",
+            "initials": "OM",
+            "lastname": "Tolulope"
+        },
+        {
+            "affiliation": "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, Hubei, China.",
+            "firstname": "Hao",
+            "initials": "H",
+            "lastname": "Zhou"
+        },
+        {
+            "affiliation": "CAS Key Laboratory of Plant Germplasm Enhancement and Specialty Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nCenter of Conservation Biology, Core Botanical Gardens, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China.\nUniversity of Chinese Academy of Sciences, Beijing, 100049, China.",
+            "firstname": "Yanxia",
+            "initials": "Y",
+            "lastname": "Sun"
+        },
+        {
+            "affiliation": "CAS Key Laboratory of Plant Germplasm Enhancement and Specialty Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China. hcwang@wbgcas.cn.\nCenter of Conservation Biology, Core Botanical Gardens, Chinese Academy of Sciences, Wuhan, Hubei, 430074, China. hcwang@wbgcas.cn.\nUniversity of Chinese Academy of Sciences, Beijing, 100049, China. hcwang@wbgcas.cn.",
+            "firstname": "Hengchang",
+            "initials": "H",
+            "lastname": "Wang"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2025. The Author(s).",
+    "doi": "10.1186/s12870-024-05969-7",
+    "journal": "BMC plant biology",
+    "keywords": [
+        "De-novo assembly",
+        "Mitogenome",
+        "Phylogenetic analysis",
+        "Recombination",
+        "Sequence collinearity"
+    ],
+    "methods": null,
+    "publication_date": "2025-01-22",
+    "pubmed_id": "39838290\n31921259\n35294470\n37999220\n35740089\n19895463\n26773014\n36341819\n37192177\n39234579\n34991463\n34546501\n38927652\n35986276\n29112874\n11700280\n15614482\n29885222\n23431381\n16594021\n31469821\n35681138\n28008701\n37880586\n38973002\n32535166\n21742987\n27997742\n37416882\n36833452\n34946920\n36774424\n37416891\n15655666\n36613970\n8193306\n9645425\n38561677\n38594641\n28573928\n25896453\n29547981\n36824332\n28100585\n27153593\n22388286\n33590861\n28594827\n26099265\n28486635\n9023104\n30949694\n12537571\n31599058\n29722887\n28398459\n9862982\n32585190\n26250111\n19541911\n23329690\n24451623\n22217600",
+    "results": "The mitogenome is represented by one circular chromosome of 438,947\u00a0bp. Twenty-four core genes, nine variable genes, 26 tRNAs, and three rRNAs were annotated. A total of 52 SSRs and 38 tandem repeat sequences were identified. 533 pairs of dispersed repeats were detected, among which three pairs were found to have mediated the homologous recombination, resulting in one major conformation and seven minor conformations. Furthermore, 52 homologous sequences between the mitogenome and plastome were identified, including six complete protein-coding genes and 12 tRNA genes. We also detected 828 homologous fragments between the nuclear genome and mitogenome, including one trnM-CAU gene.",
+    "title": "Assembly and comparative analysis of the complete mitochondrial genome of\u00a0red raspberry (Rubus idaeus L.) revealing repeat-mediated recombination and gene transfer.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fa06890>"
+}{
+    "abstract": "Biostimulants are an emerging and innovative class of products that may mitigate the adverse effects of extreme heat, but research on their efficacy in fruit crops is limited. This study addressed this knowledge gap by evaluating the performance of three biostimulants, FRUIT ARMOR\u2122, Optysil\u00ae, and KelpXpress\u2122 [active ingredients glycine betaine, silicon, and kelp (Ascophyllum nodosum) extract, respectively] applied to three raspberry genotypes exposed to high temperatures (T",
+    "authors": [
+        {
+            "affiliation": "Irrigated Agriculture Research and Extension Centre, Washington State University, Prosser, WA, 99350, USA. givemore.makonya@wsu.edu.",
+            "firstname": "Givemore Munashe",
+            "initials": "GM",
+            "lastname": "Makonya"
+        },
+        {
+            "affiliation": "U.S. Department of Agriculture, Agricultural Research Service, Horticultural Crops Production and Genetic Improvement Research Unit, 3420 NW Orchard Avenue, Corvallis, OR, 97330, USA.",
+            "firstname": "David R",
+            "initials": "DR",
+            "lastname": "Bryla"
+        },
+        {
+            "affiliation": "U.S. Department of Agriculture, Agricultural Research Service, Horticultural Crops Production and Genetic Improvement Research Unit, 3420 NW Orchard Avenue, Corvallis, OR, 97330, USA.",
+            "firstname": "Michael A",
+            "initials": "MA",
+            "lastname": "Hardigan"
+        },
+        {
+            "affiliation": "Department of Horticulture, Washington State University Puyallup Research and Extension Center, 2606 W Pioneer Ave, Puyallup, WA, 98371, USA.",
+            "firstname": "Wendy",
+            "initials": "W",
+            "lastname": "Hoashi-Erhardt"
+        },
+        {
+            "affiliation": "Department of Horticulture, Washington State University Northwestern Washington Research and Extension Center, Mount Vernon, WA, 98221, USA. lisa.devetter@wsu.edu.",
+            "firstname": "Lisa Wasko",
+            "initials": "LW",
+            "lastname": "DeVetter"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2025. The Author(s).",
+    "doi": "10.1038/s41598-024-83955-7",
+    "journal": "Scientific reports",
+    "keywords": [
+        "Climate change",
+        "Extreme heat events",
+        "Priming agent",
+        "Thermotolerance"
+    ],
+    "methods": null,
+    "publication_date": "2025-01-18",
+    "pubmed_id": "39824907\n25482750\n33751168\n21143718\n15258166\n19403728\n15130550\n33321781\n30425724\n37298792\n24405887\n34368568\n18703379\n22467407\n28458674\n35267278\n37621881\n24173073\n15127204\n18211023\n24227324\n16668597\n24420995\n24962705\n15197268\n20946588\n17660354\n18670904\n18328775\n11841661\n31940839\n32670315\n31936466\n23914193\n32689071\n16313641\n16704996\n28586465\n29547945\n36769147\n16668393",
+    "results": null,
+    "title": "Biostimulants with glycine betaine or kelp extract alleviate heat stress in red raspberry (Rubus idaeus).",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fb68c70>"
+}{
+    "abstract": "Red raspberries, valued for their nutrients and bioactive compounds, have broad uses in processing and healthy products. However, limited comprehensive research focused on the comparison of phenolic compounds of red raspberry, especially species cultivated in Northeast China, has been reported. This study aimed to conduct a thorough investigation of 24 red raspberry varieties in Northeast China for the first time, evaluating their phenolic compounds and antioxidant capacities. The results showed that 'DNS1' had the highest total phenolic content (TPC), 'Willamette' had the highest total flavonoid content (TFC), and 'Boyne' had the highest total anthocyanin content (TAC). Phenolic compounds in red raspberries were predominantly found in esterified form, while glycosylated phenolics should not be overlooked. Chlorogenic acid, cryptochlorogenic acid, ellagic acid, and arbutin were the main phenolic compounds, and the distribution of their contents varied between varieties. The antioxidant activity in the red raspberry had a close association with the content of phenolic compounds. Principal component analysis (PCA) showed that phenolic compounds and antioxidant activities were higher in samples from 'DNS1', 'Boyne', 'Beijing10', 'DNS5', and 'Willamette' varieties. These varieties should be given priority in breeding programs that aim to boost the utility and bioactive profile of red raspberries. PRACTICAL APPLICATION: Red raspberry is becoming a desirable commercially grown fruit species and is viewed as a new functional food. In this context, this research offers strong support for confirming the quality of 24 varieties of red raspberry and plays a critical role in the food industry. It also indicates the potential sources of superior varieties of red raspberry, which are advantageous for growers and consumers in search of high-quality red raspberry varieties.",
+    "authors": [
+        {
+            "affiliation": "College of Life Science, Northeast Forestry University, Harbin, China.\nKey Laboratory of Forest Food Resources Utilization of Heilongjiang Province, Harbin, China.",
+            "firstname": "Haonan",
+            "initials": "H",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": "College of Life Science, Northeast Forestry University, Harbin, China.\nKey Laboratory of Forest Food Resources Utilization of Heilongjiang Province, Harbin, China.",
+            "firstname": "Yiping",
+            "initials": "Y",
+            "lastname": "Yu"
+        },
+        {
+            "affiliation": "Faulty of Arts and Sciences, University of Toronto, Toronto, Canada.",
+            "firstname": "Hegu",
+            "initials": "H",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": "College of Life Science, Northeast Forestry University, Harbin, China.\nKey Laboratory of Forest Food Resources Utilization of Heilongjiang Province, Harbin, China.",
+            "firstname": "Xin",
+            "initials": "X",
+            "lastname": "Zhao"
+        },
+        {
+            "affiliation": "College of Life Science, Northeast Forestry University, Harbin, China.\nKey Laboratory of Forest Food Resources Utilization of Heilongjiang Province, Harbin, China.",
+            "firstname": "Jinling",
+            "initials": "J",
+            "lastname": "Wang"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2025 Institute of Food Technologists.",
+    "doi": "10.1111/1750-3841.17623",
+    "journal": "Journal of food science",
+    "keywords": [
+        "antioxidant activities",
+        "phenolic compounds",
+        "red raspberry",
+        "varieties"
+    ],
+    "methods": null,
+    "publication_date": "2024-12-29",
+    "pubmed_id": "39731726",
+    "results": null,
+    "title": "A comprehensive profiling of phenolic compounds and antioxidant activities of 24 varieties of red raspberry cultivated in Northeast China.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fcff8d0>"
+}{
+    "abstract": "Inflammatory bowel diseases (IBDs), including Crohn's disease (CD) and ulcerative colitis (UC), are chronic conditions characterized by periods of intestinal inflammation and have become global diseases. Dietary pectins have shown protective effects on IBD models. However, the development of pectin-based diet intervention for IBD individuals requires knowledge of both the bioactive structural patterns and the mechanisms underlying diet-microbiota-host interactions. Here, dextran sulfate sodium (DSS) induced colitis mice were fed with different pectins with various domain compositions, including AG, P37, P55 and P85, in order to understand why different structural patterns function differently on colitis mouse models. The structural diversity of pectin manifests in the different percentages of the homogalacturonan (HG) backbone, Ara sidechains, and Gal sidechains. AG comprises only neutral sugar chains consisting of 14% Ara and 86% Gal, and P85 is a commercial HG pectin mainly composed of 85% HG. P37 and P55 were isolated from raspberry pulps with different domain ratios (P37 = 37% HG + 22% Ara + 32% Gal; P55 = 55% HG + 16% Ara + 18% Gal). Compared to the monotonous structure of AG and P85, the domain-diverse pectins P37 and P55 show superior protective effects against colitis through inhibiting the proliferation of the mucin-consuming bacteria and the pro-inflammatory microorganisms, potentiating the ",
+    "authors": [
+        {
+            "affiliation": "College of Biosystems Engineering and Food Science, National-Local Joint Engineering Laboratory of Intelligent Food Technology and Equipment, Zhejiang Key Laboratory for Agro-Food Processing, Integrated Research Base of Southern Fruit and Vegetable Preservation Technology, Zhejiang International Scientific and Technological Cooperation Base of Health Food Manufacturing and Quality Control, Zhejiang University, Hangzhou 310058, China. chenshiguo210@163.com.",
+            "firstname": "Dongmei",
+            "initials": "D",
+            "lastname": "Wu"
+        },
+        {
+            "affiliation": "College of Biosystems Engineering and Food Science, National-Local Joint Engineering Laboratory of Intelligent Food Technology and Equipment, Zhejiang Key Laboratory for Agro-Food Processing, Integrated Research Base of Southern Fruit and Vegetable Preservation Technology, Zhejiang International Scientific and Technological Cooperation Base of Health Food Manufacturing and Quality Control, Zhejiang University, Hangzhou 310058, China. chenshiguo210@163.com.",
+            "firstname": "Xingqian",
+            "initials": "X",
+            "lastname": "Ye"
+        },
+        {
+            "affiliation": "College of Biosystems Engineering and Food Science, National-Local Joint Engineering Laboratory of Intelligent Food Technology and Equipment, Zhejiang Key Laboratory for Agro-Food Processing, Integrated Research Base of Southern Fruit and Vegetable Preservation Technology, Zhejiang International Scientific and Technological Cooperation Base of Health Food Manufacturing and Quality Control, Zhejiang University, Hangzhou 310058, China. chenshiguo210@163.com.",
+            "firstname": "Weiwei",
+            "initials": "W",
+            "lastname": "Hu"
+        },
+        {
+            "affiliation": "College of Biosystems Engineering and Food Science, National-Local Joint Engineering Laboratory of Intelligent Food Technology and Equipment, Zhejiang Key Laboratory for Agro-Food Processing, Integrated Research Base of Southern Fruit and Vegetable Preservation Technology, Zhejiang International Scientific and Technological Cooperation Base of Health Food Manufacturing and Quality Control, Zhejiang University, Hangzhou 310058, China. chenshiguo210@163.com.",
+            "firstname": "Chengxiao",
+            "initials": "C",
+            "lastname": "Yu"
+        },
+        {
+            "affiliation": "College of Biosystems Engineering and Food Science, National-Local Joint Engineering Laboratory of Intelligent Food Technology and Equipment, Zhejiang Key Laboratory for Agro-Food Processing, Integrated Research Base of Southern Fruit and Vegetable Preservation Technology, Zhejiang International Scientific and Technological Cooperation Base of Health Food Manufacturing and Quality Control, Zhejiang University, Hangzhou 310058, China. chenshiguo210@163.com.",
+            "firstname": "Kai",
+            "initials": "K",
+            "lastname": "Zhu"
+        },
+        {
+            "affiliation": "College of Biosystems Engineering and Food Science, National-Local Joint Engineering Laboratory of Intelligent Food Technology and Equipment, Zhejiang Key Laboratory for Agro-Food Processing, Integrated Research Base of Southern Fruit and Vegetable Preservation Technology, Zhejiang International Scientific and Technological Cooperation Base of Health Food Manufacturing and Quality Control, Zhejiang University, Hangzhou 310058, China. chenshiguo210@163.com.",
+            "firstname": "Haibo",
+            "initials": "H",
+            "lastname": "Pan"
+        },
+        {
+            "affiliation": "College of Biosystems Engineering and Food Science, National-Local Joint Engineering Laboratory of Intelligent Food Technology and Equipment, Zhejiang Key Laboratory for Agro-Food Processing, Integrated Research Base of Southern Fruit and Vegetable Preservation Technology, Zhejiang International Scientific and Technological Cooperation Base of Health Food Manufacturing and Quality Control, Zhejiang University, Hangzhou 310058, China. chenshiguo210@163.com.",
+            "firstname": "Jianle",
+            "initials": "J",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": "College of Biosystems Engineering and Food Science, National-Local Joint Engineering Laboratory of Intelligent Food Technology and Equipment, Zhejiang Key Laboratory for Agro-Food Processing, Integrated Research Base of Southern Fruit and Vegetable Preservation Technology, Zhejiang International Scientific and Technological Cooperation Base of Health Food Manufacturing and Quality Control, Zhejiang University, Hangzhou 310058, China. chenshiguo210@163.com.",
+            "firstname": "Huan",
+            "initials": "H",
+            "lastname": "Cheng"
+        },
+        {
+            "affiliation": "College of Biosystems Engineering and Food Science, National-Local Joint Engineering Laboratory of Intelligent Food Technology and Equipment, Zhejiang Key Laboratory for Agro-Food Processing, Integrated Research Base of Southern Fruit and Vegetable Preservation Technology, Zhejiang International Scientific and Technological Cooperation Base of Health Food Manufacturing and Quality Control, Zhejiang University, Hangzhou 310058, China. chenshiguo210@163.com.",
+            "firstname": "Shiguo",
+            "initials": "S",
+            "lastname": "Chen"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1039/d4fo03363a",
+    "journal": "Food & function",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2024-12-24",
+    "pubmed_id": "39716902",
+    "results": null,
+    "title": "Diverse domains of raspberry pectin: critical determinants for protecting against IBDs.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fcc4130>"
+}{
+    "abstract": "Secondary metabolites are a group of invaluable phytochemicals in raspberries. Fermentation process leads to changes in the phytochemical composition of fruits. This study aimed to investigate the influence of Lacticaseibacillus paracasei subsp. paracasei FBKL1.0328 and Lactiplantibacillus plantarum subsp. plantarum FBKL1.0310 on the secondary metabolites of red raspberry juice (CR) and uncover their conversion pathways via metabolomics based on ultra-high performance liquid chromatography tandem mass spectrometry (UHPLC-MS/MS). A total of 695 secondary metabolites in the unfermented and fermented samples were identified. There were 90, 83 and 52 differential secondary metabolites identified in LCR (L. paracasei FBKL1.0328 fermented raspberry juice) vs. CR, LPR (L. plantarum FBKL1.0310 fermented raspberry juice) vs. CR, and LCR vs. LPR, respectively. Certain phenolic acids (e.g. 3-phenyllacitc acid), flavonoids (e.g. galangin-7-glucoside), alkaloids (e.g. indole-3-lactic acid), and terpenoids (e.g. glucosyl 7-methyl-3-methyleneoctane-1,2,6,7-tetraol) were selected as the crucial differential metabolites. These two lactobacilli utilized distinct metabolic pathways for processing secondary metabolites. L. paracasei FBKL1.0328 primarily transformed flavonoids through the \"Flavone and flavonol biosynthesis\" pathway. L. plantarum FBKL1.0310 mainly converted phenolic acids via the \"Tyrosine metabolism\" pathway and the \"Aminobenzoate degradation\" pathway. Interestingly, L. plantarum FBKL1.0310 outperformed L. paracasei FBKL1.0328 in upregulating certain valuable bioactive compounds such as indole-3-lactic acid and 3-phenyllacitc acid, underscoring its potential as a promising strain for developing health-beneficial fermented fruit juices. These findings provide insights to how different lactobacilli modify secondary metabolite composition in red raspberry juice and offer valuable information for the industrial application of lactobacilli in fruit processing.",
+    "authors": [
+        {
+            "affiliation": "School of Liquor and Food Engineering, Guizhou University, Guiyang 550025, Guizhou, China.",
+            "firstname": "Ruling",
+            "initials": "R",
+            "lastname": "Tang"
+        },
+        {
+            "affiliation": "School of Food and Drug Manufacturing, Guizhou Institute of Technology, Guiyang 510006, Guizhou, China.",
+            "firstname": "Yin",
+            "initials": "Y",
+            "lastname": "Qin"
+        },
+        {
+            "affiliation": "School of Liquor and Food Engineering, Guizhou University, Guiyang 550025, Guizhou, China; Centre for Nutrition and Food Science, Queensland Alliance for Agriculture and Food Innovation, The University of Queensland, Indooroopilly, QLD 4068, Australia. Electronic address: yluo9@gzu.edu.cn.",
+            "firstname": "You",
+            "initials": "Y",
+            "lastname": "Luo"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2024 Elsevier B.V. All rights reserved.",
+    "doi": "10.1016/j.ijfoodmicro.2024.110974",
+    "journal": "International journal of food microbiology",
+    "keywords": [
+        "Biotransformation pathway",
+        "Fermentation",
+        "Lactobacilli",
+        "Metabolomics",
+        "Red raspberry",
+        "Secondary metabolites"
+    ],
+    "methods": null,
+    "publication_date": "2024-11-16",
+    "pubmed_id": "39546897",
+    "results": null,
+    "title": "The impact of different lactobacilli fermentations on secondary metabolites of red raspberry juice and their biotransformation pathways via metabolomics based on UHPLC-MS/MS.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fc7c400>"
+}{
+    "abstract": "While tobacco smoking is a risk factor in the development of oral squamous cell carcinoma (OSCC), only a fraction of smokers develop the disease. Compelling evidence shows that microbial community composition is associated with carcinogenesis, suggesting that the microbiome may play a role in cancer development of smokers. We previously showed that black raspberry (BRB) protects against OSCC induced by the tobacco constituent dibenzo[def,p]chrysene (DBP) via alteration of genetic and epigenetic markers in a manner consistent with its cancer preventive activity. In the present study, we conducted a mouse experiment to investigate the effects of BRB and DBP individually and in combination on the oral and gut microbiota. DBP-induced DNA damage in the mouse oral cavity is an essential step for the development of OSCC in mice. 16S rRNA gene sequencing revealed that BRB significantly increased microbial diversity and shifted microbiome composition in the gut and oral cavity, whereas DBP had no significant effect. In both gut and oral microbiota, Akkermansia muciniphila was significantly reduced after BRB treatment; however, this was not consistent with pure culture in vitro assays suggesting that the impact of BRB on A. muciniphila may be mediated through indirect mechanisms including the host or other microbes. Indeed BRB, but not DBP, was found to modulate the growth kinetics of human gut microbes in vitro including lactic acid bacteria and Bacteroides spp. The results of the current study further emphasize the interplay of microbiome and environmental factors in the development and prevention of OSCC. Prevention Relevance: Our work clearly demonstrates the modulatory impact of BRB on both gut and oral microbiomes within a DBP-induced OSCC mouse model and paves the way for future research examining a causal role of BRB-microbiota interactions at different stages of disease progression.",
+    "authors": [
+        {
+            "affiliation": "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, Pennsylvania.",
+            "firstname": "Jingcheng",
+            "initials": "J",
+            "lastname": "Zhao"
+        },
+        {
+            "affiliation": "Department of Biochemistry and Molecular Biology, Pennsylvania State University, College of Medicine, Hershey, Pennsylvania.",
+            "firstname": "Yuan-Wan",
+            "initials": "YW",
+            "lastname": "Sun"
+        },
+        {
+            "affiliation": "Department of Biochemistry and Molecular Biology, Pennsylvania State University, College of Medicine, Hershey, Pennsylvania.",
+            "firstname": "Kun-Ming",
+            "initials": "KM",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": "Department of Biochemistry and Molecular Biology, Pennsylvania State University, College of Medicine, Hershey, Pennsylvania.",
+            "firstname": "Cesar",
+            "initials": "C",
+            "lastname": "Aliaga"
+        },
+        {
+            "affiliation": "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, Pennsylvania.\nOne Health Microbiome Center, Huck Institutes of the Life Sciences, University Park, Pennsylvania.",
+            "firstname": "Jordan E",
+            "initials": "JE",
+            "lastname": "Bisanz"
+        },
+        {
+            "affiliation": "Department of Biochemistry and Molecular Biology, Pennsylvania State University, College of Medicine, Hershey, Pennsylvania.",
+            "firstname": "Karam",
+            "initials": "K",
+            "lastname": "El-Bayoumy"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a92024 American Association for Cancer Research.",
+    "doi": "10.1158/1940-6207.CAPR-24-0347",
+    "journal": "Cancer prevention research (Philadelphia, Pa.)",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2024-11-06",
+    "pubmed_id": "39502024\n33538338\n38230766\n35733418\n33302498\n28822617\n35955456\n26158901\n34140233\n23134607\n24676390\n32071121\n29774014\n30732955\n29630846\n27697111\n24132111\n15987522\n24846174\n31563898\n28092946\n2689047\n27015003\n36503487\n280847\n33243986\n21815141\n23483552\n31969344\n32434808\n34784403\n33186600\n35749296\n36358859\n34503249\n33137960\n30288460\n37700024\n37200866\n29333479\n27454739\n29158340\n31086117\n31336737\n34576796\n27267891\n36260657\n27094401\n19819907\n22699609\n30747106\n33924899\n27503127\n28861070\n36558431\n36911337\n30763455\n28718724\n34864424\n36323016\n28856738\n38612577\n36448791\n28304245\n27848961\n30353740\n23061912\n29762617\n33687943\n35844600",
+    "results": null,
+    "title": "Black Raspberry Modulates Cecal and Oral Microbiomes at the Early Stage of a Dibenzo[def,p]chrysene-Induced Murine Oral Cancer Model.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff3a750>"
+}{
+    "abstract": "Application of microbial-based biopreparations as a pre-harvest strategy offers a method to obtain sustainable agricultural practices and could be an important approach for advancing food science, promoting sustainability, and meeting global food market demands. The impact of a bacterial-fungal biopreparation mixture on soil-plant-microbe interactions, fruit chemical composition and yield of 7 raspberry clones was investigated by examining the structural and functional profiles of microbial communities within leaves, fruits, and soil. Biopreparation addition caused the enhancement of the microbiological utilization of specific compounds, such as d-mannitol, relevant in plant-pathogen interactions and overall plant health. The biopreparation treatment positively affected the nitrogen availability in soil (9-160%). The analysis of plant stress marker enzymes combined with the evaluation of fruit quality and chemical properties highlight changes inducted by the pre-harvest biopreparation application. Chemical analyses highlight biopreparations' role in soil and fruit quality improvement, promoting sustainable agriculture. This effect was dependent on tested clones, showing increase of soluble solid content in fruits, concentration of polyphenols or the sensory quality of the fruits. The results of the next-generation sequencing indicated increase in the effective number of bacterial species after biopreparation treatment. The network analysis showed stimulating effect of biopreparation on microbial communities by enhancing microbial interactions (increasing the number of network edges up to 260%) of and affecting the proportions of mutual relationships between both bacteria and fungi. These findings show the potential of microbial-based biopreparation in enhancing raspberry production whilst promoting sustainable practices and maintaining environmental homeostasis and giving inshght in holistic understanding of microbial-based approaches for advancing food science monitoring.",
+    "authors": [
+        {
+            "affiliation": "Institute of Agrophysics, Polish Academy of Sciences, Do\u015bwiadczalna 4, 20-290 Lublin, Poland. Electronic address: m.pylak@ipan.lublin.pl.",
+            "firstname": "Micha\u0142",
+            "initials": "M",
+            "lastname": "Pylak"
+        },
+        {
+            "affiliation": "Institute of Agrophysics, Polish Academy of Sciences, Do\u015bwiadczalna 4, 20-290 Lublin, Poland. Electronic address: k.oszust@ipan.lublin.pl.",
+            "firstname": "Karolina",
+            "initials": "K",
+            "lastname": "Oszust"
+        },
+        {
+            "affiliation": "Institute of Agrophysics, Polish Academy of Sciences, Do\u015bwiadczalna 4, 20-290 Lublin, Poland. Electronic address: j.panek@ipan.lublin.pl.",
+            "firstname": "Jacek",
+            "initials": "J",
+            "lastname": "Panek"
+        },
+        {
+            "affiliation": "Institute of Agrophysics, Polish Academy of Sciences, Do\u015bwiadczalna 4, 20-290 Lublin, Poland. Electronic address: d.siegieda@ipan.lublin.pl.",
+            "firstname": "Dominika",
+            "initials": "D",
+            "lastname": "Siegieda"
+        },
+        {
+            "affiliation": "Institute of Agrophysics, Polish Academy of Sciences, Do\u015bwiadczalna 4, 20-290 Lublin, Poland. Electronic address: j.cybulska@ipan.lublin.pl.",
+            "firstname": "Justyna",
+            "initials": "J",
+            "lastname": "Cybulska"
+        },
+        {
+            "affiliation": "Institute of Agrophysics, Polish Academy of Sciences, Do\u015bwiadczalna 4, 20-290 Lublin, Poland. Electronic address: a.zdunek@ipan.lublin.pl.",
+            "firstname": "Artur",
+            "initials": "A",
+            "lastname": "Zdunek"
+        },
+        {
+            "affiliation": "Dr. Berry Innowacje i Tradycja, Juraszowa 73, 33-386 Podegrodzie, Poland. Electronic address: biuro@drberry.pl.",
+            "firstname": "Agnieszka",
+            "initials": "A",
+            "lastname": "Orze\u0142"
+        },
+        {
+            "affiliation": "Institute of Agrophysics, Polish Academy of Sciences, Do\u015bwiadczalna 4, 20-290 Lublin, Poland. Electronic address: m.frac@ipan.lublin.pl.",
+            "firstname": "Magdalena",
+            "initials": "M",
+            "lastname": "Fr\u0105c"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2024 The Authors. Published by Elsevier Ltd.. All rights reserved.",
+    "doi": "10.1016/j.foodchem.2024.140943",
+    "journal": "Food chemistry",
+    "keywords": [
+        "Bacterial and fungal taxa biomarkers",
+        "Chemical assessment of fruit quality",
+        "Marker enzymes",
+        "Microbiome",
+        "Plant holobiont"
+    ],
+    "methods": null,
+    "publication_date": "2024-09-02",
+    "pubmed_id": "39217744",
+    "results": null,
+    "title": "Impact of microbial-based biopreparations on soil quality, plant health, and fruit chemistry in raspberry cultivation.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fc58310>"
+}

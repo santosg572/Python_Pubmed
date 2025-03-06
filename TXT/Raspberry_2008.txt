@@ -1,0 +1,2447 @@
+{
+    "abstract": "We have shown that a diet containing freeze-dried black raspberries (BRB) inhibits the development of chemically induced cancer in the rat esophagus. To provide insights into possible mechanisms by which BRB inhibit esophageal carcinogenesis, we evaluated an ethanol (EtOH) extract of BRB, and two component anthocyanins (cyanidin-3-O-glucoside and cyanidin-3-O-rutinoside) in BRB, for their effects on growth, apoptosis, and gene expression in rat esophageal epithelial cell lines. The EtOH extract and both anthocyanins selectively caused significant growth inhibition and induction of apoptosis in a highly tumorigenic cell line (RE-149 DHD) but not in a weakly tumorigenic line (RE-149). The uptake of anthocyanins from the EtOH extract into RE-149 DHD cells far exceeded their uptake into RE-149 cells, which may have accounted for the selective effects of the extract on growth and apoptosis of RE-149 DHD cells. The growth inhibitory and proapoptotic effects were enhanced by the daily addition of the EtOH extract and the anthocyanins to the medium. Interestingly, the EtOH extract did not alter cyclooxygenase-2 (COX-2) and nitric oxide synthase (i-NOS) expression in RE-149 DHD cells, whereas both anthocyanins downregulated the expressions of these genes. This differential effect may have been related to the relative amounts of anthocyanins in the extract vs. when they were added individually to the medium. We conclude that the selective effects of the EtOH extract on growth and apoptosis of highly tumorigenic rat esophageal epithelial cells in vitro may be due to preferential uptake and retention of its component anthocyanins, and this may also be responsible for the greater inhibitory effects of freeze-dried whole berries on tumor cells in vivo.",
+    "authors": [
+        {
+            "affiliation": "The Ohio State University, Columbus, Ohio 43240, USA.",
+            "firstname": "Nancy N",
+            "initials": "NN",
+            "lastname": "Zikri"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kenneth M",
+            "initials": "KM",
+            "lastname": "Riedl"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Li-Shu",
+            "initials": "LS",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "John",
+            "initials": "J",
+            "lastname": "Lechner"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Steven J",
+            "initials": "SJ",
+            "lastname": "Schwartz"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gary D",
+            "initials": "GD",
+            "lastname": "Stoner"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1080/01635580903285148",
+    "journal": "Nutrition and cancer",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2010-02-16",
+    "pubmed_id": "20155622\n10074914\n18287387\n10801023\n7578389\n11208816\n1408943\n9511846\n11507061\n11962247\n12460899\n16397275\n11181460\n16800773\n15860443\n15577196\n8415127\n16522666\n14514663\n11262056\n12706854\n12579261\n8555245\n8813136\n9111217\n10070952\n10226539\n16510608\n7510950\n7909873\n12216084\n15150132\n15264214\n2808222\n7576103\n12553025\n11312894\n16172180\n10578171\n11058599\n12502387\n15964118\n15016660\n16140980\n12009979\n12617611",
+    "results": null,
+    "title": "Black raspberry components inhibit proliferation, induce apoptosis, and modulate gene expression in rat esophageal epithelial cells.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fc80950>"
+}{
+    "abstract": "Pickering emulsions, raspberry particles and other colloidal particle complexes are often characterized using small angle scattering techniques. The present work derives an analytical scattering model that accounts for the self-correlation of a spherical core and surface adsorbed particles as well as the particle-particle and core-particle correlation terms characteristic of Pickering emulsions and raspberry particles. It is shown that contrast matching of the scattering length density is not essential to obtain meaningful information as long as the scattering contrasts of all phases are precisely known. The derived equations are useful for analyzing data and planning experiments for Small Angle Neutron Scattering (SANS) and Small Angle X-ray Scattering (SAXS) involving these colloidal systems.",
+    "authors": [
+        {
+            "affiliation": "Chemical Engineering Department, University of Washington, Seattle, WA 98195, USA.",
+            "firstname": "Kjersta",
+            "initials": "K",
+            "lastname": "Larson-Smith"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Andrew",
+            "initials": "A",
+            "lastname": "Jackson"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Danilo C",
+            "initials": "DC",
+            "lastname": "Pozzo"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "2009 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.jcis.2009.11.033",
+    "journal": "Journal of colloid and interface science",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-12-18",
+    "pubmed_id": "20015513",
+    "results": null,
+    "title": "Small angle scattering model for Pickering emulsions and raspberry particles.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fed4310>"
+}{
+    "abstract": "Fluorescent silica microspheres encapsulating dye molecules have been demonstrated to be very useful in a variety of applications in biological fields due to its excellent properties such as high fluorescent intensity because thousands of dye molecules can be concentrated to respond fluorescent signals at the same time. Herein, we present a facile method for preparing raspberry-like dye-doped silica microspheres (RLDDSM) and RLDDSM film with dual-size hierarchical surfaces by the utility of poly(vinylpyridine) (PVP) as the only employed adhesives. Importantly, in comparison to one of the dye-doped silica particles, the fluorescent signals of RLDDSM can be greatly enhanced to possess higher fluorescent intensity. Additionally, the surface morphology and the fluorescent intensity of RLDDSM can be well controlled by changing experimental parameters.",
+    "authors": [
+        {
+            "affiliation": "Department of Chemistry, Northeast Normal University, Changchun 130024, China.",
+            "firstname": "Tingting",
+            "initials": "T",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Zhanfang",
+            "initials": "Z",
+            "lastname": "Ma"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Chungang",
+            "initials": "C",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Zhongmin",
+            "initials": "Z",
+            "lastname": "Su"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1166/jnn.2009.1353",
+    "journal": "Journal of nanoscience and nanotechnology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-11-17",
+    "pubmed_id": "19908570",
+    "results": null,
+    "title": "A facile method for preparation of dye-doped silica-based raspberry-like microspheres and fluorescent films.",
+    "xml": "<Element 'PubmedArticle' at 0x772c300f2070>"
+}{
+    "abstract": "Cyanidin 3-glucoside (C3GLU), cyanidin 3-rutinoside (C3RUT), cyanidin 3-sambubioside (C3SAM) and cyanidin 3-(2(G)-xylosyl) rutinoside (C3XRUT) are the four constituent black raspberry anthocyanins that contribute significantly to the chemopreventive effects of freeze-dried black raspberries (FBR). A highly sensitive and specific LC-MS/MS assay was developed and validated to simultaneously quantify these four FBR anthocyanins in human saliva, plasma and oral tissue homogenates. In saliva, the lower limit of quantification (LLOQ) for these anthocyanins was 1.0 ng/mL. The within-run and between-run coefficients of variations (CVs) at the quality control concentrations (1.0, 5.0, 50 and 500 ng/mL) were all <12%, except for C3SAM and C3RUT at the LLOQ, which showed a within-run CV of 18.3% and between-run CV of 16.0%, respectively. The accuracy values ranged from 87.5 to 110%. In plasma, the LLOQ for C3GLU and C3RUT was 1.0 ng/mL and for C3SAM 5.0 ng/mL. The CVs at the above concentrations were <15%, except for C3GLU at the LLOQ, which showed the between-run CV of 16.9%. The accuracy values ranged from 90.7% to 112.7% except for C3GLU at the LLOQ, which showed 119.3%. In tissue homogenates, the LLOQ for C3GLU and C3RUT was 2.0 ng/mL, and C3SAM 5.0 ng/mL. The CVs and accuracy values at concentrations (2.0, 5.0, 50 and 500 ng/mL) were similar to those in human plasma. This assay was subsequently used in a pilot pharmacology study to evaluate the effects of topical application of a 10% (w/w) FBR bioadhesive gel to selected mucosal sites in the posterior mandibular gingiva. Measurable saliva and tissue levels of the FBR anthocyanins confirmed that gel-delivered anthocyanins are readily distributed to saliva and easily penetrate human oral mucosa.",
+    "authors": [
+        {
+            "affiliation": "College of Pharmacy, The Ohio State University, Columbus, OH 43210, USA.",
+            "firstname": "Yonghua",
+            "initials": "Y",
+            "lastname": "Ling"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Chen",
+            "initials": "C",
+            "lastname": "Ren"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Susan R",
+            "initials": "SR",
+            "lastname": "Mallery"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Carlos M",
+            "initials": "CM",
+            "lastname": "Ugalde"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ping",
+            "initials": "P",
+            "lastname": "Pei"
+        },
+        {
+            "affiliation": null,
+            "firstname": "U V R Vijaya",
+            "initials": "UV",
+            "lastname": "Saradhi"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gary D",
+            "initials": "GD",
+            "lastname": "Stoner"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kenneth K",
+            "initials": "KK",
+            "lastname": "Chan"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Zhongfa",
+            "initials": "Z",
+            "lastname": "Liu"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.jchromb.2009.10.026",
+    "journal": "Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-11-10",
+    "pubmed_id": "19896910\n16084717\n18497898\n11130659\n18288999\n18676871\n15577196\n12630561\n10725120\n16523529\n15533675\n12214705\n18781764\n18072192\n18576983\n16968056\n18027360\n16395794\n14561507\n12639403\n17372698\n18085529\n18559542\n16172180\n19137418\n10945830\n19179125",
+    "results": null,
+    "title": "A rapid and sensitive LC-MS/MS method for quantification of four anthocyanins and its application in a clinical pharmacology study of a bioadhesive black raspberry gel.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff5bce0>"
+}{
+    "abstract": "The worldwide tendency for growing more small fruits, including raspberries, shows permanent increase because this group of fruits has a relatively higher content of bioactive nutrients. To study the health benefits of red raspberry fruits, 11 preselected wild-grown and 1 well-known cultivar, Heritage, were evaluated for some of their physicochemical properties such as fruit weight, total antioxidant capacity (measured by beta-carotene bleaching and FRAP assays), total phenolics, ascorbic acid, soluble solid content (SSC), and acidity. Fruit weight, SSC, and ascorbic acid contents were between 1.47 and 2.32 g, 10.87% and 13.60%, and 21 and 36 mg/100 g, respectively. Antioxidant activity and total phenolic content varied among genotypes and the ERZ5 genotype had the highest antioxidant capacity as ascertained by both methods. This genotype also had the highest total phenolic (2031 microg GAE/g FW) content. There are linear relationships between antioxidant capacities and total phenols. The present study demonstrates the potential of certain wild genotypes, notably ERZ5, for improving the nutritional value through germplasm enhancement programs.",
+    "authors": [
+        {
+            "affiliation": "Dept of Food Science, Oltu Vocational School, Ataturk Univ, 25800 Oltu-Erzurum, Turkey.",
+            "firstname": "M",
+            "initials": "M",
+            "lastname": "Tosun"
+        },
+        {
+            "affiliation": null,
+            "firstname": "S",
+            "initials": "S",
+            "lastname": "Ercisli"
+        },
+        {
+            "affiliation": null,
+            "firstname": "H",
+            "initials": "H",
+            "lastname": "Karlidag"
+        },
+        {
+            "affiliation": null,
+            "firstname": "M",
+            "initials": "M",
+            "lastname": "Sengul"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1111/j.1750-3841.2009.01297.x",
+    "journal": "Journal of food science",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-11-10",
+    "pubmed_id": "19895463",
+    "results": null,
+    "title": "Characterization of red raspberry (Rubus idaeus L.) genotypes for their physicochemical properties.",
+    "xml": "<Element 'PubmedArticle' at 0x772c300d1670>"
+}{
+    "abstract": "This review evaluates the safety and efficacy of raspberry leaf (Rubus idaeus) in pregnancy. The electronic databases PubMed, ISI Web of Science, AMED, EMBASE, Natural Medicines Comprehensive Database and Cochrane Library were searched. Altogether 12 original publications with focus on safety or efficacy during pregnancy, pharmacology and in vitro tests explaining mode of action or constituents in Rubus idaeus were reviewed. Limited documentation exists and part of it is 50 years old or older. Only the latest animal study indicates an increased risk for the unborn child; however, all the studies are small and cannot rule out negative effects on pregnancy outcome. The efficacy of raspberry leaf is not convincingly documented. The use of raspberry leaf in pregnancy is a traditional herbal therapy and is recommended by some midwives. Due to the lack of evidence for safety and efficacy such recommendations are questionable. Suggestions for future work are given.",
+    "authors": [
+        {
+            "affiliation": "Department of Chemistry, Centre for Pharmacy, University of Bergen, All\u00e9gaten 41, N-5007 Bergen, Norway. lone.holst@farm.uib.no",
+            "firstname": "Lone",
+            "initials": "L",
+            "lastname": "Holst"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Svein",
+            "initials": "S",
+            "lastname": "Haavik"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hedvig",
+            "initials": "H",
+            "lastname": "Nordeng"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.ctcp.2009.05.003",
+    "journal": "Complementary therapies in clinical practice",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-11-03",
+    "pubmed_id": "19880082",
+    "results": null,
+    "title": "Raspberry leaf--should it be recommended to pregnant women?",
+    "xml": "<Element 'PubmedArticle' at 0x772c30096890>"
+}{
+    "abstract": "To determination total phenolics content of raspberry different polar solvent extracts was measured by Folin-Ciocalteu method.\nRed raspberry fruits were extracted with 95% ethanol, defatted with petroleum ether, and then partitioned with petroleum ether, ethyl acetate and butanol successively. Total phenolic content of each part was measured by Folin-Ciocalteu method and calculated as gallic acid equivalents (GAE). Stability of the method were assayed with RSD (relative standard deviation). Antioxidant activities of the different extractions were evaluated with DPPH* and OH* scavenging assay.\n(1) The method had high quality of precision, stability, repetition rate. (2) Total phenolic contents were varied from GAE 10.56 mg/g to GAE 96.76 mg/g as gallic acid equivalent, and ethyl acetate extracts had the highest total phenolic content (GAE 96.76 mg/g). (3) The crude extracts and different soluble fractions showed good antioxidative activities.\nRaspberry could be good resource of natural antioxidant.",
+    "authors": [
+        {
+            "affiliation": "College of Public Health, Xinjiang Medical University, Urumqi 830054, China.",
+            "firstname": "Jia",
+            "initials": "J",
+            "lastname": "Han"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Liqian",
+            "initials": "L",
+            "lastname": "Hai"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Peipei",
+            "initials": "P",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Shabor",
+            "initials": "S",
+            "lastname": "Mirban"
+        },
+        {
+            "affiliation": null,
+            "firstname": null,
+            "initials": null,
+            "lastname": "Nurdana"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jiwen",
+            "initials": "J",
+            "lastname": "Liu"
+        }
+    ],
+    "conclusions": "Raspberry could be good resource of natural antioxidant.",
+    "copyrights": null,
+    "doi": null,
+    "journal": "Wei sheng yan jiu = Journal of hygiene research",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-11-03",
+    "pubmed_id": "19877525",
+    "results": "(1) The method had high quality of precision, stability, repetition rate. (2) Total phenolic contents were varied from GAE 10.56 mg/g to GAE 96.76 mg/g as gallic acid equivalent, and ethyl acetate extracts had the highest total phenolic content (GAE 96.76 mg/g). (3) The crude extracts and different soluble fractions showed good antioxidative activities.",
+    "title": "[Determination of anti-oxidative activity of different fractions of Xinjiang red raspberry fruits extract].",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fef43b0>"
+}{
+    "abstract": "Numerous studies of insect species have shown that a subset of female cuticular hydrocarbons is used as short-range or contact pheromones. Here, we studied the possible use of contact pheromones in the mating behavior of the weevil Aegorhinus superciliosus, a native species of Chile. Males mounted females only after antennal contact with the female's cuticle, and only 33% of the males attempted to mate with dead females washed with solvent. When a glass rod (dummy) was coated with female cuticular extracts, males exhibited behaviors similar to those observed with females. A preliminary gas chromatography-mass spectrometry (GC-MS) analysis of cuticular extracts indicated that males and females share a series of aliphatic hydrocarbons but that the relative abundance of some of these compounds differ between the sexes. These results suggest that cuticular lipids mediate mating behavior of the raspberry weevil and provide the first evidence of contact pheromones in curculionids.",
+    "authors": [
+        {
+            "affiliation": "Ciencias de Recursos Naturales, Universidad de La Frontera, Temuco, Chile.",
+            "firstname": "Ana",
+            "initials": "A",
+            "lastname": "Mutis"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Leonardo",
+            "initials": "L",
+            "lastname": "Parra"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Rub\u00e9n",
+            "initials": "R",
+            "lastname": "Palma"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Fernando",
+            "initials": "F",
+            "lastname": "Pardo"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Fernando",
+            "initials": "F",
+            "lastname": "Perich"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Andr\u00e9s",
+            "initials": "A",
+            "lastname": "Quiroz"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1603/022.038.0124",
+    "journal": "Environmental entomology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-10-02",
+    "pubmed_id": "19791614",
+    "results": null,
+    "title": "Evidence of contact pheromone use in mating behavior of the raspberry weevil (Coleoptera: Curculionidae).",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fef7e20>"
+}{
+    "abstract": "Tiliroside was found to inhibit both monophenolase and diphenolase activity of mushroom tyrosinase. The lag time of tyrosine oxidation catalyzed by mushroom tyrosinase was obviously lengthened; 0.337 mM of tiliroside resulted in the lag time extension from 46.7 s to 435.1 s. A kinetic analysis shown that tiliroside was a competitive inhibitor for monophenolase and diphenolase with K(i) values of 0.052 mM and 0.26 mM, respectively. Furthermore, tiliroside showed 34.5% (p < 0.05) inhibition of intracellular tyrosinase activity and 54.1% (p < 0.05) inhibition of melanin production with low cytotoxicity on B16 mouse melanoma cells at 0.168 mM. In contrast, arbutin displayed 9.1% inhibition of cellular tyrosinase activity and 29.5% inhibition of melanin production at the same concentration. These results suggested that tiliroside was a potent tyrosinase inhibitor and might be used as a skin-whitening agent and pigmentation medicine.",
+    "authors": [
+        {
+            "affiliation": "State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai 200237, PR China. luyanhua@ecust.edu.cn",
+            "firstname": "Yan-hua",
+            "initials": "YH",
+            "lastname": "Lu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Juan",
+            "initials": "J",
+            "lastname": "Chen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Dong-zhi",
+            "initials": "DZ",
+            "lastname": "Wei"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Zheng-tao",
+            "initials": "ZT",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Xin-yi",
+            "initials": "XY",
+            "lastname": "Tao"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1080/14756360802694252",
+    "journal": "Journal of enzyme inhibition and medicinal chemistry",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-09-24",
+    "pubmed_id": "19772488",
+    "results": null,
+    "title": "Tyrosinase inhibitory effect and inhibitory mechanism of tiliroside from raspberry.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff02390>"
+}{
+    "abstract": "Raspberry bushy dwarf virus (RBDV) can be efficiently eradicated from raspberry plants (Rubus idaeus) by a procedure combining thermotherapy and cryotherapy. However, the bottleneck of this procedure is that, following thermotherapy, cryopreserved shoot tips become chlorotic during regrowth and eventually die after several subcultures. In addition, survival of heat-treated stock shoots and recovery of cryopreserved shoot tips following thermotherapy are low. The present study focused towards improving regrowth of cryopreserved raspberry shoot tips following thermotherapy. Results showed that preconditioning stock shoots with salicylic acid (SA; 0.01-0.1 mM) markedly increased survival of stock shoots after 4 weeks of thermotherapy. Regrowth of cryopreserved shoot tips following thermotherapy was also significantly enhanced when SA (0.05-0.1 mM) was used for preconditioning stock shoots. Addition of either Fe-ethylenediaminetetracetic acid (Fe-EDTA, 50 mg per L) or Fe-ethylenediaminedi(o)hydroxyphenylacetic acid (Fe-EDDHA, 50 mg per L) to post-culture medium strongly promoted regrowth and totally prevented chlorosis of shoots regenerated from cryopreserved shoot tips following thermotherapy. Using the parameters optimized in the present study, about 80 percent survival of heat-treated stock shoots and about 33 percent regrowth of cryopreserved shoot tips following thermotherapy were obtained. Morphology of plants regenerated from cryopreserved shoot tips following thermotherapy was identical to that of control plants, based on observations of leaf shape and size, internode length and plant height. Optimization of the thermotherapy procedure followed by cryotherapy will facilitate the wider application of this technique to eliminate viruses which can invade meristems.",
+    "authors": [
+        {
+            "affiliation": "Key Laboratory of Genetic Improvement of Horticultural Plants of Northwest China, College of Horticulture, Northwest University of Agriculture and Forestry, Yangling, Shaanxi, China. qiaochunwang@nwsuaf.edu.cn",
+            "firstname": "Qiaochun",
+            "initials": "Q",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jari P T",
+            "initials": "JP",
+            "lastname": "Valkonen"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": null,
+    "journal": "Cryo letters",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-09-15",
+    "pubmed_id": "19750241",
+    "results": null,
+    "title": "Improved recovery of cryotherapy-treated shoot tips following thermotherapy of in vitro-grown stock shoots of raspberry (Rubus idaeus L.).",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff39350>"
+}{
+    "abstract": "This study addresses in vitro effects of raspberry (Rubus idaeus) seed extracts (RSE) on the frequency of micronuclei. We evaluated the effects of three different extracts (50%, 80%, and 100% methanol) in doses of 1.4, 4.2, and 8.4 microg/mL, per 5 mL culture using cytochalasin-B micronucleus (CBMN) assay in peripheral human lymphocytes. The frequency of MN was scored in binucleated (BN) cells. The nuclear proliferation index was also calculated. The distribution of polyphenolic compounds in RSEs was determined using LC/UV/ESI-TOF MS. The identified 37 compounds comprised flavanol monomers and oligomers, as well as varieties of ellagitannin components. Treatment of lymphocytes with RSEs induced a significant decrease in the frequency of micronuclei by 80%. These results demonstrate that the constituents of RSEs may be important in the prevention of oxidative lymphocyte damage by reactive oxygen species and may also reduce the level of DNA damage. These findings support the potential benefits of polyphenolic compounds from raspberry seeds as efficient antioxidants.",
+    "authors": [
+        {
+            "affiliation": "Institute of Chemistry, Technology and Metallurgy, University of Belgrade, Njegoseva 12, Serbia. dgodjev@chem.bg.ac.rs",
+            "firstname": "Dejan",
+            "initials": "D",
+            "lastname": "Godevac"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Vele",
+            "initials": "V",
+            "lastname": "Tesevi\u0107"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Vlatka",
+            "initials": "V",
+            "lastname": "Vajs"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Slobodan",
+            "initials": "S",
+            "lastname": "Milosavljevi\u0107"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Miroslava",
+            "initials": "M",
+            "lastname": "Stankovi\u0107"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.fct.2009.09.006",
+    "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-09-15",
+    "pubmed_id": "19748543",
+    "results": null,
+    "title": "Antioxidant properties of raspberry seed extracts on micronucleus distribution in peripheral blood lymphocytes.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff3b6f0>"
+}{
+    "abstract": "Light in the UVB spectrum (280-320 nm) induces a number of changes in the epidermis and dermis of mice and humans, resulting in a robust inflammatory response. A standardized black raspberry extract (BRE) has been effective in reducing signaling pathways commonly initiated by inflammatory stimuli. In this study, we determined whether this extract could reduce cutaneous UVB-induced inflammation and carcinogenesis. In our carcinogenesis model, female SKH-1 hairless mice were exposed to one minimal erythemal dose of UVB thrice weekly on nonconsecutive days for 25 weeks. Immediately after each exposure, the mice were treated topically with either BRE dissolved in vehicle or with vehicle only. Beginning on week 19, mice treated with BRE had a significant reduction in tumor number and in average tumor size. This reduction correlated with a significant reduction in tumor-infiltrating CD3(+)foxp3(+) regulatory T-cells. In the acute model, mice were exposed to a single minimal erythemal dose of UVB and treated topically with BRE or with vehicle. At 48 hours post-UVB exposure, topical BRE treatment significantly reduced edema, p53 protein levels, oxidative DNA damage, and neutrophil activation. The ability of topical BRE to reduce acute UVB-induced inflammation and to decrease tumor development in a long-term model provides compelling evidence to explore the clinical efficacy of BRE in the prevention of human skin cancers.",
+    "authors": [
+        {
+            "affiliation": "Department of Pathology, The Ohio State University, 1645 Neil Avenue, 129 Hamilton Hall, Columbus, OH 43210, USA.",
+            "firstname": "F J",
+            "initials": "FJ",
+            "lastname": "Duncan"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jason R",
+            "initials": "JR",
+            "lastname": "Martin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Brian C",
+            "initials": "BC",
+            "lastname": "Wulff"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gary D",
+            "initials": "GD",
+            "lastname": "Stoner"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kathleen L",
+            "initials": "KL",
+            "lastname": "Tober"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Tatiana M",
+            "initials": "TM",
+            "lastname": "Oberyszyn"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Donna F",
+            "initials": "DF",
+            "lastname": "Kusewitt"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Anne M",
+            "initials": "AM",
+            "lastname": "Van Buskirk"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1158/1940-6207.CAPR-08-0193",
+    "journal": "Cancer prevention research (Philadelphia, Pa.)",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-07-09",
+    "pubmed_id": "19584078\n14502644\n3342174\n9767285\n16830107\n18086242\n12868492\n11411937\n17363918\n16317135\n16982885\n8599733\n15294155\n12958148\n17941958\n11962247\n16800773\n16522666\n18290621\n16510608\n16465310\n15860443\n19139022\n10630596\n18544560\n17360708\n15135302\n14514663\n14690795\n17147415\n12925310\n15964118\n15701043\n12171434\n15740068\n15680311\n18413833\n14705874\n16417325\n16478275\n12664569\n18632659\n18571839\n18559542\n15938647\n16009942\n15664501\n17986061\n12511044\n2203437\n15374966\n12073449\n16417238\n18341610\n18328445\n15843526",
+    "results": null,
+    "title": "Topical treatment with black raspberry extract reduces cutaneous UVB-induced carcinogenesis and inflammation.",
+    "xml": "<Element 'PubmedArticle' at 0x772c30107740>"
+}{
+    "abstract": "Currently the development of green chemistry approach with the use of biomaterial-based activities of microbial cells in the synthesis of various nanostructures has attracted a great attention. In this study, we report on the use of bacterium, Bacillus cereus as a biotemplating agent for the formation of zinc oxide nanoparticles with raspberry- and plate-like structures through a simple thermal decomposition of zinc acetate by maintaining the original pH of the reaction mixtures. Possible mechanism on the formation of the nanostructures is proposed based on the surface chemistry and biochemistry processes involved organic-inorganic interactions between zinc oxide and the microbial cells.",
+    "authors": [
+        {
+            "affiliation": "Institute of Advanced Technology, Universiti Putra Malaysia, Serdang, Selangor, Malaysia. mzobir@putra.upm.edu.my",
+            "firstname": "Mohd Zobir",
+            "initials": "MZ",
+            "lastname": "Hussein"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Wan Haizum Wan Nor",
+            "initials": "WH",
+            "lastname": "Azmin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Muskhazli",
+            "initials": "M",
+            "lastname": "Mustafa"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Asmah Hj",
+            "initials": "AH",
+            "lastname": "Yahaya"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.jinorgbio.2009.05.016",
+    "journal": "Journal of inorganic biochemistry",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-07-07",
+    "pubmed_id": "19577306",
+    "results": null,
+    "title": "Bacillus cereus as a biotemplating agent for the synthesis of zinc oxide with raspberry- and plate-like structures.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fc8f010>"
+}{
+    "abstract": "Raspberry-like assembly of nanogels (A-CHPNG) with a high potential as a carrier for protein delivery was prepared. Cross-linking of acrylate group-modified cholesterol-bearing pullulan nanogel (CHPANG) with thiol group-modified poly (ethylene glycol) (PEGSH) by Michael addition yielded A-CHPNG with narrow size distribution. The size of A-CHPNGs was controlled in the range of 40-120 nm by changing the concentration of CHPANG and PEGSH. A-CHPNG gradually degraded by hydrolysis under physiological condition and seemed to dissociate back to original nanogel. A-CHPNG encapsulated interleukin-12 (IL-12) efficiently (96%) and stably kept it in the presence of BSA (50 mg/ml). In addition, A-CHPNG had a high potential to maintain a high IL-12 level in plasma after subcutaneous injection in mice. Therefore, A-CHPNG is a promising carrier for long-term medications.",
+    "authors": [
+        {
+            "affiliation": "Institute of Biomaterials and Bioengineering, Tokyo Medical and Dental University, 2-3-10 Kanda-Surugadai, Chiyoda-ku, Tokyo 101-0062, Japan.",
+            "firstname": "Urara",
+            "initials": "U",
+            "lastname": "Hasegawa"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Shin-Ichi",
+            "initials": "S",
+            "lastname": "Sawada"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Takeshi",
+            "initials": "T",
+            "lastname": "Shimizu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Tsunao",
+            "initials": "T",
+            "lastname": "Kishida"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Eigo",
+            "initials": "E",
+            "lastname": "Otsuji"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Osam",
+            "initials": "O",
+            "lastname": "Mazda"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kazunari",
+            "initials": "K",
+            "lastname": "Akiyoshi"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.jconrel.2009.06.025",
+    "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-07-04",
+    "pubmed_id": "19573568",
+    "results": null,
+    "title": "Raspberry-like assembly of cross-linked nanogels for protein delivery.",
+    "xml": "<Element 'PubmedArticle' at 0x772c300e97b0>"
+}{
+    "abstract": "Silica is an important mineral in biology and technology, and many protocols have been developed for the synthesis of complex silica architectures. The current report shows that silsesquioxane nanoparticles carrying polymer arms on their surface are efficient templates for the fabrication of silica particles with a star- or raspberry-like morphology. The shape of the resulting particles depends on the chemistry of the polymer arms. With poly(N,N-dimethylaminoethyl methacrylate) (PDMAEMA) arms, spherical particles with a less electron dense core form. With poly{[2-(methacryloyloxy)ethyl] trimethylammonium iodide} (PMETAI), star- or raspberry-like particles form. Electron microscopy, electron tomography, and small-angle X-ray scattering show that the resulting silica particles have a complex structure, where a silsequioxane nanoparticle carrying the polymer arms is in the center. Next is a region that is polymer-rich. The outermost region of the particle is a silica layer, where the outer parts of the polymer arms are embedded. Time-resolved zeta-potential and pH measurements, dynamic light scattering, and electron microscopy reveal that silica formation proceeds differently if PDMAEMA is exchanged for PMETAI.",
+    "authors": [
+        {
+            "affiliation": "Department of Chemistry, University of Basel, CH-4056 Basel.",
+            "firstname": "Lucy",
+            "initials": "L",
+            "lastname": "Kind"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Felix A",
+            "initials": "FA",
+            "lastname": "Plamper"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ronald",
+            "initials": "R",
+            "lastname": "G\u00f6bel"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Alexandre",
+            "initials": "A",
+            "lastname": "Mantion"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Axel H E",
+            "initials": "AH",
+            "lastname": "M\u00fcller"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Uwe",
+            "initials": "U",
+            "lastname": "Pieles"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Andreas",
+            "initials": "A",
+            "lastname": "Taubert"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Wolfgang",
+            "initials": "W",
+            "lastname": "Meier"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1021/la900229n",
+    "journal": "Langmuir : the ACS journal of surfaces and colloids",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-06-10",
+    "pubmed_id": "19505166",
+    "results": null,
+    "title": "Silsesquioxane/polyamine nanoparticle-templated formation of star- or raspberry-like silica nanoparticles.",
+    "xml": "<Element 'PubmedArticle' at 0x772c300dd1c0>"
+}{
+    "abstract": "Raspberry-like composites were prepared by coating the silver/polypyrrole core/shell composites onto the surface of silica spheres via oxidation polymerization of pyrrole monomer with [Ag(NH3)2]+ ions as oxidants. The whole process allowed the absence of stabilizers, which greatly improved the quality of the conducting polymer composites. The morphology of the resulting composites was investigated, which can be described as raspberry-like; also, the structure and composition of the composites were characterized in detail. A possible formation mechanism was proposed. The present synthetic strategy substantially extended the scope of metal/conducting polymer composite synthesis. The raspberry-like composites exhibited excellent catalytic properties in the reduction of methylene blue dye with the reducing agent of sodium borohydride.",
+    "authors": [
+        {
+            "affiliation": "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun 130012, People's Republic of China.",
+            "firstname": "Tongjie",
+            "initials": "T",
+            "lastname": "Yao"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Chuanxi",
+            "initials": "C",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jie",
+            "initials": "J",
+            "lastname": "Wu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Quan",
+            "initials": "Q",
+            "lastname": "Lin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hui",
+            "initials": "H",
+            "lastname": "Lv"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kai",
+            "initials": "K",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kui",
+            "initials": "K",
+            "lastname": "Yu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Bai",
+            "initials": "B",
+            "lastname": "Yang"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.jcis.2009.05.001",
+    "journal": "Journal of colloid and interface science",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-06-06",
+    "pubmed_id": "19493537",
+    "results": null,
+    "title": "Preparation of raspberry-like polypyrrole composites with applications in catalysis.",
+    "xml": "<Element 'PubmedArticle' at 0x772c300df880>"
+}{
+    "abstract": "Raspberry-like polymer/silica nanocomposite microspheres were prepared by emulsifier-free copolymerization of styrene (St) with butyl acrylate (BA) in the presence of 20 nm silica nanoparticles in water/acetone media. A cationic monomer, 2-(methacryloyl)ethyltrimethylammonium chloride (MTC), was used as comonomer and nanosilica particles were adsorbed onto the growing latex core via the electrostatic interaction between negatively charged silica particles and positively charged polymer particles. The average particle sizes and the final silica contents of the nanocomposite microspheres ranged from 200 to 500 nm and 20 to 40 wt%, respectively, depending on the reaction conditions. The solid content of the obtained dispersions could be adjusted between 10 and 25 wt%. The influence of some synthetic parameters, for instance, the ratio of acetone/water, initial silica amount, the mass ratio of the St/BA, MTC, and the APS concentration on the polymerization stability, the average particle size, silica content, and morphology of the composite microspheres, were studied here in detail. It was found that the addition of acetone to the continuous phase resulted in smaller particle sizes and for the lower dielectric medium electrostatic repulsion becomes larger; hence coagulative nucleation is reduced compared to that in aqueous media.",
+    "authors": [
+        {
+            "affiliation": "College of Chemistry and Material Science, Hubei University, Wuhan 430062, People's Republic of China.",
+            "firstname": "Zhang",
+            "initials": "Z",
+            "lastname": "Yuhong"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Zou",
+            "initials": "Z",
+            "lastname": "Qichao"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Shu",
+            "initials": "S",
+            "lastname": "Xingwang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Tang",
+            "initials": "T",
+            "lastname": "Qingqiong"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Chen",
+            "initials": "C",
+            "lastname": "Min"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Wu",
+            "initials": "W",
+            "lastname": "Limin"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.jcis.2009.04.003",
+    "journal": "Journal of colloid and interface science",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-05-20",
+    "pubmed_id": "19450807",
+    "results": null,
+    "title": "Preparation of raspberry-like polymer/silica nanocomposite microspheres via emulsifier-free polymerization in water/acetone media.",
+    "xml": "<Element 'PubmedArticle' at 0x772c300e54e0>"
+}{
+    "abstract": "Raspberry-like silica/polystyrene nanocomposite particles, silica particle as core and polystyrene nodules as shell, were synthesized through miniemulsion polymerization by using sodium dodecyl sulfate surfactant, hexadecane costabilizer in the presence of silica particles modified by methacryloxy(propyl)trimethoxysilane (MAPTMS) or n-octadecyltrimethoxysilane (ODMS). In this unique process, it was found that the raspberry-like silica/polystyrene nanocomposite particles could be obtained based on MAPTMS grafted silica particles at high grafted density 6.7 micromol/m2. And such nanocomposite particles could possess bigger shape stability due to coordinate effect of both the polymerizable group and hydrophobic interaction provided by MAPTMS molecules. Formation mechanism of the morphology was discussed.",
+    "authors": [
+        {
+            "affiliation": "National Key Laboratory of Nano/Micro Fabrication Technology, Key Laboratory for Thin Film and Microfabrication of Ministry of Education, Institute for Micro and Nano Science and Technology, Shanghai Jiaotong University, Shanghai, China.",
+            "firstname": "Yilong",
+            "initials": "Y",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hong",
+            "initials": "H",
+            "lastname": "Xu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hongchen",
+            "initials": "H",
+            "lastname": "Gu"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1166/jnn.2009.c205",
+    "journal": "Journal of nanoscience and nanotechnology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-05-16",
+    "pubmed_id": "19441573",
+    "results": null,
+    "title": "Synthesis of raspberry-like siO2/polystyrene nanocomposite particles via miniemulsion polymerization.",
+    "xml": "<Element 'PubmedArticle' at 0x772c300fccc0>"
+}{
+    "abstract": "Field and growth chamber studies were conducted during 2000 to 2005 to determine the efficacy of soil solarization for the control of Phytophthora root rot of raspberry (PRR). The exposure time that was lethal to Phytophthora rubi cultures on V8 juice agar plates was evaluated at intervals up to 240 h and at a range of temperatures from 20 to 35\u00b0C. Colonies incubated at 20 and 25\u00b0C nearly covered the plates in 240 h, while radial growth slowed at 27\u00b0C and ceased at temperatures \u226529\u00b0C. The exposure times required to kill P. rubi were estimated to be 222 h at 29\u00b0C, 168 h at 31\u00b0C, 108 h at 33\u00b0C, and 52 h at 35\u00b0C. Previous exposure to shorter durations at temperature \u226529\u00b0C slowed growth of colonies when they later were incubated at 20\u00b0C. Field trials were established in 2000 and 2003 at three locations in Washington State to evaluate soil solarization for the management of PRR. Cumulative hours with soil temperatures >29\u00b0C at 30 cm soil depth in solarized plots exceeded 200 h in each trial. In the 2000 trial, combinations of solarization, bed shape, and amendments of gypsum were evaluated. Over the 3 years after planting PRR-susceptible raspberry 'Malahat' and 'Willamette', primocane growth and survival were greater (P < 0.05) in raised bed plots that were solarized than in solarized and nonsolarized flat bed plots or hilled bed plots with gypsum. In 2003, trials were initiated to evaluate solarization in combination with applications of mefenoxam and fosetyl-Al. In 2004, solarization increased (P < 0.05) primocane growth of 'Malahat' and 'Qualicum' raspberries at both locations compared to application of fungicides alone and nontreated control plots. At both locations in 2005, density and growth of 'Qualicum' primocanes were greatest in solarized plots, while canes in solarized and fungicide only plots of 'Malahat' were similar. Incidence of diseased canes was lowest in plots that received fungicides. Primocane survival and fruit yields were very low at both locations in the third season because of favorable conditions for PRR and plant stress in late spring. These results indicate that soil solarization can be an effective component of integrated management of PRR in the Pacific Northwest, especially when combined with raised beds and gypsum amendments.",
+    "authors": [
+        {
+            "affiliation": "USDA-ARS, HCRL, Corvallis, OR 97330.",
+            "firstname": "J N",
+            "initials": "JN",
+            "lastname": "Pinkerton"
+        },
+        {
+            "affiliation": "Washington State University, Puyallup Research and Extension Center, Puyallup, WA 98371.",
+            "firstname": "P R",
+            "initials": "PR",
+            "lastname": "Bristow"
+        },
+        {
+            "affiliation": "Washington State University, Puyallup Research and Extension Center, Puyallup, WA 98371.",
+            "firstname": "G E",
+            "initials": "GE",
+            "lastname": "Windom"
+        },
+        {
+            "affiliation": "WSU-Mount Vernon NWREC, Mt Vernon, WA 98273.",
+            "firstname": "T W",
+            "initials": "TW",
+            "lastname": "Walters"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1094/PDIS-93-5-0452",
+    "journal": "Plant disease",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-05-01",
+    "pubmed_id": "30764140",
+    "results": null,
+    "title": "Soil Solarization as a Component of an Integrated Program for Control of Raspberry Root Rot.",
+    "xml": "<Element 'PubmedArticle' at 0x772c300fe480>"
+}{
+    "abstract": "The volatile compounds emitted by two raspberry varieties ( Rubus idaeus , cv. Polka and Tulameen) were analyzed, in both the case of fresh fruits and juices, by two headspace methods that are rapid, solvent-free, and with reduced or no sample pretreatment: solid-phase microextraction/gas chromatography-mass spectrometry (SPME/GC-MS) and proton-transfer reaction-mass spectrometry (PTR-MS). Multivariate analysis of the SPME/GC-MS results allows for an unambiguous sample discrimination for both mashed fruits and juices. PTR-MS instrumental fingerprint provides, in a faster way, similar qualitative information on the overall flavor profile. The two cultivars show both qualitative and quantitative differences. SPME/GC-MS analysis shows that alcohols and aldehydes are more abundant in the headspace of Tulameen as, e.g., hexanal and hexanol that induce herbaceous odor notes. This observation has been confirmed by sensory analysis. PTR-MS was also used to monitor rapid processes that modify the original aromatic profile, such as lipo-oxigenase activity induced by tissue damages occurring during industrial transformation, accidental mechanical damages, or as a consequence of chewing.",
+    "authors": [
+        {
+            "affiliation": "IASMA Research and Innovation Centre, Fondazione Edmund Mach, Food Quality and Nutrition Area, Via E Mach 1, S Michele all'Adige, TN 38010, Italy. eugenio.aprea@iasma.it",
+            "firstname": "Eugenio",
+            "initials": "E",
+            "lastname": "Aprea"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Franco",
+            "initials": "F",
+            "lastname": "Biasioli"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Silvia",
+            "initials": "S",
+            "lastname": "Carlin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Isabella",
+            "initials": "I",
+            "lastname": "Endrizzi"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Flavia",
+            "initials": "F",
+            "lastname": "Gasperi"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1021/jf803998c",
+    "journal": "Journal of agricultural and food chemistry",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-04-08",
+    "pubmed_id": "19348421",
+    "results": null,
+    "title": "Investigation of volatile compounds in two raspberry cultivars by two headspace techniques: solid-phase microextraction/gas chromatography-mass spectrometry (SPME/GC-MS) and proton-transfer reaction-mass spectrometry (PTR-MS).",
+    "xml": "<Element 'PubmedArticle' at 0x772c300fff60>"
+}{
+    "abstract": "The fate of black raspberry anthocyanins in the gastrointestinal tract (GI) was evaluated. Fasted male rats (n = 30) were administered either 27 +/- 6.7 nmol of cyanidin 3-glucoside equivalent of anthocyanins and euthanized at 30, 60, 120, and 180 min or vehicle only and killed at 30 min (control) to collect bladder urine, GI contents, stomach, and small intestine. HPLC-MS analysis showed that anthocyanins in the gastric lumen decreased linearly over time (t(1/2) = 120 min). Anthocyanins in small intestinal tissue and lumen peaked at 120 min. Uptake by small intestinal tissue reached 7.5% of the administered dose, much higher than the reported bioavailability of these pigments. Ingested anthocyanin glycosides remain relatively stable in the GI contents (75-79% of administered dose). Selective decrease of cyanidin 3-glucoside in the small intestinal content likely resulted from beta-glucosidase activity. Urinary anthocyanin profiles reflected profiles present in the GI at the time of absorption.",
+    "authors": [
+        {
+            "affiliation": "Department of Food Science and Technology, The Ohio State University, Columbus, Ohio 43210, USA.",
+            "firstname": "Jian",
+            "initials": "J",
+            "lastname": "He"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Taylor C",
+            "initials": "TC",
+            "lastname": "Wallace"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kristin E",
+            "initials": "KE",
+            "lastname": "Keatley"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mark L",
+            "initials": "ML",
+            "lastname": "Failla"
+        },
+        {
+            "affiliation": null,
+            "firstname": "M M\u00f3nica",
+            "initials": "MM",
+            "lastname": "Giusti"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1021/jf900567t",
+    "journal": "Journal of agricultural and food chemistry",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-03-26",
+    "pubmed_id": "19317488",
+    "results": null,
+    "title": "Stability of black raspberry anthocyanins in the digestive tract lumen and transport efficiency into gastric and small intestinal tissues in the rat.",
+    "xml": "<Element 'PubmedArticle' at 0x772c300beca0>"
+}{
+    "abstract": "The use of herbal medicines by pregnant women is on the rise. However, there is limited information regarding the safety of these compounds during pregnancy. Therefore, the goal of this study was to explore the consequences of raspberry leaf use during gestation in Wistar rats.\nFemale rats were randomly assigned to receive vehicle, raspberry leaf, or specific flavonoids in raspberry leaf (kaempferol or quercetin; 10 mg/kg per day) orally once breeding had been confirmed until parturition. We assessed pregnancy outcomes in the P generation and reproductive development/fertility in the F1 raspberry leaf-exposed female offspring.\nRaspberry leaf use during pregnancy was associated with increased gestation length and accelerated reproductive development in the F1 offspring.\nResults from this study have shown for the first time that raspberry leaf use during pregnancy can have long-term consequences for the health of the offspring and raise concerns about the safety of this herbal preparation for use during pregnancy.",
+    "authors": [
+        {
+            "affiliation": "Reproductive Biology Division, Department of Obstetrics and Gynecology, McMaster University, Hamilton, Ontario, Canada.",
+            "firstname": "Jill R",
+            "initials": "JR",
+            "lastname": "Johnson"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Emilija",
+            "initials": "E",
+            "lastname": "Makaji"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Shirley",
+            "initials": "S",
+            "lastname": "Ho"
+        },
+        {
+            "affiliation": null,
+            "firstname": null,
+            "initials": null,
+            "lastname": "Boya Xiong"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Denis J",
+            "initials": "DJ",
+            "lastname": "Crankshaw"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Alison C",
+            "initials": "AC",
+            "lastname": "Holloway"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1177/1933719109332823",
+    "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-03-12",
+    "pubmed_id": "19276407",
+    "results": "Raspberry leaf use during pregnancy was associated with increased gestation length and accelerated reproductive development in the F1 offspring.",
+    "title": "Effect of maternal raspberry leaf consumption in rats on pregnancy outcome and the fertility of the female offspring.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff92de0>"
+}{
+    "abstract": "This study evaluated the effects of processing and 6 mo of storage on total monomeric anthocyanins, percent polymeric color, and antioxidant capacity of black raspberries that were individually quick-frozen (IQF), canned-in-syrup, canned-in-water, pureed, and juiced (clarified and nonclarified). Total monomeric anthocyanins, percent polymeric color, and ORAC(FL) were determined 1 d postprocessing and after 1, 3, and 6 mo of storage. Thermal processing resulted in marked losses in total anthocyanins ranging from 37% in puree to 69% to 73% in nonclarified and clarified juices, respectively, but only the juices showed substantial losses (38% to 41%) in ORAC(FL). Storage at 25 degrees C of all thermally processed products resulted in dramatic losses in total anthocyanins ranging from 49% in canned-in-syrup to 75% in clarified juices. This coincided with marked increases in percent polymeric color values of these products over the 6-mo storage. ORAC(FL) values showed little change during storage, indicating that the formation of polymers compensated for the loss of antioxidant capacity due to anthocyanin degradation. Total anthocyanins and ORACFL of IQF berries were well retained during long-term storage at -20 degrees C.",
+    "authors": [
+        {
+            "affiliation": "Dept. of Food Science, Univ. of Arkansas, 2650 N. Young Ave., Fayetteville, AR 72704, USA.",
+            "firstname": "A",
+            "initials": "A",
+            "lastname": "Hager"
+        },
+        {
+            "affiliation": null,
+            "firstname": "L R",
+            "initials": "LR",
+            "lastname": "Howard"
+        },
+        {
+            "affiliation": null,
+            "firstname": "R L",
+            "initials": "RL",
+            "lastname": "Prior"
+        },
+        {
+            "affiliation": null,
+            "firstname": "C",
+            "initials": "C",
+            "lastname": "Brownmiller"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1111/j.1750-3841.2008.00855.x",
+    "journal": "Journal of food science",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-02-26",
+    "pubmed_id": "19241590",
+    "results": null,
+    "title": "Processing and storage effects on monomeric anthocyanins, percent polymeric color, and antioxidant capacity of processed black raspberry products.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff90180>"
+}{
+    "abstract": "Two sets of infectious cDNA clones of raspberry bushy dwarf virus (RBDV) have been constructed, enabling either the synthesis of infectious RNA transcripts or the delivery of infectious binary plasmid DNA by infiltration of Agrobacterium tumefaciens. In whole plants and in protoplasts, inoculation of RBDV RNA1 and RNA2 transcripts led to a low level of infection, which was greatly increased by the addition of RNA3, a subgenomic RNA coding for the RBDV coat protein (CP). Agroinfiltration of RNA1 and RNA2 constructs did not produce a detectable infection but, again, inclusion of a construct encoding the CP led to high levels of infection. Thus, RBDV replication is greatly stimulated by the presence of the CP, a mechanism that also operates with ilarviruses and alfalfa mosaic virus, where it is referred to as genome activation. Mutation to remove amino acids from the N terminus of the CP showed that the first 15 RBDV CP residues are not required for genome activation. Other experiments, in which overlapping regions at the CP N terminus were fused to the monomeric red fluorescent protein, showed that sequences downstream of the first 48 aa are not absolutely required for genome activation.",
+    "authors": [
+        {
+            "affiliation": "Plant Pathology Programme, Scottish Crop Research Institute, Invergowrie, Dundee DD2 5DA, UK.",
+            "firstname": "Stuart A",
+            "initials": "SA",
+            "lastname": "MacFarlane"
+        },
+        {
+            "affiliation": "Plant Pathology Programme, Scottish Crop Research Institute, Invergowrie, Dundee DD2 5DA, UK.",
+            "firstname": "Wendy J",
+            "initials": "WJ",
+            "lastname": "McGavin"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1099/vir.0.007195-0",
+    "journal": "The Journal of general virology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-02-17",
+    "pubmed_id": "19218221",
+    "results": null,
+    "title": "Genome activation by raspberry bushy dwarf virus coat protein.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff85d50>"
+}{
+    "abstract": "Black raspberries (BRB) contain high levels of polyphenols and have been demonstrated to be chemopreventive. In order to investigate the underlying mechanism and study the metabolism of anthocyanins, pigs were fed freeze-dried BRB powder or purified diet (control) and three segments of the gastrointestinal (GI) tract (small intestine, cecum, and colon; 4 h after feeding) were collected for analysis of phenolic acids. Protocatechuic acid was the major phenolic acid (8.35 mg/100 g, dry weight (DW)) in BRB, followed by p-coumaric acid (1.63 mg/100 g, DW), caffeic acid (1.34 mg/100 g, DW), ferulic acid (0.24 mg/100 g, DW), and 3-hydroxybenzoic acid (0.20 mg/100 g, DW). Recoveries of these five phenolic acids in the whole GI tract were 199.9 +/- 54.0%, 7.0 +/- 3.0%, 37.0 +/- 9.7%, 56.6 +/- 31.3%, and 916.8 +/- 642.3% (mean +/- SEM, n = 5), respectively, and quantities in contents of the GI tract ranged from 0.13 +/- 0.05 micromol (p-coumaric acid) to 23.47 +/- 6.09 micromol (protocatechuic acid) (mean +/- SEM, n = 5). Six other phenolic acids were detected primarily in the cecum and/or colon which were not in BRB, with total contents in the GI tract ranging from 0.18 +/- 0.18 micromol (homovanillic acid) to 8.49 +/- 4.31 micromol (homoprotocatechuic acid). Total phenolic acids in the GI tract were 49.32 +/- 16.37 micromol (mean +/- SEM, n = 5). Phenolic acids measured in the GI tract accounted for only 6.31% of the degraded anthocyanins.",
+    "authors": [
+        {
+            "affiliation": "USDA Arkansas Children's Nutrition Center, University of Arkansas for Medical Sciences, AR, USA.",
+            "firstname": "Xianli",
+            "initials": "X",
+            "lastname": "Wu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hoy E",
+            "initials": "HE",
+            "lastname": "Pittman Iii"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Tiffany",
+            "initials": "T",
+            "lastname": "Hager"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Aaron",
+            "initials": "A",
+            "lastname": "Hager"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Luke",
+            "initials": "L",
+            "lastname": "Howard"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ronald L",
+            "initials": "RL",
+            "lastname": "Prior"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1002/mnfr.200800231",
+    "journal": "Molecular nutrition & food research",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-02-10",
+    "pubmed_id": "19199287",
+    "results": null,
+    "title": "Phenolic acids in black raspberry and in the gastrointestinal tract of pigs following ingestion of black raspberry.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff8ca90>"
+}{
+    "abstract": "Protected cropping systems have been adopted by the UK industry to improve fruit quality and extend the current season. Further manipulation of season, alongside consideration of climate change scenarios, requires an understanding of the processes controlling fruit ripening. Ripening stages were scored from May to July across different years and environments from a raspberry mapping population. Here the interest was in identifying QTLs for the overall ripening process as well as for the time to reach each stage, and principal coordinate analysis was used to summarise the ripening process. Linear interpolation was also used to estimate the time (in days) taken for each plot to reach each of the stages assessed. QTLs were identified across four chromosomes for ripening and the time to reach each stage. A MADS-box gene, Gene H and several raspberry ESTs were associated with the QTLs and markers associated with plant height have also been identified, paving the way for marker assisted selection in Rubus idaeus.",
+    "authors": [
+        {
+            "affiliation": "SCRI, Invergowrie, Dundee, DD2 5DA, Scotland, UK. Julie.Graham@scri.ac.uk",
+            "firstname": "Julie",
+            "initials": "J",
+            "lastname": "Graham"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Christine A",
+            "initials": "CA",
+            "lastname": "Hackett"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kay",
+            "initials": "K",
+            "lastname": "Smith"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mary",
+            "initials": "M",
+            "lastname": "Woodhead"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ingo",
+            "initials": "I",
+            "lastname": "Hein"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Susan",
+            "initials": "S",
+            "lastname": "McCallum"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1007/s00122-009-0969-6",
+    "journal": "TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-02-03",
+    "pubmed_id": "19183857\n14963316\n19156716\n11951045\n15020744\n15679088\n10645718\n18203871\n12671094\n18539775\n18346189\n18280199\n15127204\n17181777\n14607098\n15882656\n17322399\n11597504\n17244630\n17658290\n11951029\n18034896\n11847241\n24166627\n16514550\n16832354\n17267356",
+    "results": null,
+    "title": "Mapping QTLs for developmental traits in raspberry from bud break to ripe fruit.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff8fa10>"
+}{
+    "abstract": "The raspberry cane midge, Resseliella theobaldi, is a widespread pest of cultivated red raspberry in Europe. Pheromone-baited traps could provide a much-needed, accurate means to monitor the pest. Volatiles collected separately from virgin female and male midges were analyzed by gas chromatography (GC) coupled to mass spectrometry (MS) to reveal four female-specific components. In analyses by GC coupled to electroantennographic (EAG) recording from the antennae of a male midge, at least three of these components elicited responses. Based on its GC retention indices and mass spectrum, we propose that the major component is 2-acetoxy-5-undecanone and confirm this by synthesis of the racemic compound in seven steps and 63% yield from 4-pentenoic acid. The three minor components were each present at approximately 30% of the major component and were identified as 2-undecanone, (S)-2-acetoxyundecane, and (S)-2-undecanol by comparison of GC retention times and mass spectra with those of synthetic standards. GC analyses of the female-produced volatiles on an enantioselective column showed that only one enantiomer of 2-acetoxy-5-undecanone was present, and this was found to be the S-enantiomer by hydrolytic kinetic resolution of an epoxide intermediate in the synthesis and also by enantioselective hydrolysis of the racemic acetate with a lipase enzyme. The two enantiomers were also separated by high-performance liquid chromatography on an enantioselective column for field tests. In two field trapping tests, (S)-2-acetoxy-5-undecanone was highly attractive to male R. theobaldi; the R-enantiomer was not attractive. The racemic compound was just as attractive as the S-enantiomer, and addition of the three minor components in racemic form at two different loads did not affect catches. The pheromone could be dispensed from both rubber septa and polyethylene vials for at least 1 month under field conditions, but the former was preferred as it gave more uniform release. 2-Acetoxy-5-undecanone belongs to a new group of pheromone structures in the Cecidomyiidae, most others being mono- or diesters.",
+    "authors": [
+        {
+            "affiliation": "Natural Resources Institute, University of Greenwich, Chatham Maritime, Kent, UK. d.r.hall@gre.ac.uk",
+            "firstname": "David R",
+            "initials": "DR",
+            "lastname": "Hall"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Dudley I",
+            "initials": "DI",
+            "lastname": "Farman"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jerry V",
+            "initials": "JV",
+            "lastname": "Cross"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Tom W",
+            "initials": "TW",
+            "lastname": "Pope"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Tetsu",
+            "initials": "T",
+            "lastname": "Ando"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Masanobu",
+            "initials": "M",
+            "lastname": "Yamamoto"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1007/s10886-009-9588-6",
+    "journal": "Journal of chemical ecology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-01-27",
+    "pubmed_id": "19169750\n11504035\n15139315\n17598534\n9252321\n11129944\n17123172\n16525878\n12523568\n16222809",
+    "results": null,
+    "title": "(S)-2-acetoxy-5-undecanone, female sex pheromone of the raspberry cane midge, Resseliella theobaldi (Barnes).",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff7f0b0>"
+}{
+    "abstract": "Black raspberry juice was fermented to produce gamma-aminobutyric acid (GABA) using lactic acid bacteria (Lactobacillus brevis GABA 100) at different temperatures (25, 30, or 37 degrees C) and pHs (3.5, 4, 4.5, 5, 5.5, or 6) for 15 days. Concentrations of GABA in the juices were determined during fermentation using HPLC. GABA was produced continuously even if the viable bacterial counts markedly decreased. The fermentation at 30 degrees C generally showed higher production of GABA in the juices than those at 25 and 37 degrees C. The GABA in the juices fermented at 30 degrees C reached the maximum levels on the 12th day. The juices fermented at lower pH and lower temperature showed a lower degradation of monomeric anthocyanins. The results suggest that black raspberry juice can be GABA enriched using lactic acid bacteria.",
+    "authors": [
+        {
+            "affiliation": "Department of Food and Nutrition, and Research Institute of Human Ecology, Seoul National University, Seoul, 151-742, Republic of Korea.",
+            "firstname": "Ja Young",
+            "initials": "JY",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Moo Young",
+            "initials": "MY",
+            "lastname": "Lee"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Geun Eog",
+            "initials": "GE",
+            "lastname": "Ji"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Yeon Sook",
+            "initials": "YS",
+            "lastname": "Lee"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Keum Taek",
+            "initials": "KT",
+            "lastname": "Hwang"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.ijfoodmicro.2008.12.028",
+    "journal": "International journal of food microbiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-01-27",
+    "pubmed_id": "19167126",
+    "results": null,
+    "title": "Production of gamma-aminobutyric acid in black raspberry juice during fermentation by Lactobacillus brevis GABA100.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fee0ae0>"
+}{
+    "abstract": "Consumption of raspberries promotes human health through intake of pharmaceutically active antioxidants, including cyanidin and pelargonidin anthocyanins; products of flavonoid metabolism and also pigments conferring colour to fruit. Raspberry anthocyanin contents could be enhanced for nutritional health and quality benefits utilising DNA polymorphisms in modern marker assisted breeding. The objective was to elucidate factors determining anthocyanin production in these fruits. HPLC quantified eight anthocyanin cyanidin and pelargonidin glycosides: -3-sophoroside, -3-glucoside, -3-rutinoside and -3-glucosylrutinoside across two seasons and two environments in progeny from a cross between two Rubus subspecies, Rubus idaeus (cv. Glen Moy)xRubus strigosus (cv. Latham). Significant seasonal variation was detected across pigments less for different growing environments within seasons. Eight antioxidants mapped to the same chromosome region on linkage group (LG) 1, across both years and from fruits grown in field and under protected cultivation. Seven antioxidants also mapped to a region on LG 4 across years and for both growing sites. A chalcone synthase (PKS 1) gene sequence mapped to LG 7 but did not underlie the anthocyanin quantitative traits loci (QTL) identified. Other candidate genes including basic-helix-loop-helix (bHLH), NAM/CUC2-like protein and bZIP transcription factor underlying the mapped anthocyanins were identified.",
+    "authors": [
+        {
+            "affiliation": "Centre for Food Quality, University of Strathclyde, SIPBS Royal College, Glasgow, UK.",
+            "firstname": "Angzzas",
+            "initials": "A",
+            "lastname": "Kassim"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Julie",
+            "initials": "J",
+            "lastname": "Poette"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Alistair",
+            "initials": "A",
+            "lastname": "Paterson"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Dzeti",
+            "initials": "D",
+            "lastname": "Zait"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Susan",
+            "initials": "S",
+            "lastname": "McCallum"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Mary",
+            "initials": "M",
+            "lastname": "Woodhead"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kay",
+            "initials": "K",
+            "lastname": "Smith"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Christine",
+            "initials": "C",
+            "lastname": "Hackett"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Julie",
+            "initials": "J",
+            "lastname": "Graham"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1002/mnfr.200800174",
+    "journal": "Molecular nutrition & food research",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-01-22",
+    "pubmed_id": "19156716",
+    "results": null,
+    "title": "Environmental and seasonal influences on red raspberry anthocyanin antioxidant contents and identification of quantitative traits loci (QTL).",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fee3600>"
+}{
+    "abstract": "Results from our oral cavity chemoprevention trial demonstrated appreciable interpatient variations regarding chemopreventive efficacy of a freeze dried black raspberry (FBR) gel. We speculated these data reflected individual patient-related differences in absorption, target tissue uptake and local compound metabolism of key FBR compounds (anthocyanins). Accordingly, this study assessed the distribution of anthocyanins from the 10% (w/w) FBR gel in saliva, oral tissues and plasma.\nHuman subject participation entailed collection of: (1) saliva, tissue and plasma (5 min following gel application, keratinized tissues), (2) saliva and plasma (5 min after sublingual gel application), (3) saliva and plasma at 1, 2, and 4 h post gel application (keratinized tissues), and (4) saliva (cyanidin 3-rutinoside incubations). Levels of FBR anthocyanins in the respective samples were analyzed by LC/MS/MS.\nOur data show: significantly higher anthocyanin levels in saliva and oral tissues relative to matched plasma samples, marked donor-specific variations in anthocyanin uptake, sustainability of anthocyanins at the target site, pH affects anthocyanin penetration and intraoral anthocyanin decomposition and/or metabolism.\nNo previous oral cavity chemoprevention trials evaluated compound distribution at the treatment site. Our data, which demonstrate a local delivery-derived pharmacologic advantage, provide insights which could advance oral cavity chemoprevention strategies.",
+    "authors": [
+        {
+            "affiliation": "Division of Oral Maxillofacial Surgery, Pathology & Anesthesiology, College of Dentistry, The Ohio State University, Columbus, Ohio, USA.",
+            "firstname": "Carlos M",
+            "initials": "CM",
+            "lastname": "Ugalde"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Zhongfa",
+            "initials": "Z",
+            "lastname": "Liu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Chen",
+            "initials": "C",
+            "lastname": "Ren"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kenneth K",
+            "initials": "KK",
+            "lastname": "Chan"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kapila A",
+            "initials": "KA",
+            "lastname": "Rodrigo"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Yhonghua",
+            "initials": "Y",
+            "lastname": "Ling"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Peter E",
+            "initials": "PE",
+            "lastname": "Larsen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Guillermo E",
+            "initials": "GE",
+            "lastname": "Chacon"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gary D",
+            "initials": "GD",
+            "lastname": "Stoner"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Russell J",
+            "initials": "RJ",
+            "lastname": "Mumper"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Henry W",
+            "initials": "HW",
+            "lastname": "Fields"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Susan R",
+            "initials": "SR",
+            "lastname": "Mallery"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1007/s11095-008-9806-x\n10.2174/156800907782418329\n10.1002/1097-0142(19840201)53:3<563\u2237AID-CNCR2820530332>3.0.CO;2-F\n10.1158/1078-0432.CCR-05-2636\n10.1056/NEJM199301073280103\n10.1093/jnci/92.1.69\n10.1200/JCO.2003.03.544\n10.1158/1078-0432.CCR-1020-3\n10.1207/s15327914nc5401_7\n10.1158/0008-5472.CAN-05-1951\n10.1093/carcin/bgl109\n10.1207/s15327914nc5401_8\n10.1158/0008-5472.CAN-05-3279\n10.1007/s11095-006-9192-1\n10.1158/1078-0432.CCR-07-4096\n10.1158/0008-5472.CAN-08-0568\n10.1016/j.canlet.2008.05.020\n10.1093/carcin/bgi366\n10.1177/0091270005279636\n10.1016/j.freeradbiomed.2004.01.002\n10.1079/BJN2003854\n10.1111/j.1365-2125.2004.02154.x\n10.1023/A:1015802427428\n10.1016/j.jconrel.2005.01.024\n10.1080/1071576060 0758522\n10.1211/0022357021778402\n10.1021/jf052367z\n10.1007/s00394-005-0557-8",
+    "journal": "Pharmaceutical research",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-01-13",
+    "pubmed_id": "19137418\n12139232\n10952432\n18045072\n17237035\n6537892\n7548621\n1277177\n16707609\n1574255\n8416267\n10522499\n10620636\n14597742\n15014005\n16800773\n16397275\n16777990\n16800774\n16510608\n17372698\n18413833\n18559542\n14907713\n18571839\n16522666\n16172180\n15019968\n12844377\n15373926\n9823729\n15595229\n1409373\n15894393\n17015246\n11848285\n10945830\n16381670\n15623831\n16478275\n15834757",
+    "results": "Our data show: significantly higher anthocyanin levels in saliva and oral tissues relative to matched plasma samples, marked donor-specific variations in anthocyanin uptake, sustainability of anthocyanins at the target site, pH affects anthocyanin penetration and intraoral anthocyanin decomposition and/or metabolism.",
+    "title": "Distribution of anthocyanins delivered from a bioadhesive black raspberry gel following topical intraoral application in normal healthy volunteers.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fec5a80>"
+}{
+    "abstract": "Botrytis cinerea Pers, ex Fr. can cause diseases on both cane and fruit on raspberry. Previous observations in field crops led to formulation of the hypothesis that infection of canes arose from invasion by mycelium from the petioles of infected leaves and that only mature and old leaves are susceptible. Inoculation studies in protected crops were conducted to investigate infection of raspberry leaves and canes by B. cinerea with a particular emphasis on determining the timing of cane infection in relation to leaf infection. The results obtained in protected crops indicated that cane age rather than the leaf age per se influences the susceptibility of leaves; leaves on young canes were less susceptible to botrytis infection than those on old canes. On older canes, leaves of all ages, ranging from young expanding to old senescent, were equally susceptible. The overall incidence of cane infection from inoculation of leaves was very low; most of cane infection was likely to have resulted from the direct infection of canes and not through invasion via the petioles of infected leaves.",
+    "authors": [
+        {
+            "affiliation": "East Malling Research, New Road, East Malling, West Malling, ME19 6BW, UK.",
+            "firstname": "X M",
+            "initials": "XM",
+            "lastname": "Xu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "E",
+            "initials": "E",
+            "lastname": "Wedgwood"
+        },
+        {
+            "affiliation": null,
+            "firstname": "A M",
+            "initials": "AM",
+            "lastname": "Berrie"
+        },
+        {
+            "affiliation": null,
+            "firstname": "T",
+            "initials": "T",
+            "lastname": "O'Neill"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": null,
+    "journal": "Communications in agricultural and applied biological sciences",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-01-01",
+    "pubmed_id": "20222562",
+    "results": null,
+    "title": "Infection of raspberry leaves by Botrytis cinerea in relation to leaf and cane age.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fea7790>"
+}{
+    "abstract": "Botrytis cinerea causes disease on both the fruit and cane of raspberry. The incidence of latent and post-harvest fruit botrytis was examined in 19 commercial open-field and protected crops. Many samples showed a high incidence of infected fruit (>50%), even on protected crops sprayed with fungicides. Differences between open-field and protected crops, between sprayed and unsprayed crops and between two varieties (GLen Ample and Tulameen) were not statistically significant. The incidence of latent infection by B. cinerea in unripe fruit did not correlate with the incidence of botrytis fruit rot developing on ripe fruit. Experiments were conducted in two commercial crops to investigate whether the removal of Lateral Leaves and thinning of primocanes during the flowering and fruiting period could reduce the incidence of fruit and cane infection by B. cinereo. Canopy manipulation resulted in considerable decreases in humidity inside the canopy at one site, where the original cane density was very high, (20 canes/m) and not at the second site where cane density was lower (10 canes/m). Canopy thinning did not significantly reduce the incidence of fruit botrytis at either site but reduced the incidence of leaf and cane infection in the dense crop. Results suggest that a significant reduction of cane infection by canopy manipulation can be realised for situations where cane density and disease pressure are high. The present studies suggest that in dense canopies in a protected crop, cane Lesions are more likely to result from direct infection of canes by the pathogen, although the pathogen can readily invade wounds on canes, including de-leafing wounds.",
+    "authors": [
+        {
+            "affiliation": "ADAS Boxworth, Boxworth, Cambs, CB23 4NN, UK.",
+            "firstname": "T",
+            "initials": "T",
+            "lastname": "O'Neill"
+        },
+        {
+            "affiliation": null,
+            "firstname": "A M",
+            "initials": "AM",
+            "lastname": "Berrie"
+        },
+        {
+            "affiliation": null,
+            "firstname": "E",
+            "initials": "E",
+            "lastname": "Wedgwood"
+        },
+        {
+            "affiliation": null,
+            "firstname": "J",
+            "initials": "J",
+            "lastname": "Allen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "X M",
+            "initials": "XM",
+            "lastname": "Xu"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": null,
+    "journal": "Communications in agricultural and applied biological sciences",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2009-01-01",
+    "pubmed_id": "20222545",
+    "results": null,
+    "title": "Effect of canopy manipulation on cane and fruit Botrytis in protected raspberry.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff1e610>"
+}{
+    "abstract": "A diet containing 5% freeze-dried black raspberries (BRB) markedly inhibits esophageal cancer in rats treated with the carcinogen, N-Nitrosomethylbenzylamine (NMBA). We previously identified esophageal genes that become dysregulated after short-term treatment of rats with NMBA and determined which genes are maintained at near-normal levels of expression if the animals were fed 5% BRB prior to and during NMBA treatment. In this study, we report the effects of the BRB diet on gene expression in esophagi from untreated (control) animals. After 3 wk on a 5% BRB diet, control esophagi were excised, stripped of the submucosal and muscularis layers, and processed for histology and microarray profiling. RNA microarrays revealed that the BRB altered the expression levels of 36 genes; 24 were upregulated, and 12 were downregulated. Among the upregulated genes are genes associated with cellular matrix, signaling cascades, transcription regulation, apoptosis, metabolism, and intriguingly, contraction. Most of the downregulated transcripts are involved in cell regulation, signal transduction, and metabolism. Histopathological analyses revealed that the BRB have little or no effect on esophageal morphology. In conclusion, histological and molecular studies indicate that a 5% BRB diet produces only modest effects on the esophagus, the target tissue for NMBA carcinogenesis in the rat.",
+    "authors": [
+        {
+            "affiliation": "Comprehensive Cancer Center, The Ohio State University, Columbus, Ohio, USA.",
+            "firstname": "John F",
+            "initials": "JF",
+            "lastname": "Lechner"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Rashmeet K",
+            "initials": "RK",
+            "lastname": "Reen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Alan A",
+            "initials": "AA",
+            "lastname": "Dombkowski"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Daniela",
+            "initials": "D",
+            "lastname": "Cukovic"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Sridevi",
+            "initials": "S",
+            "lastname": "Salagrama"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Li-Shu",
+            "initials": "LS",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gary D",
+            "initials": "GD",
+            "lastname": "Stoner"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1080/01635580802393118",
+    "journal": "Nutrition and cancer",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-11-15",
+    "pubmed_id": "19003582",
+    "results": null,
+    "title": "Effects of a black raspberry diet on gene expression in the rat esophagus.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff1c0e0>"
+}{
+    "abstract": "Numerous studies have shown torque control to be an important factor in grip-force control. This study introduces a novel task which allows quantification of the dynamics of torque development while increasing grip forces during a task comparable to picking a raspberry. The performance of this task was analysed in two healthy subjects and two cerebellar patients. Individual grip forces and finger positions on a grip rod were analysed using a recently developed technique [Kutz DF, Woelfel A, Timmann D, Kolb FP. Detection of changes in grip forces on a sliding object. J Neurosci Methods 2007;166:250-8]. Levers and torques were derived from grip forces and geometric properties of the grip rod. The analysis of this task performance provides evidence that healthy subjects are able to minimise torque despite increasing grip force, whereas the cerebellar patients tested increased torque disproportionately with increasing grip forces, whereby these high torques were due primarily to the patients' inability to optimise individual finger positions on the rod. Patients tried to compensate their ataxia-based insecurity by employing higher grip forces, resulting in disproportionately higher torques and increased instability, whereupon they again increased grip force, thus establishing a vicious circle. The analysis of this task suggests that effective rehabilitation strategies must be aimed at interrupting this circle.",
+    "authors": [
+        {
+            "affiliation": "Department of Physiological Genomics, Institute of Physiology, University of Munich, Pettenkoferstr. 12, 80336 Munich, Germany. kutz@lmu.de",
+            "firstname": "Dieter F",
+            "initials": "DF",
+            "lastname": "Kutz"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Alexander",
+            "initials": "A",
+            "lastname": "W\u00f6lfel"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Dagmar",
+            "initials": "D",
+            "lastname": "Timmann"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Florian P",
+            "initials": "FP",
+            "lastname": "Kolb"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.jneumeth.2008.09.031",
+    "journal": "Journal of neuroscience methods",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-11-04",
+    "pubmed_id": "18977389",
+    "results": null,
+    "title": "Dynamic torque during a precision grip task comparable to picking a raspberry.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff2abb0>"
+}{
+    "abstract": "The complete nucleotide sequence of a new member of the unassigned genus Sobemovirus, isolated from raspberry and bramble plants in north east Scotland and given the name Rubus chlorotic mottle virus (RuCMV), was obtained. The virus has a single, positive-strand RNA genome of 3,983 nucleotides and, in common with other sobemoviruses, contains four open reading frames (ORFs) encoding, from 5' to 3', the P1 protein that is likely to be a suppressor of RNA silencing, ORF2a that has homology to serine-proteases, ORF2b that is the probable RNA dependent RNA polymerase, and ORF3 that is the coat protein. ORF2b protein is potentially expressed as a fusion with ORF2a protein by a -1 frameshift at the heptanucleotide sequence UUUAAAC. Phylogenetic analyses showed that RuCMV is a distinct virus not closely related to any of the other sequenced sobemoviruses. Based on the obtained sequence a full-length cDNA copy of RuCMV was cloned and in vitro transcripts derived from this clone were shown to be fully infectious.",
+    "authors": [
+        {
+            "affiliation": "Plant Pathology Programme, SCRI, Invergowrie, Dundee DD2 5DA, UK.",
+            "firstname": "W J",
+            "initials": "WJ",
+            "lastname": "McGavin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "S A",
+            "initials": "SA",
+            "lastname": "Macfarlane"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.virusres.2008.09.004",
+    "journal": "Virus research",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-10-22",
+    "pubmed_id": "18929604",
+    "results": null,
+    "title": "Rubus chlorotic mottle virus, a new sobemovirus infecting raspberry and bramble.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff26930>"
+}{
+    "abstract": "Pasteurization processes of raspberry puree are nowadays limited to short times and rather low temperatures to maintain flavor and nutritional quality. Norovirus (NoV) outbreaks associated with raspberries highlight the need to determine the survival of NoV on this type of soft fruit. Therefore, resistance of murine norovirus 1 (MNV-1), a surrogate for human NoV, B. fragilis HSP40 infecting phage B40-8, and E. coli towards mild pasteurization was tested. Raspberry puree heat treated at 65 degrees C for 30s showed a 1.86, 2.77, and 3.89 log reduction of, respectively, MNV-1, E. coli, and B40-8. Heating at 75 degrees C for 15s established a 2.81 log reduction of MNV-1 while a 3.44 and 3.61 log reduction of B40-8 and E. coli was observed. No supplementary lethal effect of holding the heat-treated raspberry puree at 4 degrees C overnight was noticed. B40-8 failed to be useful as a tool to monitor NoV inactivation during mild pasteurization processes. Moreover, <3 log reductions of MNV-1 were observed suggesting that upon high initial contamination load, infectious NoV particles may remain on mildly pasteurized raspberry puree.",
+    "authors": [
+        {
+            "affiliation": "Laboratory of Food Microbiology and Food Preservation, Department of Food Safety and Food Quality, Faculty of Bioscience Engineering, Ghent University, Coupure links 653, 9000 Ghent, Belgium.",
+            "firstname": "L",
+            "initials": "L",
+            "lastname": "Baert"
+        },
+        {
+            "affiliation": null,
+            "firstname": "M",
+            "initials": "M",
+            "lastname": "Uyttendaele"
+        },
+        {
+            "affiliation": null,
+            "firstname": "E",
+            "initials": "E",
+            "lastname": "Van Coillie"
+        },
+        {
+            "affiliation": null,
+            "firstname": "J",
+            "initials": "J",
+            "lastname": "Debevere"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.fm.2008.06.002",
+    "journal": "Food microbiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-08-30",
+    "pubmed_id": "18721675",
+    "results": null,
+    "title": "The reduction of murine norovirus 1, B. fragilis HSP40 infecting phage B40-8 and E. coli after a mild thermal pasteurization process of raspberry puree.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff24180>"
+}{
+    "abstract": "IgE-reactive proteins in raspberry (Rubus ideaus L.) were identified using PCR, RT-PCR, 2-DE and MS/MS peptide sequencing. Specific polyclonal antibodies and patient sera were used in Western blotting to identify crossreactive epitopes. Initially, two potential allergens Rub i 1 and Rub i 3 were detected using PCR, showing high sequence identity to proteins in Rosaceous species like Mal d 1 and Mal d 3 from apple, Pru av 1 and Pru av 3 from cherry and Pru p 1 and Pru p 3 from peach. Furthermore, de novo identified peptides of a protein band at about 30 kDa reacting with most of the patient sera tested (> 80%) revealed a high sequence homology with class III chitinases. Raspberry chitinase, when subjected to glycoproteomic analysis, showed typical complex plant-type N-glycans with a core alpha1,3 fucose and a beta1,2 xylose at least at one position, indicating the presence of crossreacting carbohydrate determinants (CCDs). Finally, MS/MS analysis revealed an IgE-reactive raspberry cyclophilin, homologous to Bet v 7. Results obtained suggest that the consumption of raspberries might be responsible for adverse reactions in sensitised individuals.",
+    "authors": [
+        {
+            "affiliation": "Plant Biotechnology Unit, Department of Biotechnology, BOKU, Vienna, Austria.",
+            "firstname": "Gorji",
+            "initials": "G",
+            "lastname": "Marzban"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Anita",
+            "initials": "A",
+            "lastname": "Herndl"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Daniel",
+            "initials": "D",
+            "lastname": "Kolarich"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Fatemeh",
+            "initials": "F",
+            "lastname": "Maghuly"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Agata",
+            "initials": "A",
+            "lastname": "Mansfeld"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Wolfgang",
+            "initials": "W",
+            "lastname": "Hemmer"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hermann",
+            "initials": "H",
+            "lastname": "Katinger"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Margit",
+            "initials": "M",
+            "lastname": "Laimer"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1002/mnfr.200700518",
+    "journal": "Molecular nutrition & food research",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-08-08",
+    "pubmed_id": "18683824",
+    "results": null,
+    "title": "Identification of four IgE-reactive proteins in raspberry (Rubus ideaeus L.).",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff46a70>"
+}{
+    "abstract": "Cinnamate-4-hydroxylase (C4H) is a key enzyme in the phenylpropanoid pathway, which is responsible for synthesizing a variety of secondary metabolites that participate in development and adaptation. In this study, we isolated a full-length cDNA of the C4H gene from the Korean black raspberry (Rubus sp.) and found that this gene existed as a single gene. By comparing the deduced amino acid sequence of Rubus sp. C4H with other sequences reported previously we determined that this sequence was highly conserved among widely divergent plant species. In addition, quantitative real time PCR studies indicated that the C4H gene had a differential expression pattern during fruit development, where gene expression was first detected in green fruit and was then remarkably reduced in yellow fruit, followed by an increase in red and black fruit. To investigate the two peaks in expression observed during fruit development and ripening, we measured the flavonoid content. The content of the major flavanol of Korean black raspberry fruits was determined to be highest at the beginning of fruit development, followed by a gradually decrease according to the developmental stages. In contrast, the content of anthocyanins during the progress of ripening was dramatically increased. Our results suggest that the C4H gene in Korean black raspberry plays a role during color development at the late stages of fruit ripening, whereas the expression of C4H gene during the early stages may be related to the accumulation of flavanols.",
+    "authors": [
+        {
+            "affiliation": "Advanced Radiation Technology Institute, Korea Atomic Energy Research Institute, Jeongeup 580-185, Korea.",
+            "firstname": "Myung-Hwa",
+            "initials": "MH",
+            "lastname": "Baek"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Byung Yeoup",
+            "initials": "BY",
+            "lastname": "Chung"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jin-Hong",
+            "initials": "JH",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jae-Sung",
+            "initials": "JS",
+            "lastname": "Kim"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Seung Sik",
+            "initials": "SS",
+            "lastname": "Lee"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Byung Chull",
+            "initials": "BC",
+            "lastname": "An"
+        },
+        {
+            "affiliation": null,
+            "firstname": "In-Jung",
+            "initials": "IJ",
+            "lastname": "Lee"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Tae-Hoon",
+            "initials": "TH",
+            "lastname": "Kim"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.5483/bmbrep.2008.41.7.529",
+    "journal": "BMB reports",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-08-07",
+    "pubmed_id": "18682037",
+    "results": null,
+    "title": "cDNA cloning and expression pattern of cinnamate-4-hydroxylase in the Korean black raspberry.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2ff32840>"
+}{
+    "abstract": "Symptoms that resembled virus infection were observed on several smooth blackberry (Rubus canadensis L.) plants in the Great Smoky Mountain National Park (GSMNP) during a project carried out in the summer and fall of 2006 as part of All Taxa Biodiversity Inventory (ATBI) activities (2). Diseased specimens showed chlorosis and mottling as well as deformation of younger leaves. Symptomatic leaves were collected, and preliminary screening by double-antibody sandwich (DAS)-ELISA did not detect Tobacco ringspot virus (TRSV), Tomato ringspot virus (ToRSV), Tomato spotted wilt virus (TSWV), Raspberry bushy dwarf virus (RBDV), or Impatiens necrotic spot virus (INSV) in these samples. Double-stranded RNA (dsRNA) extracted from symptomatic leaves of two diseased specimens (GSM-1 and GSM-2) revealed two bands with sizes estimated at 7.5 and 6.5 kb. Purified dsRNAs from specimen GSM-1 were used as a template to generate random-primed cDNA clones. Several clones were sequenced and analysis of approximately 3 kb of contiguous sequence (GenBank Accession No. EU419645) revealed the presence of a single open reading frame encoding a protein containing the complete proteinase and partial polymerase domains. BLAST analysis showed that the virus from R. canadensis shared 77 and 87% nucleotide and amino acid sequence identity, respectively, with the recently described putative sadwavirus Black raspberry necrosis virus (BRNV) (GenBank Accession No. NC_008182) (1), suggesting that this virus is a distinct isolate of BRNV. The virus shared a lower degree of identity with the analogous sequences of other viruses belonging to the genus Sadwavirus, with only 48 and 37% identity with Strawberry mottle virus (GenBank Accession No. NC_003445) and Satsuma dwarf virus (GenBank Accession No. NC_003785), respectively. To our knowledge, this is the first report of BRNV in GSMNP and Tennessee, indicating that it may be widespread in native Rubus spp. through the southeastern United States. References: (1) A. Halgren et al. Phytopathology 97:44, 2007. (2) M. J. Sharkey. Fla. Entomol. 84:556, 2001.",
+    "authors": [
+        {
+            "affiliation": "Department of Entomology and Plant Pathology, Mississippi State University, Mississippi State 39762.",
+            "firstname": "S",
+            "initials": "S",
+            "lastname": "Sabanadzovic"
+        },
+        {
+            "affiliation": "Department of Entomology and Plant Pathology, Mississippi State University, Mississippi State 39762.",
+            "firstname": "N Abou",
+            "initials": "NA",
+            "lastname": "Ghanem-Sabanadzovic"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1094/PDIS-92-8-1254A",
+    "journal": "Plant disease",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-08-01",
+    "pubmed_id": "30769470",
+    "results": null,
+    "title": "First Report of Black raspberry necrosis virus in Rubus canadensis in Tennessee.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fc908b0>"
+}{
+    "abstract": "Raspberry bushy dwarf virus (RBDV) causes a significant reduction in yield and quality in raspberry and raspberry-blackberry hybrid. Genetic modifications were made to 'Meeker' red raspberries to impart RBDV resistance. The RBDV-resistant transgenic and wild type 'Meeker' plants were grown in Oregon and Washington, and the fruits were harvested in the 2004 and 2005 growing seasons. Year-to-year and site-to-site variations were observed for the degrees Brix and titratable acidity, with Oregon raspberries having slightly higher degrees Brix and lower titratable acidity than Washington raspberries. Twenty-nine volatile compounds were quantified using stir bar sorptive extraction (SBSE) paired with gas chromatography-mass spectrometry (GC-MS). There were very few differences in volatile concentrations between the transgenic varieties and the wild type 'Meeker'. Much larger variations were observed between sites and harvest seasons. Raspberries grown in Oregon appeared to have higher concentrations of delta-octalactone, delta-decalactone, geraniol, and linalool. Chiral analysis of alpha-ionone, alpha-pinene, linalool, terpinen-4-ol, delta-octalactone, and delta-decalactone demonstrated a much higher percentage of one isomer over the other, particularly alpha-ionone, alpha-pinene, delta-octalactone, and delta-decalactone, with more than 90% of one isomer, while a racemic mixture was observed for linalool. The isomeric analysis revealed very little variation between varieties, locations, or years. The flavor compounds tested in this study did not show any difference between the transgenic lines and the wild type 'Meeker' raspberry.",
+    "authors": [
+        {
+            "affiliation": "Department of Food Science and Technology, Oregon State University, and USDA-ARS, Horticultural Crops Research Laboratory, 3420 N.W. Orchard Avenue, Corvallis, Oregon 97331, USA.",
+            "firstname": "Sarah M M",
+            "initials": "SM",
+            "lastname": "Malowicki"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Robert",
+            "initials": "R",
+            "lastname": "Martin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Michael C",
+            "initials": "MC",
+            "lastname": "Qian"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1021/jf800253e",
+    "journal": "Journal of agricultural and food chemistry",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-07-05",
+    "pubmed_id": "18598047",
+    "results": null,
+    "title": "Comparison of sugar, acids, and volatile composition in raspberry bushy dwarf virus-resistant transgenic raspberries and the wild type 'meeker' (rubus idaeus L.).",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fc91e90>"
+}{
+    "abstract": "Reduced expression of proapoptotic and terminal differentiation genes in conjunction with increased levels of the proinflammatory and angiogenesis-inducing enzymes, cyclooxygenase 2 (COX-2) and inducible nitric oxide synthase (iNOS), correlate with malignant transformation of oral intraepithelial neoplasia (IEN). Accordingly, this study investigated the effects of a 10% (w/w) freeze-dried black raspberry gel on oral IEN histopathology, gene expression profiles, intraepithelial COX-2 and iNOS proteins, and microvascular densities. Our laboratories have shown that freeze-dried black raspberries possess antioxidant properties and also induce keratinocyte apoptosis and terminal differentiation. Oral IEN tissues were hemisected to provide samples for pretreatment diagnoses and establish baseline biochemical and molecular variables. Treatment of the remaining lesional tissue (0.5 g gel applied four times daily for 6 weeks) began 1 week after the initial biopsy. RNA was isolated from snap-frozen IEN lesions for microarray analyses, followed by quantitative reverse transcription-PCR validation. Additional epithelial gene-specific quantitative reverse transcription-PCR analyses facilitated the assessment of target tissue treatment effects. Surface epithelial COX-2 and iNOS protein levels and microvascular densities were determined by image analysis quantified immunohistochemistry. Topical berry gel application uniformly suppressed genes associated with RNA processing, growth factor recycling, and inhibition of apoptosis. Although the majority of participants showed posttreatment decreases in epithelial iNOS and COX-2 proteins, only COX-2 reductions were statistically significant. These data show that berry gel application modulated oral IEN gene expression profiles, ultimately reducing epithelial COX-2 protein. In a patient subset, berry gel application also reduced vascular densities in the superficial connective tissues and induced genes associated with keratinocyte terminal differentiation.",
+    "authors": [
+        {
+            "affiliation": "Department of Oral and Maxillofacial Surgery, College of Dentistry, The Ohio State University Comprehensive Cancer Center and Solove Research Institute, Columbus, Ohio, USA. mallery.1@osu.edu",
+            "firstname": "Susan R",
+            "initials": "SR",
+            "lastname": "Mallery"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jared C",
+            "initials": "JC",
+            "lastname": "Zwick"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ping",
+            "initials": "P",
+            "lastname": "Pei"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Meng",
+            "initials": "M",
+            "lastname": "Tong"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Peter E",
+            "initials": "PE",
+            "lastname": "Larsen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Brian S",
+            "initials": "BS",
+            "lastname": "Shumway"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Bo",
+            "initials": "B",
+            "lastname": "Lu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Henry W",
+            "initials": "HW",
+            "lastname": "Fields"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Russell J",
+            "initials": "RJ",
+            "lastname": "Mumper"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gary D",
+            "initials": "GD",
+            "lastname": "Stoner"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1158/0008-5472.CAN-08-0568",
+    "journal": "Cancer research",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-06-19",
+    "pubmed_id": "18559542\n17237035\n17413405\n15545580\n17275742\n16911640\n16606333\n16264935\n10070952\n12196922\n15743688\n17893868\n10722929\n10600473\n9168787\n9312403\n12139232\n7548621\n7621010\n16397275\n11181460\n12460899\n16800773\n12553025\n11507061\n16777990\n16510608\n16172180\n16800781\n16478275\n17372698\n18413833\n16441226\n14758080\n12444558\n12237917\n10522499\n14597742\n16378690\n12912957\n16818663\n16563357\n17553709\n16707609\n1574255\n8416267",
+    "results": null,
+    "title": "Topical application of a bioadhesive black raspberry gel modulates gene expression and reduces cyclooxygenase 2 protein in human premalignant oral lesions.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fca04a0>"
+}{
+    "abstract": "A homothallic semipapillate slow growing Phytophthora species associated with root rot of strawberries from greenhouse-grown plants in North Carolina, USA, root rot of roses in the Netherlands, and root rot of raspberry in Knoxfield, Australia, was identified. The main character of this organism is the production of paragynous antheridia with broad attachment to the oogonial wall. The morphology of the pathogen does not match that of any of the more than 85 described Phytophthora species. Phylogenetic analysis based on sequences of the internal transcribed spacer rDNA region (ITS1-5.8S-ITS2) of this taxon and those from other Phytophthora species from GenBank supports the conclusion that this organism is an unreported new species. In the phylogenetic tree with other reported Phytophthora species at the GenBank, the new species is more closely related to others in ITS clade 2 comprising semipapillate taxa including P. botryosa, P. citrophthora, P. colocasiae, P. meadii, P. citricola, P. inflata, P.tropicalis, P. capsici, Phytophthora sp. 'glovera' and P. multivesiculata. The most closely related species is P. multivesiculata isolated from Cymbidium orchid in the Netherlands. In this paper we describe the morphological characteristics and the phylogenetic relationships that support the description of this taxon as a new species Phytophthora bisheria sp. nov.",
+    "authors": [
+        {
+            "affiliation": "United States Department of Agriculture, USDA-APHIS-PPQ-PHP-PSPI, National Identification Service (NIS), Molecular Diagnostics Laboratory (MDL), Bldg. 580, BARC-E, Powder Mill Road, Beltsville, Maryland 20705, USA. Gloria.Abad@aphis.usda.gov",
+            "firstname": "Z Gloria",
+            "initials": "ZG",
+            "lastname": "Abad"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jorge A",
+            "initials": "JA",
+            "lastname": "Abad"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Michael D",
+            "initials": "MD",
+            "lastname": "Coffey"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Peter V",
+            "initials": "PV",
+            "lastname": "Oudemans"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Willem A",
+            "initials": "WA",
+            "lastname": "Man in 't Veld"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hans",
+            "initials": "H",
+            "lastname": "de Gruyter"
+        },
+        {
+            "affiliation": null,
+            "firstname": "James",
+            "initials": "J",
+            "lastname": "Cunnington"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Frank J",
+            "initials": "FJ",
+            "lastname": "Louws"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.3852/mycologia.100.1.99",
+    "journal": "Mycologia",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-05-21",
+    "pubmed_id": "18488356",
+    "results": null,
+    "title": "Phytophthora bisheria sp. nov., a new species identified in isolates from the Rosaceous raspberry, rose and strawberry in three continents.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fcb8040>"
+}{
+    "abstract": "Twenty-nine volatile compounds in 'Chilliwack', 'Tulameen', 'Willamette', 'Yellow Meeker', and 'Meeker' raspberries were quantified using stir bar sorptive extraction (SBSE) paired with gas chromatography-mass spectrometry (GC-MS). Good correlation coefficients were obtained with most aroma-active compounds in raspberry, with quantification limits of 1 microg/kg. However, poor recoveries were observed for raspberry ketone and zingerone. Quantitative data showed that volatile concentrations varied for different cultivars. Large variations for alpha-ionone, beta-ionone, geraniol, linalool, and ( Z)-3-hexenol were observed in different raspberry cultivars. In addition, the volatile compositions in 'Meeker' raspberry grown at different locations also varied. The chiral isomeric ratios of raspberry ketone, alpha-ionone, alpha-pinene, linalool, terpinen-4-ol, delta-octalactone, delta-decalactone, and 6-methyl-5-hepten-2-ol were studied using a CyclosilB column. alpha-Ionone, alpha-pinene, delta-octalactone, and delta-decalactone had strong chiral isomeric preference, with more than 96% for one isomeric form. Much weaker chiral isomeric preference was observed for terpinen-4-ol, while linalool was almost a racemic mixture. Both growing locations and cultivars affect the isomeric ratio of linalool with a range of 37-51% for ( R)-linalool.",
+    "authors": [
+        {
+            "affiliation": "Department of Food Science and Technology, Oregon State University, Corvallis, OR 97330, USA.",
+            "firstname": "Sarah M M",
+            "initials": "SM",
+            "lastname": "Malowicki"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Robert",
+            "initials": "R",
+            "lastname": "Martin"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Michael C",
+            "initials": "MC",
+            "lastname": "Qian"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1021/jf073489p",
+    "journal": "Journal of agricultural and food chemistry",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-05-14",
+    "pubmed_id": "18473468",
+    "results": null,
+    "title": "Volatile composition in raspberry cultivars grown in the Pacific Northwest determined by stir bar sorptive extraction-gas chromatography-mass spectrometry.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fcbb100>"
+}{
+    "abstract": "Laboratory-prepared muesli-type breakfast cereal (mixture of oat flakes, wheat flakes, corn flakes, hazelnuts, raisins, sunflower seeds, and flax seeds) was subjected to accelerated storage test at 60 degrees C with or without the addition of red raspberry seed extract. The oxidative changes in muesli resulting in the formation of secondary oxidation products were evaluated using solid phase microextraction (HS-SPME) and solvent-assisted flavor evaporation (SAFE) to isolate volatiles and GC-MS and chromatography-olfactometry to quantify them and determine the key odorants. During 14 days of storage the total amount of volatile compounds changed from 1.0 mg/kg, in freshly prepared muesli, to 32 mg/kg after storage. The predominant compound was hexanal; its content during storage increased 20-fold, reaching 17 mg/kg. Red raspberry seed extract addition limited the rate of lipid oxidation, and the total amount of volatiles was estimated at 11 mg/kg and that of hexanal at almost 5 mg/kg. An elevated temperature of the storage test also influenced the crucial flavor compounds determined using aroma extract dilution analysis (AEDA). The flavor dilution factor (FD) values for volatile lipid oxidation products were lower in samples with red raspberry seed extract added.",
+    "authors": [
+        {
+            "affiliation": "Department of Food Science and Nutrition, The August Cieszkowski Agricultural University of Pozna\u0144, Wojska Polskiego 31, 60-624 Pozna\u0144, Poland.",
+            "firstname": "Dorota",
+            "initials": "D",
+            "lastname": "Klensporf"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Henryk H",
+            "initials": "HH",
+            "lastname": "Jele\u0144"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1021/jf0729210",
+    "journal": "Journal of agricultural and food chemistry",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-04-15",
+    "pubmed_id": "18407655",
+    "results": null,
+    "title": "Influence of the addition of raspberry seed extract on changes in the volatile pattern of stored model breakfast cereal.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fcc19e0>"
+}{
+    "abstract": "In the fall of 2003, severity of late leaf rust in leaves and fruits of red raspberry (Rubus idaeus L.) reached 50% in Buenos Aires (Azul, Baradero, Capilla del Se\u00f1or, Gral. Rodr\u00edguez, Mar del Plata, and Tandil), C\u00f3rdoba (Villa de Las Rosas), and Entre R\u00edos (Concordia). The south of Argentina, R\u00edo Negro (El Bols\u00f3n), and Chubut (El Hoyo, Lago Puelo) remained rust free. The abaxial side of the field infected leaves had pustules filled with masses of yellow spores. Chlorotic areas corresponded in the adaxial side. Urediospores were vacuum harvested from field infected leaves collected in the Tandil area and placed onto a healthy 1-year-old greenhouse-grown plant (cv. Heritage). Spores from a single pustule were increased on plants of the same cultivar. Spores were studied with optic and electronic microscopy. Uredial ostiolar cells were warted, laterally free, and constricted in the middle. The obovoid, echinulate urediospores, from infected leaves averaged 24 \u00d7 16 \u03bcm (16 to 30 \u00d7 11 to 21 \u03bcm). Morphological characteristics and spore measurements agreed with those reported for Pucciniastrum americanum (1). Urediniospores were suspended in mineral oil and sprayed onto three raspberry cultivars that were maintained in a darkened mist chamber at 20\u00b0C for 48 h and the transferred to a 20\u00b0C and 12-h light cycle chamber. Control plants were inoculated with sterile water. There were three replicate plants of each treatment. After 11 days, large sporulating uredia (0.5 mm) were produced on inoculated leaves of cv. Autumn Bliss and smaller uredia (0.1 to 0.3 mm) were produced on cv. Heritage. There were necrotic flecks and the least and smallest uredia were produced on cv. Himbo Queen. No symptoms were present in control plants. To our knowledge, this is the first report of P. americanum causing disease on raspberry in Argentina. Reference: (1) G. F. Laundon and A. F. Rainbow. Pucciniastrum americanum. No. 210 in: Descriptions of Pathogenic Fungi and Bacteria. CMI, Kew, Surrey, England, 1969.",
+    "authors": [
+        {
+            "affiliation": "Facultad de Agronom\u00eda, Universidad de Buenos Aires, Av. San Mart\u00edn 4453 (C1417DSE), Buenos Aires, Argentina.",
+            "firstname": "X",
+            "initials": "X",
+            "lastname": "Lucero"
+        },
+        {
+            "affiliation": "Facultad de Agronom\u00eda, Universidad de Buenos Aires, Av. San Mart\u00edn 4453 (C1417DSE), Buenos Aires, Argentina.",
+            "firstname": "E R",
+            "initials": "ER",
+            "lastname": "Wright"
+        },
+        {
+            "affiliation": "INTA-IMYZA, C.C. 25 (B1712WAA), Castelar, Buenos Aires, Argentina.",
+            "firstname": "B A",
+            "initials": "BA",
+            "lastname": "P\u00e9rez"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1094/PDIS-92-4-0653B",
+    "journal": "Plant disease",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-04-01",
+    "pubmed_id": "30769656",
+    "results": null,
+    "title": "Occurrence of Late Leaf Rust Caused by Pucciniastrum americanum in Red Raspberry (Rubus idaeus) in Buenos Aires, C\u00f3rdoba, and Entre R\u00edos, Argentina.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fccc090>"
+}{
+    "abstract": "Sensory neurons release calcitonin gene-related peptide (CGRP) on activation. We recently reported that topical application of capsaicin increases facial skin elasticity and promotes hair growth by increasing dermal insulin-like growth factor-I (IGF-I) production through activation of sensory neurons in mice and humans. Raspberry ketone (RK), a major aromatic compound contained in red raspberries (Rubus idaeus), has a structure similar to that of capsaicin. Thus, it is possible that RK activates sensory neurons, thereby increasing skin elasticity and promoting hair growth by increasing dermal IGF-I production. In the present study, we examined this possibility in mice and humans. RK, at concentrations higher than 1 microM, significantly increased CGRP release from dorsal root ganglion neurons (DRG) isolated from wild-type (WT) mice and this increase was completely reversed by capsazepine, an inhibitor of vanilloid receptor-1 activation. Topical application of 0.01% RK increased dermal IGF-I levels at 30 min after application in WT mice, but not in CGRP-knockout mice. Topical application of 0.01% RK increased immunohistochemical expression of IGF-I at dermal papillae in hair follicles and promoted hair re-growth in WT mice at 4 weeks after the application. When applied topically to the scalp and facial skin, 0.01% RK promoted hair growth in 50.0% of humans with alopecia (n=10) at 5 months after application and increased cheek skin elasticity at 2 weeks after application in 5 females (p<0.04). These observations strongly suggest that RK might increase dermal IGF-I production through sensory neuron activation, thereby promoting hair growth and increasing skin elasticity.",
+    "authors": [
+        {
+            "affiliation": "Department of Translational Medical Science Research, Nagoya City University Graduate School of Medical Sciences, Kawasumi 1, Mizuho-cho, Mizuho-ku, Nagoya 467-8601, Japan.",
+            "firstname": "Naoaki",
+            "initials": "N",
+            "lastname": "Harada"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Kenji",
+            "initials": "K",
+            "lastname": "Okajima"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Noriko",
+            "initials": "N",
+            "lastname": "Narimatsu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Hiroki",
+            "initials": "H",
+            "lastname": "Kurihara"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Naomi",
+            "initials": "N",
+            "lastname": "Nakagata"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.ghir.2008.01.005",
+    "journal": "Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-03-07",
+    "pubmed_id": "18321745",
+    "results": null,
+    "title": "Effect of topical application of raspberry ketone on dermal production of insulin-like growth factor-I in mice and on hair growth and skin elasticity in humans.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fccd940>"
+}{
+    "abstract": "Population dynamics of Xiphinema americanum and transmission of Tomato ringspot virus (ToRSV) were studied in a red raspberry field in Washington State. Population densities of X. americanum were highest in the winter, lowest in the summer, and were correlated with precipitation (R",
+    "authors": [
+        {
+            "affiliation": "U.S. Department of Agriculture, Agricultural Research Service, Horticultural Crops Research Laboratory, Corvallis, OR 97330.",
+            "firstname": "J N",
+            "initials": "JN",
+            "lastname": "Pinkerton"
+        },
+        {
+            "affiliation": "U.S. Department of Agriculture, Agricultural Research Service, Horticultural Crops Research Laboratory, Corvallis, OR 97330.",
+            "firstname": "J",
+            "initials": "J",
+            "lastname": "Kraus"
+        },
+        {
+            "affiliation": "U.S. Department of Agriculture, Agricultural Research Service, Horticultural Crops Research Laboratory, Corvallis, OR 97330.",
+            "firstname": "R R",
+            "initials": "RR",
+            "lastname": "Martin"
+        },
+        {
+            "affiliation": "U.S. Department of Agriculture, Agricultural Research Service, Horticultural Crops Research Laboratory, Corvallis, OR 97330.",
+            "firstname": "R P",
+            "initials": "RP",
+            "lastname": "Schreiner"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1094/PDIS-92-3-0364",
+    "journal": "Plant disease",
+    "keywords": [
+        "dagger nematode",
+        "nepovirus",
+        "vector"
+    ],
+    "methods": null,
+    "publication_date": "2008-03-01",
+    "pubmed_id": "30769671",
+    "results": null,
+    "title": "Epidemiology of Xiphinema americanum and Tomato ringspot virus on Red Raspberry, Rubus idaeus.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fcd53f0>"
+}{
+    "abstract": "Anthocyanin constituents in black raspberries (Rubus occidentalis L.) were investigated by HPLC-DAD, and their involvement as potent, significant antioxidants in black raspberries was demonstrated by three common antioxidant assays (FRAP, DPPH, ABTS) in this study. Five anthocyanins were present in black raspberries: cyanidin 3-sambubioside, cyanidin 3-glucoside, cyanidin 3-xylosylrutinoside, cyanidin 3-rutinoside, and pelargonidin 3-rutinoside. Their identities and structures, with particular emphasis on cyanidin 3-xylosylrutinoside, were confirmed by NMR spectroscopy. Two of these anthocyanins, cyanidin 3-rutinoside and cyanidin 3-xylosylrutinoside, predominated, comprising 24-40 and 49-58%, respectively, of the total anthocyanins in black raspberries. On the basis of both potency and concentration, cyanidin 3-rutinoside and cyanidin 3-xylosylrutinoside were found to be the significant contributors to the antioxidant systems of black raspberries. These findings indicate that these two anthocyanin compounds may function as the primary phenolic antioxidants in black raspberries. These two compounds exhibit potential biological activities that may be exploited in conjunction with other naturally occurring bioactive compounds in black raspberry fruit-based products used in clinical trials for the treatment of various types of cancer.",
+    "authors": [
+        {
+            "affiliation": "Department of Horticulture and Crop Science, The Ohio State University, Ohio Agricultural Research and Development Center, Wooster, OH 44691, USA.",
+            "firstname": "Artemio Z",
+            "initials": "AZ",
+            "lastname": "Tulio"
+        },
+        {
+            "affiliation": null,
+            "firstname": "R Neil",
+            "initials": "RN",
+            "lastname": "Reese"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Faith J",
+            "initials": "FJ",
+            "lastname": "Wyzgoski"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Peter L",
+            "initials": "PL",
+            "lastname": "Rinaldi"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ruiling",
+            "initials": "R",
+            "lastname": "Fu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Joseph C",
+            "initials": "JC",
+            "lastname": "Scheerens"
+        },
+        {
+            "affiliation": null,
+            "firstname": "A Raymond",
+            "initials": "AR",
+            "lastname": "Miller"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1021/jf072313k",
+    "journal": "Journal of agricultural and food chemistry",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-02-23",
+    "pubmed_id": "18290621",
+    "results": null,
+    "title": "Cyanidin 3-rutinoside and cyanidin 3-xylosylrutinoside as primary phenolic antioxidants in black raspberry.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fcd6fc0>"
+}{
+    "abstract": "A core-corona polymer hybrid with a raspberry-like structure was synthesized via the heterocoagulated pyridium reaction between the pyridyl group of poly(ethylene glycol dimethacrylate-co-methacrylic acid)@poly(ethylene glycol dimethacrylate-co- vinylpyridine) (poly(EGDMA-co-MAA)@poly(EGDMA-co-VPy)) core-shell small microspheres and the chloromethyl group of poly(divinylbenzene-co-chloromethyl styrene) (poly(DVB-co-CMSt)) microspheres, in which poly(EGDMA-co-MAA)@poly(EGDMA-co-VPy) acted as the corona and poly(DVB-co-CMSt) behaved as the core. The control coverage of the corona particles on the surfaces of core microspheres for the polymer hybrid was studied in detail through the adjustment of the mass ratio between the core and corona particles. The effects of the pH and solvents on the stability of the raspberry-like core-corona hybrids were investigated. The water static angle on the surface of polycarbonate (PC) film was studied using a contact angle system. The polymer particles and the resultant heterocoagulated raspberry-like hybrids were characterized with scanning electron microscopy (SEM) and transmission electron microscopy (TEM). The nature of the heterocoagulation between the core microspheres and corona particles was identified as the covalent pyridium reaction with Fourier transform infrared (FT-IR) spectroscopy.",
+    "authors": [
+        {
+            "affiliation": "Key Laboratory of Functional Polymer Materials, Ministry of Education, Institute of Polymer Chemistry, Nankai University, Tianjin 300071, China.",
+            "firstname": "Junyou",
+            "initials": "J",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Xinlin",
+            "initials": "X",
+            "lastname": "Yang"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1021/la7036394",
+    "journal": "Langmuir : the ACS journal of surfaces and colloids",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-02-22",
+    "pubmed_id": "18288875",
+    "results": null,
+    "title": "Synthesis of core-corona polymer hybrids with a raspberry-like structure by the heterocoagulated pyridinium reaction.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fce5c10>"
+}{
+    "abstract": "Carotenoids are important lipophilic antioxidants in fruits. Apocarotenoids such as alpha-ionone and beta-ionone, which are breakdown products of carotenoids, are important for the flavor characteristics of raspberry fruit, and have also been suggested to have beneficial effects on human health. Raspberry is one of the few fruits where fruit ripening is accompanied by the massive production of apocarotenoids. In this paper, changes in levels of carotenoids and apocarotenoids during raspberry fruit ripening are described. In addition, the isolation and characterization of a gene encoding a carotenoid cleavage dioxygenase (CCD), which putatively mediates the degradation of carotenoids to apocarotenoids during raspberry fruit ripening, is reported. Such information helps us to better understand how these compounds are produced in plants and may also enable us to develop novel strategies for improved apocarotenoid production in fruits or indeed, alternative production systems.",
+    "authors": [
+        {
+            "affiliation": "Plant Research International, Wageningen, The Netherlands. Jules.beekwilder@wur.nl",
+            "firstname": "Jules",
+            "initials": "J",
+            "lastname": "Beekwilder"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ingrid M",
+            "initials": "IM",
+            "lastname": "van der Meer"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ana",
+            "initials": "A",
+            "lastname": "Simic"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jan",
+            "initials": "J",
+            "lastname": "Uitdewilligen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jeroen",
+            "initials": "J",
+            "lastname": "van Arkel"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ric C H",
+            "initials": "RC",
+            "lastname": "de Vos"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Harry",
+            "initials": "H",
+            "lastname": "Jonker"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Francel W A",
+            "initials": "FW",
+            "lastname": "Verstappen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Harro J",
+            "initials": "HJ",
+            "lastname": "Bouwmeester"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ole",
+            "initials": "O",
+            "lastname": "Sibbesen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ingmar",
+            "initials": "I",
+            "lastname": "Qvist"
+        },
+        {
+            "affiliation": null,
+            "firstname": "J\u00f8rn D",
+            "initials": "JD",
+            "lastname": "Mikkelsen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Robert D",
+            "initials": "RD",
+            "lastname": "Hall"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": null,
+    "journal": "BioFactors (Oxford, England)",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2008-01-01",
+    "pubmed_id": "19706972",
+    "results": null,
+    "title": "Metabolism of carotenoids and apocarotenoids during ripening of raspberry fruit.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fce7470>"
+}{
+    "abstract": "The chemopreventive properties of edible berries have been demonstrated both in vitro and in vivo, however, the specific molecular mechanisms underlying their anti-cancer effects are largely unknown. Our previous studies have shown that a methanol extract fraction of freeze-dried black raspberries inhibits benzoapyrene (BaP)-induced transformation of Syrian hamster embryo cells. This fraction also blocks activation of activator protein-1 (AP-1) and nuclear factor kappaB (NF-kappaB) induced by benzoapyrene diol-epoxide (BaPDE) in mouse epidermal JB6 Cl 41 cells. To determine if different berry types exhibit specific mechanisms for their anti-cancer effects, we compared the effects of extract fractions from both black raspberries and strawberries on BaPDE-induced activation of various signaling pathways in Cl 41 cells. Black raspberry fractions inhibited the activation of AP-1, NF-kappaB, and nuclear factor of activated T cells (NFAT) by BaPDE as well as their upstream PI-3K/Akt-p70(S6K) and mitogen-activated protein kinase pathways. In contrast, strawberry fractions inhibited NFAT activation, but did not inhibit the activation of AP-1, NF-kappaB or the PI-3K/Akt-p70(S6K) and mitogen-activated protein kinase pathways. Consistent with the effects on NFAT activation, tumor necrosis factor-alpha (TNF-alpha) induction by BaPDE was blocked by extract fractions of both black raspberries and strawberries, whereas vascular endothelial growth factor (VEGF) expression, which depends on AP-1 activation, was suppressed by black raspberry fractions but not strawberry fractions. These results suggest that black raspberry and strawberry components may target different signaling pathways in exerting their anti-carcinogenic effects.",
+    "authors": [
+        {
+            "affiliation": "Nelson Institute of Environmental Medicine, New York University School of Medicine, New York, New York 10987, USA.",
+            "firstname": "Jingxia",
+            "initials": "J",
+            "lastname": "Li"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Dongyun",
+            "initials": "D",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Gary D",
+            "initials": "GD",
+            "lastname": "Stoner"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Chuanshu",
+            "initials": "C",
+            "lastname": "Huang"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "(c) 2007 Wiley-Liss, Inc.",
+    "doi": "10.1002/mc.20377",
+    "journal": "Molecular carcinogenesis",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2007-12-19",
+    "pubmed_id": "18085529\n15235216\n14608123\n15583375\n11181460\n11507061\n16084717\n15671688\n12639287\n14972022\n12448828\n11238184\n12460899\n16397275\n15021902\n15476852\n12524209\n9647747\n16461351\n11719426\n11292823\n12162429\n11877454\n11860356\n11160126\n15476850\n15476860\n11239407\n12965278\n11992543\n12615038\n15256456\n15884816\n16305480\n11686294\n10947872\n10485711\n15209377\n10485710",
+    "results": null,
+    "title": "Differential effects of black raspberry and strawberry extracts on BaPDE-induced activation of transcription factors and their target genes.",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fcee7f0>"
+}{
+    "abstract": "Two new members of the polyketide synthase (PKS) gene family (RiPKS4 and RiPKS5) were cloned from raspberry fruits (Rubus idaeus L., cv Royalty) and expressed in Escherichia coli. Characterization of the recombinant enzyme products indicated that RiPKS4 is a bifunctional polyketide synthase producing both 4-hydroxybenzalacetone and naringenin chalcone. The recombinant RiPKS4 protein, like the native protein from raspberry fruits [W. Borejsza-Wysocki, G. Hrazdina, Plant Physiol. 1996;110: 791-799] accepted p-coumaryl-CoA and ferulyl-CoA as starter substrates and catalyzed the formation of both naringenin chalcone, 4-hydroxy-benzalacetone and 3-methoxy-4-hydroxy-benzalacetone. Although activity of RiPKS4 was higher with ferulyl-CoA than with p-coumaryl-CoA, the corresponding product, 3-methoxy-4-hydroxy phenylbutanone could not be detected in raspberries to date. Sequence analysis of the genes and proteins suggested that this feature of RiPKS4 was created by variation in the C-terminus due to DNA recombination at the 3' region of its coding sequence. RiPKS5 is a typical chalcone synthase (CHS) that uses p-coumaryl-CoA only as starter substrate and produces naringenin chalcone exclusively as the reaction product.",
+    "authors": [
+        {
+            "affiliation": "Department of Food Science and Technology, Cornell University, NYSAES, 630 W. North Street, Geneva, NY 14456, USA.",
+            "firstname": "Desen",
+            "initials": "D",
+            "lastname": "Zheng"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Geza",
+            "initials": "G",
+            "lastname": "Hrazdina"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1016/j.abb.2007.11.013",
+    "journal": "Archives of biochemistry and biophysics",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2007-12-11",
+    "pubmed_id": "18068110",
+    "results": null,
+    "title": "Molecular and biochemical characterization of benzalacetone synthase and chalcone synthase genes and their proteins from raspberry (Rubus idaeus L.).",
+    "xml": "<Element 'PubmedArticle' at 0x772c2fd054e0>"
+}

@@ -1,0 +1,5 @@
+    "title": "Processing, evaluating, and understanding FMRI data with afni_proc.py.",
+    "title": "Processing, evaluating and understanding FMRI data with afni_proc.py.",
+    "title": "A Set of FMRI Quality Control Tools in AFNI: Systematic, in-depth, and interactive QC with afni_proc.py and more.",
+    "title": "A Set of FMRI Quality Control Tools in AFNI: Systematic, in-depth and interactive QC with afni_proc.py and more.",
+    "title": "Quality control practices in FMRI analysis: Philosophy, methods and examples using AFNI.",

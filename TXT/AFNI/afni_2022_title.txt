@@ -1,0 +1,1 @@
+    "title": "Quality control practices in FMRI analysis: Philosophy, methods and examples using AFNI.",

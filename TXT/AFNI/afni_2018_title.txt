@@ -1,0 +1,1 @@
+    "title": "Equitable Thresholding and Clustering: A Novel Method for Functional Magnetic Resonance Imaging Clustering in AFNI.",
