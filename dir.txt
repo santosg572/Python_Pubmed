@@ -1,0 +1,42 @@
+README.md
+TXT
+barrios.py
+buscar.old
+-------------------------
+buscar.py			- 
+
+	palabra = sys.argv[1]
+	file = sys.argv[2]
+-------------------------
+buscar_5al30_por_year.py
+buscar_year.py
+dd
+dir.txt
+escoge.sh
+fecha.py
+fecha_afiliacion.py
+fecha_ejemplo.sh
+fecha_rango.old
+fecha_rango.py
+filtro.sh
+p1.py
+p2.py
+palabra.py
+parte.py
+patron.py
+pipa.sh
+procesa_fecha_rango.sh
+procesa_titulos.sh
+prog_01.py
+prog_01_traduce.py
+prog_01_traduce_V2.py
+resumen.py
+saca_titulos.sh
+saca_titulos_prin.sh
+search1.py
+spm.py
+sube_git.sh
+traduce.sh
+traduce_ingles.sh
+traduce_tutulos.py
+traduce_tutulos_2.py

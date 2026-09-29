@@ -16,7 +16,7 @@ file = sys.argv[2]
 query = '('+ palabra + '[Title]) AND (("2005/01/01"[Date - Publication] : "3000"[Date - Publication]))'
 print(query)
 
-results = pubmed.query(query, max_results=500)
+results = pubmed.query(query, max_results=5000)
 
 fil = open(file+'.txt', 'w')
 
